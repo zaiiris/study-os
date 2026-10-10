@@ -1,0 +1,2484 @@
+{
+  "id": "audit-gist",
+  "name": "GIST",
+  "country": "South Korea",
+  "city": "Gwangju",
+  "batch": 1,
+  "checkedAt": "2026-10-04",
+  "evidence": "confirmed",
+  "awaitingAudit": false,
+  "platform": "GIST International Undergraduate Admission System",
+  "programs": [
+    "Artificial Intelligence",
+    "Electrical Engineering and Computer Science (EECS)",
+    "AI Convergence (AX)",
+    "Semiconductor Engineering"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "automatic"
+  ],
+  "fundingSummary": "Full tuition · allowances · one-way flight · health insurance; dorm paid",
+  "admissionDifficulty": "Reach, intensified by ~15 published places.",
+  "fundingDifficulty": "Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances.",
+  "blocks": [
+    {
+      "id": "audit-gist-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Verified answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Verified answer": "Gwangju Institute of Science and Technology (GIST)"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Verified answer": "Republic of Korea · Gwangju · GIST campus"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-2",
+              "fields": {
+                "Field": "Type",
+                "Verified answer": "Public STEM/research institute"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Verified answer": "**CONFIRMED FOR FALL 2027**"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Platform",
+                "Verified answer": "GIST International Undergraduate Admission System"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Application URL",
+                "Verified answer": "[Official GIST portal](https://service.gist.ac.kr/admission/uniforeigner)"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programmes",
+                "Verified answer": "Undeclared freshman → **Artificial Intelligence** or **Electrical Engineering and Computer Science (EECS)**"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Degree / language",
+                "Verified answer": "Bachelor’s; English-medium science/engineering curriculum under international route"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Major structure",
+                "Verified answer": "First year undeclared; choose major at end of freshman year"
+              }
+            },
+            {
+              "id": "audit-gist-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Approximate intake",
+                "Verified answer": "Approximately **15** international undergraduates in the 2027 guide"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "The current Fall 2027 guide is verified and explicitly requires one standardized academic test, one English test and one recommendation.",
+        "**Correction:** the old audit’s “free application” cannot be treated as confirmed for Fall 2027 because the current guide does not state a fee and the live cycle form is not open. Fee is now marked **TBA**.",
+        "Current official scholarship page provides undergraduate allowance amounts; housing notice provides 2026 rates.",
+        "A serious NIS timing ambiguity remains: eligibility permits graduation by 31 July 2027, but the guide also says successful applicants submit the authenticated diploma by registration and that applicants graduating after early July cannot apply. Registration ends 25 June. Written clarification is required."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-3",
+      "title": "B. Programmes",
+      "tab": "programs",
+      "paragraphs": [
+        "**Best programme for me:** Artificial Intelligence for a focused AI profile, or EECS for the stronger general computing/software foundation and flexibility. If the applicant is undecided between research AI and broad CS, EECS is the safer base."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Official programme",
+            "Degree / unit",
+            "Entry / prerequisites",
+            "Restrictions"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-3-table-0-row-0",
+              "fields": {
+                "Official programme": "Artificial Intelligence",
+                "Degree / unit": "Bachelor’s; College of AI",
+                "Entry / prerequisites": "Select after undeclared first year. No programme-specific applicant calculus/programming/physics minimum published.",
+                "Restrictions": "Available to international students under guide list"
+              }
+            },
+            {
+              "id": "audit-gist-block-3-table-0-row-1",
+              "fields": {
+                "Official programme": "Electrical Engineering and Computer Science (EECS)",
+                "Degree / unit": "Bachelor’s; College of AI",
+                "Entry / prerequisites": "Broad hardware/software/computing route",
+                "Restrictions": "Available to international students"
+              }
+            },
+            {
+              "id": "audit-gist-block-3-table-0-row-2",
+              "fields": {
+                "Official programme": "AI Convergence (AX)",
+                "Degree / unit": "Bachelor’s; College of AI",
+                "Entry / prerequisites": "Interdisciplinary AI application route",
+                "Restrictions": "Available, but AI/EECS are closer to core CS profile"
+              }
+            },
+            {
+              "id": "audit-gist-block-3-table-0-row-3",
+              "fields": {
+                "Official programme": "Semiconductor Engineering",
+                "Degree / unit": "Bachelor’s",
+                "Entry / prerequisites": "—",
+                "Restrictions": "**Korean-only** under current guide; not an option for this applicant"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "Source: [official Fall 2027 guide](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf).",
+        "One non-binding round is published. Do not invent a KST closing time; the guide gives only the date."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Date",
+            "Time / zone",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Application opens",
+                "Date": "1 Dec 2026",
+                "Time / zone": "Not stated",
+                "Confirmed?": "Yes",
+                "What must be ready": "GIST portal account"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Application + documents",
+                "Date": "**29 Jan 2027**",
+                "Time / zone": "Not stated",
+                "Confirmed?": "Yes",
+                "What must be ready": "Form, required tests, recommendation, uploads"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-2",
+              "fields": {
+                "Event": "Document evaluation",
+                "Date": "1 Feb–31 Mar 2027",
+                "Time / zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Monitor email"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Interview, selected applicants",
+                "Date": "Within evaluation period",
+                "Time / zone": "TBA",
+                "Confirmed?": "Partial",
+                "What must be ready": "Required if invited"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-4",
+              "fields": {
+                "Event": "Decision expected",
+                "Date": "**30 Apr 2027**",
+                "Time / zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Email/portal"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Registration",
+                "Date": "**4 May–25 Jun 2027**",
+                "Time / zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Accept and final-document process"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Final authenticated diploma",
+                "Date": "Guide links it to registration; exact workable date unclear",
+                "Time / zone": "—",
+                "Confirmed?": "Ambiguous",
+                "What must be ready": "Written confirmation for NIS"
+              }
+            },
+            {
+              "id": "audit-gist-block-4-table-0-row-7",
+              "fields": {
+                "Event": "Semester start",
+                "Date": "Fall 2027",
+                "Time / zone": "TBA",
+                "Confirmed?": "Partial",
+                "What must be ready": "Visa/housing/orientation"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [
+        "Email the diploma/apostille question **now (4–6 October)**.",
+        "Choose Math/CS/Physics recommender by **1 November**; ask by **10 November**.",
+        "Request NIS transcript, profile, grading scale and expected-graduation evidence by **20 November**.",
+        "Open the portal on **1 December** and capture any newly exposed essays/recommendation questions.",
+        "Order standardized and English official reports by **15 December** if the portal requires agency delivery.",
+        "Finalize uploads by **12 January**; submit **18–20 January**; recommender target **15 January**."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-6",
+      "title": "D. Platform and fee",
+      "tab": "application",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-6-table-0-row-0",
+              "fields": {
+                "Item": "Platform",
+                "Rule": "GIST own international undergraduate system"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Programme choices",
+                "Rule": "Admission undeclared; no final major choice at application"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Editing / updates",
+                "Rule": "Exact Fall 2027 portal behavior TBA until 1 Dec"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Application fee",
+                "Rule": "**TBA / not stated in the 2027 guide**"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Refund / waiver",
+                "Rule": "TBA"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Separate scholarship fee",
+                "Rule": "None published"
+              }
+            },
+            {
+              "id": "audit-gist-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Initial paper mail",
+                "Rule": "Upload first; successful applicants later send originals/authenticated documents by post"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-7",
+      "title": "E. Document checklist",
+      "tab": "documents",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Required?",
+            "Who submits",
+            "When / format",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-7-table-0-row-0",
+              "fields": {
+                "Document": "GIST application",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "By 29 Jan",
+                "Notes": "Live fields open 1 Dec"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-1",
+              "fields": {
+                "Document": "Applicant passport/national ID",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Upload scan",
+                "Notes": "Identity/nationality"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Both parents’ passports/nationality IDs",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Upload",
+                "Notes": "Citizenship route"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-3",
+              "fields": {
+                "Document": "Family relationship/birth certificate",
+                "Required?": "Not listed for ordinary applicants in 2027 guide",
+                "Who submits": "—",
+                "When / format": "—",
+                "Notes": "Do not import older-guide requirement; portal should be checked"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-4",
+              "fields": {
+                "Document": "All-year high-school transcript",
+                "Required?": "R",
+                "Who submits": "Applicant uploads school-issued record",
+                "When / format": "By deadline",
+                "Notes": "If final semester unavailable, through first semester Grade 12 plus current coursework"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-5",
+              "fields": {
+                "Document": "Diploma/expected graduation",
+                "Required?": "R",
+                "Who submits": "Applicant uploads school official evidence",
+                "When / format": "By deadline",
+                "Notes": "School letter may show date if certificate unavailable"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-6",
+              "fields": {
+                "Document": "Final NIS certificate/transcript",
+                "Required?": "POST",
+                "Who submits": "Applicant/courier",
+                "When / format": "Authenticated after admission",
+                "Notes": "Timing conflict; confirm in writing"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-7",
+              "fields": {
+                "Document": "Standardized academic test",
+                "Required?": "**R**",
+                "Who submits": "Applicant uploads official evidence; verification may follow",
+                "When / format": "By deadline",
+                "Notes": "At least one recognized category"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-8",
+              "fields": {
+                "Document": "English test",
+                "Required?": "**R**",
+                "Who submits": "Applicant / testing agency as instructed",
+                "When / format": "By deadline",
+                "Notes": "Official score; no minimum published"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-9",
+              "fields": {
+                "Document": "Recommendation",
+                "Required?": "**R, one**",
+                "Who submits": "Recommender",
+                "When / format": "Direct online procedure",
+                "Notes": "Printed/signed/scanned PDF after online entry"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-10",
+              "fields": {
+                "Document": "Awards/honors",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Up to 5",
+                "Notes": "National olympiad alone is not accepted as the standardized-test category"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-11",
+              "fields": {
+                "Document": "School profile",
+                "Required?": "O / highly recommended",
+                "Who submits": "Applicant",
+                "When / format": "Upload",
+                "Notes": "Explain NIS curriculum/grading"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-12",
+              "fields": {
+                "Document": "TOPIK",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Upload",
+                "Notes": "Not an English substitute"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-13",
+              "fields": {
+                "Document": "CV / activities / GitHub / portfolio",
+                "Required?": "No separate required item published",
+                "Who submits": "Applicant only if live form allows",
+                "When / format": "—",
+                "Notes": "Do not substitute for formal evidence"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-14",
+              "fields": {
+                "Document": "Essays",
+                "Required?": "Not published in guide",
+                "Who submits": "Applicant if portal asks",
+                "When / format": "TBA",
+                "Notes": "Inspect 1 Dec"
+              }
+            },
+            {
+              "id": "audit-gist-block-7-table-0-row-15",
+              "fields": {
+                "Document": "Original/apostilled diploma and records",
+                "Required?": "POST",
+                "Who submits": "Applicant/courier",
+                "When / format": "By registration/offer deadline",
+                "Notes": "Apostille or consular verification"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-8",
+      "title": "F. NIS route and eligibility conflict",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "The guide does not publish NIS-specific grades, HL-subject rules or a Kazakhstan Attestat equivalency route.",
+        "It accepts expected-graduation evidence at application and permits general eligibility for applicants graduating by **31 July 2027**.",
+        "It separately says applicants whose graduation date is **after early July cannot apply**, and successful applicants must submit the apostilled/consular-verified diploma in connection with registration, which ends **25 June**.",
+        "A June NIS certificate may satisfy the “before early July” statement, but apostille processing could extend past registration. This is an official-source ambiguity, not something to guess.",
+        "Predicted results are expressly accepted for IB/A-level, not specifically for NIS. Use the current transcript and expected-graduation letter and ask whether NIS predicted results can supplement them.",
+        "No NIS English-medium waiver is published; an accepted English test is required unless the applicant meets the guide’s native-country exemption."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-10",
+      "title": "Official minimum",
+      "tab": "requirements",
+      "paragraphs": [
+        "Meet citizenship and graduation timing; submit complete school records, at least one recognized standardized academic test and one accepted English score. No GPA, NIS grade, SAT, Math or English-score minimum is published."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-11",
+      "title": "Competitive target — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "Strong Math/science grades, externally comparable testing and a coherent technical profile are useful for a ~15-place international intake. SAT 1300–1350 and IELTS 7.0–7.5 meet no published threshold because none exists; GIST remains a reach."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-gist-block-12",
+      "title": "Academic and English test policy",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Test",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-12-table-0-row-0",
+              "fields": {
+                "Test": "SAT / ACT",
+                "Rule": "Accepted as the required academic-test category; no minimum/superscore rule published"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-1",
+              "fields": {
+                "Test": "AP / IB / A-level",
+                "Rule": "Accepted; IB/A-level predicted scores accepted"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-2",
+              "fields": {
+                "Test": "International olympiad",
+                "Rule": "Accepted category under guide rules"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-3",
+              "fields": {
+                "Test": "Relevant national leaving/entrance exam",
+                "Rule": "Accepted with explanation of process/competitiveness/result"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-4",
+              "fields": {
+                "Test": "National olympiad",
+                "Rule": "Not accepted as the required standardized-test category"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-5",
+              "fields": {
+                "Test": "IELTS / TOEFL",
+                "Rule": "Accepted; no minimum; TOEFL institution code **0144**"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-6",
+              "fields": {
+                "Test": "TEPS / TOEIC",
+                "Rule": "Accepted"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-7",
+              "fields": {
+                "Test": "Cambridge CAE/CPE, PTE Academic, Duolingo",
+                "Rule": "Accepted"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-8",
+              "fields": {
+                "Test": "Validity",
+                "Rule": "English score within two years"
+              }
+            },
+            {
+              "id": "audit-gist-block-12-table-0-row-9",
+              "fields": {
+                "Test": "Reporting",
+                "Rule": "Guide calls for official test evidence. Confirm live-portal agency delivery for IELTS/SAT; provider fees are separate."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-13",
+      "title": "H. Interview / internal exams",
+      "tab": "requirements",
+      "paragraphs": [
+        "No universal internal exam is published. Selected applicants may be interviewed and must participate. The 2027 guide does not publish Math/science subjects, length or weighting; older FAQ descriptions must not be treated as current-cycle facts."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-14",
+      "title": "I. Recommendation",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**My strategy:** use a Math or CS teacher with concrete evidence of technical reasoning and independent work. Confirm the teacher can complete the print-sign-scan step. Inspect the live form on 1 December for exact questions before the teacher drafts the final text."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Fall 2027 rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-14-table-0-row-0",
+              "fields": {
+                "Item": "Number",
+                "Fall 2027 rule": "**One required**"
+              }
+            },
+            {
+              "id": "audit-gist-block-14-table-0-row-1",
+              "fields": {
+                "Item": "Preferred recommender",
+                "Fall 2027 rule": "Academic adviser, homeroom, Math or Science teacher"
+              }
+            },
+            {
+              "id": "audit-gist-block-14-table-0-row-2",
+              "fields": {
+                "Item": "Submission",
+                "Fall 2027 rule": "Recommender enters content online, prints the form, signs by hand, scans and uploads PDF; applicant cannot complete submission until it is received"
+              }
+            },
+            {
+              "id": "audit-gist-block-14-table-0-row-3",
+              "fields": {
+                "Item": "Exact questions/ratings/limits",
+                "Fall 2027 rule": "Not public before portal opening"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Не публичны до открытия портала",
+                "sourceEnglish": "Not public before portal opening",
+                "sourceField": "Fall 2027 rule",
+                "wording": "paraphrase"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-15",
+      "title": "J. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "No exact prompt can responsibly be supplied yet."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Essay",
+            "Prompt",
+            "Limit",
+            "Status"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-15-table-0-row-0",
+              "fields": {
+                "Essay": "Application written responses",
+                "Prompt": "Not stated in the public 2027 guide",
+                "Limit": "TBA",
+                "Status": "Inspect portal 1 Dec"
+              }
+            },
+            {
+              "id": "audit-gist-block-15-table-0-row-1",
+              "fields": {
+                "Essay": "Scholarship essay",
+                "Prompt": "None published",
+                "Limit": "—",
+                "Status": "Scholarship is tied to international-student status/admission"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-16",
+      "title": "K. Scholarships and aid",
+      "tab": "funding",
+      "paragraphs": [
+        "Source: [official international undergraduate scholarship page](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award",
+            "Separate application?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-16-table-0-row-0",
+              "fields": {
+                "Category": "Tuition",
+                "Award": "International undergraduate tuition waiver",
+                "Separate application?": "No",
+                "Rule": "Full tuition, maximum 8 semesters"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-1",
+              "fields": {
+                "Category": "Student allowance",
+                "Award": "Basic allowance",
+                "Separate application?": "No separate form stated",
+                "Rule": "KRW 130k/month; ≥11 credits and no academic probation/disciplinary suspension"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-2",
+              "fields": {
+                "Category": "Meal allowance",
+                "Award": "Meal support",
+                "Separate application?": "No separate form stated",
+                "Rule": "KRW 270k/month under same academic-status conditions"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-3",
+              "fields": {
+                "Category": "International allowance",
+                "Award": "Additional international support",
+                "Separate application?": "No separate form stated",
+                "Rule": "KRW 130k/month with prior GPA ≥3.0/4.5"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-4",
+              "fields": {
+                "Category": "Settlement",
+                "Award": "New international student support",
+                "Separate application?": "No",
+                "Rule": "KRW 200k once"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-5",
+              "fields": {
+                "Category": "Flight",
+                "Award": "Arrival support",
+                "Separate application?": "Claim after arrival",
+                "Rule": "One-way flight reimbursement under current rules"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-6",
+              "fields": {
+                "Category": "Health",
+                "Award": "Insurance support",
+                "Separate application?": "Reimbursement/document process",
+                "Rule": "Current official international materials state 100% monthly contribution reimbursement; confirm 2027 procedure"
+              }
+            },
+            {
+              "id": "audit-gist-block-16-table-0-row-7",
+              "fields": {
+                "Category": "Need-based",
+                "Award": "No separate international undergraduate need-based application found",
+                "Separate application?": "—",
+                "Rule": "Not published"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-17",
+      "title": "Coverage, renewal and gap",
+      "tab": "funding",
+      "paragraphs": [
+        "Current 2026 dorm notice: double KRW 112,600/month, triple KRW 74,200/month, deposit KRW 140k and bedding KRW 20k/month; single rooms from second year KRW 132,600/month. Capacity restrictions apply and summer/seasonal housing requires a valid reason/approval, so housing is not documented as an unconditional four-year guarantee. [Official housing page](https://www.gist.ac.kr/en/html/sub05/05030403.html) and [current fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513).",
+        "Because food, personal spending and exact insurance/2027 housing are variable, a guaranteed annual gap is not officially calculable. The current stipend can plausibly cover low dorm charges, but this is not equivalent to full cost of attendance."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-gist-block-17-table-0-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "Yes",
+                "Rule": "Full, 8 semesters"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-1",
+              "fields": {
+                "Cost": "Housing",
+                "Covered?": "No",
+                "Rule": "Student pays"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-2",
+              "fields": {
+                "Cost": "Meals",
+                "Covered?": "Allowance, not a guaranteed meal plan",
+                "Rule": "KRW 270k/month under conditions"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-3",
+              "fields": {
+                "Cost": "Monthly stipend",
+                "Covered?": "Yes",
+                "Rule": "KRW 130k basic; potential additional KRW 130k international allowance with GPA condition"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-4",
+              "fields": {
+                "Cost": "Insurance",
+                "Covered?": "Reimbursement stated",
+                "Rule": "Exact 2027 premium/procedure TBA"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-5",
+              "fields": {
+                "Cost": "Flight",
+                "Covered?": "Yes, one way",
+                "Rule": "Reimbursement; exact eligible itinerary/claim evidence controls"
+              }
+            },
+            {
+              "id": "audit-gist-block-17-table-0-row-6",
+              "fields": {
+                "Cost": "Visa/books/laptop/local transport/summer housing",
+                "Covered?": "Not guaranteed",
+                "Rule": "Personal cost"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-18",
+      "title": "L. After admission",
+      "tab": "after-admission",
+      "paragraphs": [
+        "Accept/register 4 May–25 June; mail original authenticated/apostilled diploma and other requested records; obtain visa issuance documentation after records are accepted; arrange paid dormitory and insurance; submit flight reimbursement evidence; attend orientation. The final NIS/apostille sequence must be resolved with admissions before relying on the offer."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-19",
+      "title": "M. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Admission difficulty:** Reach, intensified by ~15 published places.",
+        "**Full-funding difficulty:** Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances.",
+        "**Fit:** Very strong because both AI and EECS are explicit undergraduate choices after first year."
+      ],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-gist-block-20",
+      "title": "N. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [
+        "Application fee/refund/waiver; live-form essays and limits; exact recommendation questions; official SAT/IELTS delivery mechanism and deadlines; interview format/weight; definitive NIS diploma/apostille deadline; 2027 dorm allocation/rates; insurance and flight-claim details; registration deposit, if any."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-21",
+      "title": "O. Email question — urgent",
+      "tab": "sources",
+      "paragraphs": [
+        "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate is issued in June 2027, after the application deadline. The 2027 guide permits graduation by 31 July but lists registration through 25 June and also refers to submission of an apostilled diploma. May I apply with an official expected-graduation letter and current transcript, then submit the final NIS Certificate and apostille after its June release? Please give the latest acceptable date for the final certificate and apostille and confirm whether this timing meets the “early July” rule."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-gist-block-22",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[Fall 2027 Undergraduate Admission Guideline](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)",
+        "[Application portal](https://service.gist.ac.kr/admission/uniforeigner)",
+        "[Undergraduate scholarships](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)",
+        "[Undergraduate housing](https://www.gist.ac.kr/en/html/sub05/05030403.html)",
+        "[Current housing fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)"
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "audit-gist-official-0",
+      "universityId": "audit-gist",
+      "title": "Application opens",
+      "type": "Opening",
+      "date": "2026-12-01",
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-12-01",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-1",
+      "universityId": "audit-gist",
+      "title": "Application + required recommendation",
+      "type": "Application",
+      "date": "2027-01-29",
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-29",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-2",
+      "universityId": "audit-gist",
+      "title": "Evaluation",
+      "type": "Review",
+      "date": "2027-02-01",
+      "endDate": "2027-03-31",
+      "time": null,
+      "timezone": null,
+      "precision": "range",
+      "evidence": "confirmed",
+      "display": "2027-02-01 — 2027-03-31",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-3",
+      "universityId": "audit-gist",
+      "title": "Selected interview within evaluation period",
+      "type": "Interview",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Selected interview within evaluation period",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-4",
+      "universityId": "audit-gist",
+      "title": "Decision",
+      "type": "Decision",
+      "date": "2027-04-30",
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-04-30",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-5",
+      "universityId": "audit-gist",
+      "title": "Registration",
+      "type": "Registration",
+      "date": "2027-05-04",
+      "endDate": "2027-06-25",
+      "time": null,
+      "timezone": null,
+      "precision": "range",
+      "evidence": "confirmed",
+      "display": "2027-05-04 — 2027-06-25",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-6",
+      "universityId": "audit-gist",
+      "title": "Final diploma / apostille — timing conflict, confirm with admissions",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Final diploma / apostille — timing conflict, confirm with admissions",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ]
+    },
+    {
+      "id": "audit-gist-official-7",
+      "universityId": "audit-gist",
+      "title": "Semester — Fall 2027",
+      "type": "Semester",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Semester — Fall 2027",
+      "sourceIds": [
+        "audit-gist-source-6",
+        "audit-gist-source-5",
+        "audit-gist-source-7",
+        "audit-gist-source-8",
+        "audit-gist-source-9"
+      ],
+      "approximate": {
+        "ru": "осень 2027; точная дата пока не опубликована",
+        "en": "Fall 2027; exact date not yet published"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-gist-source-6",
+      "title": "Application portal",
+      "url": "https://service.gist.ac.kr/admission/uniforeigner"
+    },
+    {
+      "id": "audit-gist-source-5",
+      "title": "Fall 2027 Undergraduate Admission Guideline",
+      "url": "https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf"
+    },
+    {
+      "id": "audit-gist-source-7",
+      "title": "Undergraduate scholarships",
+      "url": "https://www.gist.ac.kr/iuadm/html/sub03/0301.html"
+    },
+    {
+      "id": "audit-gist-source-8",
+      "title": "Undergraduate housing",
+      "url": "https://www.gist.ac.kr/en/html/sub05/05030403.html"
+    },
+    {
+      "id": "audit-gist-source-9",
+      "title": "Current housing fee notice",
+      "url": "https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513"
+    }
+  ],
+  "sourceFile": "/data/official-fall-2027-2026-10-04.md",
+  "sourceSection": "# 7. GIST\n\n## A. University snapshot\n\n| Field | Verified answer |\n|---|---|\n| University | Gwangju Institute of Science and Technology (GIST) |\n| Country / city / campus | Republic of Korea · Gwangju · GIST campus |\n| Type | Public STEM/research institute |\n| Fall 2027 status | **CONFIRMED FOR FALL 2027** |\n| Platform | GIST International Undergraduate Admission System |\n| Application URL | [Official GIST portal](https://service.gist.ac.kr/admission/uniforeigner) |\n| Best programmes | Undeclared freshman → **Artificial Intelligence** or **Electrical Engineering and Computer Science (EECS)** |\n| Degree / language | Bachelor’s; English-medium science/engineering curriculum under international route |\n| Major structure | First year undeclared; choose major at end of freshman year |\n| Approximate intake | Approximately **15** international undergraduates in the 2027 guide |\n\n## Changes since 13 Sep 2026\n\n- The current Fall 2027 guide is verified and explicitly requires one standardized academic test, one English test and one recommendation.\n- **Correction:** the old audit’s “free application” cannot be treated as confirmed for Fall 2027 because the current guide does not state a fee and the live cycle form is not open. Fee is now marked **TBA**.\n- Current official scholarship page provides undergraduate allowance amounts; housing notice provides 2026 rates.\n- A serious NIS timing ambiguity remains: eligibility permits graduation by 31 July 2027, but the guide also says successful applicants submit the authenticated diploma by registration and that applicants graduating after early July cannot apply. Registration ends 25 June. Written clarification is required.\n\n## B. Programmes\n\n| Official programme | Degree / unit | Entry / prerequisites | Restrictions |\n|---|---|---|---|\n| Artificial Intelligence | Bachelor’s; College of AI | Select after undeclared first year. No programme-specific applicant calculus/programming/physics minimum published. | Available to international students under guide list |\n| Electrical Engineering and Computer Science (EECS) | Bachelor’s; College of AI | Broad hardware/software/computing route | Available to international students |\n| AI Convergence (AX) | Bachelor’s; College of AI | Interdisciplinary AI application route | Available, but AI/EECS are closer to core CS profile |\n| Semiconductor Engineering | Bachelor’s | — | **Korean-only** under current guide; not an option for this applicant |\n\n**Best programme for me:** Artificial Intelligence for a focused AI profile, or EECS for the stronger general computing/software foundation and flexibility. If the applicant is undecided between research AI and broad CS, EECS is the safer base.\n\n## C. Application rounds and deadlines\n\nSource: [official Fall 2027 guide](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf).\n\n| Event | Date | Time / zone | Confirmed? | What must be ready |\n|---|---:|---|---|---|\n| Application opens | 1 Dec 2026 | Not stated | Yes | GIST portal account |\n| Application + documents | **29 Jan 2027** | Not stated | Yes | Form, required tests, recommendation, uploads |\n| Document evaluation | 1 Feb–31 Mar 2027 | — | Yes | Monitor email |\n| Interview, selected applicants | Within evaluation period | TBA | Partial | Required if invited |\n| Decision expected | **30 Apr 2027** | — | Yes | Email/portal |\n| Registration | **4 May–25 Jun 2027** | — | Yes | Accept and final-document process |\n| Final authenticated diploma | Guide links it to registration; exact workable date unclear | — | Ambiguous | Written confirmation for NIS |\n| Semester start | Fall 2027 | TBA | Partial | Visa/housing/orientation |\n\nOne non-binding round is published. Do not invent a KST closing time; the guide gives only the date.\n\n### My recommended timeline\n\n- Email the diploma/apostille question **now (4–6 October)**.\n- Choose Math/CS/Physics recommender by **1 November**; ask by **10 November**.\n- Request NIS transcript, profile, grading scale and expected-graduation evidence by **20 November**.\n- Open the portal on **1 December** and capture any newly exposed essays/recommendation questions.\n- Order standardized and English official reports by **15 December** if the portal requires agency delivery.\n- Finalize uploads by **12 January**; submit **18–20 January**; recommender target **15 January**.\n\n## D. Platform and fee\n\n| Item | Rule |\n|---|---|\n| Platform | GIST own international undergraduate system |\n| Programme choices | Admission undeclared; no final major choice at application |\n| Editing / updates | Exact Fall 2027 portal behavior TBA until 1 Dec |\n| Application fee | **TBA / not stated in the 2027 guide** |\n| Refund / waiver | TBA |\n| Separate scholarship fee | None published |\n| Initial paper mail | Upload first; successful applicants later send originals/authenticated documents by post |\n\n## E. Document checklist\n\n| Document | Required? | Who submits | When / format | Notes |\n|---|---:|---|---|---|\n| GIST application | R | Applicant | By 29 Jan | Live fields open 1 Dec |\n| Applicant passport/national ID | R | Applicant | Upload scan | Identity/nationality |\n| Both parents’ passports/nationality IDs | R | Applicant | Upload | Citizenship route |\n| Family relationship/birth certificate | Not listed for ordinary applicants in 2027 guide | — | — | Do not import older-guide requirement; portal should be checked |\n| All-year high-school transcript | R | Applicant uploads school-issued record | By deadline | If final semester unavailable, through first semester Grade 12 plus current coursework |\n| Diploma/expected graduation | R | Applicant uploads school official evidence | By deadline | School letter may show date if certificate unavailable |\n| Final NIS certificate/transcript | POST | Applicant/courier | Authenticated after admission | Timing conflict; confirm in writing |\n| Standardized academic test | **R** | Applicant uploads official evidence; verification may follow | By deadline | At least one recognized category |\n| English test | **R** | Applicant / testing agency as instructed | By deadline | Official score; no minimum published |\n| Recommendation | **R, one** | Recommender | Direct online procedure | Printed/signed/scanned PDF after online entry |\n| Awards/honors | O | Applicant | Up to 5 | National olympiad alone is not accepted as the standardized-test category |\n| School profile | O / highly recommended | Applicant | Upload | Explain NIS curriculum/grading |\n| TOPIK | O | Applicant | Upload | Not an English substitute |\n| CV / activities / GitHub / portfolio | No separate required item published | Applicant only if live form allows | — | Do not substitute for formal evidence |\n| Essays | Not published in guide | Applicant if portal asks | TBA | Inspect 1 Dec |\n| Original/apostilled diploma and records | POST | Applicant/courier | By registration/offer deadline | Apostille or consular verification |\n\n## F. NIS route and eligibility conflict\n\n- The guide does not publish NIS-specific grades, HL-subject rules or a Kazakhstan Attestat equivalency route.\n- It accepts expected-graduation evidence at application and permits general eligibility for applicants graduating by **31 July 2027**.\n- It separately says applicants whose graduation date is **after early July cannot apply**, and successful applicants must submit the apostilled/consular-verified diploma in connection with registration, which ends **25 June**.\n- A June NIS certificate may satisfy the “before early July” statement, but apostille processing could extend past registration. This is an official-source ambiguity, not something to guess.\n- Predicted results are expressly accepted for IB/A-level, not specifically for NIS. Use the current transcript and expected-graduation letter and ask whether NIS predicted results can supplement them.\n- No NIS English-medium waiver is published; an accepted English test is required unless the applicant meets the guide’s native-country exemption.\n\n## G. Academic and testing requirements\n\n### Official minimum\n\nMeet citizenship and graduation timing; submit complete school records, at least one recognized standardized academic test and one accepted English score. No GPA, NIS grade, SAT, Math or English-score minimum is published.\n\n### Competitive target — analysis\n\nStrong Math/science grades, externally comparable testing and a coherent technical profile are useful for a ~15-place international intake. SAT 1300–1350 and IELTS 7.0–7.5 meet no published threshold because none exists; GIST remains a reach.\n\n| Test | Rule |\n|---|---|\n| SAT / ACT | Accepted as the required academic-test category; no minimum/superscore rule published |\n| AP / IB / A-level | Accepted; IB/A-level predicted scores accepted |\n| International olympiad | Accepted category under guide rules |\n| Relevant national leaving/entrance exam | Accepted with explanation of process/competitiveness/result |\n| National olympiad | Not accepted as the required standardized-test category |\n| IELTS / TOEFL | Accepted; no minimum; TOEFL institution code **0144** |\n| TEPS / TOEIC | Accepted |\n| Cambridge CAE/CPE, PTE Academic, Duolingo | Accepted |\n| Validity | English score within two years |\n| Reporting | Guide calls for official test evidence. Confirm live-portal agency delivery for IELTS/SAT; provider fees are separate. |\n\n## H. Interview / internal exams\n\nNo universal internal exam is published. Selected applicants may be interviewed and must participate. The 2027 guide does not publish Math/science subjects, length or weighting; older FAQ descriptions must not be treated as current-cycle facts.\n\n## I. Recommendation\n\n| Item | Fall 2027 rule |\n|---|---|\n| Number | **One required** |\n| Preferred recommender | Academic adviser, homeroom, Math or Science teacher |\n| Submission | Recommender enters content online, prints the form, signs by hand, scans and uploads PDF; applicant cannot complete submission until it is received |\n| Exact questions/ratings/limits | Not public before portal opening |\n\n**My strategy:** use a Math or CS teacher with concrete evidence of technical reasoning and independent work. Confirm the teacher can complete the print-sign-scan step. Inspect the live form on 1 December for exact questions before the teacher drafts the final text.\n\n## J. Essays\n\n| Essay | Prompt | Limit | Status |\n|---|---|---:|---|\n| Application written responses | Not stated in the public 2027 guide | TBA | Inspect portal 1 Dec |\n| Scholarship essay | None published | — | Scholarship is tied to international-student status/admission |\n\nNo exact prompt can responsibly be supplied yet.\n\n## K. Scholarships and aid\n\nSource: [official international undergraduate scholarship page](https://www.gist.ac.kr/iuadm/html/sub03/0301.html).\n\n| Category | Award | Separate application? | Rule |\n|---|---|---:|---|\n| Tuition | International undergraduate tuition waiver | No | Full tuition, maximum 8 semesters |\n| Student allowance | Basic allowance | No separate form stated | KRW 130k/month; ≥11 credits and no academic probation/disciplinary suspension |\n| Meal allowance | Meal support | No separate form stated | KRW 270k/month under same academic-status conditions |\n| International allowance | Additional international support | No separate form stated | KRW 130k/month with prior GPA ≥3.0/4.5 |\n| Settlement | New international student support | No | KRW 200k once |\n| Flight | Arrival support | Claim after arrival | One-way flight reimbursement under current rules |\n| Health | Insurance support | Reimbursement/document process | Current official international materials state 100% monthly contribution reimbursement; confirm 2027 procedure |\n| Need-based | No separate international undergraduate need-based application found | — | Not published |\n\n### Coverage, renewal and gap\n\n| Cost | Covered? | Rule |\n|---|---:|---|\n| Tuition | Yes | Full, 8 semesters |\n| Housing | No | Student pays |\n| Meals | Allowance, not a guaranteed meal plan | KRW 270k/month under conditions |\n| Monthly stipend | Yes | KRW 130k basic; potential additional KRW 130k international allowance with GPA condition |\n| Insurance | Reimbursement stated | Exact 2027 premium/procedure TBA |\n| Flight | Yes, one way | Reimbursement; exact eligible itinerary/claim evidence controls |\n| Visa/books/laptop/local transport/summer housing | Not guaranteed | Personal cost |\n\nCurrent 2026 dorm notice: double KRW 112,600/month, triple KRW 74,200/month, deposit KRW 140k and bedding KRW 20k/month; single rooms from second year KRW 132,600/month. Capacity restrictions apply and summer/seasonal housing requires a valid reason/approval, so housing is not documented as an unconditional four-year guarantee. [Official housing page](https://www.gist.ac.kr/en/html/sub05/05030403.html) and [current fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513).\n\nBecause food, personal spending and exact insurance/2027 housing are variable, a guaranteed annual gap is not officially calculable. The current stipend can plausibly cover low dorm charges, but this is not equivalent to full cost of attendance.\n\n## L. After admission\n\nAccept/register 4 May–25 June; mail original authenticated/apostilled diploma and other requested records; obtain visa issuance documentation after records are accepted; arrange paid dormitory and insurance; submit flight reimbursement evidence; attend orientation. The final NIS/apostille sequence must be resolved with admissions before relying on the offer.\n\n## M. Strategic assessment — analysis\n\n- **Admission difficulty:** Reach, intensified by ~15 published places.\n- **Full-funding difficulty:** Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances.\n- **Fit:** Very strong because both AI and EECS are explicit undergraduate choices after first year.\n\n## N. Still TBA / needs confirmation\n\nApplication fee/refund/waiver; live-form essays and limits; exact recommendation questions; official SAT/IELTS delivery mechanism and deadlines; interview format/weight; definitive NIS diploma/apostille deadline; 2027 dorm allocation/rates; insurance and flight-claim details; registration deposit, if any.\n\n## O. Email question — urgent\n\n> I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate is issued in June 2027, after the application deadline. The 2027 guide permits graduation by 31 July but lists registration through 25 June and also refers to submission of an apostilled diploma. May I apply with an official expected-graduation letter and current transcript, then submit the final NIS Certificate and apostille after its June release? Please give the latest acceptable date for the final certificate and apostille and confirm whether this timing meets the “early July” rule.\n\n## Official sources checked\n\n- [Fall 2027 Undergraduate Admission Guideline](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)\n- [Application portal](https://service.gist.ac.kr/admission/uniforeigner)\n- [Undergraduate scholarships](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)\n- [Undergraduate housing](https://www.gist.ac.kr/en/html/sub05/05030403.html)\n- [Current housing fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)\n\n---",
+  "localizedText": {
+    "South Korea": {
+      "ru": "Южная Корея",
+      "en": "South Korea"
+    },
+    "Gwangju": {
+      "ru": "Кванджу",
+      "en": "Gwangju"
+    },
+    "GIST International Undergraduate Admission System": {
+      "ru": "Система GIST International Undergraduate Admission",
+      "en": "GIST International Undergraduate Admission System"
+    },
+    "Artificial Intelligence": {
+      "ru": "Artificial Intelligence",
+      "en": "Artificial Intelligence"
+    },
+    "Electrical Engineering and Computer Science (EECS)": {
+      "ru": "Electrical Engineering and Computer Science (EECS)",
+      "en": "Electrical Engineering and Computer Science (EECS)"
+    },
+    "AI Convergence (AX)": {
+      "ru": "AI Convergence (AX)",
+      "en": "AI Convergence (AX)"
+    },
+    "Semiconductor Engineering": {
+      "ru": "Semiconductor Engineering",
+      "en": "Semiconductor Engineering"
+    },
+    "Full tuition · allowances · one-way flight · health insurance; dorm paid": {
+      "ru": "Полное покрытие обучения · выплаты · перелёт в одну сторону · медицинская страховка; общежитие платное",
+      "en": "Full tuition · allowances · one-way flight · health insurance; dorm paid"
+    },
+    "Reach, intensified by ~15 published places.": {
+      "ru": "Высокая конкурсность (Reach), усиленная опубликованными примерно 15 местами.",
+      "en": "Reach, intensified by ~15 published places."
+    },
+    "Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances.": {
+      "ru": "В основном зависит от поступления; пакет сильный, но остаются расходы на жильё / питание / личные нужды, а выплаты зависят от GPA / кредитов.",
+      "en": "Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances."
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Verified answer": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Gwangju Institute of Science and Technology (GIST)": {
+      "ru": "Gwangju Institute of Science and Technology (GIST)",
+      "en": "Gwangju Institute of Science and Technology (GIST)"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "Republic of Korea · Gwangju · GIST campus": {
+      "ru": "Республика Корея · Кванджу · кампус GIST",
+      "en": "Republic of Korea · Gwangju · GIST campus"
+    },
+    "Type": {
+      "ru": "Тип",
+      "en": "Type"
+    },
+    "Public STEM/research institute": {
+      "ru": "Государственный научно-технический / исследовательский институт",
+      "en": "Public STEM/research institute"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "**CONFIRMED FOR FALL 2027**": {
+      "ru": "**ПОДТВЕРЖДЕНО ДЛЯ FALL 2027**",
+      "en": "**CONFIRMED FOR FALL 2027**"
+    },
+    "Platform": {
+      "ru": "Платформа",
+      "en": "Platform"
+    },
+    "Application URL": {
+      "ru": "Ссылка для подачи",
+      "en": "Application URL"
+    },
+    "[Official GIST portal](https://service.gist.ac.kr/admission/uniforeigner)": {
+      "ru": "[Официальный портал GIST](https://service.gist.ac.kr/admission/uniforeigner)",
+      "en": "[Official GIST portal](https://service.gist.ac.kr/admission/uniforeigner)"
+    },
+    "Best programmes": {
+      "ru": "Подходящие программы",
+      "en": "Best programmes"
+    },
+    "Undeclared freshman → **Artificial Intelligence** or **Electrical Engineering and Computer Science (EECS)**": {
+      "ru": "Первый курс без специальности → **Artificial Intelligence** или **Electrical Engineering and Computer Science (EECS)**",
+      "en": "Undeclared freshman → **Artificial Intelligence** or **Electrical Engineering and Computer Science (EECS)**"
+    },
+    "Degree / language": {
+      "ru": "Степень / язык обучения",
+      "en": "Degree / language"
+    },
+    "Bachelor’s; English-medium science/engineering curriculum under international route": {
+      "ru": "Бакалавриат; англоязычный учебный план науки / инженерии для международного пути",
+      "en": "Bachelor’s; English-medium science/engineering curriculum under international route"
+    },
+    "Major structure": {
+      "ru": "Выбор специальности",
+      "en": "Major structure"
+    },
+    "First year undeclared; choose major at end of freshman year": {
+      "ru": "Первый курс без специальности; выбор в конце первого курса",
+      "en": "First year undeclared; choose major at end of freshman year"
+    },
+    "Approximate intake": {
+      "ru": "Приблизительное число мест",
+      "en": "Approximate intake"
+    },
+    "Approximately **15** international undergraduates in the 2027 guide": {
+      "ru": "Около **15** иностранных бакалавров в руководстве 2027",
+      "en": "Approximately **15** international undergraduates in the 2027 guide"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "The current Fall 2027 guide is verified and explicitly requires one standardized academic test, one English test and one recommendation.": {
+      "ru": "Текущее руководство Fall 2027 проверено: обязательны один стандартизированный академический тест, один тест английского и одно рекомендательное письмо.",
+      "en": "The current Fall 2027 guide is verified and explicitly requires one standardized academic test, one English test and one recommendation."
+    },
+    "**Correction:** the old audit’s “free application” cannot be treated as confirmed for Fall 2027 because the current guide does not state a fee and the live cycle form is not open. Fee is now marked **TBA**.": {
+      "ru": "**Исправление:** прежнее «бесплатная подача» не подтверждено для Fall 2027: действующее руководство не указывает сбор, а форма цикла не открыта. Сбор отмечен **TBA**.",
+      "en": "**Correction:** the old audit’s “free application” cannot be treated as confirmed for Fall 2027 because the current guide does not state a fee and the live cycle form is not open. Fee is now marked **TBA**."
+    },
+    "Current official scholarship page provides undergraduate allowance amounts; housing notice provides 2026 rates.": {
+      "ru": "Официальная страница стипендий указывает выплаты бакалаврам; анонс проживания — тарифы 2026.",
+      "en": "Current official scholarship page provides undergraduate allowance amounts; housing notice provides 2026 rates."
+    },
+    "A serious NIS timing ambiguity remains: eligibility permits graduation by 31 July 2027, but the guide also says successful applicants submit the authenticated diploma by registration and that applicants graduating after early July cannot apply. Registration ends 25 June. Written clarification is required.": {
+      "ru": "Остаётся серьёзная неоднозначность NIS: право подачи допускает выпуск до 31 июля 2027, но руководство также требует заверенный диплом к регистрации и запрещает подачу при выпуске после начала июля. Регистрация заканчивается 25 июня. Нужно письменное уточнение.",
+      "en": "A serious NIS timing ambiguity remains: eligibility permits graduation by 31 Jul 2027, but the guide also says successful applicants submit the authenticated diploma by registration and that applicants graduating after early July cannot apply. Registration ends 25 June. Written clarification is required."
+    },
+    "Programmes": {
+      "ru": "Программы",
+      "en": "Programmes"
+    },
+    "**Best programme for me:** Artificial Intelligence for a focused AI profile, or EECS for the stronger general computing/software foundation and flexibility. If the applicant is undecided between research AI and broad CS, EECS is the safer base.": {
+      "ru": "**Наиболее подходящая программа — анализ:** Artificial Intelligence для узкого AI-профиля либо EECS для более широкой базы вычислений / разработки и гибкости. Если пока нет выбора между исследовательским AI и широким CS, EECS — более надёжная основа.",
+      "en": "**Best programme for me:** Artificial Intelligence for a focused AI profile, or EECS for the stronger general computing/software foundation and flexibility. If the applicant is undecided between research AI and broad CS, EECS is the safer base."
+    },
+    "Official programme": {
+      "ru": "Официальная программа",
+      "en": "Official programme"
+    },
+    "Degree / unit": {
+      "ru": "Степень / подразделение",
+      "en": "Degree / unit"
+    },
+    "Entry / prerequisites": {
+      "ru": "Поступление / обязательные предметы",
+      "en": "Entry / prerequisites"
+    },
+    "Restrictions": {
+      "ru": "Ограничения",
+      "en": "Restrictions"
+    },
+    "Bachelor’s; College of AI": {
+      "ru": "Бакалавриат; College of AI",
+      "en": "Bachelor’s; College of AI"
+    },
+    "Select after undeclared first year. No programme-specific applicant calculus/programming/physics minimum published.": {
+      "ru": "Выбор после общего первого курса. Отдельный минимум поступающих по математическому анализу / программированию / физике не опубликован.",
+      "en": "Select after undeclared first year. No programme-specific applicant calculus/programming/physics minimum published."
+    },
+    "Available to international students under guide list": {
+      "ru": "Доступна иностранным студентам по списку руководства",
+      "en": "Available to international students under guide list"
+    },
+    "Broad hardware/software/computing route": {
+      "ru": "Широкий путь аппаратных систем / разработки / вычислений",
+      "en": "Broad hardware/software/computing route"
+    },
+    "Available to international students": {
+      "ru": "Доступна иностранным студентам",
+      "en": "Available to international students"
+    },
+    "Interdisciplinary AI application route": {
+      "ru": "Междисциплинарное применение AI",
+      "en": "Interdisciplinary AI application route"
+    },
+    "Available, but AI/EECS are closer to core CS profile": {
+      "ru": "Доступна, но AI/EECS ближе к основному CS-профилю",
+      "en": "Available, but AI/EECS are closer to core CS profile"
+    },
+    "Bachelor’s": {
+      "ru": "Бакалавриат",
+      "en": "Bachelor’s"
+    },
+    "—": {
+      "ru": "—",
+      "en": "—"
+    },
+    "**Korean-only** under current guide; not an option for this applicant": {
+      "ru": "По текущему руководству **только для корейских студентов**; не вариант для этой заявительницы",
+      "en": "**Korean-only** under current guide; not an option for this applicant"
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "Source: [official Fall 2027 guide](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf).": {
+      "ru": "Источник: [официальное руководство Fall 2027](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf).",
+      "en": "Source: [official Fall 2027 guide](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)."
+    },
+    "One non-binding round is published. Do not invent a KST closing time; the guide gives only the date.": {
+      "ru": "Один раунд, не binding. Не выдумывайте время закрытия KST: руководство даёт только дату.",
+      "en": "One non-binding round is published. Do not invent a KST closing time; the guide gives only the date."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Date": {
+      "ru": "Дата",
+      "en": "Date"
+    },
+    "Time / zone": {
+      "ru": "Время / часовой пояс",
+      "en": "Time / zone"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Application opens": {
+      "ru": "Открытие подачи заявок",
+      "en": "Application opens"
+    },
+    "1 Dec 2026": {
+      "ru": "1 декабря 2026",
+      "en": "1 Dec 2026"
+    },
+    "Not stated": {
+      "ru": "Не указано",
+      "en": "Not stated"
+    },
+    "Yes": {
+      "ru": "Да",
+      "en": "Yes"
+    },
+    "GIST portal account": {
+      "ru": "Аккаунт портала GIST",
+      "en": "GIST portal account"
+    },
+    "Application + documents": {
+      "ru": "Заявка + документы",
+      "en": "Application + documents"
+    },
+    "**29 Jan 2027**": {
+      "ru": "**29 января 2027**",
+      "en": "**29 Jan 2027**"
+    },
+    "Form, required tests, recommendation, uploads": {
+      "ru": "Форма, обязательные тесты, рекомендация, документы",
+      "en": "Form, required tests, recommendation, uploads"
+    },
+    "Document evaluation": {
+      "ru": "Рассмотрение документов",
+      "en": "Document evaluation"
+    },
+    "1 Feb–31 Mar 2027": {
+      "ru": "1 февраля – 31 марта 2027",
+      "en": "1 Feb – 31 Mar 2027"
+    },
+    "Monitor email": {
+      "ru": "Проверять email",
+      "en": "Monitor email"
+    },
+    "Interview, selected applicants": {
+      "ru": "Интервью для отобранных кандидатов",
+      "en": "Interview, selected applicants"
+    },
+    "Within evaluation period": {
+      "ru": "В период рассмотрения",
+      "en": "Within evaluation period"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Required if invited": {
+      "ru": "Обязательно при приглашении",
+      "en": "Required if invited"
+    },
+    "Decision expected": {
+      "ru": "Ожидаемое решение",
+      "en": "Decision expected"
+    },
+    "**30 Apr 2027**": {
+      "ru": "**30 апреля 2027**",
+      "en": "**30 Apr 2027**"
+    },
+    "Email/portal": {
+      "ru": "Email / портал",
+      "en": "Email/portal"
+    },
+    "Registration": {
+      "ru": "Зачисление",
+      "en": "Registration"
+    },
+    "**4 May–25 Jun 2027**": {
+      "ru": "**4 мая – 25 июня 2027**",
+      "en": "**4 May – 25 Jun 2027**"
+    },
+    "Accept and final-document process": {
+      "ru": "Принятие оффера и итоговые документы",
+      "en": "Accept and final-document process"
+    },
+    "Final authenticated diploma": {
+      "ru": "Заверенный итоговый диплом",
+      "en": "Final authenticated diploma"
+    },
+    "Guide links it to registration; exact workable date unclear": {
+      "ru": "Руководство связывает срок с регистрацией; точная выполнимая дата неясна",
+      "en": "Guide links it to registration; exact workable date unclear"
+    },
+    "Ambiguous": {
+      "ru": "Неоднозначно",
+      "en": "Ambiguous"
+    },
+    "Written confirmation for NIS": {
+      "ru": "Письменное подтверждение для NIS",
+      "en": "Written confirmation for NIS"
+    },
+    "Semester start": {
+      "ru": "Начало семестра",
+      "en": "Semester start"
+    },
+    "Fall 2027": {
+      "ru": "Fall 2027",
+      "en": "Fall 2027"
+    },
+    "Visa/housing/orientation": {
+      "ru": "Виза / проживание / ориентация",
+      "en": "Visa/housing/orientation"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "Email the diploma/apostille question **now (4–6 October)**.": {
+      "ru": "Отправить вопрос о дипломе / апостиле **сейчас, 4–6 октября**.",
+      "en": "Email the diploma/apostille question **now (4–6 October)**."
+    },
+    "Choose Math/CS/Physics recommender by **1 November**; ask by **10 November**.": {
+      "ru": "Выбрать учителя математики / CS / физики к **1 ноября**; попросить письмо к **10 ноября**.",
+      "en": "Choose Math/CS/Physics recommender by **1 November**; ask by **10 November**."
+    },
+    "Request NIS transcript, profile, grading scale and expected-graduation evidence by **20 November**.": {
+      "ru": "Запросить транскрипт NIS, профиль, шкалу оценок и подтверждение ожидаемого выпуска к **20 ноября**.",
+      "en": "Request NIS transcript, profile, grading scale and expected-graduation evidence by **20 November**."
+    },
+    "Open the portal on **1 December** and capture any newly exposed essays/recommendation questions.": {
+      "ru": "Открыть портал **1 декабря** и сохранить новые вопросы эссе / рекомендаций.",
+      "en": "Open the portal on **1 December** and capture any newly exposed essays/recommendation questions."
+    },
+    "Order standardized and English official reports by **15 December** if the portal requires agency delivery.": {
+      "ru": "Заказать официальные академические результаты и английский к **15 декабря**, если портал требует отправку агентством.",
+      "en": "Order standardized and English official reports by **15 December** if the portal requires agency delivery."
+    },
+    "Finalize uploads by **12 January**; submit **18–20 January**; recommender target **15 January**.": {
+      "ru": "Завершить документы к **12 января**; подать **18–20 января**; письмо к **15 января**.",
+      "en": "Finalize uploads by **12 January**; submit **18–20 January**; recommender target **15 January**."
+    },
+    "Platform and fee": {
+      "ru": "Платформа и сбор",
+      "en": "Platform and fee"
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Rule": {
+      "ru": "Правило",
+      "en": "Rule"
+    },
+    "GIST own international undergraduate system": {
+      "ru": "Собственная международная система бакалавриата GIST",
+      "en": "GIST own international undergraduate system"
+    },
+    "Programme choices": {
+      "ru": "Выбор программ",
+      "en": "Programme choices"
+    },
+    "Admission undeclared; no final major choice at application": {
+      "ru": "Поступление без специальности; при подаче не выбирают итоговый major",
+      "en": "Admission undeclared; no final major choice at application"
+    },
+    "Editing / updates": {
+      "ru": "Редактирование / обновление",
+      "en": "Editing / updates"
+    },
+    "Exact Fall 2027 portal behavior TBA until 1 Dec": {
+      "ru": "Точная работа портала Fall 2027 неизвестна до 1 декабря",
+      "en": "Exact Fall 2027 portal behavior TBA until 1 Dec"
+    },
+    "Application fee": {
+      "ru": "Сбор за подачу заявки",
+      "en": "Application fee"
+    },
+    "**TBA / not stated in the 2027 guide**": {
+      "ru": "**TBA / не указано в руководстве 2027**",
+      "en": "**TBA / not stated in the 2027 guide**"
+    },
+    "Refund / waiver": {
+      "ru": "Возврат / освобождение от оплаты",
+      "en": "Refund / waiver"
+    },
+    "Separate scholarship fee": {
+      "ru": "Отдельный сбор за заявку на стипендию",
+      "en": "Separate scholarship fee"
+    },
+    "None published": {
+      "ru": "Не опубликован",
+      "en": "None published"
+    },
+    "Initial paper mail": {
+      "ru": "Первоначальная отправка бумажных документов",
+      "en": "Initial paper mail"
+    },
+    "Upload first; successful applicants later send originals/authenticated documents by post": {
+      "ru": "Сначала загрузка; после поступления оригиналы / заверенные документы почтой",
+      "en": "Upload first; successful applicants later send originals/authenticated documents by post"
+    },
+    "Document checklist": {
+      "ru": "Список документов",
+      "en": "Document checklist"
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Required?": {
+      "ru": "Обязательность",
+      "en": "Required?"
+    },
+    "Who submits": {
+      "ru": "Кто отправляет",
+      "en": "Who submits"
+    },
+    "When / format": {
+      "ru": "Когда / формат",
+      "en": "When / format"
+    },
+    "Notes": {
+      "ru": "Примечания",
+      "en": "Notes"
+    },
+    "GIST application": {
+      "ru": "Заявка GIST",
+      "en": "GIST application"
+    },
+    "R": {
+      "ru": "Обязательно",
+      "en": "Required"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "By 29 Jan": {
+      "ru": "До 29 января",
+      "en": "By 29 Jan"
+    },
+    "Live fields open 1 Dec": {
+      "ru": "Действующие поля открываются 1 декабря",
+      "en": "Live fields open 1 Dec"
+    },
+    "Applicant passport/national ID": {
+      "ru": "Паспорт / национальное удостоверение личности заявительницы",
+      "en": "Applicant passport/national ID"
+    },
+    "Upload scan": {
+      "ru": "Загрузить скан",
+      "en": "Upload scan"
+    },
+    "Identity/nationality": {
+      "ru": "Личность / гражданство",
+      "en": "Identity/nationality"
+    },
+    "Both parents’ passports/nationality IDs": {
+      "ru": "Паспорта / удостоверения гражданства обоих родителей",
+      "en": "Both parents’ passports/nationality IDs"
+    },
+    "Upload": {
+      "ru": "Загрузка",
+      "en": "Upload"
+    },
+    "Citizenship route": {
+      "ru": "Путь подтверждения гражданства",
+      "en": "Citizenship route"
+    },
+    "Family relationship/birth certificate": {
+      "ru": "Подтверждение родства / свидетельство о рождении",
+      "en": "Family relationship/birth certificate"
+    },
+    "Not listed for ordinary applicants in 2027 guide": {
+      "ru": "Не перечислено для обычных кандидатов в руководстве 2027",
+      "en": "Not listed for ordinary applicants in 2027 guide"
+    },
+    "Do not import older-guide requirement; portal should be checked": {
+      "ru": "Не переносить требование старого руководства; проверить портал",
+      "en": "Do not import older-guide requirement; portal should be checked"
+    },
+    "All-year high-school transcript": {
+      "ru": "Транскрипт старшей школы за все годы",
+      "en": "All-year high-school transcript"
+    },
+    "Applicant uploads school-issued record": {
+      "ru": "Заявительница загружает выданный школой документ",
+      "en": "Applicant uploads school-issued record"
+    },
+    "By deadline": {
+      "ru": "До дедлайна",
+      "en": "By deadline"
+    },
+    "If final semester unavailable, through first semester Grade 12 plus current coursework": {
+      "ru": "Если итоговый семестр недоступен — до первого семестра Grade 12 плюс текущие предметы",
+      "en": "If final semester unavailable, through first semester Grade 12 plus current coursework"
+    },
+    "Diploma/expected graduation": {
+      "ru": "Диплом / подтверждение ожидаемого выпуска",
+      "en": "Diploma/expected graduation"
+    },
+    "Applicant uploads school official evidence": {
+      "ru": "Заявительница загружает официальное школьное подтверждение",
+      "en": "Applicant uploads school official evidence"
+    },
+    "School letter may show date if certificate unavailable": {
+      "ru": "Если справка недоступна, школьное письмо может указывать дату",
+      "en": "School letter may show date if certificate unavailable"
+    },
+    "Final NIS certificate/transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS certificate/transcript"
+    },
+    "POST": {
+      "ru": "После поступления",
+      "en": "POST"
+    },
+    "Applicant/courier": {
+      "ru": "Заявительница / курьер",
+      "en": "Applicant/courier"
+    },
+    "Authenticated after admission": {
+      "ru": "Заверение после поступления",
+      "en": "Authenticated after admission"
+    },
+    "Timing conflict; confirm in writing": {
+      "ru": "Противоречие сроков; уточнить письменно",
+      "en": "Timing conflict; confirm in writing"
+    },
+    "Standardized academic test": {
+      "ru": "Стандартизированный академический тест",
+      "en": "Standardized academic test"
+    },
+    "**R**": {
+      "ru": "**Обязательно**",
+      "en": "**Required**"
+    },
+    "Applicant uploads official evidence; verification may follow": {
+      "ru": "Заявительница загружает официальное подтверждение; проверка может последовать позднее",
+      "en": "Applicant uploads official evidence; verification may follow"
+    },
+    "At least one recognized category": {
+      "ru": "Хотя бы одна признанная категория",
+      "en": "At least one recognized category"
+    },
+    "English test": {
+      "ru": "Тест английского",
+      "en": "English test"
+    },
+    "Applicant / testing agency as instructed": {
+      "ru": "Заявительница / агентство по инструкции",
+      "en": "Applicant / testing agency as instructed"
+    },
+    "Official score; no minimum published": {
+      "ru": "Официальный результат; минимум не опубликован",
+      "en": "Official score; no minimum published"
+    },
+    "Recommendation": {
+      "ru": "Рекомендательное письмо",
+      "en": "Recommendation"
+    },
+    "**R, one**": {
+      "ru": "**R — одно обязательное**",
+      "en": "**R, one**"
+    },
+    "Recommender": {
+      "ru": "Рекомендатель",
+      "en": "Recommender"
+    },
+    "Direct online procedure": {
+      "ru": "Прямая онлайн-процедура",
+      "en": "Direct online procedure"
+    },
+    "Printed/signed/scanned PDF after online entry": {
+      "ru": "После онлайн-заполнения распечатать, подписать, отсканировать PDF",
+      "en": "Printed/signed/scanned PDF after online entry"
+    },
+    "Awards/honors": {
+      "ru": "Награды / отличия",
+      "en": "Awards/honors"
+    },
+    "O": {
+      "ru": "Необязательно",
+      "en": "Optional"
+    },
+    "Up to 5": {
+      "ru": "До 5",
+      "en": "Up to 5"
+    },
+    "National olympiad alone is not accepted as the standardized-test category": {
+      "ru": "Национальная олимпиада сама по себе не принимается как категория стандартизированного теста",
+      "en": "National olympiad alone is not accepted as the standardized-test category"
+    },
+    "School profile": {
+      "ru": "Профиль школы",
+      "en": "School profile"
+    },
+    "O / highly recommended": {
+      "ru": "O — необязательно / настоятельно рекомендуется",
+      "en": "O / highly recommended"
+    },
+    "Explain NIS curriculum/grading": {
+      "ru": "Объяснить программу / оценивание NIS",
+      "en": "Explain NIS curriculum/grading"
+    },
+    "TOPIK": {
+      "ru": "TOPIK",
+      "en": "TOPIK"
+    },
+    "Not an English substitute": {
+      "ru": "Не заменяет английский",
+      "en": "Not an English substitute"
+    },
+    "CV / activities / GitHub / portfolio": {
+      "ru": "CV / деятельность / GitHub / портфолио",
+      "en": "CV / activities / GitHub / portfolio"
+    },
+    "No separate required item published": {
+      "ru": "Отдельного обязательного пункта не опубликовано",
+      "en": "No separate required item published"
+    },
+    "Applicant only if live form allows": {
+      "ru": "Заявительница — только если действующая форма позволяет",
+      "en": "Applicant only if live form allows"
+    },
+    "Do not substitute for formal evidence": {
+      "ru": "Не заменять официальные подтверждения",
+      "en": "Do not substitute for formal evidence"
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "Not published in guide": {
+      "ru": "Не опубликовано в руководстве",
+      "en": "Not published in guide"
+    },
+    "Applicant if portal asks": {
+      "ru": "Заявительница — если портал запрашивает",
+      "en": "Applicant if portal asks"
+    },
+    "Inspect 1 Dec": {
+      "ru": "Проверить 1 декабря",
+      "en": "Inspect 1 Dec"
+    },
+    "Original/apostilled diploma and records": {
+      "ru": "Оригиналы / диплом и оценки с апостилем",
+      "en": "Original/apostilled diploma and records"
+    },
+    "By registration/offer deadline": {
+      "ru": "К регистрации / дедлайну оффера",
+      "en": "By registration/offer deadline"
+    },
+    "Apostille or consular verification": {
+      "ru": "Апостиль или консульская проверка",
+      "en": "Apostille or consular verification"
+    },
+    "NIS route and eligibility conflict": {
+      "ru": "Путь NIS и противоречие права подачи",
+      "en": "NIS route and eligibility conflict"
+    },
+    "The guide does not publish NIS-specific grades, HL-subject rules or a Kazakhstan Attestat equivalency route.": {
+      "ru": "Руководство не публикует отдельные оценки NIS, правила предметов HL или эквивалентность казахстанского Attestat.",
+      "en": "The guide does not publish NIS-specific grades, HL-subject rules or a Kazakhstan Attestat equivalency route."
+    },
+    "It accepts expected-graduation evidence at application and permits general eligibility for applicants graduating by **31 July 2027**.": {
+      "ru": "Подтверждение ожидаемого выпуска принимается при подаче; общее право допускает выпуск до **31 июля 2027**.",
+      "en": "It accepts expected-graduation evidence at application and permits general eligibility for applicants graduating by **31 Jul 2027**."
+    },
+    "It separately says applicants whose graduation date is **after early July cannot apply**, and successful applicants must submit the apostilled/consular-verified diploma in connection with registration, which ends **25 June**.": {
+      "ru": "Отдельно указано, что кандидаты с выпуском **после начала июля не могут подавать**, а принятые должны предоставить диплом с апостилем / консульской проверкой в связи с регистрацией, заканчивающейся **25 июня**.",
+      "en": "It separately says applicants whose graduation date is **after early July cannot apply**, and successful applicants must submit the apostilled/consular-verified diploma in connection with registration, which ends **25 June**."
+    },
+    "A June NIS certificate may satisfy the “before early July” statement, but apostille processing could extend past registration. This is an official-source ambiguity, not something to guess.": {
+      "ru": "Июньский сертификат NIS может соответствовать условию «до начала июля», но апостиль может занять время после конца регистрации. Это неоднозначность официального источника, не вопрос для догадки.",
+      "en": "A June NIS certificate may satisfy the “before early July” statement, but apostille processing could extend past registration. This is an official-source ambiguity, not something to guess."
+    },
+    "Predicted results are expressly accepted for IB/A-level, not specifically for NIS. Use the current transcript and expected-graduation letter and ask whether NIS predicted results can supplement them.": {
+      "ru": "Прогнозные IB/A-level прямо принимаются, NIS отдельно не назван. Используйте текущий транскрипт и письмо об ожидаемом выпуске; уточните, можно ли дополнить их прогнозными NIS.",
+      "en": "Predicted results are expressly accepted for IB/A-level, not specifically for NIS. Use the current transcript and expected-graduation letter and ask whether NIS predicted results can supplement them."
+    },
+    "No NIS English-medium waiver is published; an accepted English test is required unless the applicant meets the guide’s native-country exemption.": {
+      "ru": "Освобождение по языку NIS не опубликовано; нужен принимаемый тест английского, если не выполнено исключение руководства по англоязычной стране происхождения.",
+      "en": "No NIS English-medium waiver is published; an accepted English test is required unless the applicant meets the guide’s native-country exemption."
+    },
+    "Official minimum": {
+      "ru": "Официальный минимум",
+      "en": "Official minimum"
+    },
+    "Meet citizenship and graduation timing; submit complete school records, at least one recognized standardized academic test and one accepted English score. No GPA, NIS grade, SAT, Math or English-score minimum is published.": {
+      "ru": "Соответствовать гражданству и сроку выпуска; предоставить полные школьные документы, хотя бы один признанный стандартизированный академический тест и один принимаемый результат английского. Минимум GPA, NIS, SAT, математики или английского не опубликован.",
+      "en": "Meet citizenship and graduation timing; submit complete school records, at least one recognized standardized academic test and one accepted English score. No GPA, NIS grade, SAT, Math or English-score minimum is published."
+    },
+    "Competitive target — analysis": {
+      "ru": "Конкурентный ориентир — анализ",
+      "en": "Competitive target — analysis"
+    },
+    "Strong Math/science grades, externally comparable testing and a coherent technical profile are useful for a ~15-place international intake. SAT 1300–1350 and IELTS 7.0–7.5 meet no published threshold because none exists; GIST remains a reach.": {
+      "ru": "Для международного набора примерно на 15 мест полезны сильные оценки математики / естественных наук, внешне сопоставимые тесты и связный технический профиль. SAT 1300–1350 и IELTS 7.0–7.5 не выполняют опубликованного порога, поскольку его нет; конкурсность GIST остаётся высокой.",
+      "en": "Strong Math/science grades, externally comparable testing and a coherent technical profile are useful for a ~15-place international intake. SAT 1300–1350 and IELTS 7.0–7.5 meet no published threshold because none exists; GIST remains a reach."
+    },
+    "Academic and English test policy": {
+      "ru": "Академические тесты и подтверждение английского",
+      "en": "Academic and English test policy"
+    },
+    "Test": {
+      "ru": "Тест",
+      "en": "Test"
+    },
+    "SAT / ACT": {
+      "ru": "SAT / ACT",
+      "en": "SAT / ACT"
+    },
+    "Accepted as the required academic-test category; no minimum/superscore rule published": {
+      "ru": "Принимается как обязательная категория академического теста; минимум / superscore не опубликованы",
+      "en": "Accepted as the required academic-test category; no minimum/superscore rule published"
+    },
+    "AP / IB / A-level": {
+      "ru": "AP / IB / A-level",
+      "en": "AP / IB / A-level"
+    },
+    "Accepted; IB/A-level predicted scores accepted": {
+      "ru": "Принимается; прогнозные IB/A-level допускаются",
+      "en": "Accepted; IB/A-level predicted scores accepted"
+    },
+    "International olympiad": {
+      "ru": "Международная олимпиада",
+      "en": "International olympiad"
+    },
+    "Accepted category under guide rules": {
+      "ru": "Принимаемая категория по правилам руководства",
+      "en": "Accepted category under guide rules"
+    },
+    "Relevant national leaving/entrance exam": {
+      "ru": "Подходящий национальный выпускной / вступительный экзамен",
+      "en": "Relevant national leaving/entrance exam"
+    },
+    "Accepted with explanation of process/competitiveness/result": {
+      "ru": "Принимается с объяснением процедуры / конкурсности / результата",
+      "en": "Accepted with explanation of process/competitiveness/result"
+    },
+    "National olympiad": {
+      "ru": "Национальная олимпиада",
+      "en": "National olympiad"
+    },
+    "Not accepted as the required standardized-test category": {
+      "ru": "Не принимается как обязательная категория стандартизированного теста",
+      "en": "Not accepted as the required standardized-test category"
+    },
+    "IELTS / TOEFL": {
+      "ru": "IELTS / TOEFL",
+      "en": "IELTS / TOEFL"
+    },
+    "Accepted; no minimum; TOEFL institution code **0144**": {
+      "ru": "Принимается; минимум отсутствует; код TOEFL **0144**",
+      "en": "Accepted; no minimum; TOEFL institution code **0144**"
+    },
+    "TEPS / TOEIC": {
+      "ru": "TEPS / TOEIC",
+      "en": "TEPS / TOEIC"
+    },
+    "Accepted": {
+      "ru": "Принимается",
+      "en": "Accepted"
+    },
+    "Cambridge CAE/CPE, PTE Academic, Duolingo": {
+      "ru": "Cambridge CAE/CPE, PTE Academic, Duolingo",
+      "en": "Cambridge CAE/CPE, PTE Academic, Duolingo"
+    },
+    "Validity": {
+      "ru": "Срок действия",
+      "en": "Validity"
+    },
+    "English score within two years": {
+      "ru": "Результат английского — не старше двух лет",
+      "en": "English score within two years"
+    },
+    "Reporting": {
+      "ru": "Отправка результатов",
+      "en": "Reporting"
+    },
+    "Guide calls for official test evidence. Confirm live-portal agency delivery for IELTS/SAT; provider fees are separate.": {
+      "ru": "Руководство требует официальное подтверждение теста. Отправку IELTS/SAT агентством уточнить в действующем портале; сбор провайдера отдельный.",
+      "en": "Guide calls for official test evidence. Confirm live-portal agency delivery for IELTS/SAT; provider fees are separate."
+    },
+    "Interview / internal exams": {
+      "ru": "Интервью / внутренние экзамены",
+      "en": "Interview / internal exams"
+    },
+    "No universal internal exam is published. Selected applicants may be interviewed and must participate. The 2027 guide does not publish Math/science subjects, length or weighting; older FAQ descriptions must not be treated as current-cycle facts.": {
+      "ru": "Универсального внутреннего экзамена не опубликовано. Отобранных кандидатов могут пригласить на обязательное для них интервью. Руководство 2027 не публикует темы математики / наук, длительность или вес; старые FAQ нельзя считать фактом текущего цикла.",
+      "en": "No universal internal exam is published. Selected applicants may be interviewed and must participate. The 2027 guide does not publish Math/science subjects, length or weighting; older FAQ descriptions must not be treated as current-cycle facts."
+    },
+    "**My strategy:** use a Math or CS teacher with concrete evidence of technical reasoning and independent work. Confirm the teacher can complete the print-sign-scan step. Inspect the live form on 1 December for exact questions before the teacher drafts the final text.": {
+      "ru": "**Стратегия — анализ:** учитель математики или CS с конкретными примерами технического мышления и самостоятельности. Подтвердите возможность распечатать, подписать и отсканировать форму. Перед итоговым текстом изучите точные вопросы действующей формы 1 декабря.",
+      "en": "**My strategy:** use a Math or CS teacher with concrete evidence of technical reasoning and independent work. Confirm the teacher can complete the print-sign-scan step. Inspect the live form on 1 December for exact questions before the teacher drafts the final text."
+    },
+    "Fall 2027 rule": {
+      "ru": "Правило Fall 2027",
+      "en": "Fall 2027 rule"
+    },
+    "Number": {
+      "ru": "Количество",
+      "en": "Number"
+    },
+    "**One required**": {
+      "ru": "**Одно обязательное**",
+      "en": "**One required**"
+    },
+    "Preferred recommender": {
+      "ru": "Предпочтительный рекомендатель",
+      "en": "Preferred recommender"
+    },
+    "Academic adviser, homeroom, Math or Science teacher": {
+      "ru": "Академический консультант, классный руководитель, учитель математики или естественных наук",
+      "en": "Academic adviser, homeroom, Math or Science teacher"
+    },
+    "Submission": {
+      "ru": "Отправка",
+      "en": "Submission"
+    },
+    "Recommender enters content online, prints the form, signs by hand, scans and uploads PDF; applicant cannot complete submission until it is received": {
+      "ru": "Рекомендатель заполняет онлайн, печатает форму, подписывает от руки, сканирует и загружает PDF; заявительница не может завершить подачу до получения письма",
+      "en": "Recommender enters content online, prints the form, signs by hand, scans and uploads PDF; applicant cannot complete submission until it is received"
+    },
+    "Exact questions/ratings/limits": {
+      "ru": "Точные вопросы / критерии / ограничения",
+      "en": "Exact questions/ratings/limits"
+    },
+    "Not public before portal opening": {
+      "ru": "Не публичны до открытия портала",
+      "en": "Not public before portal opening"
+    },
+    "No exact prompt can responsibly be supplied yet.": {
+      "ru": "Пока нельзя достоверно привести точный вопрос.",
+      "en": "No exact prompt can responsibly be supplied yet."
+    },
+    "Essay": {
+      "ru": "Эссе",
+      "en": "Essay"
+    },
+    "Prompt": {
+      "ru": "Вопрос",
+      "en": "Prompt"
+    },
+    "Limit": {
+      "ru": "Ограничение объёма",
+      "en": "Limit"
+    },
+    "Status": {
+      "ru": "Статус",
+      "en": "Status"
+    },
+    "Application written responses": {
+      "ru": "Письменные ответы заявки",
+      "en": "Application written responses"
+    },
+    "Not stated in the public 2027 guide": {
+      "ru": "Не указаны в публичном руководстве 2027",
+      "en": "Not stated in the public 2027 guide"
+    },
+    "Inspect portal 1 Dec": {
+      "ru": "Проверить портал 1 декабря",
+      "en": "Inspect portal 1 Dec"
+    },
+    "Scholarship essay": {
+      "ru": "Эссе на стипендию",
+      "en": "Scholarship essay"
+    },
+    "Scholarship is tied to international-student status/admission": {
+      "ru": "Стипендия связана со статусом иностранного студента / поступлением",
+      "en": "Scholarship is tied to international-student status/admission"
+    },
+    "Scholarships and aid": {
+      "ru": "Стипендии и помощь",
+      "en": "Scholarships and aid"
+    },
+    "Source: [official international undergraduate scholarship page](https://www.gist.ac.kr/iuadm/html/sub03/0301.html).": {
+      "ru": "Источник: [официальная страница стипендий иностранных бакалавров](https://www.gist.ac.kr/iuadm/html/sub03/0301.html).",
+      "en": "Source: [official international undergraduate scholarship page](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)."
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award": {
+      "ru": "Стипендия",
+      "en": "Award"
+    },
+    "Separate application?": {
+      "ru": "Отдельная заявка?",
+      "en": "Separate application?"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "International undergraduate tuition waiver": {
+      "ru": "Освобождение иностранных бакалавров от оплаты обучения",
+      "en": "International undergraduate tuition waiver"
+    },
+    "No": {
+      "ru": "Нет",
+      "en": "No"
+    },
+    "Full tuition, maximum 8 semesters": {
+      "ru": "Полное покрытие обучения, максимум 8 семестров",
+      "en": "Full tuition, maximum 8 semesters"
+    },
+    "Student allowance": {
+      "ru": "Студенческая выплата",
+      "en": "Student allowance"
+    },
+    "Basic allowance": {
+      "ru": "Базовая выплата",
+      "en": "Basic allowance"
+    },
+    "No separate form stated": {
+      "ru": "Отдельная форма не указана",
+      "en": "No separate form stated"
+    },
+    "KRW 130k/month; ≥11 credits and no academic probation/disciplinary suspension": {
+      "ru": "KRW 130 000 в месяц; ≥11 кредитов, без академического испытательного статуса / дисциплинарного отстранения",
+      "en": "KRW 130k/month; ≥11 credits and no academic probation/disciplinary suspension"
+    },
+    "Meal allowance": {
+      "ru": "Выплата на питание",
+      "en": "Meal allowance"
+    },
+    "Meal support": {
+      "ru": "Поддержка питания",
+      "en": "Meal support"
+    },
+    "KRW 270k/month under same academic-status conditions": {
+      "ru": "KRW 270 000 в месяц при тех же условиях академического статуса",
+      "en": "KRW 270k/month under same academic-status conditions"
+    },
+    "International allowance": {
+      "ru": "Международная выплата",
+      "en": "International allowance"
+    },
+    "Additional international support": {
+      "ru": "Дополнительная поддержка иностранцев",
+      "en": "Additional international support"
+    },
+    "KRW 130k/month with prior GPA ≥3.0/4.5": {
+      "ru": "KRW 130 000 в месяц при предыдущем GPA ≥3.0/4.5",
+      "en": "KRW 130k/month with prior GPA ≥3.0/4.5"
+    },
+    "Settlement": {
+      "ru": "Обустройство",
+      "en": "Settlement"
+    },
+    "New international student support": {
+      "ru": "Поддержка нового иностранного студента",
+      "en": "New international student support"
+    },
+    "KRW 200k once": {
+      "ru": "Однократно KRW 200 000",
+      "en": "KRW 200k once"
+    },
+    "Flight": {
+      "ru": "Авиабилет",
+      "en": "Flight"
+    },
+    "Arrival support": {
+      "ru": "Поддержка приезда",
+      "en": "Arrival support"
+    },
+    "Claim after arrival": {
+      "ru": "Запрос после приезда",
+      "en": "Claim after arrival"
+    },
+    "One-way flight reimbursement under current rules": {
+      "ru": "Компенсация перелёта в одну сторону по действующим правилам",
+      "en": "One-way flight reimbursement under current rules"
+    },
+    "Health": {
+      "ru": "Медицинское покрытие",
+      "en": "Health"
+    },
+    "Insurance support": {
+      "ru": "Поддержка страховки",
+      "en": "Insurance support"
+    },
+    "Reimbursement/document process": {
+      "ru": "Порядок компенсации / документы",
+      "en": "Reimbursement/document process"
+    },
+    "Current official international materials state 100% monthly contribution reimbursement; confirm 2027 procedure": {
+      "ru": "Текущие официальные международные материалы указывают компенсацию 100% ежемесячного взноса; уточнить порядок 2027",
+      "en": "Current official international materials state 100% monthly contribution reimbursement; confirm 2027 procedure"
+    },
+    "Need-based": {
+      "ru": "Помощь по финансовой потребности",
+      "en": "Need-based"
+    },
+    "No separate international undergraduate need-based application found": {
+      "ru": "Отдельная заявка иностранного бакалавриата по финансовой потребности не найдена",
+      "en": "No separate international undergraduate need-based application found"
+    },
+    "Not published": {
+      "ru": "Не опубликовано",
+      "en": "Not published"
+    },
+    "Coverage, renewal and gap": {
+      "ru": "Покрытие, продление и непокрытый остаток",
+      "en": "Coverage, renewal and gap"
+    },
+    "Current 2026 dorm notice: double KRW 112,600/month, triple KRW 74,200/month, deposit KRW 140k and bedding KRW 20k/month; single rooms from second year KRW 132,600/month. Capacity restrictions apply and summer/seasonal housing requires a valid reason/approval, so housing is not documented as an unconditional four-year guarantee. [Official housing page](https://www.gist.ac.kr/en/html/sub05/05030403.html) and [current fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513).": {
+      "ru": "Текущий анонс жилья 2026: двухместная комната KRW 112 600 в месяц, трёхместная 74 200, депозит 140 000 и постельное бельё 20 000 в месяц; одноместная со второго курса 132 600. Есть ограничения мест; летнее / сезонное проживание требует основания / разрешения. Безусловная гарантия всех четырёх лет не документирована. [Официальное проживание](https://www.gist.ac.kr/en/html/sub05/05030403.html) и [текущие тарифы](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513).",
+      "en": "Current 2026 dorm notice: double KRW 112,600/month, triple KRW 74,200/month, deposit KRW 140k and bedding KRW 20k/month; single rooms from second year KRW 132,600/month. Capacity restrictions apply and summer/seasonal housing requires a valid reason/approval, so housing is not documented as an unconditional four-year guarantee. [Official housing page](https://www.gist.ac.kr/en/html/sub05/05030403.html) and [current fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)."
+    },
+    "Because food, personal spending and exact insurance/2027 housing are variable, a guaranteed annual gap is not officially calculable. The current stipend can plausibly cover low dorm charges, but this is not equivalent to full cost of attendance.": {
+      "ru": "Питание, личные расходы, точная страховка / жильё 2027 различаются, поэтому гарантированный годовой остаток официально не рассчитывается. Текущая выплата потенциально покрывает недорогое общежитие, но это не равно полному COA.",
+      "en": "Because food, personal spending and exact insurance/2027 housing are variable, a guaranteed annual gap is not officially calculable. The current stipend can plausibly cover low dorm charges, but this is not equivalent to full cost of attendance."
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Full, 8 semesters": {
+      "ru": "Полностью, 8 семестров",
+      "en": "Full, 8 semesters"
+    },
+    "Housing": {
+      "ru": "Проживание",
+      "en": "Housing"
+    },
+    "Student pays": {
+      "ru": "Оплачивает студент",
+      "en": "Student pays"
+    },
+    "Meals": {
+      "ru": "Питание",
+      "en": "Meals"
+    },
+    "Allowance, not a guaranteed meal plan": {
+      "ru": "Выплата, не гарантированный план питания",
+      "en": "Allowance, not a guaranteed meal plan"
+    },
+    "KRW 270k/month under conditions": {
+      "ru": "KRW 270 000 в месяц при выполнении условий",
+      "en": "KRW 270k/month under conditions"
+    },
+    "Monthly stipend": {
+      "ru": "Ежемесячная выплата",
+      "en": "Monthly stipend"
+    },
+    "KRW 130k basic; potential additional KRW 130k international allowance with GPA condition": {
+      "ru": "Базовые KRW 130 000; возможны дополнительные международные KRW 130 000 с условием GPA",
+      "en": "KRW 130k basic; potential additional KRW 130k international allowance with GPA condition"
+    },
+    "Insurance": {
+      "ru": "Страховка",
+      "en": "Insurance"
+    },
+    "Reimbursement stated": {
+      "ru": "Компенсация указана",
+      "en": "Reimbursement stated"
+    },
+    "Exact 2027 premium/procedure TBA": {
+      "ru": "Точный взнос / порядок 2027 пока не опубликован",
+      "en": "Exact 2027 premium/procedure TBA"
+    },
+    "Yes, one way": {
+      "ru": "Да, в одну сторону",
+      "en": "Yes, one way"
+    },
+    "Reimbursement; exact eligible itinerary/claim evidence controls": {
+      "ru": "Компенсация; приоритет у правил допустимого маршрута / подтверждений",
+      "en": "Reimbursement; exact eligible itinerary/claim evidence controls"
+    },
+    "Visa/books/laptop/local transport/summer housing": {
+      "ru": "Виза / учебники / ноутбук / местный транспорт / проживание летом",
+      "en": "Visa/books/laptop/local transport/summer housing"
+    },
+    "Not guaranteed": {
+      "ru": "Не гарантировано",
+      "en": "Not guaranteed"
+    },
+    "Personal cost": {
+      "ru": "Личные расходы",
+      "en": "Personal cost"
+    },
+    "After admission": {
+      "ru": "После поступления",
+      "en": "After admission"
+    },
+    "Accept/register 4 May–25 June; mail original authenticated/apostilled diploma and other requested records; obtain visa issuance documentation after records are accepted; arrange paid dormitory and insurance; submit flight reimbursement evidence; attend orientation. The final NIS/apostille sequence must be resolved with admissions before relying on the offer.": {
+      "ru": "Принять оффер / зарегистрироваться 4 мая – 25 июня; отправить почтой оригинал заверенного диплома / диплома с апостилем и другие документы; получить визовые документы после принятия школьных; оформить платное общежитие и страховку; предоставить доказательства для компенсации перелёта; пройти ориентацию. До расчёта на оффер нужно решить с приёмной комиссией порядок итогового NIS / апостиля.",
+      "en": "Accept/register 4 May–25 June; mail original authenticated/apostilled diploma and other requested records; obtain visa issuance documentation after records are accepted; arrange paid dormitory and insurance; submit flight reimbursement evidence; attend orientation. The final NIS/apostille sequence must be resolved with admissions before relying on the offer."
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission difficulty:** Reach, intensified by ~15 published places.": {
+      "ru": "**Сложность поступления:** высокая (Reach), усиленная опубликованными примерно 15 местами.",
+      "en": "**Admission difficulty:** Reach, intensified by ~15 published places."
+    },
+    "**Full-funding difficulty:** Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances.": {
+      "ru": "**Сложность полного финансирования:** прежде всего поступление; пакет сильный, но остаются жильё / питание / личные расходы, а выплаты зависят от GPA / кредитов.",
+      "en": "**Full-funding difficulty:** Primarily admission; package is strong but leaves housing/food/personal gaps and GPA/credit conditions apply to allowances."
+    },
+    "**Fit:** Very strong because both AI and EECS are explicit undergraduate choices after first year.": {
+      "ru": "**Соответствие профилю:** очень хорошее: AI и EECS прямо доступны бакалаврам после первого курса.",
+      "en": "**Fit:** Very strong because both AI and EECS are explicit undergraduate choices after first year."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "Application fee/refund/waiver; live-form essays and limits; exact recommendation questions; official SAT/IELTS delivery mechanism and deadlines; interview format/weight; definitive NIS diploma/apostille deadline; 2027 dorm allocation/rates; insurance and flight-claim details; registration deposit, if any.": {
+      "ru": "Сбор / возврат / освобождение от оплаты; эссе действующей формы и ограничения; точные вопросы рекомендации; официальная отправка SAT/IELTS и сроки; формат / вес интервью; окончательный срок диплома NIS / апостиля; распределение / тариф жилья 2027; страховка и компенсация перелёта; депозит регистрации, если есть.",
+      "en": "Application fee/refund/waiver; live-form essays and limits; exact recommendation questions; official SAT/IELTS delivery mechanism and deadlines; interview format/weight; definitive NIS diploma/apostille deadline; 2027 dorm allocation/rates; insurance and flight-claim details; registration deposit, if any."
+    },
+    "Email question — urgent": {
+      "ru": "Срочный вопрос для письма",
+      "en": "Email question — urgent"
+    },
+    "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate is issued in June 2027, after the application deadline. The 2027 guide permits graduation by 31 July but lists registration through 25 June and also refers to submission of an apostilled diploma. May I apply with an official expected-graduation letter and current transcript, then submit the final NIS Certificate and apostille after its June release? Please give the latest acceptable date for the final certificate and apostille and confirm whether this timing meets the “early July” rule.": {
+      "ru": "Я кандидат NIS Grade 12 из Казахстана; итоговый сертификат получу в июне 2027 после дедлайна подачи. Руководство 2027 допускает выпуск до 31 июля, но регистрацию — до 25 июня, и требует диплом с апостилем. Можно ли подать официальное письмо об ожидаемом выпуске и текущий транскрипт, затем итоговый сертификат NIS и апостиль после июньской выдачи? Укажите крайнюю допустимую дату сертификата / апостиля и подтвердите соответствие правилу «начало июля».",
+      "en": "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate is issued in June 2027, after the application deadline. The 2027 guide permits graduation by 31 July but lists registration through 25 June and also refers to submission of an apostilled diploma. May I apply with an official expected-graduation letter and current transcript, then submit the final NIS Certificate and apostille after its June release? Please give the latest acceptable date for the final certificate and apostille and confirm whether this timing meets the “early July” rule."
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[Fall 2027 Undergraduate Admission Guideline](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)": {
+      "ru": "[Руководство поступления бакалавров Fall 2027](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)",
+      "en": "[Fall 2027 Undergraduate Admission Guideline](https://www.gist.ac.kr/iuadm/img/sub02/2027_Fall_Undergraduate_Admission_Guideline.pdf)"
+    },
+    "[Application portal](https://service.gist.ac.kr/admission/uniforeigner)": {
+      "ru": "[Портал подачи](https://service.gist.ac.kr/admission/uniforeigner)",
+      "en": "[Application portal](https://service.gist.ac.kr/admission/uniforeigner)"
+    },
+    "[Undergraduate scholarships](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)": {
+      "ru": "[Стипендии бакалавриата](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)",
+      "en": "[Undergraduate scholarships](https://www.gist.ac.kr/iuadm/html/sub03/0301.html)"
+    },
+    "[Undergraduate housing](https://www.gist.ac.kr/en/html/sub05/05030403.html)": {
+      "ru": "[Проживание бакалавров](https://www.gist.ac.kr/en/html/sub05/05030403.html)",
+      "en": "[Undergraduate housing](https://www.gist.ac.kr/en/html/sub05/05030403.html)"
+    },
+    "[Current housing fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)": {
+      "ru": "[Текущий анонс тарифов проживания](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)",
+      "en": "[Current housing fee notice](https://ipa.gist.ac.kr/site/en/html/sub05/050207.html?GotoPage=1&mode=V&no=222513)"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Application + required recommendation": {
+      "ru": "Заявка + обязательное рекомендательное письмо",
+      "en": "Application + required recommendation"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Evaluation": {
+      "ru": "Рассмотрение",
+      "en": "Evaluation"
+    },
+    "Review": {
+      "ru": "Рассмотрение",
+      "en": "Review"
+    },
+    "Selected interview within evaluation period": {
+      "ru": "Интервью отобранных кандидатов в период рассмотрения",
+      "en": "Selected interview within evaluation period"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "Decision": {
+      "ru": "Решение",
+      "en": "Decision"
+    },
+    "Final diploma / apostille — timing conflict, confirm with admissions": {
+      "ru": "Итоговый диплом / апостиль — противоречие сроков, уточнить в приёмной комиссии",
+      "en": "Final diploma / apostille — timing conflict, confirm with admissions"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "Semester — Fall 2027": {
+      "ru": "Начало семестра — Fall 2027",
+      "en": "Semester — Fall 2027"
+    },
+    "Semester": {
+      "ru": "Начало обучения",
+      "en": "Semester"
+    },
+    "Application portal": {
+      "ru": "Портал подачи",
+      "en": "Application portal"
+    },
+    "Fall 2027 Undergraduate Admission Guideline": {
+      "ru": "Руководство поступления бакалавров Fall 2027",
+      "en": "Fall 2027 Undergraduate Admission Guideline"
+    },
+    "Undergraduate scholarships": {
+      "ru": "Стипендии бакалавриата",
+      "en": "Undergraduate scholarships"
+    },
+    "Undergraduate housing": {
+      "ru": "Проживание бакалавров",
+      "en": "Undergraduate housing"
+    },
+    "Current housing fee notice": {
+      "ru": "Текущий анонс тарифов проживания",
+      "en": "Current housing fee notice"
+    }
+  }
+}

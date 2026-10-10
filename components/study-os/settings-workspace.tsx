@@ -1,0 +1,29 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+import { Download, Save, Upload } from "lucide-react";
+import { toast, Toaster } from "sonner";
+import { AppShell } from "@/components/study-os/app-shell";
+import { FormField } from "@/components/study-os/controls";
+import { useI18n } from "@/components/study-os/i18n";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { useStudyData } from "@/hooks/use-study-data";
+import { exportBackup, importBackup } from "@/lib/indexed-db";
+import type { StudyOSBackup } from "@/lib/models";
+
+export function SettingsWorkspace() {
+  const { language } = useI18n(); const ru = language === "ru";
+  const { profile, upsertProfile, refresh } = useStudyData();
+  const [form, setForm] = useState({ name: profile.name, school: profile.school, country: profile.country, city: profile.city, curriculum: profile.curriculum, graduationYear: profile.graduationYear ? String(profile.graduationYear) : "", majors: profile.targetMajor.join(", "), countries: profile.targetCountries.join(", ") });
+  const inputRef = useRef<HTMLInputElement>(null);
+  useEffect(() => { void Promise.resolve().then(() => setForm({ name: profile.name, school: profile.school, country: profile.country, city: profile.city, curriculum: profile.curriculum, graduationYear: profile.graduationYear ? String(profile.graduationYear) : "", majors: profile.targetMajor.join(", "), countries: profile.targetCountries.join(", ") })); }, [profile]);
+  const save = async () => { await upsertProfile({ ...profile, name: form.name.trim() || "ZIYADA", school: form.school.trim(), country: form.country.trim(), city: form.city.trim(), curriculum: form.curriculum.trim(), graduationYear: Number(form.graduationYear) || 0, targetMajor: form.majors.split(",").map((item) => item.trim()).filter(Boolean), targetCountries: form.countries.split(",").map((item) => item.trim()).filter(Boolean), updatedAt: new Date().toISOString() }); toast.success(ru ? "Профиль сохранён" : "Profile saved"); };
+  const download = async () => { const backup = await exportBackup(); const url = URL.createObjectURL(new Blob([JSON.stringify(backup, null, 2)], { type: "application/json" })); const link = document.createElement("a"); link.href = url; link.download = "study_os_backup.json"; link.click(); URL.revokeObjectURL(url); };
+  const restore = async (file: File) => { try { await importBackup(JSON.parse(await file.text()) as StudyOSBackup); await refresh(); toast.success(ru ? "Копия восстановлена" : "Backup restored"); } catch { toast.error(ru ? "Файл не подходит" : "Invalid backup file"); } };
+  return <AppShell active="settings" title={ru ? "Настройки" : "Settings"} intro={ru ? "Здесь всё действительно редактируется: имя, выпуск, школа, направления и резервные копии." : "Everything here is editable: name, graduation year, school, target majors, and backups."} action={<Button onClick={() => void save()} className="bg-[#2859d8]"><Save className="size-4" />{ru ? "Сохранить" : "Save"}</Button>}>
+    <div className="grid gap-6 xl:grid-cols-[1.1fr_.9fr]"><Card className="rounded-2xl border-[#e1e6ef] shadow-none"><CardHeader><CardTitle>{ru ? "Личный профиль" : "Personal profile"}</CardTitle></CardHeader><CardContent className="grid gap-5 sm:grid-cols-2"><FormField label={ru ? "Имя" : "Name"}><Input value={form.name} onChange={(event) => setForm({ ...form, name: event.target.value })} /></FormField><FormField label={ru ? "Год выпуска" : "Graduation year"}><Input type="number" value={form.graduationYear} onChange={(event) => setForm({ ...form, graduationYear: event.target.value })} /></FormField><FormField label={ru ? "Школа" : "School"}><Input value={form.school} onChange={(event) => setForm({ ...form, school: event.target.value })} /></FormField><FormField label={ru ? "Программа" : "Curriculum"}><Input value={form.curriculum} onChange={(event) => setForm({ ...form, curriculum: event.target.value })} /></FormField><FormField label={ru ? "Страна" : "Country"}><Input value={form.country} onChange={(event) => setForm({ ...form, country: event.target.value })} /></FormField><FormField label={ru ? "Город" : "City"}><Input value={form.city} onChange={(event) => setForm({ ...form, city: event.target.value })} /></FormField><div className="sm:col-span-2"><FormField label={ru ? "Целевые направления — через запятую" : "Target majors — comma separated"}><Input value={form.majors} onChange={(event) => setForm({ ...form, majors: event.target.value })} /></FormField></div><div className="sm:col-span-2"><FormField label={ru ? "Целевые страны — через запятую" : "Target countries — comma separated"}><Input value={form.countries} onChange={(event) => setForm({ ...form, countries: event.target.value })} /></FormField></div></CardContent></Card>
+      <Card className="rounded-2xl border-[#e1e6ef] shadow-none"><CardHeader><CardTitle>{ru ? "Резервная копия" : "Backup & restore"}</CardTitle></CardHeader><CardContent><p className="mb-5 text-sm leading-6 text-[#707b8e]">{ru ? "Сохраните все задачи, университеты, дедлайны, документы и настройки в одном JSON-файле." : "Save tasks, universities, deadlines, documents, and settings in one JSON file."}</p><div className="grid gap-3"><Button variant="outline" onClick={() => void download()}><Download className="size-4" />{ru ? "Скачать копию" : "Download backup"}</Button><Button variant="outline" onClick={() => inputRef.current?.click()}><Upload className="size-4" />{ru ? "Восстановить из файла" : "Restore from file"}</Button><input ref={inputRef} type="file" accept="application/json,.json" className="hidden" onChange={(event) => { const file = event.target.files?.[0]; if (file) void restore(file); }} /></div></CardContent></Card></div><Toaster position="bottom-right" richColors />
+  </AppShell>;
+}

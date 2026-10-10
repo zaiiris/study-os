@@ -1,0 +1,2447 @@
+{
+  "id": "audit-unist",
+  "name": "UNIST",
+  "country": "South Korea",
+  "city": "Ulsan",
+  "batch": 1,
+  "checkedAt": "2026-10-04",
+  "evidence": "confirmed",
+  "awaitingAudit": false,
+  "platform": "**Study in Korea**",
+  "programs": [
+    "Department of Computer Science and Engineering",
+    "Department of Electrical Engineering"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "automatic",
+    "partial"
+  ],
+  "fundingSummary": "Tuition + tiered living scholarship; non-scholarship offers possible · dorm paid",
+  "admissionDifficulty": "Reach / competitive.",
+  "fundingDifficulty": "Reach and separate from admission because non-scholarship offers exist and living tiers differ.",
+  "blocks": [
+    {
+      "id": "audit-unist-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Verified answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Verified answer": "Ulsan National Institute of Science and Technology (UNIST)"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Verified answer": "Republic of Korea · Ulsan · UNIST campus"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-2",
+              "fields": {
+                "Field": "Type",
+                "Verified answer": "Public STEM institute"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Verified answer": "**CONFIRMED FOR FALL 2027**"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Platform",
+                "Verified answer": "**Study in Korea**"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Application URL",
+                "Verified answer": "[Official Fall 2027 notice and files](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programme",
+                "Verified answer": "Engineering application field → **Department of Computer Science and Engineering**"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Degree / language",
+                "Verified answer": "Bachelor’s; official FAQ states all classes are conducted in English"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Major structure",
+                "Verified answer": "Apply to Engineering or Business field; declare department/major after first-year exploration"
+              }
+            },
+            {
+              "id": "audit-unist-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Approximate intake",
+                "Verified answer": "Guide: approximately **50** international students, with possible additional non-scholarship offers"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Correction:** application is through Study in Korea, not an independent UNIST application portal.",
+        "Current guide confirms **no recommendation letter**, a required English-proficiency score and four English responses of up to 700 words each.",
+        "The current guide’s approximate quota (~50) conflicts with an FAQ figure (~40); the cycle-specific guide is controlling.",
+        "The guide explicitly allows additional **non-scholarship** admissions, so an offer does not guarantee the full scholarship package."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-3",
+      "title": "B. Programmes",
+      "tab": "programs",
+      "paragraphs": [
+        "**Best programme for me:** Computer Science and Engineering. It directly supports software, AI and data science; EE is secondary for hardware/embedded interests. A newer AI-convergence organization may appear in university news, but the 2027 admissions guide does not offer a separate direct undergraduate AI application choice, so it should not be represented as one."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Official programme",
+            "Degree / school",
+            "Structure / prerequisites",
+            "Restrictions"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-3-table-0-row-0",
+              "fields": {
+                "Official programme": "Department of Computer Science and Engineering",
+                "Degree / school": "Bachelor’s; College of Information and Biotechnology",
+                "Structure / prerequisites": "Apply to Engineering; declare major after freshman year. No programme-specific applicant calculus, physics or programming minimum published.",
+                "Restrictions": "No international/female restriction or public quota by major"
+              }
+            },
+            {
+              "id": "audit-unist-block-3-table-0-row-1",
+              "fields": {
+                "Official programme": "Department of Electrical Engineering",
+                "Degree / school": "Bachelor’s; same college in current guide",
+                "Structure / prerequisites": "Secondary route for computer engineering, hardware, embedded systems",
+                "Restrictions": "Same field-level entry"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "Source: [2027 guide PDF](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download).",
+        "One Regular-style round is published; it is not labelled binding."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Date/time",
+            "Zone",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Application opens",
+                "Date/time": "2 Dec 2026, 09:00",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Study in Korea account"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Application + documents",
+                "Date/time": "**22 Jan 2027, 16:00**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Paid/submitted form and two required PDFs"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-2",
+              "fields": {
+                "Event": "Evaluation",
+                "Date/time": "8 Mar–9 Apr 2027",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Monitor contact details"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Interview, if selected",
+                "Date/time": "29 Mar–9 Apr 2027",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Online/on-site details from UNIST; no rescheduling"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-4",
+              "fields": {
+                "Event": "Decision expected",
+                "Date/time": "7 May 2027",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Portal/email"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Registration/deposit",
+                "Date/time": "7–18 May 2027",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Deposit under offer instructions; non-refundable once paid"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Apostilled originals",
+                "Date/time": "After registration, announced separately",
+                "Zone": "—",
+                "Confirmed?": "TBA",
+                "What must be ready": "Final NIS diploma/transcript"
+              }
+            },
+            {
+              "id": "audit-unist-block-4-table-0-row-7",
+              "fields": {
+                "Event": "Housing/visa/orientation",
+                "Date/time": "TBA",
+                "Zone": "—",
+                "Confirmed?": "No",
+                "What must be ready": "After offer"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [
+        "Request transcript, expected-graduation letter, NIS profile and grading scale by **20 November**.",
+        "Final IELTS/TOEFL sitting by **early December**; score available by **20 December**.",
+        "Draft all four essays by **10 December**; substantive revision by **20 December**.",
+        "Build Study in Korea application and compare live fields on **2 December**.",
+        "Final essays/documents by **8 January**; submit **12–15 January**.",
+        "Keep **29 March–9 April** available and monitor email daily."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-6",
+      "title": "D. Platform and fee",
+      "tab": "application",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-6-table-0-row-0",
+              "fields": {
+                "Item": "Platform",
+                "Rule": "Study in Korea"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Programme choice",
+                "Rule": "Choose Engineering or Business; CS major declared later"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Upload format",
+                "Rule": "Required records organized into two PDF files under guide directions"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Editing",
+                "Rule": "A submitted application may require an edit request/portal Edit function and resubmission before deadline; multiple applications are resolved using the latest submission"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Fee",
+                "Rule": "**KRW 50,000**"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Refund / waiver",
+                "Rule": "Non-refundable; no waiver published"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Scholarship fee",
+                "Rule": "None"
+              }
+            },
+            {
+              "id": "audit-unist-block-6-table-0-row-7",
+              "fields": {
+                "Item": "Initial mail",
+                "Rule": "No; upload scans. UNIST may request originals; apostilled records follow admission."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-7",
+      "title": "E. Document checklist",
+      "tab": "documents",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Required?",
+            "Who submits",
+            "When / format",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-7-table-0-row-0",
+              "fields": {
+                "Document": "Study in Korea application",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "By 22 Jan, 16:00 KST",
+                "Notes": "Engineering field"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-1",
+              "fields": {
+                "Document": "Personal statement/study plan",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Four English responses in application",
+                "Notes": "700 words each"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Passport/national ID",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "PDF upload",
+                "Notes": "Applicant citizenship"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-3",
+              "fields": {
+                "Document": "Both parents’ nationality evidence",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "PDF upload",
+                "Notes": "Passports/official ID"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-4",
+              "fields": {
+                "Document": "Parent-child relationship document",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Official record + translation if needed",
+                "Notes": "Birth/family certificate"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-5",
+              "fields": {
+                "Document": "Recent three-year HS transcript",
+                "Required?": "R",
+                "Who submits": "Applicant uploads school-issued record",
+                "When / format": "By deadline",
+                "Notes": "Include Grade 12/current grades and grading context"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-6",
+              "fields": {
+                "Document": "Expected graduation certificate",
+                "Required?": "R if not graduated",
+                "Who submits": "Applicant from school",
+                "When / format": "Principal/school seal",
+                "Notes": "Final record after offer"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-7",
+              "fields": {
+                "Document": "Final NIS certificate/transcript",
+                "Required?": "POST",
+                "Who submits": "Applicant/school",
+                "When / format": "Apostilled/legalized after registration at later deadline",
+                "Notes": "Exact date TBA"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-8",
+              "fields": {
+                "Document": "Official English test",
+                "Required?": "**R**",
+                "Who submits": "Applicant uploads official result",
+                "When / format": "By deadline",
+                "Notes": "TOEFL/IELTS/TEPS/TOEIC; limited nationality exemption"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-9",
+              "fields": {
+                "Document": "SAT/ACT/IB/A-level/AP/national exam",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Supplemental PDF",
+                "Notes": "No minimum published"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-10",
+              "fields": {
+                "Document": "Awards",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Up to 5",
+                "Notes": "Evidence only"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-11",
+              "fields": {
+                "Document": "School profile",
+                "Required?": "O / REC",
+                "Who submits": "Applicant",
+                "When / format": "Supplemental PDF",
+                "Notes": "Explain NIS"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-12",
+              "fields": {
+                "Document": "TOPIK",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Supplemental",
+                "Notes": "Not an English substitute"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-13",
+              "fields": {
+                "Document": "Recommendation/counselor letter",
+                "Required?": "—",
+                "Who submits": "—",
+                "When / format": "—",
+                "Notes": "Not requested in the current guide"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-14",
+              "fields": {
+                "Document": "CV/GitHub/portfolio",
+                "Required?": "—",
+                "Who submits": "—",
+                "When / format": "—",
+                "Notes": "No separate required item; mention only where form allows"
+              }
+            },
+            {
+              "id": "audit-unist-block-7-table-0-row-15",
+              "fields": {
+                "Document": "Medical/visa/insurance",
+                "Required?": "POST",
+                "Who submits": "Applicant",
+                "When / format": "After offer",
+                "Notes": "Details TBA"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-8",
+      "title": "F. NIS route",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "UNIST does not publish NIS-specific grades, Higher Level subject thresholds or a Kazakhstan-specific qualification table.",
+        "An expected-graduation certificate is accepted at application. Submit the NIS school profile and grading scale so the file is not treated as an unexplained ordinary Attestat.",
+        "Predicted NIS results are not expressly addressed. Current Grade 12 records and official expected-graduation evidence are required; optional external academic tests can add comparability.",
+        "The English exemption is nationality-based (US, Canada, UK, Australia, New Zealand, Ireland), not an NIS-medium waiver. A Kazakhstan/NIS applicant must submit an accepted English test.",
+        "Final apostilled records are due after registration at a date announced later; June availability is potentially compatible but needs confirmation."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-10",
+      "title": "Official minimum",
+      "tab": "requirements",
+      "paragraphs": [
+        "Meet citizenship and graduation eligibility, submit official secondary records and a valid accepted English score. No GPA, NIS, Math/science, SAT or IELTS minimum is published."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-11",
+      "title": "Competitive target — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "Strong NIS Math/science grades plus IELTS 7.0–7.5 and a well-evidenced technical profile form a credible file, but UNIST remains competitive. SAT 1300–1350 may help as optional context; it is not an official threshold."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-unist-block-12",
+      "title": "Academic and English test policy",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Test",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-12-table-0-row-0",
+              "fields": {
+                "Test": "SAT/ACT",
+                "Rule": "Optional; no minimum, superscore rule or official code published in the guide"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-1",
+              "fields": {
+                "Test": "IB/A-level/AP/national exam",
+                "Rule": "Optional supplemental evidence"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-2",
+              "fields": {
+                "Test": "IELTS",
+                "Rule": "Required option; no overall/band minimum published"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-3",
+              "fields": {
+                "Test": "TOEFL iBT",
+                "Rule": "Required option; institutional code **8807**"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-4",
+              "fields": {
+                "Test": "TEPS / TOEIC",
+                "Rule": "Accepted English options"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-5",
+              "fields": {
+                "Test": "DET / PTE / Cambridge",
+                "Rule": "Not listed in the current guide; do not assume accepted"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-6",
+              "fields": {
+                "Test": "Validity",
+                "Rule": "English score must be within the guide’s two-year validity window"
+              }
+            },
+            {
+              "id": "audit-unist-block-12-table-0-row-7",
+              "fields": {
+                "Test": "Official agency report",
+                "Rule": "Guide requires an official score document; TOEFL code is provided. Exact IELTS e-delivery procedure should be checked in the live application."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-13",
+      "title": "H. Interview and exams",
+      "tab": "requirements",
+      "paragraphs": [
+        "No routine Math/Physics/programming internal exam is published. UNIST may omit the interview; if invited, it is required, cannot be rescheduled, and can be online or on-site. Questions are based on submitted materials. Current selection weighting for interviewed applicants is **50% document review / 50% interview**."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-14",
+      "title": "I. Recommendations",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**Strategy:** do not burden teachers with a UNIST-specific letter. Use the counselor for official NIS documents/profile, not a recommendation."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Teacher rec",
+            "Counselor rec",
+            "Second rec",
+            "Scholarship rec",
+            "Deadline"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-14-table-0-row-0",
+              "fields": {
+                "Teacher rec": "Not required",
+                "Counselor rec": "Not required",
+                "Second rec": "Not accepted as a listed item",
+                "Scholarship rec": "None published",
+                "Deadline": "—"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-15",
+      "title": "J. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "Source: [official 2027 application form](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download).",
+        "All four are required in the form. No separate scholarship essay or video essay is published."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "#",
+            "Official prompt, faithfully rendered",
+            "Limit / language",
+            "What it evaluates / useful profile area"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-15-table-0-row-0",
+              "fields": {
+                "#": "1",
+                "Official prompt, faithfully rendered": "Explain how you overcame financial/social difficulties or physical/emotional challenges that hindered middle/high-school study.",
+                "Limit / language": "≤700 words, English",
+                "What it evaluates / useful profile area": "Context, resilience and response; use only if materially true"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Объясните, как вы преодолевали финансовые / социальные трудности или физические / эмоциональные сложности, мешавшие учёбе в средней / старшей школе.",
+                "sourceEnglish": "Explain how you overcame financial/social difficulties or physical/emotional challenges that hindered middle/high-school study.",
+                "sourceField": "Official prompt, faithfully rendered",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-unist-block-15-table-0-row-1",
+              "fields": {
+                "#": "2",
+                "Official prompt, faithfully rendered": "Describe distinctive qualities of your school and your special academic interests/abilities during secondary education.",
+                "Limit / language": "≤700 words, English",
+                "What it evaluates / useful profile area": "NIS rigor, intellectual interests, technical strengths"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Опишите особенности вашей школы и свои особые академические интересы / способности во время среднего образования.",
+                "sourceEnglish": "Describe distinctive qualities of your school and your special academic interests/abilities during secondary education.",
+                "sourceField": "Official prompt, faithfully rendered",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-unist-block-15-table-0-row-2",
+              "fields": {
+                "#": "3",
+                "Official prompt, faithfully rendered": "Describe extracurricular activities and work experience.",
+                "Limit / language": "≤700 words, English",
+                "What it evaluates / useful profile area": "Initiative, leadership, projects, research, service and reflection"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Опишите внеучебную деятельность и опыт работы.",
+                "sourceEnglish": "Describe extracurricular activities and work experience.",
+                "sourceField": "Official prompt, faithfully rendered",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-unist-block-15-table-0-row-3",
+              "fields": {
+                "#": "4",
+                "Official prompt, faithfully rendered": "Explain why UNIST, and your specific academic plans/interests and curriculum path for reaching goals.",
+                "Limit / language": "≤700 words, English",
+                "What it evaluates / useful profile area": "Fit, informed planning and CS/AI direction"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Объясните, почему UNIST, ваши конкретные академические планы / интересы и путь по учебному плану для достижения целей.",
+                "sourceEnglish": "Explain why UNIST, and your specific academic plans/interests and curriculum path for reaching goals.",
+                "sourceField": "Official prompt, faithfully rendered",
+                "wording": "paraphrase"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-16",
+      "title": "K. Scholarships and aid",
+      "tab": "funding",
+      "paragraphs": [
+        "Source: [official scholarship page](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do).",
+        "The admission guide permits additional **non-scholarship** offers. Therefore, scholarship coverage is not guaranteed merely by receiving admission; the offer letter controls."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award",
+            "Separate application?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-16-table-0-row-0",
+              "fields": {
+                "Category": "Tuition",
+                "Award": "UNIST tuition scholarship",
+                "Separate application?": "No",
+                "Rule": "All freshmen first term; thereafter full with ≥12 credits and GPA ≥2.7/4.3, with first-year second-term exception at GPA ≥2.0; half tuition with ≥12 credits and GPA ≥2.0"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-1",
+              "fields": {
+                "Category": "Living Gold",
+                "Award": "Merit/living tier",
+                "Separate application?": "No separate form stated; assigned from admission review",
+                "Rule": "KRW 630k/month plus meal support; ≥12 credits and GPA ≥2.7"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-2",
+              "fields": {
+                "Category": "Living Silver",
+                "Award": "Merit/living tier",
+                "Separate application?": "Same",
+                "Rule": "KRW 330k/month plus meal support; ≥12 credits and GPA ≥2.7"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-3",
+              "fields": {
+                "Category": "Dream",
+                "Award": "Lower living tier",
+                "Separate application?": "Same",
+                "Rule": "KRW 130k/month plus meal support; ≥12 credits and GPA ≥2.0"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-4",
+              "fields": {
+                "Category": "Health",
+                "Award": "Insurance reimbursement",
+                "Separate application?": "Proof-based",
+                "Rule": "Up to KRW 75k/month under current page"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-5",
+              "fields": {
+                "Category": "Meals",
+                "Award": "Meal support",
+                "Separate application?": "With assigned scholarship",
+                "Rule": "Two meals/day during semester under current policy"
+              }
+            },
+            {
+              "id": "audit-unist-block-16-table-0-row-6",
+              "fields": {
+                "Category": "Need-based/government",
+                "Award": "No separate international scheme confirmed",
+                "Separate application?": "—",
+                "Rule": "Not published"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-17",
+      "title": "Coverage and real gap",
+      "tab": "funding",
+      "paragraphs": [
+        "No reliable annual gap can be calculated without the assigned tier, Fall 2027 housing rate and scholarship status. [Housing page](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do) confirms campus housing resources but does not publish a degree-applicant four-year guarantee or current admissions-cycle price on the reviewed page."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-unist-block-17-table-0-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "Possible full/half",
+                "Rule": "Depends on term and GPA/credits"
+              }
+            },
+            {
+              "id": "audit-unist-block-17-table-0-row-1",
+              "fields": {
+                "Cost": "Housing",
+                "Covered?": "No explicit waiver",
+                "Rule": "Paid by student unless offer states otherwise"
+              }
+            },
+            {
+              "id": "audit-unist-block-17-table-0-row-2",
+              "fields": {
+                "Cost": "Meals",
+                "Covered?": "Partial",
+                "Rule": "Two meals/day in regular term for scholarship recipients under current policy"
+              }
+            },
+            {
+              "id": "audit-unist-block-17-table-0-row-3",
+              "fields": {
+                "Cost": "Stipend",
+                "Covered?": "Tiered",
+                "Rule": "Gold 630k, Silver 330k, Dream 130k/month"
+              }
+            },
+            {
+              "id": "audit-unist-block-17-table-0-row-4",
+              "fields": {
+                "Cost": "Insurance",
+                "Covered?": "Partial reimbursement",
+                "Rule": "Up to 75k/month with proof"
+              }
+            },
+            {
+              "id": "audit-unist-block-17-table-0-row-5",
+              "fields": {
+                "Cost": "Books, visa, flight, laptop, transport, summer housing",
+                "Covered?": "Not published as covered",
+                "Rule": "Personal cost"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-18",
+      "title": "L. After admission",
+      "tab": "after-admission",
+      "paragraphs": [
+        "Accept and register/pay deposit 7–18 May; submit final apostilled/legalized NIS diploma and transcript at the later announced deadline; supply originals if requested; arrange visa, financial proof, insurance and housing; complete arrival/orientation. Deposit is described as non-refundable; exact amount and final-document dates are TBA."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-19",
+      "title": "M. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Admission difficulty:** Reach / competitive.",
+        "**Full-funding difficulty:** Reach and separate from admission because non-scholarship offers exist and living tiers differ.",
+        "**Fit:** Strong for CSE with broad engineering exploration; essay burden is high but prompts are known."
+      ],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-unist-block-20",
+      "title": "N. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [
+        "NIS predicted-grade treatment; final apostille deadline; IELTS electronic-report process; exact interview medium/duration/questions; scholarship tier selection rule and number of awards; Fall 2027 dorm rate/guarantee; deposit amount; visa/housing dates."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-21",
+      "title": "O. Email question",
+      "tab": "sources",
+      "paragraphs": [
+        "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with my current official transcript and expected-graduation certificate, and submit the final apostilled NIS Certificate after registration? What is the latest final-document date? Please also confirm how an IELTS Academic result should be officially verified for the Study in Korea application."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-unist-block-22",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[Fall 2027 admissions notice](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)",
+        "[Fall 2027 guide](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)",
+        "[2027 application form / essays](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)",
+        "[Scholarships](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)",
+        "[Housing](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do)",
+        "[FAQ](https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do)"
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "audit-unist-official-0",
+      "universityId": "audit-unist",
+      "title": "Application opens",
+      "type": "Opening",
+      "date": "2026-12-02",
+      "endDate": null,
+      "time": "09:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-12-02 09:00 KST",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-1",
+      "universityId": "audit-unist",
+      "title": "Application + documents",
+      "type": "Application",
+      "date": "2027-01-22",
+      "endDate": null,
+      "time": "16:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-22 16:00 KST",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-2",
+      "universityId": "audit-unist",
+      "title": "Review",
+      "type": "Review",
+      "date": "2027-03-08",
+      "endDate": "2027-04-09",
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "range",
+      "evidence": "confirmed",
+      "display": "2027-03-08 — 2027-04-09",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-3",
+      "universityId": "audit-unist",
+      "title": "Selected interviews",
+      "type": "Interview",
+      "date": "2027-03-29",
+      "endDate": "2027-04-09",
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "range",
+      "evidence": "confirmed",
+      "display": "2027-03-29 — 2027-04-09",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-4",
+      "universityId": "audit-unist",
+      "title": "Decision",
+      "type": "Decision",
+      "date": "2027-05-07",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-05-07",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-5",
+      "universityId": "audit-unist",
+      "title": "Registration / non-refundable deposit",
+      "type": "Deposit",
+      "date": "2027-05-07",
+      "endDate": "2027-05-18",
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "range",
+      "evidence": "confirmed",
+      "display": "2027-05-07 — 2027-05-18",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-6",
+      "universityId": "audit-unist",
+      "title": "Final apostilled documents after registration",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Final apostilled documents after registration",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    },
+    {
+      "id": "audit-unist-official-7",
+      "universityId": "audit-unist",
+      "title": "Housing / visa",
+      "type": "Housing",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Housing / visa",
+      "sourceIds": [
+        "audit-unist-source-5",
+        "audit-unist-source-6",
+        "audit-unist-source-7",
+        "audit-unist-source-8",
+        "audit-unist-source-9",
+        "audit-unist-source-10"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-unist-source-5",
+      "title": "Fall 2027 admissions notice",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list"
+    },
+    {
+      "id": "audit-unist-source-6",
+      "title": "Fall 2027 guide",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download"
+    },
+    {
+      "id": "audit-unist-source-7",
+      "title": "2027 application form / essays",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download"
+    },
+    {
+      "id": "audit-unist-source-8",
+      "title": "Scholarships",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do"
+    },
+    {
+      "id": "audit-unist-source-9",
+      "title": "Housing",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/life/housing.do"
+    },
+    {
+      "id": "audit-unist-source-10",
+      "title": "FAQ",
+      "url": "https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do"
+    }
+  ],
+  "sourceFile": "/data/official-fall-2027-2026-10-04.md",
+  "sourceSection": "# 6. UNIST\n\n## A. University snapshot\n\n| Field | Verified answer |\n|---|---|\n| University | Ulsan National Institute of Science and Technology (UNIST) |\n| Country / city / campus | Republic of Korea · Ulsan · UNIST campus |\n| Type | Public STEM institute |\n| Fall 2027 status | **CONFIRMED FOR FALL 2027** |\n| Platform | **Study in Korea** |\n| Application URL | [Official Fall 2027 notice and files](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list) |\n| Best programme | Engineering application field → **Department of Computer Science and Engineering** |\n| Degree / language | Bachelor’s; official FAQ states all classes are conducted in English |\n| Major structure | Apply to Engineering or Business field; declare department/major after first-year exploration |\n| Approximate intake | Guide: approximately **50** international students, with possible additional non-scholarship offers |\n\n## Changes since 13 Sep 2026\n\n- **Correction:** application is through Study in Korea, not an independent UNIST application portal.\n- Current guide confirms **no recommendation letter**, a required English-proficiency score and four English responses of up to 700 words each.\n- The current guide’s approximate quota (~50) conflicts with an FAQ figure (~40); the cycle-specific guide is controlling.\n- The guide explicitly allows additional **non-scholarship** admissions, so an offer does not guarantee the full scholarship package.\n\n## B. Programmes\n\n| Official programme | Degree / school | Structure / prerequisites | Restrictions |\n|---|---|---|---|\n| Department of Computer Science and Engineering | Bachelor’s; College of Information and Biotechnology | Apply to Engineering; declare major after freshman year. No programme-specific applicant calculus, physics or programming minimum published. | No international/female restriction or public quota by major |\n| Department of Electrical Engineering | Bachelor’s; same college in current guide | Secondary route for computer engineering, hardware, embedded systems | Same field-level entry |\n\n**Best programme for me:** Computer Science and Engineering. It directly supports software, AI and data science; EE is secondary for hardware/embedded interests. A newer AI-convergence organization may appear in university news, but the 2027 admissions guide does not offer a separate direct undergraduate AI application choice, so it should not be represented as one.\n\n## C. Application rounds and deadlines\n\nSource: [2027 guide PDF](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download).\n\n| Event | Date/time | Zone | Confirmed? | What must be ready |\n|---|---:|---|---|---|\n| Application opens | 2 Dec 2026, 09:00 | KST | Yes | Study in Korea account |\n| Application + documents | **22 Jan 2027, 16:00** | KST | Yes | Paid/submitted form and two required PDFs |\n| Evaluation | 8 Mar–9 Apr 2027 | — | Yes | Monitor contact details |\n| Interview, if selected | 29 Mar–9 Apr 2027 | — | Yes | Online/on-site details from UNIST; no rescheduling |\n| Decision expected | 7 May 2027 | — | Yes | Portal/email |\n| Registration/deposit | 7–18 May 2027 | — | Yes | Deposit under offer instructions; non-refundable once paid |\n| Apostilled originals | After registration, announced separately | — | TBA | Final NIS diploma/transcript |\n| Housing/visa/orientation | TBA | — | No | After offer |\n\nOne Regular-style round is published; it is not labelled binding.\n\n### My recommended timeline\n\n- Request transcript, expected-graduation letter, NIS profile and grading scale by **20 November**.\n- Final IELTS/TOEFL sitting by **early December**; score available by **20 December**.\n- Draft all four essays by **10 December**; substantive revision by **20 December**.\n- Build Study in Korea application and compare live fields on **2 December**.\n- Final essays/documents by **8 January**; submit **12–15 January**.\n- Keep **29 March–9 April** available and monitor email daily.\n\n## D. Platform and fee\n\n| Item | Rule |\n|---|---|\n| Platform | Study in Korea |\n| Programme choice | Choose Engineering or Business; CS major declared later |\n| Upload format | Required records organized into two PDF files under guide directions |\n| Editing | A submitted application may require an edit request/portal Edit function and resubmission before deadline; multiple applications are resolved using the latest submission |\n| Fee | **KRW 50,000** |\n| Refund / waiver | Non-refundable; no waiver published |\n| Scholarship fee | None |\n| Initial mail | No; upload scans. UNIST may request originals; apostilled records follow admission. |\n\n## E. Document checklist\n\n| Document | Required? | Who submits | When / format | Notes |\n|---|---:|---|---|---|\n| Study in Korea application | R | Applicant | By 22 Jan, 16:00 KST | Engineering field |\n| Personal statement/study plan | R | Applicant | Four English responses in application | 700 words each |\n| Passport/national ID | R | Applicant | PDF upload | Applicant citizenship |\n| Both parents’ nationality evidence | R | Applicant | PDF upload | Passports/official ID |\n| Parent-child relationship document | R | Applicant | Official record + translation if needed | Birth/family certificate |\n| Recent three-year HS transcript | R | Applicant uploads school-issued record | By deadline | Include Grade 12/current grades and grading context |\n| Expected graduation certificate | R if not graduated | Applicant from school | Principal/school seal | Final record after offer |\n| Final NIS certificate/transcript | POST | Applicant/school | Apostilled/legalized after registration at later deadline | Exact date TBA |\n| Official English test | **R** | Applicant uploads official result | By deadline | TOEFL/IELTS/TEPS/TOEIC; limited nationality exemption |\n| SAT/ACT/IB/A-level/AP/national exam | O | Applicant | Supplemental PDF | No minimum published |\n| Awards | O | Applicant | Up to 5 | Evidence only |\n| School profile | O / REC | Applicant | Supplemental PDF | Explain NIS |\n| TOPIK | O | Applicant | Supplemental | Not an English substitute |\n| Recommendation/counselor letter | — | — | — | Not requested in the current guide |\n| CV/GitHub/portfolio | — | — | — | No separate required item; mention only where form allows |\n| Medical/visa/insurance | POST | Applicant | After offer | Details TBA |\n\n## F. NIS route\n\n- UNIST does not publish NIS-specific grades, Higher Level subject thresholds or a Kazakhstan-specific qualification table.\n- An expected-graduation certificate is accepted at application. Submit the NIS school profile and grading scale so the file is not treated as an unexplained ordinary Attestat.\n- Predicted NIS results are not expressly addressed. Current Grade 12 records and official expected-graduation evidence are required; optional external academic tests can add comparability.\n- The English exemption is nationality-based (US, Canada, UK, Australia, New Zealand, Ireland), not an NIS-medium waiver. A Kazakhstan/NIS applicant must submit an accepted English test.\n- Final apostilled records are due after registration at a date announced later; June availability is potentially compatible but needs confirmation.\n\n## G. Academic and testing requirements\n\n### Official minimum\n\nMeet citizenship and graduation eligibility, submit official secondary records and a valid accepted English score. No GPA, NIS, Math/science, SAT or IELTS minimum is published.\n\n### Competitive target — analysis\n\nStrong NIS Math/science grades plus IELTS 7.0–7.5 and a well-evidenced technical profile form a credible file, but UNIST remains competitive. SAT 1300–1350 may help as optional context; it is not an official threshold.\n\n| Test | Rule |\n|---|---|\n| SAT/ACT | Optional; no minimum, superscore rule or official code published in the guide |\n| IB/A-level/AP/national exam | Optional supplemental evidence |\n| IELTS | Required option; no overall/band minimum published |\n| TOEFL iBT | Required option; institutional code **8807** |\n| TEPS / TOEIC | Accepted English options |\n| DET / PTE / Cambridge | Not listed in the current guide; do not assume accepted |\n| Validity | English score must be within the guide’s two-year validity window |\n| Official agency report | Guide requires an official score document; TOEFL code is provided. Exact IELTS e-delivery procedure should be checked in the live application. |\n\n## H. Interview and exams\n\nNo routine Math/Physics/programming internal exam is published. UNIST may omit the interview; if invited, it is required, cannot be rescheduled, and can be online or on-site. Questions are based on submitted materials. Current selection weighting for interviewed applicants is **50% document review / 50% interview**.\n\n## I. Recommendations\n\n| Teacher rec | Counselor rec | Second rec | Scholarship rec | Deadline |\n|---|---|---|---|---|\n| Not required | Not required | Not accepted as a listed item | None published | — |\n\n**Strategy:** do not burden teachers with a UNIST-specific letter. Use the counselor for official NIS documents/profile, not a recommendation.\n\n## J. Essays\n\nSource: [official 2027 application form](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download).\n\n| # | Official prompt, faithfully rendered | Limit / language | What it evaluates / useful profile area |\n|---|---|---|---|\n| 1 | Explain how you overcame financial/social difficulties or physical/emotional challenges that hindered middle/high-school study. | ≤700 words, English | Context, resilience and response; use only if materially true |\n| 2 | Describe distinctive qualities of your school and your special academic interests/abilities during secondary education. | ≤700 words, English | NIS rigor, intellectual interests, technical strengths |\n| 3 | Describe extracurricular activities and work experience. | ≤700 words, English | Initiative, leadership, projects, research, service and reflection |\n| 4 | Explain why UNIST, and your specific academic plans/interests and curriculum path for reaching goals. | ≤700 words, English | Fit, informed planning and CS/AI direction |\n\nAll four are required in the form. No separate scholarship essay or video essay is published.\n\n## K. Scholarships and aid\n\nSource: [official scholarship page](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do).\n\n| Category | Award | Separate application? | Rule |\n|---|---|---:|---|\n| Tuition | UNIST tuition scholarship | No | All freshmen first term; thereafter full with ≥12 credits and GPA ≥2.7/4.3, with first-year second-term exception at GPA ≥2.0; half tuition with ≥12 credits and GPA ≥2.0 |\n| Living Gold | Merit/living tier | No separate form stated; assigned from admission review | KRW 630k/month plus meal support; ≥12 credits and GPA ≥2.7 |\n| Living Silver | Merit/living tier | Same | KRW 330k/month plus meal support; ≥12 credits and GPA ≥2.7 |\n| Dream | Lower living tier | Same | KRW 130k/month plus meal support; ≥12 credits and GPA ≥2.0 |\n| Health | Insurance reimbursement | Proof-based | Up to KRW 75k/month under current page |\n| Meals | Meal support | With assigned scholarship | Two meals/day during semester under current policy |\n| Need-based/government | No separate international scheme confirmed | — | Not published |\n\nThe admission guide permits additional **non-scholarship** offers. Therefore, scholarship coverage is not guaranteed merely by receiving admission; the offer letter controls.\n\n### Coverage and real gap\n\n| Cost | Covered? | Rule |\n|---|---:|---|\n| Tuition | Possible full/half | Depends on term and GPA/credits |\n| Housing | No explicit waiver | Paid by student unless offer states otherwise |\n| Meals | Partial | Two meals/day in regular term for scholarship recipients under current policy |\n| Stipend | Tiered | Gold 630k, Silver 330k, Dream 130k/month |\n| Insurance | Partial reimbursement | Up to 75k/month with proof |\n| Books, visa, flight, laptop, transport, summer housing | Not published as covered | Personal cost |\n\nNo reliable annual gap can be calculated without the assigned tier, Fall 2027 housing rate and scholarship status. [Housing page](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do) confirms campus housing resources but does not publish a degree-applicant four-year guarantee or current admissions-cycle price on the reviewed page.\n\n## L. After admission\n\nAccept and register/pay deposit 7–18 May; submit final apostilled/legalized NIS diploma and transcript at the later announced deadline; supply originals if requested; arrange visa, financial proof, insurance and housing; complete arrival/orientation. Deposit is described as non-refundable; exact amount and final-document dates are TBA.\n\n## M. Strategic assessment — analysis\n\n- **Admission difficulty:** Reach / competitive.\n- **Full-funding difficulty:** Reach and separate from admission because non-scholarship offers exist and living tiers differ.\n- **Fit:** Strong for CSE with broad engineering exploration; essay burden is high but prompts are known.\n\n## N. Still TBA / needs confirmation\n\nNIS predicted-grade treatment; final apostille deadline; IELTS electronic-report process; exact interview medium/duration/questions; scholarship tier selection rule and number of awards; Fall 2027 dorm rate/guarantee; deposit amount; visa/housing dates.\n\n## O. Email question\n\n> I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with my current official transcript and expected-graduation certificate, and submit the final apostilled NIS Certificate after registration? What is the latest final-document date? Please also confirm how an IELTS Academic result should be officially verified for the Study in Korea application.\n\n## Official sources checked\n\n- [Fall 2027 admissions notice](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)\n- [Fall 2027 guide](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)\n- [2027 application form / essays](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)\n- [Scholarships](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)\n- [Housing](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do)\n- [FAQ](https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do)\n\n---",
+  "localizedText": {
+    "1": {
+      "ru": "1",
+      "en": "1"
+    },
+    "2": {
+      "ru": "2",
+      "en": "2"
+    },
+    "3": {
+      "ru": "3",
+      "en": "3"
+    },
+    "4": {
+      "ru": "4",
+      "en": "4"
+    },
+    "South Korea": {
+      "ru": "Южная Корея",
+      "en": "South Korea"
+    },
+    "Ulsan": {
+      "ru": "Ульсан",
+      "en": "Ulsan"
+    },
+    "**Study in Korea**": {
+      "ru": "**Study in Korea**",
+      "en": "**Study in Korea**"
+    },
+    "Department of Computer Science and Engineering": {
+      "ru": "Department of Computer Science and Engineering",
+      "en": "Department of Computer Science and Engineering"
+    },
+    "Department of Electrical Engineering": {
+      "ru": "Department of Electrical Engineering",
+      "en": "Department of Electrical Engineering"
+    },
+    "Tuition + tiered living scholarship; non-scholarship offers possible · dorm paid": {
+      "ru": "Покрытие обучения + разные уровни поддержки проживания; возможны офферы без стипендии · общежитие платное",
+      "en": "Tuition + tiered living scholarship; non-scholarship offers possible · dorm paid"
+    },
+    "Reach / competitive.": {
+      "ru": "Высокая конкурсность (Reach / competitive).",
+      "en": "Reach / competitive."
+    },
+    "Reach and separate from admission because non-scholarship offers exist and living tiers differ.": {
+      "ru": "Высокая конкурсность; финансирование отдельно от поступления, поскольку бывают офферы без стипендии и разные уровни выплат.",
+      "en": "Reach and separate from admission because non-scholarship offers exist and living tiers differ."
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Verified answer": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Ulsan National Institute of Science and Technology (UNIST)": {
+      "ru": "Ulsan National Institute of Science and Technology (UNIST)",
+      "en": "Ulsan National Institute of Science and Technology (UNIST)"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "Republic of Korea · Ulsan · UNIST campus": {
+      "ru": "Республика Корея · Ульсан · кампус UNIST",
+      "en": "Republic of Korea · Ulsan · UNIST campus"
+    },
+    "Type": {
+      "ru": "Тип",
+      "en": "Type"
+    },
+    "Public STEM institute": {
+      "ru": "Государственный институт науки и технологий",
+      "en": "Public STEM institute"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "**CONFIRMED FOR FALL 2027**": {
+      "ru": "**ПОДТВЕРЖДЕНО ДЛЯ FALL 2027**",
+      "en": "**CONFIRMED FOR FALL 2027**"
+    },
+    "Platform": {
+      "ru": "Платформа",
+      "en": "Platform"
+    },
+    "Application URL": {
+      "ru": "Ссылка для подачи",
+      "en": "Application URL"
+    },
+    "[Official Fall 2027 notice and files](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)": {
+      "ru": "[Официальное объявление и файлы Fall 2027](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)",
+      "en": "[Official Fall 2027 notice and files](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)"
+    },
+    "Best programme": {
+      "ru": "Наиболее подходящая программа",
+      "en": "Best programme"
+    },
+    "Engineering application field → **Department of Computer Science and Engineering**": {
+      "ru": "Подача по направлению Engineering → **Department of Computer Science and Engineering**",
+      "en": "Engineering application field → **Department of Computer Science and Engineering**"
+    },
+    "Degree / language": {
+      "ru": "Степень / язык обучения",
+      "en": "Degree / language"
+    },
+    "Bachelor’s; official FAQ states all classes are conducted in English": {
+      "ru": "Бакалавриат; официальные FAQ сообщают, что все занятия проводятся на английском",
+      "en": "Bachelor’s; official FAQ states all classes are conducted in English"
+    },
+    "Major structure": {
+      "ru": "Выбор специальности",
+      "en": "Major structure"
+    },
+    "Apply to Engineering or Business field; declare department/major after first-year exploration": {
+      "ru": "Подача на Engineering или Business; подразделение / специальность выбирают после знакомства с направлениями на первом курсе",
+      "en": "Apply to Engineering or Business field; declare department/major after first-year exploration"
+    },
+    "Approximate intake": {
+      "ru": "Приблизительное число мест",
+      "en": "Approximate intake"
+    },
+    "Guide: approximately **50** international students, with possible additional non-scholarship offers": {
+      "ru": "Руководство: около **50** иностранных студентов, возможно дополнительное зачисление без стипендии",
+      "en": "Guide: approximately **50** international students, with possible additional non-scholarship offers"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "**Correction:** application is through Study in Korea, not an independent UNIST application portal.": {
+      "ru": "**Исправление:** подача через Study in Korea, не независимый портал UNIST.",
+      "en": "**Correction:** application is through Study in Korea, not an independent UNIST application portal."
+    },
+    "Current guide confirms **no recommendation letter**, a required English-proficiency score and four English responses of up to 700 words each.": {
+      "ru": "Действующее руководство подтверждает: **рекомендательные письма не нужны**, результат английского обязателен, четыре ответа на английском — до 700 слов каждый.",
+      "en": "Current guide confirms **no recommendation letter**, a required English-proficiency score and four English responses of up to 700 words each."
+    },
+    "The current guide’s approximate quota (~50) conflicts with an FAQ figure (~40); the cycle-specific guide is controlling.": {
+      "ru": "Приблизительная квота руководства (~50) отличается от FAQ (~40); приоритет у руководства конкретного набора.",
+      "en": "The current guide’s approximate quota (~50) conflicts with an FAQ figure (~40); the cycle-specific guide is controlling."
+    },
+    "The guide explicitly allows additional **non-scholarship** admissions, so an offer does not guarantee the full scholarship package.": {
+      "ru": "Руководство прямо допускает дополнительное зачисление **без стипендии**, поэтому оффер не гарантирует полный пакет поддержки.",
+      "en": "The guide explicitly allows additional **non-scholarship** admissions, so an offer does not guarantee the full scholarship package."
+    },
+    "Programmes": {
+      "ru": "Программы",
+      "en": "Programmes"
+    },
+    "**Best programme for me:** Computer Science and Engineering. It directly supports software, AI and data science; EE is secondary for hardware/embedded interests. A newer AI-convergence organization may appear in university news, but the 2027 admissions guide does not offer a separate direct undergraduate AI application choice, so it should not be represented as one.": {
+      "ru": "**Наиболее подходящая программа — анализ:** Computer Science and Engineering поддерживает разработку, AI и data science. EE — второй вариант для аппаратных / встроенных систем. Новости могут упоминать новую AI-конвергенцию, но руководство 2027 не предлагает отдельный прямой выбор бакалавриата AI; нельзя показывать его как такой вариант.",
+      "en": "**Best programme for me:** Computer Science and Engineering. It directly supports software, AI and data science; EE is secondary for hardware/embedded interests. A newer AI-convergence organization may appear in university news, but the 2027 admissions guide does not offer a separate direct undergraduate AI application choice, so it should not be represented as one."
+    },
+    "Official programme": {
+      "ru": "Официальная программа",
+      "en": "Official programme"
+    },
+    "Degree / school": {
+      "ru": "Степень / школа",
+      "en": "Degree / school"
+    },
+    "Structure / prerequisites": {
+      "ru": "Структура / обязательные предметы",
+      "en": "Structure / prerequisites"
+    },
+    "Restrictions": {
+      "ru": "Ограничения",
+      "en": "Restrictions"
+    },
+    "Bachelor’s; College of Information and Biotechnology": {
+      "ru": "Бакалавриат; College of Information and Biotechnology",
+      "en": "Bachelor’s; College of Information and Biotechnology"
+    },
+    "Apply to Engineering; declare major after freshman year. No programme-specific applicant calculus, physics or programming minimum published.": {
+      "ru": "Подача на Engineering; специальность после первого курса. Минимум для поступающих по математическому анализу, физике или программированию отдельно не опубликован.",
+      "en": "Apply to Engineering; declare major after freshman year. No programme-specific applicant calculus, physics or programming minimum published."
+    },
+    "No international/female restriction or public quota by major": {
+      "ru": "Ограничения для иностранцев / женщин и публичная квота по специальностям отсутствуют",
+      "en": "No international/female restriction or public quota by major"
+    },
+    "Bachelor’s; same college in current guide": {
+      "ru": "Бакалавриат; тот же колледж в текущем руководстве",
+      "en": "Bachelor’s; same college in current guide"
+    },
+    "Secondary route for computer engineering, hardware, embedded systems": {
+      "ru": "Второй путь для компьютерной инженерии, аппаратных / встроенных систем",
+      "en": "Secondary route for computer engineering, hardware, embedded systems"
+    },
+    "Same field-level entry": {
+      "ru": "То же поступление на общее направление",
+      "en": "Same field-level entry"
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "Source: [2027 guide PDF](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download).": {
+      "ru": "Источник: [руководство 2027 PDF](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download).",
+      "en": "Source: [2027 guide PDF](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)."
+    },
+    "One Regular-style round is published; it is not labelled binding.": {
+      "ru": "Опубликован один раунд по типу Regular; он не назван binding.",
+      "en": "One Regular-style round is published; it is not labelled binding."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Date/time": {
+      "ru": "Дата / время",
+      "en": "Date/time"
+    },
+    "Zone": {
+      "ru": "Часовой пояс",
+      "en": "Zone"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Application opens": {
+      "ru": "Открытие подачи заявок",
+      "en": "Application opens"
+    },
+    "2 Dec 2026, 09:00": {
+      "ru": "2 декабря 2026, 09:00",
+      "en": "2 Dec 2026, 09:00"
+    },
+    "KST": {
+      "ru": "KST",
+      "en": "KST"
+    },
+    "Yes": {
+      "ru": "Да",
+      "en": "Yes"
+    },
+    "Study in Korea account": {
+      "ru": "Аккаунт Study in Korea",
+      "en": "Study in Korea account"
+    },
+    "Application + documents": {
+      "ru": "Заявка + документы",
+      "en": "Application + documents"
+    },
+    "**22 Jan 2027, 16:00**": {
+      "ru": "**22 января 2027, 16:00**",
+      "en": "**22 Jan 2027, 16:00**"
+    },
+    "Paid/submitted form and two required PDFs": {
+      "ru": "Оплаченная / отправленная форма и два обязательных PDF",
+      "en": "Paid/submitted form and two required PDFs"
+    },
+    "Evaluation": {
+      "ru": "Рассмотрение",
+      "en": "Evaluation"
+    },
+    "8 Mar–9 Apr 2027": {
+      "ru": "8 марта – 9 апреля 2027",
+      "en": "8 Mar – 9 Apr 2027"
+    },
+    "—": {
+      "ru": "—",
+      "en": "—"
+    },
+    "Monitor contact details": {
+      "ru": "Проверять актуальность контактов",
+      "en": "Monitor contact details"
+    },
+    "Interview, if selected": {
+      "ru": "Интервью для отобранных кандидатов",
+      "en": "Interview, if selected"
+    },
+    "29 Mar–9 Apr 2027": {
+      "ru": "29 марта – 9 апреля 2027",
+      "en": "29 Mar – 9 Apr 2027"
+    },
+    "Online/on-site details from UNIST; no rescheduling": {
+      "ru": "Инструкции UNIST для онлайн / очного формата; перенести нельзя",
+      "en": "Online/on-site details from UNIST; no rescheduling"
+    },
+    "Decision expected": {
+      "ru": "Ожидаемое решение",
+      "en": "Decision expected"
+    },
+    "7 May 2027": {
+      "ru": "7 мая 2027",
+      "en": "7 May 2027"
+    },
+    "Portal/email": {
+      "ru": "Портал / email",
+      "en": "Portal/email"
+    },
+    "Registration/deposit": {
+      "ru": "Зачисление / депозит",
+      "en": "Registration/deposit"
+    },
+    "7–18 May 2027": {
+      "ru": "7–18 мая 2027",
+      "en": "7–18 May 2027"
+    },
+    "Deposit under offer instructions; non-refundable once paid": {
+      "ru": "Депозит по инструкции оффера; после оплаты невозвратный",
+      "en": "Deposit under offer instructions; non-refundable once paid"
+    },
+    "Apostilled originals": {
+      "ru": "Оригиналы с апостилем",
+      "en": "Apostilled originals"
+    },
+    "After registration, announced separately": {
+      "ru": "После регистрации; дату сообщат отдельно",
+      "en": "After registration, announced separately"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "Final NIS diploma/transcript": {
+      "ru": "Итоговый диплом / транскрипт NIS",
+      "en": "Final NIS diploma/transcript"
+    },
+    "Housing/visa/orientation": {
+      "ru": "Проживание / виза / ориентация",
+      "en": "Housing/visa/orientation"
+    },
+    "No": {
+      "ru": "Нет",
+      "en": "No"
+    },
+    "After offer": {
+      "ru": "После оффера",
+      "en": "After offer"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "Request transcript, expected-graduation letter, NIS profile and grading scale by **20 November**.": {
+      "ru": "Запросить транскрипт, письмо об ожидаемом выпуске, профиль NIS и шкалу оценок к **20 ноября**.",
+      "en": "Request transcript, expected-graduation letter, NIS profile and grading scale by **20 November**."
+    },
+    "Final IELTS/TOEFL sitting by **early December**; score available by **20 December**.": {
+      "ru": "Последняя сдача IELTS/TOEFL — **начало декабря**; результат к **20 декабря**.",
+      "en": "Final IELTS/TOEFL sitting by **early December**; score available by **20 December**."
+    },
+    "Draft all four essays by **10 December**; substantive revision by **20 December**.": {
+      "ru": "Черновики всех четырёх эссе к **10 декабря**; содержательная правка к **20 декабря**.",
+      "en": "Draft all four essays by **10 December**; substantive revision by **20 December**."
+    },
+    "Build Study in Korea application and compare live fields on **2 December**.": {
+      "ru": "Создать заявку Study in Korea и сравнить действующие поля **2 декабря**.",
+      "en": "Build Study in Korea application and compare live fields on **2 December**."
+    },
+    "Final essays/documents by **8 January**; submit **12–15 January**.": {
+      "ru": "Завершить эссе / документы к **8 января**; подать **12–15 января**.",
+      "en": "Final essays/documents by **8 January**; submit **12–15 January**."
+    },
+    "Keep **29 March–9 April** available and monitor email daily.": {
+      "ru": "Оставить **29 марта – 9 апреля** свободными и проверять email ежедневно.",
+      "en": "Keep **29 March–9 April** available and monitor email daily."
+    },
+    "Platform and fee": {
+      "ru": "Платформа и сбор",
+      "en": "Platform and fee"
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Rule": {
+      "ru": "Правило",
+      "en": "Rule"
+    },
+    "Study in Korea": {
+      "ru": "Study in Korea",
+      "en": "Study in Korea"
+    },
+    "Programme choice": {
+      "ru": "Выбор программы",
+      "en": "Programme choice"
+    },
+    "Choose Engineering or Business; CS major declared later": {
+      "ru": "Выбрать Engineering или Business; CS выбирается позднее",
+      "en": "Choose Engineering or Business; CS major declared later"
+    },
+    "Upload format": {
+      "ru": "Формат загрузки",
+      "en": "Upload format"
+    },
+    "Required records organized into two PDF files under guide directions": {
+      "ru": "Обязательные документы организованы в два PDF по инструкции руководства",
+      "en": "Required records organized into two PDF files under guide directions"
+    },
+    "Editing": {
+      "ru": "Редактирование",
+      "en": "Editing"
+    },
+    "A submitted application may require an edit request/portal Edit function and resubmission before deadline; multiple applications are resolved using the latest submission": {
+      "ru": "Для правок отправленной заявки могут потребоваться запрос / функция Edit портала и повторная отправка до дедлайна; при нескольких заявках используется последняя отправленная",
+      "en": "A submitted application may require an edit request/portal Edit function and resubmission before deadline; multiple applications are resolved using the latest submission"
+    },
+    "Fee": {
+      "ru": "Сбор",
+      "en": "Fee"
+    },
+    "**KRW 50,000**": {
+      "ru": "**KRW 50,000**",
+      "en": "**KRW 50,000**"
+    },
+    "Refund / waiver": {
+      "ru": "Возврат / освобождение от оплаты",
+      "en": "Refund / waiver"
+    },
+    "Non-refundable; no waiver published": {
+      "ru": "Невозвратный; освобождение от оплаты не опубликовано",
+      "en": "Non-refundable; no waiver published"
+    },
+    "Scholarship fee": {
+      "ru": "Сбор за заявку на стипендию",
+      "en": "Scholarship fee"
+    },
+    "None": {
+      "ru": "Нет",
+      "en": "None"
+    },
+    "Initial mail": {
+      "ru": "Первоначальная почтовая отправка",
+      "en": "Initial mail"
+    },
+    "No; upload scans. UNIST may request originals; apostilled records follow admission.": {
+      "ru": "Нет; загрузить сканы. UNIST может запросить оригиналы; документы с апостилем предоставляются после поступления.",
+      "en": "No; upload scans. UNIST may request originals; apostilled records follow admission."
+    },
+    "Document checklist": {
+      "ru": "Список документов",
+      "en": "Document checklist"
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Required?": {
+      "ru": "Обязательность",
+      "en": "Required?"
+    },
+    "Who submits": {
+      "ru": "Кто отправляет",
+      "en": "Who submits"
+    },
+    "When / format": {
+      "ru": "Когда / формат",
+      "en": "When / format"
+    },
+    "Notes": {
+      "ru": "Примечания",
+      "en": "Notes"
+    },
+    "Study in Korea application": {
+      "ru": "Заявка Study in Korea",
+      "en": "Study in Korea application"
+    },
+    "R": {
+      "ru": "Обязательно",
+      "en": "Required"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "By 22 Jan, 16:00 KST": {
+      "ru": "До 22 января, 16:00 KST",
+      "en": "By 22 Jan, 16:00 KST"
+    },
+    "Engineering field": {
+      "ru": "Направление Engineering",
+      "en": "Engineering field"
+    },
+    "Personal statement/study plan": {
+      "ru": "Personal Statement / учебный план",
+      "en": "Personal statement/study plan"
+    },
+    "Four English responses in application": {
+      "ru": "Четыре ответа на английском в заявке",
+      "en": "Four English responses in application"
+    },
+    "700 words each": {
+      "ru": "По 700 слов",
+      "en": "700 words each"
+    },
+    "Passport/national ID": {
+      "ru": "Паспорт / национальное удостоверение личности",
+      "en": "Passport/national ID"
+    },
+    "PDF upload": {
+      "ru": "Загрузка PDF",
+      "en": "PDF upload"
+    },
+    "Applicant citizenship": {
+      "ru": "Гражданство заявительницы",
+      "en": "Applicant citizenship"
+    },
+    "Both parents’ nationality evidence": {
+      "ru": "Подтверждение гражданства обоих родителей",
+      "en": "Both parents’ nationality evidence"
+    },
+    "Passports/official ID": {
+      "ru": "Паспорта / официальные удостоверения",
+      "en": "Passports/official ID"
+    },
+    "Parent-child relationship document": {
+      "ru": "Документ о связи родителей с ребёнком",
+      "en": "Parent-child relationship document"
+    },
+    "Official record + translation if needed": {
+      "ru": "Официальный документ + перевод при необходимости",
+      "en": "Official record + translation if needed"
+    },
+    "Birth/family certificate": {
+      "ru": "Свидетельство о рождении / составе семьи",
+      "en": "Birth/family certificate"
+    },
+    "Recent three-year HS transcript": {
+      "ru": "Транскрипт старшей школы за последние три года",
+      "en": "Recent three-year HS transcript"
+    },
+    "Applicant uploads school-issued record": {
+      "ru": "Заявительница загружает выданный школой документ",
+      "en": "Applicant uploads school-issued record"
+    },
+    "By deadline": {
+      "ru": "До дедлайна",
+      "en": "By deadline"
+    },
+    "Include Grade 12/current grades and grading context": {
+      "ru": "Включить Grade 12 / текущие оценки и контекст оценивания",
+      "en": "Include Grade 12/current grades and grading context"
+    },
+    "Expected graduation certificate": {
+      "ru": "Справка об ожидаемом выпуске",
+      "en": "Expected graduation certificate"
+    },
+    "R if not graduated": {
+      "ru": "R — если школа ещё не окончена",
+      "en": "R if not graduated"
+    },
+    "Applicant from school": {
+      "ru": "Заявительница получает у школы",
+      "en": "Applicant from school"
+    },
+    "Principal/school seal": {
+      "ru": "Директор / печать школы",
+      "en": "Principal/school seal"
+    },
+    "Final record after offer": {
+      "ru": "Итоговый документ после оффера",
+      "en": "Final record after offer"
+    },
+    "Final NIS certificate/transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS certificate/transcript"
+    },
+    "POST": {
+      "ru": "После поступления",
+      "en": "POST"
+    },
+    "Applicant/school": {
+      "ru": "Заявительница / школа",
+      "en": "Applicant/school"
+    },
+    "Apostilled/legalized after registration at later deadline": {
+      "ru": "Апостиль / легализация после регистрации к более позднему сроку",
+      "en": "Apostilled/legalized after registration at later deadline"
+    },
+    "Exact date TBA": {
+      "ru": "Точная дата пока не опубликована",
+      "en": "Exact date TBA"
+    },
+    "Official English test": {
+      "ru": "Официальный тест английского",
+      "en": "Official English test"
+    },
+    "**R**": {
+      "ru": "**Обязательно**",
+      "en": "**Required**"
+    },
+    "Applicant uploads official result": {
+      "ru": "Заявительница загружает официальный результат",
+      "en": "Applicant uploads official result"
+    },
+    "TOEFL/IELTS/TEPS/TOEIC; limited nationality exemption": {
+      "ru": "TOEFL/IELTS/TEPS/TOEIC; ограниченное исключение по гражданству",
+      "en": "TOEFL/IELTS/TEPS/TOEIC; limited nationality exemption"
+    },
+    "SAT/ACT/IB/A-level/AP/national exam": {
+      "ru": "SAT/ACT/IB/A-level/AP/national exam",
+      "en": "SAT/ACT/IB/A-level/AP/national exam"
+    },
+    "O": {
+      "ru": "Необязательно",
+      "en": "Optional"
+    },
+    "Supplemental PDF": {
+      "ru": "Дополнительный PDF",
+      "en": "Supplemental PDF"
+    },
+    "No minimum published": {
+      "ru": "Минимум не опубликован",
+      "en": "No minimum published"
+    },
+    "Awards": {
+      "ru": "Награды",
+      "en": "Awards"
+    },
+    "Up to 5": {
+      "ru": "До 5",
+      "en": "Up to 5"
+    },
+    "Evidence only": {
+      "ru": "Только подтверждения",
+      "en": "Evidence only"
+    },
+    "School profile": {
+      "ru": "Профиль школы",
+      "en": "School profile"
+    },
+    "O / REC": {
+      "ru": "O / REC — необязательно / рекомендуется",
+      "en": "O / REC"
+    },
+    "Explain NIS": {
+      "ru": "Объяснить NIS",
+      "en": "Explain NIS"
+    },
+    "TOPIK": {
+      "ru": "TOPIK",
+      "en": "TOPIK"
+    },
+    "Supplemental": {
+      "ru": "Дополнительно",
+      "en": "Supplemental"
+    },
+    "Not an English substitute": {
+      "ru": "Не заменяет английский",
+      "en": "Not an English substitute"
+    },
+    "Recommendation/counselor letter": {
+      "ru": "Рекомендательное письмо учителя / консультанта",
+      "en": "Recommendation/counselor letter"
+    },
+    "Not requested in the current guide": {
+      "ru": "В текущем руководстве не запрашивается",
+      "en": "Not requested in the current guide"
+    },
+    "CV/GitHub/portfolio": {
+      "ru": "CV / GitHub / портфолио",
+      "en": "CV/GitHub/portfolio"
+    },
+    "No separate required item; mention only where form allows": {
+      "ru": "Отдельного обязательного пункта нет; упоминать только в разрешённых полях",
+      "en": "No separate required item; mention only where form allows"
+    },
+    "Medical/visa/insurance": {
+      "ru": "Медицинские документы / виза / страховка",
+      "en": "Medical/visa/insurance"
+    },
+    "Details TBA": {
+      "ru": "Подробности пока не опубликованы",
+      "en": "Details TBA"
+    },
+    "NIS route": {
+      "ru": "Подача с квалификацией NIS",
+      "en": "NIS route"
+    },
+    "UNIST does not publish NIS-specific grades, Higher Level subject thresholds or a Kazakhstan-specific qualification table.": {
+      "ru": "UNIST не публикует отдельных оценок NIS, порогов Higher Level или таблицы квалификаций Казахстана.",
+      "en": "UNIST does not publish NIS-specific grades, Higher Level subject thresholds or a Kazakhstan-specific qualification table."
+    },
+    "An expected-graduation certificate is accepted at application. Submit the NIS school profile and grading scale so the file is not treated as an unexplained ordinary Attestat.": {
+      "ru": "Подтверждение ожидаемого выпуска принимается при подаче. Предоставьте профиль школы NIS и шкалу оценок, чтобы заявку не рассматривали как необъяснённый обычный Attestat.",
+      "en": "An expected-graduation certificate is accepted at application. Submit the NIS school profile and grading scale so the file is not treated as an unexplained ordinary Attestat."
+    },
+    "Predicted NIS results are not expressly addressed. Current Grade 12 records and official expected-graduation evidence are required; optional external academic tests can add comparability.": {
+      "ru": "Прогнозные NIS прямо не описаны. Нужны текущие документы Grade 12 и официальное подтверждение ожидаемого выпуска; необязательные внешние тесты повышают сопоставимость.",
+      "en": "Predicted NIS results are not expressly addressed. Current Grade 12 records and official expected-graduation evidence are required; optional external academic tests can add comparability."
+    },
+    "The English exemption is nationality-based (US, Canada, UK, Australia, New Zealand, Ireland), not an NIS-medium waiver. A Kazakhstan/NIS applicant must submit an accepted English test.": {
+      "ru": "Освобождение от английского зависит от гражданства (США, Канада, Великобритания, Австралия, Новая Зеландия, Ирландия), не языка NIS. Кандидату из Казахстана / NIS нужен принимаемый тест английского.",
+      "en": "The English exemption is nationality-based (US, Canada, UK, Australia, New Zealand, Ireland), not an NIS-medium waiver. A Kazakhstan/NIS applicant must submit an accepted English test."
+    },
+    "Final apostilled records are due after registration at a date announced later; June availability is potentially compatible but needs confirmation.": {
+      "ru": "Итоговые документы с апостилем подаются после регистрации к объявляемой позднее дате; июньский выпуск потенциально совместим, но требует подтверждения.",
+      "en": "Final apostilled records are due after registration at a date announced later; June availability is potentially compatible but needs confirmation."
+    },
+    "Official minimum": {
+      "ru": "Официальный минимум",
+      "en": "Official minimum"
+    },
+    "Meet citizenship and graduation eligibility, submit official secondary records and a valid accepted English score. No GPA, NIS, Math/science, SAT or IELTS minimum is published.": {
+      "ru": "Соответствовать гражданству и выпуску, предоставить официальные школьные документы и действующий принимаемый результат английского. Минимум GPA, NIS, математики / естественных наук, SAT или IELTS не опубликован.",
+      "en": "Meet citizenship and graduation eligibility, submit official secondary records and a valid accepted English score. No GPA, NIS, Math/science, SAT or IELTS minimum is published."
+    },
+    "Competitive target — analysis": {
+      "ru": "Конкурентный ориентир — анализ",
+      "en": "Competitive target — analysis"
+    },
+    "Strong NIS Math/science grades plus IELTS 7.0–7.5 and a well-evidenced technical profile form a credible file, but UNIST remains competitive. SAT 1300–1350 may help as optional context; it is not an official threshold.": {
+      "ru": "Сильные оценки NIS по математике / естественным наукам, IELTS 7.0–7.5 и проверяемый технический профиль дают убедительную заявку, но конкурс остаётся высоким. SAT 1300–1350 может помочь как необязательный контекст, не официальный порог.",
+      "en": "Strong NIS Math/science grades plus IELTS 7.0–7.5 and a well-evidenced technical profile form a credible file, but UNIST remains competitive. SAT 1300–1350 may help as optional context; it is not an official threshold."
+    },
+    "Academic and English test policy": {
+      "ru": "Академические тесты и подтверждение английского",
+      "en": "Academic and English test policy"
+    },
+    "Test": {
+      "ru": "Тест",
+      "en": "Test"
+    },
+    "SAT/ACT": {
+      "ru": "SAT/ACT",
+      "en": "SAT/ACT"
+    },
+    "Optional; no minimum, superscore rule or official code published in the guide": {
+      "ru": "Необязательно; минимум, superscore и официальный код в руководстве не опубликованы",
+      "en": "Optional; no minimum, superscore rule or official code published in the guide"
+    },
+    "IB/A-level/AP/national exam": {
+      "ru": "IB/A-level/AP/national exam",
+      "en": "IB/A-level/AP/national exam"
+    },
+    "Optional supplemental evidence": {
+      "ru": "Необязательное дополнительное подтверждение",
+      "en": "Optional supplemental evidence"
+    },
+    "IELTS": {
+      "ru": "IELTS",
+      "en": "IELTS"
+    },
+    "Required option; no overall/band minimum published": {
+      "ru": "Один из обязательных вариантов; общий / компонентный минимум не опубликован",
+      "en": "Required option; no overall/band minimum published"
+    },
+    "TOEFL iBT": {
+      "ru": "TOEFL iBT",
+      "en": "TOEFL iBT"
+    },
+    "Required option; institutional code **8807**": {
+      "ru": "Один из обязательных вариантов; код учреждения **8807**",
+      "en": "Required option; institutional code **8807**"
+    },
+    "TEPS / TOEIC": {
+      "ru": "TEPS / TOEIC",
+      "en": "TEPS / TOEIC"
+    },
+    "Accepted English options": {
+      "ru": "Принимаемые варианты английского",
+      "en": "Accepted English options"
+    },
+    "DET / PTE / Cambridge": {
+      "ru": "DET / PTE / Cambridge",
+      "en": "DET / PTE / Cambridge"
+    },
+    "Not listed in the current guide; do not assume accepted": {
+      "ru": "Не перечислены в текущем руководстве; не предполагать, что принимаются",
+      "en": "Not listed in the current guide; do not assume accepted"
+    },
+    "Validity": {
+      "ru": "Срок действия",
+      "en": "Validity"
+    },
+    "English score must be within the guide’s two-year validity window": {
+      "ru": "Результат английского должен попадать в двухлетний срок действия руководства",
+      "en": "English score must be within the guide’s two-year validity window"
+    },
+    "Official agency report": {
+      "ru": "Официальная отправка агентством",
+      "en": "Official agency report"
+    },
+    "Guide requires an official score document; TOEFL code is provided. Exact IELTS e-delivery procedure should be checked in the live application.": {
+      "ru": "Руководство требует официальный документ результата; код TOEFL указан. Точный порядок электронной отправки IELTS проверить в действующей заявке.",
+      "en": "Guide requires an official score document; TOEFL code is provided. Exact IELTS e-delivery procedure should be checked in the live application."
+    },
+    "Interview and exams": {
+      "ru": "Интервью и экзамены",
+      "en": "Interview and exams"
+    },
+    "No routine Math/Physics/programming internal exam is published. UNIST may omit the interview; if invited, it is required, cannot be rescheduled, and can be online or on-site. Questions are based on submitted materials. Current selection weighting for interviewed applicants is **50% document review / 50% interview**.": {
+      "ru": "Регулярный внутренний экзамен по математике / физике / программированию не опубликован. UNIST может не проводить интервью; при приглашении оно обязательно, не переносится и может быть онлайн или очным. Вопросы основаны на заявке. Текущий вес для проходящих интервью: **50% документы / 50% интервью**.",
+      "en": "No routine Math/Physics/programming internal exam is published. UNIST may omit the interview; if invited, it is required, cannot be rescheduled, and can be online or on-site. Questions are based on submitted materials. Current selection weighting for interviewed applicants is **50% document review / 50% interview**."
+    },
+    "Recommendations": {
+      "ru": "Рекомендательные письма",
+      "en": "Recommendations"
+    },
+    "**Strategy:** do not burden teachers with a UNIST-specific letter. Use the counselor for official NIS documents/profile, not a recommendation.": {
+      "ru": "**Стратегия — анализ:** не нагружать учителей отдельным письмом UNIST. Консультант готовит официальные документы / профиль NIS, не рекомендацию.",
+      "en": "**Strategy:** do not burden teachers with a UNIST-specific letter. Use the counselor for official NIS documents/profile, not a recommendation."
+    },
+    "Teacher rec": {
+      "ru": "Письмо учителя",
+      "en": "Teacher rec"
+    },
+    "Counselor rec": {
+      "ru": "Письмо консультанта",
+      "en": "Counselor rec"
+    },
+    "Second rec": {
+      "ru": "Второе письмо",
+      "en": "Second rec"
+    },
+    "Scholarship rec": {
+      "ru": "Письмо для стипендии",
+      "en": "Scholarship rec"
+    },
+    "Deadline": {
+      "ru": "Дедлайн",
+      "en": "Deadline"
+    },
+    "Not required": {
+      "ru": "Не требуется",
+      "en": "Not required"
+    },
+    "Not accepted as a listed item": {
+      "ru": "Не принимается как перечисленный пункт",
+      "en": "Not accepted as a listed item"
+    },
+    "None published": {
+      "ru": "Не опубликован",
+      "en": "None published"
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "Source: [official 2027 application form](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download).": {
+      "ru": "Источник: [официальная форма заявки 2027](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download).",
+      "en": "Source: [official 2027 application form](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)."
+    },
+    "All four are required in the form. No separate scholarship essay or video essay is published.": {
+      "ru": "Все четыре ответа обязательны в форме. Отдельное эссе на стипендию или видеоэссе не опубликованы.",
+      "en": "All four are required in the form. No separate scholarship essay or video essay is published."
+    },
+    "#": {
+      "ru": "#",
+      "en": "#"
+    },
+    "Official prompt, faithfully rendered": {
+      "ru": "Опубликованный вопрос в передаче аудита, не заверенный дословный оригинал",
+      "en": "Official prompt, faithfully rendered"
+    },
+    "Limit / language": {
+      "ru": "Объём / язык",
+      "en": "Limit / language"
+    },
+    "What it evaluates / useful profile area": {
+      "ru": "Что оценивается / подходящий опыт",
+      "en": "What it evaluates / useful profile area"
+    },
+    "Explain how you overcame financial/social difficulties or physical/emotional challenges that hindered middle/high-school study.": {
+      "ru": "Объясните, как вы преодолевали финансовые / социальные трудности или физические / эмоциональные сложности, мешавшие учёбе в средней / старшей школе.",
+      "en": "Explain how you overcame financial/social difficulties or physical/emotional challenges that hindered middle/high-school study."
+    },
+    "≤700 words, English": {
+      "ru": "≤700 слов, на английском",
+      "en": "≤700 words, English"
+    },
+    "Context, resilience and response; use only if materially true": {
+      "ru": "Контекст, устойчивость и ваши действия; использовать только существенные правдивые обстоятельства",
+      "en": "Context, resilience and response; use only if materially true"
+    },
+    "Describe distinctive qualities of your school and your special academic interests/abilities during secondary education.": {
+      "ru": "Опишите особенности вашей школы и свои особые академические интересы / способности во время среднего образования.",
+      "en": "Describe distinctive qualities of your school and your special academic interests/abilities during secondary education."
+    },
+    "NIS rigor, intellectual interests, technical strengths": {
+      "ru": "Сложность NIS, интеллектуальные интересы, технические сильные стороны",
+      "en": "NIS rigor, intellectual interests, technical strengths"
+    },
+    "Describe extracurricular activities and work experience.": {
+      "ru": "Опишите внеучебную деятельность и опыт работы.",
+      "en": "Describe extracurricular activities and work experience."
+    },
+    "Initiative, leadership, projects, research, service and reflection": {
+      "ru": "Инициатива, лидерство, проекты, исследования, помощь обществу и осмысление опыта",
+      "en": "Initiative, leadership, projects, research, service and reflection"
+    },
+    "Explain why UNIST, and your specific academic plans/interests and curriculum path for reaching goals.": {
+      "ru": "Объясните, почему UNIST, ваши конкретные академические планы / интересы и путь по учебному плану для достижения целей.",
+      "en": "Explain why UNIST, and your specific academic plans/interests and curriculum path for reaching goals."
+    },
+    "Fit, informed planning and CS/AI direction": {
+      "ru": "Соответствие вузу, обоснованный план и направление CS/AI",
+      "en": "Fit, informed planning and CS/AI direction"
+    },
+    "Scholarships and aid": {
+      "ru": "Стипендии и помощь",
+      "en": "Scholarships and aid"
+    },
+    "Source: [official scholarship page](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do).": {
+      "ru": "Источник: [официальная страница стипендий](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do).",
+      "en": "Source: [official scholarship page](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)."
+    },
+    "The admission guide permits additional **non-scholarship** offers. Therefore, scholarship coverage is not guaranteed merely by receiving admission; the offer letter controls.": {
+      "ru": "Руководство допускает дополнительные офферы **без стипендии**. Поэтому поступление само по себе не гарантирует покрытие; приоритет у письма с оффером.",
+      "en": "The admission guide permits additional **non-scholarship** offers. Therefore, scholarship coverage is not guaranteed merely by receiving admission; the offer letter controls."
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award": {
+      "ru": "Стипендия",
+      "en": "Award"
+    },
+    "Separate application?": {
+      "ru": "Отдельная заявка?",
+      "en": "Separate application?"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "UNIST tuition scholarship": {
+      "ru": "Стипендия UNIST на обучение",
+      "en": "UNIST tuition scholarship"
+    },
+    "All freshmen first term; thereafter full with ≥12 credits and GPA ≥2.7/4.3, with first-year second-term exception at GPA ≥2.0; half tuition with ≥12 credits and GPA ≥2.0": {
+      "ru": "Всем первокурсникам первый семестр; затем полностью при ≥12 кредитах и GPA ≥2.7/4.3, с исключением второго семестра первого курса при GPA ≥2.0; половина обучения при ≥12 кредитах и GPA ≥2.0",
+      "en": "All freshmen first term; thereafter full with ≥12 credits and GPA ≥2.7/4.3, with first-year second-term exception at GPA ≥2.0; half tuition with ≥12 credits and GPA ≥2.0"
+    },
+    "Living Gold": {
+      "ru": "Living Gold",
+      "en": "Living Gold"
+    },
+    "Merit/living tier": {
+      "ru": "Уровень поддержки за достижения / на жизнь",
+      "en": "Merit/living tier"
+    },
+    "No separate form stated; assigned from admission review": {
+      "ru": "Отдельная форма не указана; назначение по результатам рассмотрения заявки",
+      "en": "No separate form stated; assigned from admission review"
+    },
+    "KRW 630k/month plus meal support; ≥12 credits and GPA ≥2.7": {
+      "ru": "KRW 630 000 в месяц плюс питание; ≥12 кредитов и GPA ≥2.7",
+      "en": "KRW 630k/month plus meal support; ≥12 credits and GPA ≥2.7"
+    },
+    "Living Silver": {
+      "ru": "Living Silver",
+      "en": "Living Silver"
+    },
+    "Same": {
+      "ru": "То же правило",
+      "en": "Same"
+    },
+    "KRW 330k/month plus meal support; ≥12 credits and GPA ≥2.7": {
+      "ru": "KRW 330 000 в месяц плюс питание; ≥12 кредитов и GPA ≥2.7",
+      "en": "KRW 330k/month plus meal support; ≥12 credits and GPA ≥2.7"
+    },
+    "Dream": {
+      "ru": "Dream",
+      "en": "Dream"
+    },
+    "Lower living tier": {
+      "ru": "Нижний уровень поддержки проживания",
+      "en": "Lower living tier"
+    },
+    "KRW 130k/month plus meal support; ≥12 credits and GPA ≥2.0": {
+      "ru": "KRW 130 000 в месяц плюс питание; ≥12 кредитов и GPA ≥2.0",
+      "en": "KRW 130k/month plus meal support; ≥12 credits and GPA ≥2.0"
+    },
+    "Health": {
+      "ru": "Медицинское покрытие",
+      "en": "Health"
+    },
+    "Insurance reimbursement": {
+      "ru": "Компенсация страховки",
+      "en": "Insurance reimbursement"
+    },
+    "Proof-based": {
+      "ru": "По подтверждающим документам",
+      "en": "Proof-based"
+    },
+    "Up to KRW 75k/month under current page": {
+      "ru": "До KRW 75 000 в месяц по текущей странице",
+      "en": "Up to KRW 75k/month under current page"
+    },
+    "Meals": {
+      "ru": "Питание",
+      "en": "Meals"
+    },
+    "Meal support": {
+      "ru": "Поддержка питания",
+      "en": "Meal support"
+    },
+    "With assigned scholarship": {
+      "ru": "С назначенной стипендией",
+      "en": "With assigned scholarship"
+    },
+    "Two meals/day during semester under current policy": {
+      "ru": "Два приёма пищи в день в семестр по действующим правилам",
+      "en": "Two meals/day during semester under current policy"
+    },
+    "Need-based/government": {
+      "ru": "Помощь по финансовой потребности / государственная",
+      "en": "Need-based/government"
+    },
+    "No separate international scheme confirmed": {
+      "ru": "Отдельная международная схема не подтверждена",
+      "en": "No separate international scheme confirmed"
+    },
+    "Not published": {
+      "ru": "Не опубликовано",
+      "en": "Not published"
+    },
+    "Coverage and real gap": {
+      "ru": "Покрытие и непокрытые расходы",
+      "en": "Coverage and real gap"
+    },
+    "No reliable annual gap can be calculated without the assigned tier, Fall 2027 housing rate and scholarship status. [Housing page](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do) confirms campus housing resources but does not publish a degree-applicant four-year guarantee or current admissions-cycle price on the reviewed page.": {
+      "ru": "Надёжные годовые непокрытые расходы нельзя рассчитать без назначенного уровня, тарифов жилья Fall 2027 и статуса стипендии. [Страница проживания](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do) подтверждает кампусное жильё, но на проверенной странице нет гарантии всех четырёх лет для полного бакалавриата или текущего тарифа набора.",
+      "en": "No reliable annual gap can be calculated without the assigned tier, Fall 2027 housing rate and scholarship status. [Housing page](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do) confirms campus housing resources but does not publish a degree-applicant four-year guarantee or current admissions-cycle price on the reviewed page."
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Possible full/half": {
+      "ru": "Возможно полное / половинное покрытие",
+      "en": "Possible full/half"
+    },
+    "Depends on term and GPA/credits": {
+      "ru": "Зависит от семестра и GPA / кредитов",
+      "en": "Depends on term and GPA/credits"
+    },
+    "Housing": {
+      "ru": "Проживание",
+      "en": "Housing"
+    },
+    "No explicit waiver": {
+      "ru": "Явное освобождение от оплаты отсутствует",
+      "en": "No explicit waiver"
+    },
+    "Paid by student unless offer states otherwise": {
+      "ru": "Оплачивает студент, если оффер не говорит иное",
+      "en": "Paid by student unless offer states otherwise"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Two meals/day in regular term for scholarship recipients under current policy": {
+      "ru": "Два приёма пищи в день в обычный семестр для стипендиатов по текущим правилам",
+      "en": "Two meals/day in regular term for scholarship recipients under current policy"
+    },
+    "Stipend": {
+      "ru": "Выплата на расходы",
+      "en": "Stipend"
+    },
+    "Tiered": {
+      "ru": "Разные уровни",
+      "en": "Tiered"
+    },
+    "Gold 630k, Silver 330k, Dream 130k/month": {
+      "ru": "Gold 630 000, Silver 330 000, Dream 130 000 в месяц",
+      "en": "Gold 630k, Silver 330k, Dream 130k/month"
+    },
+    "Insurance": {
+      "ru": "Страховка",
+      "en": "Insurance"
+    },
+    "Partial reimbursement": {
+      "ru": "Частичная компенсация",
+      "en": "Partial reimbursement"
+    },
+    "Up to 75k/month with proof": {
+      "ru": "До 75 000 в месяц с подтверждением",
+      "en": "Up to 75k/month with proof"
+    },
+    "Books, visa, flight, laptop, transport, summer housing": {
+      "ru": "Учебники, виза, перелёт, ноутбук, транспорт, проживание летом",
+      "en": "Books, visa, flight, laptop, transport, summer housing"
+    },
+    "Not published as covered": {
+      "ru": "Покрытие не опубликовано",
+      "en": "Not published as covered"
+    },
+    "Personal cost": {
+      "ru": "Личные расходы",
+      "en": "Personal cost"
+    },
+    "After admission": {
+      "ru": "После поступления",
+      "en": "After admission"
+    },
+    "Accept and register/pay deposit 7–18 May; submit final apostilled/legalized NIS diploma and transcript at the later announced deadline; supply originals if requested; arrange visa, financial proof, insurance and housing; complete arrival/orientation. Deposit is described as non-refundable; exact amount and final-document dates are TBA.": {
+      "ru": "Принять оффер и зарегистрироваться / оплатить депозит 7–18 мая; предоставить итоговый диплом / транскрипт NIS с апостилем / легализацией к позднее объявленному сроку; оригиналы по запросу; оформить визу, финансовое подтверждение, страховку и жильё; пройти подготовку приезда / ориентацию. Депозит невозвратный; точная сумма и сроки итоговых документов — TBA.",
+      "en": "Accept and register/pay deposit 7–18 May; submit final apostilled/legalized NIS diploma and transcript at the later announced deadline; supply originals if requested; arrange visa, financial proof, insurance and housing; complete arrival/orientation. Deposit is described as non-refundable; exact amount and final-document dates are TBA."
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission difficulty:** Reach / competitive.": {
+      "ru": "**Сложность поступления:** высокая конкурсность (Reach / competitive).",
+      "en": "**Admission difficulty:** Reach / competitive."
+    },
+    "**Full-funding difficulty:** Reach and separate from admission because non-scholarship offers exist and living tiers differ.": {
+      "ru": "**Сложность полного финансирования:** высокая, отдельно от поступления: возможны офферы без стипендии, уровни выплат отличаются.",
+      "en": "**Full-funding difficulty:** Reach and separate from admission because non-scholarship offers exist and living tiers differ."
+    },
+    "**Fit:** Strong for CSE with broad engineering exploration; essay burden is high but prompts are known.": {
+      "ru": "**Соответствие профилю:** хорошо для CSE с широким изучением инженерии; эссе много, но вопросы известны.",
+      "en": "**Fit:** Strong for CSE with broad engineering exploration; essay burden is high but prompts are known."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "NIS predicted-grade treatment; final apostille deadline; IELTS electronic-report process; exact interview medium/duration/questions; scholarship tier selection rule and number of awards; Fall 2027 dorm rate/guarantee; deposit amount; visa/housing dates.": {
+      "ru": "Порядок прогнозных NIS; срок апостиля; электронная отправка IELTS; формат / длительность / вопросы интервью; правило назначения уровня стипендии и число наград; тариф / гарантия жилья Fall 2027; сумма депозита; сроки визы / жилья.",
+      "en": "NIS predicted-grade treatment; final apostille deadline; IELTS electronic-report process; exact interview medium/duration/questions; scholarship tier selection rule and number of awards; Fall 2027 dorm rate/guarantee; deposit amount; visa/housing dates."
+    },
+    "Email question": {
+      "ru": "Вопрос для письма",
+      "en": "Email question"
+    },
+    "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with my current official transcript and expected-graduation certificate, and submit the final apostilled NIS Certificate after registration? What is the latest final-document date? Please also confirm how an IELTS Academic result should be officially verified for the Study in Korea application.": {
+      "ru": "Я кандидат NIS Grade 12 из Казахстана. Итоговый сертификат получу в июне 2027. Можно ли подать текущий официальный транскрипт и подтверждение ожидаемого выпуска, а итоговый сертификат NIS с апостилем — после регистрации? Каков крайний срок итоговых документов? Как официально подтвердить IELTS Academic для заявки Study in Korea?",
+      "en": "I am an NIS Grade 12 applicant from Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with my current official transcript and expected-graduation certificate, and submit the final apostilled NIS Certificate after registration? What is the latest final-document date? Please also confirm how an IELTS Academic result should be officially verified for the Study in Korea application."
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[Fall 2027 admissions notice](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)": {
+      "ru": "[Анонс поступления Fall 2027](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)",
+      "en": "[Fall 2027 admissions notice](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?article.offset=0&mode=list)"
+    },
+    "[Fall 2027 guide](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)": {
+      "ru": "[Руководство Fall 2027](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)",
+      "en": "[Fall 2027 guide](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591437&mode=download)"
+    },
+    "[2027 application form / essays](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)": {
+      "ru": "[Форма заявки / эссе 2027](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)",
+      "en": "[2027 application form / essays](https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do?articleNo=306812&attachNo=591436&mode=download)"
+    },
+    "[Scholarships](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)": {
+      "ru": "[Стипендии](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)",
+      "en": "[Scholarships](https://admu-intl.unist.ac.kr/admission-eng/life/scholarships.do)"
+    },
+    "[Housing](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do)": {
+      "ru": "[Проживание](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do)",
+      "en": "[Housing](https://admu-intl.unist.ac.kr/admission-eng/life/housing.do)"
+    },
+    "[FAQ](https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do)": {
+      "ru": "[FAQ](https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do)",
+      "en": "[FAQ](https://admu-intl.unist.ac.kr/admission-eng/contact/faq.do)"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Review": {
+      "ru": "Рассмотрение",
+      "en": "Review"
+    },
+    "Selected interviews": {
+      "ru": "Интервью для отобранных кандидатов",
+      "en": "Selected interviews"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "Decision": {
+      "ru": "Решение",
+      "en": "Decision"
+    },
+    "Registration / non-refundable deposit": {
+      "ru": "Зачисление / невозвратный депозит",
+      "en": "Registration / non-refundable deposit"
+    },
+    "Deposit": {
+      "ru": "Депозит",
+      "en": "Deposit"
+    },
+    "Final apostilled documents after registration": {
+      "ru": "Итоговые документы с апостилем после регистрации",
+      "en": "Final apostilled documents after registration"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "Housing / visa": {
+      "ru": "Проживание / виза",
+      "en": "Housing / visa"
+    },
+    "Fall 2027 admissions notice": {
+      "ru": "Анонс поступления Fall 2027",
+      "en": "Fall 2027 admissions notice"
+    },
+    "Fall 2027 guide": {
+      "ru": "Руководство Fall 2027",
+      "en": "Fall 2027 guide"
+    },
+    "2027 application form / essays": {
+      "ru": "Форма заявки / эссе 2027",
+      "en": "2027 application form / essays"
+    },
+    "Scholarships": {
+      "ru": "Стипендии",
+      "en": "Scholarships"
+    },
+    "FAQ": {
+      "ru": "FAQ",
+      "en": "FAQ"
+    }
+  }
+}

@@ -1,0 +1,4115 @@
+{
+  "id": "audit-mbzuai",
+  "name": "MBZUAI",
+  "country": "United Arab Emirates",
+  "city": "Abu Dhabi",
+  "batch": 2,
+  "checkedAt": "2026-10-04",
+  "evidence": "confirmed",
+  "awaitingAudit": false,
+  "platform": "Own [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), вход через [UG admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions)",
+  "programs": [
+    "Bachelor of Science in Artificial Intelligence (Engineering)",
+    "Bachelor of Science in Artificial Intelligence (Business)"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "full-coa",
+    "need-based"
+  ],
+  "fundingSummary": "Up to 100% tuition + cost of attendance; individual award, stipend and summer coverage not guaranteed",
+  "admissionDifficulty": "Not assessed in October audit",
+  "fundingDifficulty": "Awaiting October re-audit",
+  "blocks": [
+    {
+      "id": "audit-mbzuai-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Проверенный ответ"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Проверенный ответ": "Mohamed bin Zayed University of Artificial Intelligence"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Проверенный ответ": "UAE · Abu Dhabi · Masdar City"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-2",
+              "fields": {
+                "Field": "University type",
+                "Проверенный ответ": "Специализированный AI research university с undergraduate programme"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Проверенный ответ": "Admissions CONFIRMED; индивидуальное financing и часть личных form fields NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Application platform / URL",
+                "Проверенный ответ": "Own [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), вход через [UG admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions)"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Can start now?",
+                "Проверенный ответ": "Да, с 7 Sep 2026, 08:00 GST"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programme / degree",
+                "Проверенный ответ": "Bachelor of Science in Artificial Intelligence (Engineering)"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Language / format",
+                "Проверенный ответ": "English, очное обучение"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Admission / change",
+                "Проверенный ответ": "AI programme, Engineering/Business streams; switch с выполнением нового curriculum"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Transfer",
+                "Проверенный ответ": "Кредиты извне не принимаются; начать с первого года"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-1-table-0-row-10",
+              "fields": {
+                "Field": "International intake / acceptance",
+                "Проверенный ответ": "Fall 2027 UG quota/rate NP; graduate statistics не применяются"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [
+        "[Current admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [UG FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Старый аудит",
+            "Перепроверка / correction"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-0",
+              "fields": {
+                "Старый аудит": "EA/RD даты",
+                "Перепроверка / correction": "**No change подтверждено:** EA 1 Nov/RD 1 Feb; decisions 15 Jan/1 Apr"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-1",
+              "fields": {
+                "Старый аудит": "Fee 200 / fee waiver / до 100% COA",
+                "Перепроверка / correction": "Подтверждено; не automatic funding всех admitted"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-2",
+              "fields": {
+                "Старый аудит": "English waiver unclear",
+                "Перепроверка / correction": "Финальные 3 года taught **and assessed** entirely English + eligible English-country condition; **Kazakhstan не listed**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-3",
+              "fields": {
+                "Старый аудит": "DET 120",
+                "Перепроверка / correction": "Только при limited access к IELTS/TOEFL/PTE/Cambridge, не свободная альтернатива"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-4",
+              "fields": {
+                "Старый аудит": "SAT waiver",
+                "Перепроверка / correction": "Нужны **1400 total AND 760 Math**, не один threshold"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-5",
+              "fields": {
+                "Старый аудит": "Track switch",
+                "Перепроверка / correction": "UG FAQ допускает switch при выполнении curriculum requirements"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-6",
+              "fields": {
+                "Старый аудит": "Interview",
+                "Перепроверка / correction": "FAQ: обязательное online faculty interview для всех shortlisted; более общий prose “may” не отменяет FAQ"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-2-table-0-row-7",
+              "fields": {
+                "Старый аудит": "PS/recs limits",
+                "Перепроверка / correction": "Публично всё ещё NP; graduate SOP/стипендии не импортируются"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-3",
+      "title": "B. Programmes for this applicant",
+      "tab": "programs",
+      "paragraphs": [
+        "[Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business). Отдельные bachelor Software Engineering/Data Science/Computer Engineering в проверенном UG перечне не найдены.",
+        "Математика должна быть изучена в **финальные два школьных года**, желательно на самом продвинутом доступном уровне. SAT не заменяет школьную Math. Prior AI/programming **не required**, но GitHub/open-source evidence полезны и могут повлиять на introductory course exemption. Точные NIS Physics/calculus HL prerequisites, female restrictions, programme quota и различия scholarship по stream NP. Track switch возможен с закрытием всех обязательных subjects, не свободный transfer credits.",
+        "**Best programme for me — Analysis:** Engineering для технического CS/AI. Business выбирать при сознательном фокусе на предпринимательстве; founder projects можно использовать и в Engineering application. Exact curriculum/degree duration сверять с актуальным UG plan, не graduate catalogue."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Exact official name",
+            "Degree / unit",
+            "Curriculum / prerequisites / fit"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-3-table-0-row-0",
+              "fields": {
+                "Exact official name": "Bachelor of Science in Artificial Intelligence (Engineering)",
+                "Degree / unit": "BSc · Division of Undergraduate Studies",
+                "Curriculum / prerequisites / fit": "Math/CS/ML foundations, engineering AI; experiential/research/venture components"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-3-table-0-row-1",
+              "fields": {
+                "Exact official name": "Bachelor of Science in Artificial Intelligence (Business)",
+                "Degree / unit": "BSc · same undergraduate division",
+                "Curriculum / prerequisites / fit": "AI technical foundation + business/entrepreneurship; иная глубина CS"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "[Official timeline](https://mbzuai.ac.ae/admissions/undergraduate-admissions). EA не обозначен как binding ED; ED contract/early exclusivity не опубликованы. Принятие offer в индивидуальный срок остаётся отдельным условием. **Одна application per cycle**, multiple submissions запрещены; не подавать вторую RD application после EA. EA/RD рассматриваются rolling, поэтому подача заранее полезна."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Date",
+            "Time",
+            "Time zone",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Portal opens",
+                "Date": "**7 Sep 2026**",
+                "Time": "**08:00**",
+                "Time zone": "GST UTC+4",
+                "Confirmed?": "CONFIRMED",
+                "What must be ready": "Account/records"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Early Action deadline",
+                "Date": "**1 Nov 2026**",
+                "Time": "**17:00**",
+                "Time zone": "GST",
+                "Confirmed?": "CONFIRMED",
+                "What must be ready": "Complete application, initial English proof"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-2",
+              "fields": {
+                "Event": "EA decision",
+                "Date": "**15 Jan 2027**",
+                "Time": "**17:00**",
+                "Time zone": "GST",
+                "Confirmed?": "CONFIRMED",
+                "What must be ready": "Offer/award review"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Regular Decision deadline",
+                "Date": "**1 Feb 2027**",
+                "Time": "**17:00**",
+                "Time zone": "GST",
+                "Confirmed?": "CONFIRMED",
+                "What must be ready": "Same complete file"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-4",
+              "fields": {
+                "Event": "RD decision",
+                "Date": "**1 Apr 2027**",
+                "Time": "**17:00**",
+                "Time zone": "GST",
+                "Confirmed?": "CONFIRMED",
+                "What must be ready": "Offer/award review"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Screening invitation",
+                "Date": "**Within 10 days after submit**",
+                "Time": "Invitation",
+                "Time zone": "Invitation",
+                "Confirmed?": "Current process",
+                "What must be ready": "Book and complete unless waiver"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Screening completion / fee / recommendation cutoff",
+                "Date": "Отдельный последний день NP",
+                "Time": "NP",
+                "Time zone": "NP",
+                "Confirmed?": "Needs confirmation",
+                "What must be ready": "Не считать application cutoff гарантированным exam grace"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-7",
+              "fields": {
+                "Event": "Interview",
+                "Date": "Shortlisted, individual schedule",
+                "Time": "Invitation",
+                "Time zone": "Invitation",
+                "Confirmed?": "Required if shortlisted",
+                "What must be ready": "Technical/motivation preparation"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-8",
+              "fields": {
+                "Event": "Scholarship form / decision",
+                "Date": "Universal separate date NP",
+                "Time": "NP",
+                "Time zone": "NP",
+                "Confirmed?": "Partial",
+                "What must be ready": "Finances если запросят"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-9",
+              "fields": {
+                "Event": "Offer acceptance / deposit",
+                "Date": "По offer",
+                "Time": "Offer",
+                "Time zone": "Offer",
+                "Confirmed?": "TBA",
+                "What must be ready": "Individual funding review"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-10",
+              "fields": {
+                "Event": "Final school records",
+                "Date": "**Before enrolment**",
+                "Time": "NP",
+                "Time zone": "NP",
+                "Confirmed?": "Current policy",
+                "What must be ready": "Final NIS/transcript"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-11",
+              "fields": {
+                "Event": "UAE equivalency",
+                "Date": "**Before end of first semester**",
+                "Time": "NP",
+                "Time zone": "NP",
+                "Confirmed?": "Current policy",
+                "What must be ready": "Не grace для самого диплома"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-12",
+              "fields": {
+                "Event": "Visa support",
+                "Date": "FAQ June onward после acceptance",
+                "Time": "NP",
+                "Time zone": "NP",
+                "Confirmed?": "Current policy",
+                "What must be ready": "Passport/visa file"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-13",
+              "fields": {
+                "Event": "Housing / orientation / arrival",
+                "Date": "Exact 2027 dates TBA",
+                "Time": "TBA",
+                "Time zone": "TBA",
+                "Confirmed?": "TBA",
+                "What must be ready": "Instructions/contract"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-4-table-0-row-14",
+              "fields": {
+                "Event": "Semester start",
+                "Date": "**Mid-August 2027**",
+                "Time": "NP",
+                "Time zone": "GST",
+                "Confirmed?": "CONFIRMED interval",
+                "What must be ready": "Очное присутствие"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Task",
+            "Internal date"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-0",
+              "fields": {
+                "Task": "English proof / transcript / predicted",
+                "Internal date": "Ready **10 Oct**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-1",
+              "fields": {
+                "Task": "CV / GitHub / achievements",
+                "Internal date": "10–12 Oct"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-2",
+              "fields": {
+                "Task": "Optional recommenders: ask / ready",
+                "Internal date": "5 Oct / 15 Oct"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-3",
+              "fields": {
+                "Task": "PS first / final draft",
+                "Internal date": "8 Oct / 15 Oct"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-4",
+              "fields": {
+                "Task": "Optional video link, доступ без login",
+                "Internal date": "15 Oct"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-5",
+              "fields": {
+                "Task": "Submit EA",
+                "Internal date": "**18–20 Oct**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-6",
+              "fields": {
+                "Task": "Screening / fee",
+                "Internal date": "Book immediately after invitation; оплатить promptly если не waived"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-7",
+              "fields": {
+                "Task": "Need-based financial pack",
+                "Internal date": "Собрать October; upload по запросу/current form"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-8",
+              "fields": {
+                "Task": "RD alternative, если не подана EA",
+                "Internal date": "File ready 10 Jan; submit **15–18 Jan**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-5-table-0-row-9",
+              "fields": {
+                "Task": "Final NIS / recognition",
+                "Internal date": "Сразу после June issuance; exact offer instructions"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-6",
+      "title": "D. Platform, fee and editing rules",
+      "tab": "application",
+      "paragraphs": [
+        "[Fee/update policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions). 75% — **fee waiver threshold**, не опубликованный admission pass mark. SAT screening waiver также даёт fee waiver, но не scholarship guarantee."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-0",
+              "fields": {
+                "Item": "System",
+                "Rule": "Own MBZUAI portal; public Common App route не установлен"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Choices",
+                "Rule": "Engineering/Business stream; точное число ranking fields личной формы NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Duplicate",
+                "Rule": "**One per cycle**, не разрешены multiple submissions"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Updates",
+                "Rule": "New SAT/ACT/AP, English scores и updated transcripts; замена PS не обещана"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Fee",
+                "Rule": "**AED 200 after screening**; unpaid application incomplete"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Waiver",
+                "Rule": "Screening overall **≥75%** или screening requirement waived"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Refund",
+                "Rule": "Paid fee reimbursed **upon enrolment**, не любой rejection/withdrawal"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-7",
+              "fields": {
+                "Item": "Common App waiver",
+                "Rule": "Не применим"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-8",
+              "fields": {
+                "Item": "Separate exam/scholarship fee",
+                "Rule": "Дополнительный сбор не опубликован"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-9",
+              "fields": {
+                "Item": "Deposit / seat reservation",
+                "Rule": "Amount/date/refund публично NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-6-table-0-row-10",
+              "fields": {
+                "Item": "Paper/school",
+                "Rule": "Initial online official documents; final verification по instructions, universal pre-application courier не stated"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-7",
+      "title": "E. Document checklist and who submits what",
+      "tab": "documents",
+      "paragraphs": [
+        "[Application requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions). UAE citizen family book не переносится на international Kazakhstan applicant."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Required?",
+            "Who submits?",
+            "When?",
+            "Format",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-0",
+              "fields": {
+                "Document": "Passport",
+                "Required?": "C/POST; current foreign field NP",
+                "Who submits?": "Applicant",
+                "When?": "Portal/visa",
+                "Format": "Scan",
+                "Notes": "Для visa обязателен; public all-applicants list не описывает все identity fields"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-1",
+              "fields": {
+                "Document": "UAE ID/residence visa",
+                "Required?": "C UAE residents",
+                "Who submits?": "Applicant",
+                "When?": "Portal",
+                "Format": "Scan",
+                "Notes": "Не universal для Kazakhstan resident"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Parents passports/family book/birth/national service",
+                "Required?": "— обычный Kazakhstan route",
+                "Who submits?": "—; C если другая категория",
+                "When?": "Если применимо",
+                "Format": "Official",
+                "Notes": "Listed requirements относятся к UAE nationals/residents/Emirati mothers"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-3",
+              "fields": {
+                "Document": "School transcripts/report cards",
+                "Required?": "**R**",
+                "Who submits?": "**School issues → applicant uploads**",
+                "When?": "Initial",
+                "Format": "Official English/certified translation",
+                "Notes": "Все предыдущие high-school reports + текущие; Grade 9 inclusion зависит от form"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-4",
+              "fields": {
+                "Document": "Predicted/provisional NIS",
+                "Required?": "**R/accepted pending finals**",
+                "Who submits?": "**School issues → applicant uploads**",
+                "When?": "Initial",
+                "Format": "Signed official",
+                "Notes": "Не converting GPA to 4.0"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-5",
+              "fields": {
+                "Document": "School profile/scale/expected graduation",
+                "Required?": "REC/C",
+                "Who submits?": "School → applicant",
+                "When?": "Initial",
+                "Format": "English PDF",
+                "Notes": "Объяснить NIS/HL"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-6",
+              "fields": {
+                "Document": "Final NIS/final transcript",
+                "Required?": "**POST R**",
+                "Who submits?": "School/issuer → applicant; verification по request",
+                "When?": "**Before enrolment**",
+                "Format": "Official",
+                "Notes": "Не к концу первого semester"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-7",
+              "fields": {
+                "Document": "UAE equivalency/recognition",
+                "Required?": "**POST R outside UAE по documents policy**, applicability по authority",
+                "Who submits?": "Applicant/authority",
+                "When?": "**End first semester latest**",
+                "Format": "Official certificate",
+                "Notes": "General wording “may be required” и detailed document rule читать вместе"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-8",
+              "fields": {
+                "Document": "Certified English translation",
+                "Required?": "R non-English",
+                "Who submits?": "Issuer/authorised translator → applicant",
+                "When?": "With records",
+                "Format": "Certified",
+                "Notes": "Не self translation"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-9",
+              "fields": {
+                "Document": "English proof",
+                "Required?": "**R unless eligible waiver**",
+                "Who submits?": "Applicant uploads; provider verifies if requested",
+                "When?": "**At application**",
+                "Format": "Valid result",
+                "Notes": "Без ELP application не продвигается"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-10",
+              "fields": {
+                "Document": "SAT/ACT/AP/IB",
+                "Required?": "O; SAT может waive screening",
+                "Who submits?": "Applicant/verifying body",
+                "When?": "Initial/update",
+                "Format": "Verifiable result",
+                "Notes": "Direct code/send rule NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-11",
+              "fields": {
+                "Document": "Screening",
+                "Required?": "R unless waiver",
+                "Who submits?": "Applicant online",
+                "When?": "Invitation",
+                "Format": "Test",
+                "Notes": "NIS predicted не exemption сами по себе"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-12",
+              "fields": {
+                "Document": "CV",
+                "Required?": "**R**",
+                "Who submits?": "Applicant",
+                "When?": "Initial",
+                "Format": "Detailed CV",
+                "Notes": "Official template не required"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-13",
+              "fields": {
+                "Document": "Personal Statement",
+                "Required?": "**R**",
+                "Who submits?": "Applicant",
+                "When?": "Initial",
+                "Format": "Portal text/file",
+                "Notes": "Exact length NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-14",
+              "fields": {
+                "Document": "Activities/awards",
+                "Required?": "REC/profile evidence",
+                "Who submits?": "Applicant",
+                "When?": "Initial",
+                "Format": "Fields/evidence",
+                "Notes": "Competitions, leadership, real impact"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-15",
+              "fields": {
+                "Document": "GitHub/technical portfolio",
+                "Required?": "**REC, not mandatory**",
+                "Who submits?": "Applicant",
+                "When?": "Initial",
+                "Format": "URLs",
+                "Notes": "Не mandatory research publication"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-16",
+              "fields": {
+                "Document": "Recommendation 1/2",
+                "Required?": "**REC, maximum 2**",
+                "Who submits?": "References указан applicant; actual confidential/PDF sender workflow portal-only",
+                "When?": "Initial/invitation",
+                "Format": "Current form",
+                "Notes": "Teachers/mentors/supervisors"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-17",
+              "fields": {
+                "Document": "PS video",
+                "Required?": "REC optional public guidance",
+                "Who submits?": "Applicant",
+                "When?": "Initial",
+                "Format": "**URL**, private YouTube/Vimeo/shared drive",
+                "Notes": "Duration NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-18",
+              "fields": {
+                "Document": "Financial documents",
+                "Required?": "C need-based",
+                "Who submits?": "Applicant/family",
+                "When?": "Scholarship request",
+                "Format": "Form/official income-assets",
+                "Notes": "Public complete list NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-7-table-0-row-19",
+              "fields": {
+                "Document": "Apostille/attestation/medical/insurance/visa/housing",
+                "Required?": "POST/C",
+                "Who submits?": "Applicant/university/authority",
+                "When?": "Offer/registration",
+                "Format": "Official instructions",
+                "Notes": "Exact NIS legalisation chain NP"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-8",
+      "title": "F. NIS route",
+      "tab": "requirements",
+      "paragraphs": [
+        "Вводить фактическую школьную оценку, не самостоятельно переводить NIS A/A*/B в 90%. [Current policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "My NIS route",
+            "Finding"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-0",
+              "fields": {
+                "My NIS route": "Qualification named / HL",
+                "Finding": "Specific NIS table/HL conversion/number NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-1",
+              "fields": {
+                "My NIS route": "General minimum",
+                "Finding": "Recognised secondary qualification, **90% or equivalent** по curriculum"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-2",
+              "fields": {
+                "My NIS route": "Predicted",
+                "Finding": "**Accepted**, school-issued records + previous reports"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-3",
+              "fields": {
+                "My NIS route": "Final June",
+                "Finding": "Final official docs **before enrolment**; mid-Aug start обычно совместим — analysis, exact date TBA"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-4",
+              "fields": {
+                "My NIS route": "UNT / IB",
+                "Finding": "Universal UNT не listed; NIS не IB по предположению"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-5",
+              "fields": {
+                "My NIS route": "English waiver",
+                "Finding": "Требуются три consecutive years taught/assessed entirely English + eligible English-country condition; **Kazakhstan не входит в published list**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-6",
+              "fields": {
+                "My NIS route": "NIS English medium",
+                "Finding": "Само по себе не выполняет country waiver condition"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-7",
+              "fields": {
+                "My NIS route": "Recognition / apostille",
+                "Finding": "UAE recognition by end first semester; NIS-specific chain needs confirmation"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-8-table-0-row-8",
+              "fields": {
+                "My NIS route": "Timing risk",
+                "Finding": "No obvious June-Aug conflict; recognition/visa processing и screening cutoff уточнить"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-10",
+      "title": "Official minimum",
+      "tab": "requirements",
+      "paragraphs": [
+        "TOPIK/GRE не UG requirements. [Official tests/English](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Minimum / required?",
+            "Reporting / nuance"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-0",
+              "fields": {
+                "Item": "School results",
+                "Minimum / required?": "**90% or equivalent**, curriculum/cycle context",
+                "Reporting / nuance": "FAQ также говорит typical successful 90% STEM; это не гарантия"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-1",
+              "fields": {
+                "Item": "School Math",
+                "Minimum / required?": "Финальные два года, preferably highest school level",
+                "Reporting / nuance": "Exact NIS calculus/Physics minima NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-2",
+              "fields": {
+                "Item": "SAT / ACT",
+                "Minimum / required?": "**Optional admission**",
+                "Reporting / nuance": "Strong quantitative score полезен"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-3",
+              "fields": {
+                "Item": "SAT screening waiver",
+                "Minimum / required?": "**Total ≥1400 AND Math ≥760**",
+                "Reporting / nuance": "Оба порога, verifiable proof; superscore NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-4",
+              "fields": {
+                "Item": "Olympiad screening waiver",
+                "Minimum / required?": "International gold/silver/bronze по listed recognised Olympiads",
+                "Reporting / nuance": "IOI/IMO/IOAI/IPhO/IBO/IChO; не любое award"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-5",
+              "fields": {
+                "Item": "IELTS Academic",
+                "Minimum / required?": "**6.5 overall**",
+                "Reporting / nuance": "Individual bands NP; validity два года **at application**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-6",
+              "fields": {
+                "Item": "TOEFL iBT",
+                "Minimum / required?": "**90 old / 4.5 new**",
+                "Reporting / nuance": "No Home Edition; approved physical centre"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-7",
+              "fields": {
+                "Item": "PTE Academic",
+                "Minimum / required?": "**60**",
+                "Reporting / nuance": "Valid result"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-8",
+              "fields": {
+                "Item": "Cambridge",
+                "Minimum / required?": "**C1 Advanced 180 / C2 Proficiency 200**",
+                "Reporting / nuance": "Valid result"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-9",
+              "fields": {
+                "Item": "DET",
+                "Minimum / required?": "**120 only limited-access exception**",
+                "Reporting / nuance": "Доказательство недоступности иных тестов могут запросить"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-10",
+              "fields": {
+                "Item": "NIS MOI waiver",
+                "Minimum / required?": "Не автоматически по country rule",
+                "Reporting / nuance": "IELTS 7–7.5 выше общего minimum"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-11",
+              "fields": {
+                "Item": "Official reporting",
+                "Minimum / required?": "Verifiable result; numeric SAT/TOEFL codes/direct send current NP",
+                "Reporting / nuance": "New test uploads allowed"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-12",
+              "fields": {
+                "Item": "Late English / latest test",
+                "Minimum / required?": "ELP initially required; last receipt date NP",
+                "Reporting / nuance": "Улучшенный score позже ≠ разрешение initial missing ELP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-10-table-0-row-13",
+              "fields": {
+                "Item": "Scholarship minima",
+                "Minimum / required?": "Separate SAT/English thresholds NP",
+                "Reporting / nuance": "1400/760 — screen waiver, не award minimum"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-11",
+      "title": "Competitive target — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "SAT 1300–1350 не блокирует admission application, но screening придётся пройти без другого waiver. Нужна реальная mathematical/problem-solving подготовка. Projects/GitHub должны показывать code, личный вклад и результаты. Competitive NIS/SAT range и award rate не опубликованы."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-mbzuai-block-12",
+      "title": "H. Internal exam and interview",
+      "tab": "requirements",
+      "paragraphs": [
+        "Приглашение screening в течение 10 дней — не обещание полного решения за 10 дней. SAT waiver не отменяет interview. Technical specifications/Screening Exam Guide linked через personal/dynamic resource; не проверены как свободная публичная форма. [Official process](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Component",
+            "Mandatory?",
+            "Mode / official topics",
+            "Unknown"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-0",
+              "fields": {
+                "Component": "Screening",
+                "Mandatory?": "**R unless waiver**",
+                "Mode / official topics": "Online",
+                "Unknown": "Duration/pass mark/weight/final completion deadline NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-1",
+              "fields": {
+                "Component": "Math topics",
+                "Mandatory?": "Official preparation list",
+                "Mode / official topics": "Algebra, functions, probability/statistics, matrices/vectors, calculus, discrete mathematics",
+                "Unknown": "Не придумывать отдельный Physics/Chemistry exam"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-2",
+              "fields": {
+                "Component": "Logic/programming/data",
+                "Mandatory?": "Official preparation list",
+                "Mode / official topics": "Logic/patterns; algorithmic problem-solving/basic syntax/functions/data structures; data interpretation/basic ML",
+                "Unknown": "Exact question count NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-3",
+              "fields": {
+                "Component": "Faculty interview",
+                "Mandatory?": "**R for all shortlisted** по FAQ",
+                "Mode / official topics": "Online, motivation + technical component/math/readiness/communication",
+                "Unknown": "Dates/duration/weight NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-4",
+              "fields": {
+                "Component": "Fee score 75%",
+                "Mandatory?": "Только fee waiver",
+                "Mode / official topics": "Не admission passing threshold",
+                "Unknown": "Не обещать admission при 75%"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-12-table-0-row-5",
+              "fields": {
+                "Component": "Separate scholarship interview",
+                "Mandatory?": "Universal requirement NP",
+                "Mode / official topics": "Может быть частью индивидуального process",
+                "Unknown": "Needs confirmation"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-13",
+      "title": "I. Recommendations",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**My recommendation strategy — Analysis:** Math/CS teacher для readiness + project/research mentor для technical independence/teamwork. Одно содержательное письмо лучше двух общих. Если портал требует direct recommender link, applicant не заменяет отправку автора."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-0",
+              "fields": {
+                "Item": "Number",
+                "Answer": "**0 mandatory; up to 2 recommended**"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-1",
+              "fields": {
+                "Item": "Who",
+                "Answer": "Teachers, mentors, supervisors; не только principal"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-2",
+              "fields": {
+                "Item": "Sender",
+                "Answer": "Applicant указывает references; confidential link vs applicant letter upload в current form NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-3",
+              "fields": {
+                "Item": "Exact ratings/questions/limits",
+                "Answer": "Portal-only/not publicly verified"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-4",
+              "fields": {
+                "Item": "Counselor/second/scholarship",
+                "Answer": "Counselor не universal R; second REC в лимите 2; separate award rec NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-13-table-0-row-5",
+              "fields": {
+                "Item": "Deadline",
+                "Answer": "Separate rec cutoff NP; request now"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-14",
+      "title": "J. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "**Correction:** MBZUAI graduate 500–1000-word SOP, graduate 2–3 recs и research videos не относятся к этому BSc. Public UG task передан по смыслу; exact personal-form length пока не подтверждён. [Official UG requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Essay",
+            "Official task / prompt status",
+            "Limit",
+            "Required / submission",
+            "Purpose / profile fit — Analysis"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-14-table-0-row-0",
+              "fields": {
+                "Essay": "Personal Statement",
+                "Official task / prompt status": "Интерес к AI; academic/personal experiences; motivation MBZUAI; goals/achievements/extracurriculars; contribution/benefit UG community",
+                "Limit": "**Word/character/byte NP**",
+                "Required / submission": "**R**, English, own portal",
+                "Purpose / profile fit — Analysis": "AI curiosity/readiness/impact; реальные projects/research"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Интерес к AI; академический / личный опыт; мотивация MBZUAI; цели / достижения / внеучебная деятельность; вклад в сообщество бакалавриата и польза от него",
+                "sourceEnglish": "AI interest; academic/personal experiences; MBZUAI motivation; goals/achievements/extracurriculars; contribution to and benefit from the UG community",
+                "sourceField": "Official task / prompt status",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-14-table-0-row-1",
+              "fields": {
+                "Essay": "Personal Statement video",
+                "Official task / prompt status": "Public recommended brief video об интересе, целях/применении знаний; FAQ формат URL",
+                "Limit": "**Duration NP**",
+                "Required / submission": "REC optional; URL",
+                "Purpose / profile fit — Analysis": "Communication, конкретные примеры работы"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Публично рекомендуется короткое видео об интересе, целях / применении знаний; FAQ: ссылка URL",
+                "sourceEnglish": "Public guidance recommends a brief video on interest, goals/application of knowledge; FAQ specifies URL format",
+                "sourceField": "Official task / prompt status",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-14-table-0-row-2",
+              "fields": {
+                "Essay": "Scholarship essay",
+                "Official task / prompt status": "Separate exact Fall 2027 prompt публично не найден",
+                "Limit": "NP",
+                "Required / submission": "Current financial form/request",
+                "Purpose / profile fit — Analysis": "Только реальные обстоятельства"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Отдельный точный вопрос Fall 2027 публично не найден",
+                "sourceEnglish": "Separate exact Fall 2027 prompt not found publicly",
+                "sourceField": "Official task / prompt status",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-14-table-0-row-3",
+              "fields": {
+                "Essay": "Why major / study plan / other",
+                "Official task / prompt status": "Separate mandatory questions NP",
+                "Limit": "NP",
+                "Required / submission": "По portal",
+                "Purpose / profile fit — Analysis": "Не graduate SOP"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Отдельные обязательные вопросы не установлены",
+                "sourceEnglish": "Separate mandatory questions NP",
+                "sourceField": "Official task / prompt status",
+                "wording": "unpublished"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-15",
+      "title": "K. Scholarships and financial aid",
+      "tab": "funding",
+      "paragraphs": [
+        "Опубликованный максимум — **до 100% tuition + cost of attendance**. Tuition **USD 45 000/год**, COA дополнительно. Counts/percentage/renewal GPA NP. Stipend входит лишь в некоторые packages. [Scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+        "**Housing:** shared/multi-occupancy rooms; winter/spring breaks доступны; обычный summer vacancy mid-May–mid-Aug. Parents не могут жить в campus. Гарантия first year/all four years, 2027 rate/deposit и exact window NP. [UG housing FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).",
+        "**Real annual gap:** не вычисляется — нет itemised COA, hall rates и персонального guaranteed award. 100% COA может относиться к academic year; summer/airfare/visa coverage проверить отдельно. Tuition-only оставляет все living costs. Graduate allowances не используются."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award",
+            "Separate / deadline",
+            "Eligibility / funding"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-15-table-0-row-0",
+              "fields": {
+                "Category": "A. Automatic guaranteed",
+                "Award": "Full award for all admitted",
+                "Separate / deadline": "**Не опубликован**",
+                "Eligibility / funding": "Admission ≠ 100% funding"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-0-row-1",
+              "fields": {
+                "Category": "B. Merit",
+                "Award": "Undergraduate merit-based scholarships",
+                "Separate / deadline": "Public separate form/fee/deadline/essay NP",
+                "Eligibility / funding": "Holistic academic/talent selection; individual amount"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-0-row-2",
+              "fields": {
+                "Category": "C. Need-based",
+                "Award": "Undergraduate needs-based scholarships",
+                "Separate / deadline": "Financial workflow/form/details NP",
+                "Eligibility / funding": "Demonstrated need; отдельные documents уточнить"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-0-row-3",
+              "fields": {
+                "Category": "D. Sponsor",
+                "Award": "Industry-partner-sponsored seats",
+                "Separate / deadline": "Separate applicant workflow NP",
+                "Eligibility / funding": "Не всем applicants автоматически"
+              }
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Amount / rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "До 100%",
+                "Amount / rule": "Exact award in letter"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-1",
+              "fields": {
+                "Cost": "Mandatory fees",
+                "Covered?": "Возможны в COA",
+                "Amount / rule": "Itemised breakdown NP; не universal guarantee"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-2",
+              "fields": {
+                "Cost": "Housing",
+                "Covered?": "Может входить в award COA",
+                "Amount / rule": "Available dorm ≠ free dorm for everyone"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-3",
+              "fields": {
+                "Cost": "Meals",
+                "Covered?": "Individual package",
+                "Amount / rule": "Отдельный free meal plan не обещан"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-4",
+              "fields": {
+                "Cost": "Monthly stipend",
+                "Covered?": "**Some packages**",
+                "Amount / rule": "Amount/months NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-5",
+              "fields": {
+                "Cost": "Books / insurance / visa / airfare",
+                "Covered?": "Separate entitlements NP",
+                "Amount / rule": "Запросить письменный breakdown"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-6",
+              "fields": {
+                "Cost": "Transport / laptop",
+                "Covered?": "NP",
+                "Amount / rule": "Не считать automatically included"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-7",
+              "fields": {
+                "Cost": "Summer housing",
+                "Covered?": "Кампусные rooms обычно освобождают",
+                "Amount / rule": "Mid-May–mid-Aug; award alternatives NP"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-15-table-1-row-8",
+              "fields": {
+                "Cost": "Renewal / GPA / credits / conduct / duration",
+                "Covered?": "Detailed UG rules NP",
+                "Amount / rule": "Offer/current UG catalogue; graduate rules неприменимы"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-16",
+      "title": "L. After admission checklist",
+      "tab": "after-admission",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Action",
+            "Who",
+            "Deadline"
+          ],
+          "rows": [
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-0",
+              "fields": {
+                "Action": "Accept / review funding",
+                "Who": "Applicant/university",
+                "Deadline": "Offer timeframe; itemised COA до acceptance"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-1",
+              "fields": {
+                "Action": "Deposit",
+                "Who": "Applicant если requested",
+                "Deadline": "Public amount/refund TBA"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-2",
+              "fields": {
+                "Action": "Final NIS / transcript / diploma",
+                "Who": "School/issuer → applicant, verification по instructions",
+                "Deadline": "**Before enrolment**, date TBA"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-3",
+              "fields": {
+                "Action": "Translation / legalisation",
+                "Who": "Applicant/authority",
+                "Deadline": "University/recognition instructions"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-4",
+              "fields": {
+                "Action": "UAE recognition/equivalency",
+                "Who": "Applicant/authority",
+                "Deadline": "**End first semester latest**; начать раньше"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-5",
+              "fields": {
+                "Action": "Visa",
+                "Who": "University assists + applicant",
+                "Deadline": "June onward support; valid before arrival"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-6",
+              "fields": {
+                "Action": "Medical/insurance/housing/orientation",
+                "Who": "Applicant/university",
+                "Deadline": "Exact 2027 instructions TBA"
+              }
+            },
+            {
+              "id": "audit-mbzuai-block-16-table-0-row-7",
+              "fields": {
+                "Action": "AED 200 reimbursement",
+                "Who": "University",
+                "Deadline": "**Upon enrolment**, не upon offer"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-17",
+      "title": "M. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "**Admission: Reach. 100% COA: Extreme reach/Reach.** Projects/research/founder experience соответствует возможному profile, но screen/interview требуют подготовки. Optional SAT позволяет application при 1300–1350. Maximum funding не гарантирован; probability/remaining gap до award неизвестны."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-mbzuai-block-18",
+      "title": "N. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "NIS conversion 90%/HL, final certificate exact cutoff/legalisation.",
+        "PS limit/video duration/recommender ratings/sender; SAT code/superscore/direct reporting.",
+        "Last screening/fee/rec completion dates EA/RD, separate funding form/financial evidence.",
+        "Award decision/deposit, COA/stipend/months/GPA/credits/conduct/airfare/summer.",
+        "Housing cost/guarantee, precise arrival/orientation/start day."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-19",
+      "title": "O. Email question for admissions",
+      "tab": "sources",
+      "paragraphs": [
+        "Готовый текст; **не отправлен**. Contact: admission@mbzuai.ac.ae.",
+        "I am a Kazakhstan NIS Grade 12 applicant for Fall 2027 AI Engineering, with finals expected in June 2027. How are NIS HL grades evaluated against the 90% requirement, and what is the final-document deadline? Please confirm PS limits, video duration, recommender submission and EA screening/fee completion deadlines. Is official SAT delivery required for the 1400/760 waiver? Which need-based form and financial documents are needed, and what COA items, renewal rules and summer costs does the award cover?"
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-mbzuai-block-20",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[Undergraduate admissions/2027 dates/tests/scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [application portal](https://apply.mbzuai.ac.ae/).",
+        "[BSc AI Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [BSc AI Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business), [UG division](https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division).",
+        "[UG FAQ: streams/housing/visa](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies), [undergraduate calendar entry](https://mbzuai.ac.ae/undergraduate-academic-calendar): полный Fall 2027 calendar не извлечён, mid-Aug start из explicit admissions FAQ.",
+        "Найденные graduate/2024–25 catalogue материалы не использованы как доказательство UG scholarship/essay conditions."
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "title": "Application opens",
+      "type": "Opening",
+      "date": "2026-09-07",
+      "endDate": null,
+      "evidence": "confirmed",
+      "time": "08:00",
+      "timezone": "Asia/Dubai",
+      "precision": "exact",
+      "id": "audit-mbzuai-official-0",
+      "universityId": "audit-mbzuai",
+      "display": "2026-09-07",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Early Action application",
+      "type": "Application",
+      "date": "2026-11-01",
+      "endDate": null,
+      "evidence": "confirmed",
+      "time": "17:00",
+      "timezone": "Asia/Dubai",
+      "precision": "exact",
+      "id": "audit-mbzuai-official-1",
+      "universityId": "audit-mbzuai",
+      "display": "2026-11-01",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Early Action decision",
+      "type": "Decision",
+      "date": "2027-01-15",
+      "endDate": null,
+      "evidence": "confirmed",
+      "time": "17:00",
+      "timezone": "Asia/Dubai",
+      "precision": "exact",
+      "id": "audit-mbzuai-official-2",
+      "universityId": "audit-mbzuai",
+      "display": "2027-01-15",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Regular Decision application",
+      "type": "Application",
+      "date": "2027-02-01",
+      "endDate": null,
+      "evidence": "confirmed",
+      "time": "17:00",
+      "timezone": "Asia/Dubai",
+      "precision": "exact",
+      "id": "audit-mbzuai-official-3",
+      "universityId": "audit-mbzuai",
+      "display": "2027-02-01",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Regular Decision result",
+      "type": "Decision",
+      "date": "2027-04-01",
+      "endDate": null,
+      "evidence": "confirmed",
+      "time": "17:00",
+      "timezone": "Asia/Dubai",
+      "precision": "exact",
+      "id": "audit-mbzuai-official-4",
+      "universityId": "audit-mbzuai",
+      "display": "2027-04-01",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Screening invitation",
+      "type": "Test",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "relative",
+      "approximate": {
+        "ru": "В течение 10 дней после подачи заявки",
+        "en": "Within 10 days after submission"
+      },
+      "display": "Within 10 days after submission",
+      "id": "audit-mbzuai-official-screen-invitation",
+      "universityId": "audit-mbzuai",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Screening / fee / recommendation completion cutoff",
+      "type": "Test",
+      "date": null,
+      "endDate": null,
+      "evidence": "tba",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "id": "audit-mbzuai-official-screen-cutoff",
+      "universityId": "audit-mbzuai",
+      "display": "Screening / fee / recommendation completion cutoff",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Mandatory interview for shortlisted applicants",
+      "type": "Interview",
+      "date": null,
+      "endDate": null,
+      "evidence": "tba",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "id": "audit-mbzuai-official-interview",
+      "universityId": "audit-mbzuai",
+      "display": "Mandatory interview for shortlisted applicants",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Separate scholarship form / award decision",
+      "type": "Funding",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "id": "audit-mbzuai-official-funding",
+      "universityId": "audit-mbzuai",
+      "display": "Separate scholarship form / award decision",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Offer acceptance / deposit",
+      "type": "Deposit",
+      "date": null,
+      "endDate": null,
+      "evidence": "tba",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "id": "audit-mbzuai-official-deposit",
+      "universityId": "audit-mbzuai",
+      "display": "Offer acceptance / deposit",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Final school records",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "relative",
+      "approximate": {
+        "ru": "До зачисления",
+        "en": "Before enrolment"
+      },
+      "display": "Before enrolment",
+      "id": "audit-mbzuai-official-final",
+      "universityId": "audit-mbzuai",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "UAE equivalency / recognition",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "relative",
+      "approximate": {
+        "ru": "Не позднее конца первого семестра",
+        "en": "No later than the end of the first semester"
+      },
+      "display": "No later than the end of the first semester",
+      "id": "audit-mbzuai-official-equivalency",
+      "universityId": "audit-mbzuai",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Visa support — after acceptance",
+      "type": "Visa",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "approximate": {
+        "ru": "С июня, после принятия оффера",
+        "en": "From June, after acceptance"
+      },
+      "id": "audit-mbzuai-official-visa",
+      "universityId": "audit-mbzuai",
+      "display": "Visa support — after acceptance",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Housing / orientation / arrival",
+      "type": "Housing",
+      "date": null,
+      "endDate": null,
+      "evidence": "tba",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "id": "audit-mbzuai-official-housing",
+      "universityId": "audit-mbzuai",
+      "display": "Housing / orientation / arrival",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    },
+    {
+      "title": "Semester begins",
+      "type": "Semester",
+      "date": null,
+      "endDate": null,
+      "evidence": "partial",
+      "time": null,
+      "timezone": null,
+      "precision": "tba",
+      "approximate": {
+        "ru": "Середина августа 2027",
+        "en": "Mid-August 2027"
+      },
+      "id": "audit-mbzuai-official-start",
+      "universityId": "audit-mbzuai",
+      "display": "Semester begins",
+      "sourceIds": [
+        "audit-mbzuai-source-16",
+        "audit-mbzuai-source-15",
+        "audit-mbzuai-source-20",
+        "audit-mbzuai-source-17",
+        "audit-mbzuai-source-18",
+        "audit-mbzuai-source-19",
+        "audit-mbzuai-source-21"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-mbzuai-source-16",
+      "title": "application portal",
+      "url": "https://apply.mbzuai.ac.ae/"
+    },
+    {
+      "id": "audit-mbzuai-source-15",
+      "title": "Undergraduate admissions/2027 dates/tests/scholarships/FAQ",
+      "url": "https://mbzuai.ac.ae/admissions/undergraduate-admissions"
+    },
+    {
+      "id": "audit-mbzuai-source-20",
+      "title": "UG FAQ: streams/housing/visa",
+      "url": "https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies"
+    },
+    {
+      "id": "audit-mbzuai-source-17",
+      "title": "BSc AI Engineering",
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering"
+    },
+    {
+      "id": "audit-mbzuai-source-18",
+      "title": "BSc AI Business",
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business"
+    },
+    {
+      "id": "audit-mbzuai-source-19",
+      "title": "UG division",
+      "url": "https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division"
+    },
+    {
+      "id": "audit-mbzuai-source-21",
+      "title": "undergraduate calendar entry",
+      "url": "https://mbzuai.ac.ae/undergraduate-academic-calendar"
+    }
+  ],
+  "sourceFile": "/data/batch-2-ru-2026-10-04.md",
+  "sourceSection": "# 6. MBZUAI\n\n## A. University snapshot\n\n| Field | Проверенный ответ |\n|---|---|\n| University | Mohamed bin Zayed University of Artificial Intelligence |\n| Country / city / campus | UAE · Abu Dhabi · Masdar City |\n| University type | Специализированный AI research university с undergraduate programme |\n| Fall 2027 status | Admissions CONFIRMED; индивидуальное financing и часть личных form fields NP |\n| Application platform / URL | Own [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), вход через [UG admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions) |\n| Can start now? | Да, с 7 Sep 2026, 08:00 GST |\n| Best programme / degree | Bachelor of Science in Artificial Intelligence (Engineering) |\n| Language / format | English, очное обучение |\n| Admission / change | AI programme, Engineering/Business streams; switch с выполнением нового curriculum |\n| Transfer | Кредиты извне не принимаются; начать с первого года |\n| International intake / acceptance | Fall 2027 UG quota/rate NP; graduate statistics не применяются |\n\n## Changes since 13 Sep 2026\n\n| Старый аудит | Перепроверка / correction |\n|---|---|\n| EA/RD даты | **No change подтверждено:** EA 1 Nov/RD 1 Feb; decisions 15 Jan/1 Apr |\n| Fee 200 / fee waiver / до 100% COA | Подтверждено; не automatic funding всех admitted |\n| English waiver unclear | Финальные 3 года taught **and assessed** entirely English + eligible English-country condition; **Kazakhstan не listed** |\n| DET 120 | Только при limited access к IELTS/TOEFL/PTE/Cambridge, не свободная альтернатива |\n| SAT waiver | Нужны **1400 total AND 760 Math**, не один threshold |\n| Track switch | UG FAQ допускает switch при выполнении curriculum requirements |\n| Interview | FAQ: обязательное online faculty interview для всех shortlisted; более общий prose “may” не отменяет FAQ |\n| PS/recs limits | Публично всё ещё NP; graduate SOP/стипендии не импортируются |\n\n[Current admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [UG FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).\n\n## B. Programmes for this applicant\n\n| Exact official name | Degree / unit | Curriculum / prerequisites / fit |\n|---|---|---|\n| Bachelor of Science in Artificial Intelligence (Engineering) | BSc · Division of Undergraduate Studies | Math/CS/ML foundations, engineering AI; experiential/research/venture components |\n| Bachelor of Science in Artificial Intelligence (Business) | BSc · same undergraduate division | AI technical foundation + business/entrepreneurship; иная глубина CS |\n\n[Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business). Отдельные bachelor Software Engineering/Data Science/Computer Engineering в проверенном UG перечне не найдены.\n\nМатематика должна быть изучена в **финальные два школьных года**, желательно на самом продвинутом доступном уровне. SAT не заменяет школьную Math. Prior AI/programming **не required**, но GitHub/open-source evidence полезны и могут повлиять на introductory course exemption. Точные NIS Physics/calculus HL prerequisites, female restrictions, programme quota и различия scholarship по stream NP. Track switch возможен с закрытием всех обязательных subjects, не свободный transfer credits.\n\n**Best programme for me — Analysis:** Engineering для технического CS/AI. Business выбирать при сознательном фокусе на предпринимательстве; founder projects можно использовать и в Engineering application. Exact curriculum/degree duration сверять с актуальным UG plan, не graduate catalogue.\n\n## C. Application rounds and deadlines\n\n| Event | Date | Time | Time zone | Confirmed? | What must be ready |\n|---|---|---|---|---|---|\n| Portal opens | **7 Sep 2026** | **08:00** | GST UTC+4 | CONFIRMED | Account/records |\n| Early Action deadline | **1 Nov 2026** | **17:00** | GST | CONFIRMED | Complete application, initial English proof |\n| EA decision | **15 Jan 2027** | **17:00** | GST | CONFIRMED | Offer/award review |\n| Regular Decision deadline | **1 Feb 2027** | **17:00** | GST | CONFIRMED | Same complete file |\n| RD decision | **1 Apr 2027** | **17:00** | GST | CONFIRMED | Offer/award review |\n| Screening invitation | **Within 10 days after submit** | Invitation | Invitation | Current process | Book and complete unless waiver |\n| Screening completion / fee / recommendation cutoff | Отдельный последний день NP | NP | NP | Needs confirmation | Не считать application cutoff гарантированным exam grace |\n| Interview | Shortlisted, individual schedule | Invitation | Invitation | Required if shortlisted | Technical/motivation preparation |\n| Scholarship form / decision | Universal separate date NP | NP | NP | Partial | Finances если запросят |\n| Offer acceptance / deposit | По offer | Offer | Offer | TBA | Individual funding review |\n| Final school records | **Before enrolment** | NP | NP | Current policy | Final NIS/transcript |\n| UAE equivalency | **Before end of first semester** | NP | NP | Current policy | Не grace для самого диплома |\n| Visa support | FAQ June onward после acceptance | NP | NP | Current policy | Passport/visa file |\n| Housing / orientation / arrival | Exact 2027 dates TBA | TBA | TBA | TBA | Instructions/contract |\n| Semester start | **Mid-August 2027** | NP | GST | CONFIRMED interval | Очное присутствие |\n\n[Official timeline](https://mbzuai.ac.ae/admissions/undergraduate-admissions). EA не обозначен как binding ED; ED contract/early exclusivity не опубликованы. Принятие offer в индивидуальный срок остаётся отдельным условием. **Одна application per cycle**, multiple submissions запрещены; не подавать вторую RD application после EA. EA/RD рассматриваются rolling, поэтому подача заранее полезна.\n\n### My recommended timeline\n\n| Task | Internal date |\n|---|---|\n| English proof / transcript / predicted | Ready **10 Oct** |\n| CV / GitHub / achievements | 10–12 Oct |\n| Optional recommenders: ask / ready | 5 Oct / 15 Oct |\n| PS first / final draft | 8 Oct / 15 Oct |\n| Optional video link, доступ без login | 15 Oct |\n| Submit EA | **18–20 Oct** |\n| Screening / fee | Book immediately after invitation; оплатить promptly если не waived |\n| Need-based financial pack | Собрать October; upload по запросу/current form |\n| RD alternative, если не подана EA | File ready 10 Jan; submit **15–18 Jan** |\n| Final NIS / recognition | Сразу после June issuance; exact offer instructions |\n\n## D. Platform, fee and editing rules\n\n| Item | Rule |\n|---|---|\n| System | Own MBZUAI portal; public Common App route не установлен |\n| Choices | Engineering/Business stream; точное число ranking fields личной формы NP |\n| Duplicate | **One per cycle**, не разрешены multiple submissions |\n| Updates | New SAT/ACT/AP, English scores и updated transcripts; замена PS не обещана |\n| Fee | **AED 200 after screening**; unpaid application incomplete |\n| Waiver | Screening overall **≥75%** или screening requirement waived |\n| Refund | Paid fee reimbursed **upon enrolment**, не любой rejection/withdrawal |\n| Common App waiver | Не применим |\n| Separate exam/scholarship fee | Дополнительный сбор не опубликован |\n| Deposit / seat reservation | Amount/date/refund публично NP |\n| Paper/school | Initial online official documents; final verification по instructions, universal pre-application courier не stated |\n\n[Fee/update policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions). 75% — **fee waiver threshold**, не опубликованный admission pass mark. SAT screening waiver также даёт fee waiver, но не scholarship guarantee.\n\n## E. Document checklist and who submits what\n\n| Document | Required? | Who submits? | When? | Format | Notes |\n|---|---|---|---|---|---|\n| Passport | C/POST; current foreign field NP | Applicant | Portal/visa | Scan | Для visa обязателен; public all-applicants list не описывает все identity fields |\n| UAE ID/residence visa | C UAE residents | Applicant | Portal | Scan | Не universal для Kazakhstan resident |\n| Parents passports/family book/birth/national service | — обычный Kazakhstan route | —; C если другая категория | Если применимо | Official | Listed requirements относятся к UAE nationals/residents/Emirati mothers |\n| School transcripts/report cards | **R** | **School issues → applicant uploads** | Initial | Official English/certified translation | Все предыдущие high-school reports + текущие; Grade 9 inclusion зависит от form |\n| Predicted/provisional NIS | **R/accepted pending finals** | **School issues → applicant uploads** | Initial | Signed official | Не converting GPA to 4.0 |\n| School profile/scale/expected graduation | REC/C | School → applicant | Initial | English PDF | Объяснить NIS/HL |\n| Final NIS/final transcript | **POST R** | School/issuer → applicant; verification по request | **Before enrolment** | Official | Не к концу первого semester |\n| UAE equivalency/recognition | **POST R outside UAE по documents policy**, applicability по authority | Applicant/authority | **End first semester latest** | Official certificate | General wording “may be required” и detailed document rule читать вместе |\n| Certified English translation | R non-English | Issuer/authorised translator → applicant | With records | Certified | Не self translation |\n| English proof | **R unless eligible waiver** | Applicant uploads; provider verifies if requested | **At application** | Valid result | Без ELP application не продвигается |\n| SAT/ACT/AP/IB | O; SAT может waive screening | Applicant/verifying body | Initial/update | Verifiable result | Direct code/send rule NP |\n| Screening | R unless waiver | Applicant online | Invitation | Test | NIS predicted не exemption сами по себе |\n| CV | **R** | Applicant | Initial | Detailed CV | Official template не required |\n| Personal Statement | **R** | Applicant | Initial | Portal text/file | Exact length NP |\n| Activities/awards | REC/profile evidence | Applicant | Initial | Fields/evidence | Competitions, leadership, real impact |\n| GitHub/technical portfolio | **REC, not mandatory** | Applicant | Initial | URLs | Не mandatory research publication |\n| Recommendation 1/2 | **REC, maximum 2** | References указан applicant; actual confidential/PDF sender workflow portal-only | Initial/invitation | Current form | Teachers/mentors/supervisors |\n| PS video | REC optional public guidance | Applicant | Initial | **URL**, private YouTube/Vimeo/shared drive | Duration NP |\n| Financial documents | C need-based | Applicant/family | Scholarship request | Form/official income-assets | Public complete list NP |\n| Apostille/attestation/medical/insurance/visa/housing | POST/C | Applicant/university/authority | Offer/registration | Official instructions | Exact NIS legalisation chain NP |\n\n[Application requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions). UAE citizen family book не переносится на international Kazakhstan applicant.\n\n## F. NIS route\n\n| My NIS route | Finding |\n|---|---|\n| Qualification named / HL | Specific NIS table/HL conversion/number NP |\n| General minimum | Recognised secondary qualification, **90% or equivalent** по curriculum |\n| Predicted | **Accepted**, school-issued records + previous reports |\n| Final June | Final official docs **before enrolment**; mid-Aug start обычно совместим — analysis, exact date TBA |\n| UNT / IB | Universal UNT не listed; NIS не IB по предположению |\n| English waiver | Требуются три consecutive years taught/assessed entirely English + eligible English-country condition; **Kazakhstan не входит в published list** |\n| NIS English medium | Само по себе не выполняет country waiver condition |\n| Recognition / apostille | UAE recognition by end first semester; NIS-specific chain needs confirmation |\n| Timing risk | No obvious June-Aug conflict; recognition/visa processing и screening cutoff уточнить |\n\nВводить фактическую школьную оценку, не самостоятельно переводить NIS A/A*/B в 90%. [Current policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions).\n\n## G. Academic and testing requirements\n\n### Official minimum\n\n| Item | Minimum / required? | Reporting / nuance |\n|---|---|---|\n| School results | **90% or equivalent**, curriculum/cycle context | FAQ также говорит typical successful 90% STEM; это не гарантия |\n| School Math | Финальные два года, preferably highest school level | Exact NIS calculus/Physics minima NP |\n| SAT / ACT | **Optional admission** | Strong quantitative score полезен |\n| SAT screening waiver | **Total ≥1400 AND Math ≥760** | Оба порога, verifiable proof; superscore NP |\n| Olympiad screening waiver | International gold/silver/bronze по listed recognised Olympiads | IOI/IMO/IOAI/IPhO/IBO/IChO; не любое award |\n| IELTS Academic | **6.5 overall** | Individual bands NP; validity два года **at application** |\n| TOEFL iBT | **90 old / 4.5 new** | No Home Edition; approved physical centre |\n| PTE Academic | **60** | Valid result |\n| Cambridge | **C1 Advanced 180 / C2 Proficiency 200** | Valid result |\n| DET | **120 only limited-access exception** | Доказательство недоступности иных тестов могут запросить |\n| NIS MOI waiver | Не автоматически по country rule | IELTS 7–7.5 выше общего minimum |\n| Official reporting | Verifiable result; numeric SAT/TOEFL codes/direct send current NP | New test uploads allowed |\n| Late English / latest test | ELP initially required; last receipt date NP | Улучшенный score позже ≠ разрешение initial missing ELP |\n| Scholarship minima | Separate SAT/English thresholds NP | 1400/760 — screen waiver, не award minimum |\n\nTOPIK/GRE не UG requirements. [Official tests/English](https://mbzuai.ac.ae/admissions/undergraduate-admissions).\n\n### Competitive target — analysis\n\nSAT 1300–1350 не блокирует admission application, но screening придётся пройти без другого waiver. Нужна реальная mathematical/problem-solving подготовка. Projects/GitHub должны показывать code, личный вклад и результаты. Competitive NIS/SAT range и award rate не опубликованы.\n\n## H. Internal exam and interview\n\n| Component | Mandatory? | Mode / official topics | Unknown |\n|---|---|---|---|\n| Screening | **R unless waiver** | Online | Duration/pass mark/weight/final completion deadline NP |\n| Math topics | Official preparation list | Algebra, functions, probability/statistics, matrices/vectors, calculus, discrete mathematics | Не придумывать отдельный Physics/Chemistry exam |\n| Logic/programming/data | Official preparation list | Logic/patterns; algorithmic problem-solving/basic syntax/functions/data structures; data interpretation/basic ML | Exact question count NP |\n| Faculty interview | **R for all shortlisted** по FAQ | Online, motivation + technical component/math/readiness/communication | Dates/duration/weight NP |\n| Fee score 75% | Только fee waiver | Не admission passing threshold | Не обещать admission при 75% |\n| Separate scholarship interview | Universal requirement NP | Может быть частью индивидуального process | Needs confirmation |\n\nПриглашение screening в течение 10 дней — не обещание полного решения за 10 дней. SAT waiver не отменяет interview. Technical specifications/Screening Exam Guide linked через personal/dynamic resource; не проверены как свободная публичная форма. [Official process](https://mbzuai.ac.ae/admissions/undergraduate-admissions).\n\n## I. Recommendations\n\n| Item | Answer |\n|---|---|\n| Number | **0 mandatory; up to 2 recommended** |\n| Who | Teachers, mentors, supervisors; не только principal |\n| Sender | Applicant указывает references; confidential link vs applicant letter upload в current form NP |\n| Exact ratings/questions/limits | Portal-only/not publicly verified |\n| Counselor/second/scholarship | Counselor не universal R; second REC в лимите 2; separate award rec NP |\n| Deadline | Separate rec cutoff NP; request now |\n\n**My recommendation strategy — Analysis:** Math/CS teacher для readiness + project/research mentor для technical independence/teamwork. Одно содержательное письмо лучше двух общих. Если портал требует direct recommender link, applicant не заменяет отправку автора.\n\n## J. Essays\n\n| Essay | Official task / prompt status | Limit | Required / submission | Purpose / profile fit — Analysis |\n|---|---|---|---|---|\n| Personal Statement | Интерес к AI; academic/personal experiences; motivation MBZUAI; goals/achievements/extracurriculars; contribution/benefit UG community | **Word/character/byte NP** | **R**, English, own portal | AI curiosity/readiness/impact; реальные projects/research |\n| Personal Statement video | Public recommended brief video об интересе, целях/применении знаний; FAQ формат URL | **Duration NP** | REC optional; URL | Communication, конкретные примеры работы |\n| Scholarship essay | Separate exact Fall 2027 prompt публично не найден | NP | Current financial form/request | Только реальные обстоятельства |\n| Why major / study plan / other | Separate mandatory questions NP | NP | По portal | Не graduate SOP |\n\n**Correction:** MBZUAI graduate 500–1000-word SOP, graduate 2–3 recs и research videos не относятся к этому BSc. Public UG task передан по смыслу; exact personal-form length пока не подтверждён. [Official UG requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions).\n\n## K. Scholarships and financial aid\n\n| Category | Award | Separate / deadline | Eligibility / funding |\n|---|---|---|---|\n| A. Automatic guaranteed | Full award for all admitted | **Не опубликован** | Admission ≠ 100% funding |\n| B. Merit | Undergraduate merit-based scholarships | Public separate form/fee/deadline/essay NP | Holistic academic/talent selection; individual amount |\n| C. Need-based | Undergraduate needs-based scholarships | Financial workflow/form/details NP | Demonstrated need; отдельные documents уточнить |\n| D. Sponsor | Industry-partner-sponsored seats | Separate applicant workflow NP | Не всем applicants автоматически |\n\nОпубликованный максимум — **до 100% tuition + cost of attendance**. Tuition **USD 45 000/год**, COA дополнительно. Counts/percentage/renewal GPA NP. Stipend входит лишь в некоторые packages. [Scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions).\n\n| Cost | Covered? | Amount / rule |\n|---|---|---|\n| Tuition | До 100% | Exact award in letter |\n| Mandatory fees | Возможны в COA | Itemised breakdown NP; не universal guarantee |\n| Housing | Может входить в award COA | Available dorm ≠ free dorm for everyone |\n| Meals | Individual package | Отдельный free meal plan не обещан |\n| Monthly stipend | **Some packages** | Amount/months NP |\n| Books / insurance / visa / airfare | Separate entitlements NP | Запросить письменный breakdown |\n| Transport / laptop | NP | Не считать automatically included |\n| Summer housing | Кампусные rooms обычно освобождают | Mid-May–mid-Aug; award alternatives NP |\n| Renewal / GPA / credits / conduct / duration | Detailed UG rules NP | Offer/current UG catalogue; graduate rules неприменимы |\n\n**Housing:** shared/multi-occupancy rooms; winter/spring breaks доступны; обычный summer vacancy mid-May–mid-Aug. Parents не могут жить в campus. Гарантия first year/all four years, 2027 rate/deposit и exact window NP. [UG housing FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).\n\n**Real annual gap:** не вычисляется — нет itemised COA, hall rates и персонального guaranteed award. 100% COA может относиться к academic year; summer/airfare/visa coverage проверить отдельно. Tuition-only оставляет все living costs. Graduate allowances не используются.\n\n## L. After admission checklist\n\n| Action | Who | Deadline |\n|---|---|---|\n| Accept / review funding | Applicant/university | Offer timeframe; itemised COA до acceptance |\n| Deposit | Applicant если requested | Public amount/refund TBA |\n| Final NIS / transcript / diploma | School/issuer → applicant, verification по instructions | **Before enrolment**, date TBA |\n| Translation / legalisation | Applicant/authority | University/recognition instructions |\n| UAE recognition/equivalency | Applicant/authority | **End first semester latest**; начать раньше |\n| Visa | University assists + applicant | June onward support; valid before arrival |\n| Medical/insurance/housing/orientation | Applicant/university | Exact 2027 instructions TBA |\n| AED 200 reimbursement | University | **Upon enrolment**, не upon offer |\n\n## M. Strategic assessment — analysis\n\n**Admission: Reach. 100% COA: Extreme reach/Reach.** Projects/research/founder experience соответствует возможному profile, но screen/interview требуют подготовки. Optional SAT позволяет application при 1300–1350. Maximum funding не гарантирован; probability/remaining gap до award неизвестны.\n\n## N. Still TBA / needs confirmation\n\n- NIS conversion 90%/HL, final certificate exact cutoff/legalisation.\n- PS limit/video duration/recommender ratings/sender; SAT code/superscore/direct reporting.\n- Last screening/fee/rec completion dates EA/RD, separate funding form/financial evidence.\n- Award decision/deposit, COA/stipend/months/GPA/credits/conduct/airfare/summer.\n- Housing cost/guarantee, precise arrival/orientation/start day.\n\n## O. Email question for admissions\n\nГотовый текст; **не отправлен**. Contact: admission@mbzuai.ac.ae.\n\n> I am a Kazakhstan NIS Grade 12 applicant for Fall 2027 AI Engineering, with finals expected in June 2027. How are NIS HL grades evaluated against the 90% requirement, and what is the final-document deadline? Please confirm PS limits, video duration, recommender submission and EA screening/fee completion deadlines. Is official SAT delivery required for the 1400/760 waiver? Which need-based form and financial documents are needed, and what COA items, renewal rules and summer costs does the award cover?\n\n## Official sources checked\n\n- [Undergraduate admissions/2027 dates/tests/scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [application portal](https://apply.mbzuai.ac.ae/).\n- [BSc AI Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [BSc AI Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business), [UG division](https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division).\n- [UG FAQ: streams/housing/visa](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies), [undergraduate calendar entry](https://mbzuai.ac.ae/undergraduate-academic-calendar): полный Fall 2027 calendar не извлечён, mid-Aug start из explicit admissions FAQ.\n- Найденные graduate/2024–25 catalogue материалы не использованы как доказательство UG scholarship/essay conditions.",
+  "localizedText": {
+    "United Arab Emirates": {
+      "ru": "ОАЭ",
+      "en": "United Arab Emirates"
+    },
+    "Abu Dhabi": {
+      "ru": "Абу-Даби",
+      "en": "Abu Dhabi"
+    },
+    "Own [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), вход через [UG admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions)": {
+      "ru": "Собственный [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), вход через [поступление на бакалавриат](https://mbzuai.ac.ae/admissions/undergraduate-admissions)",
+      "en": "Own [apply.mbzuai.ac.ae](https://apply.mbzuai.ac.ae/), entry through [UG admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions)"
+    },
+    "Bachelor of Science in Artificial Intelligence (Engineering)": {
+      "ru": "Bachelor of Science in Artificial Intelligence (Engineering)",
+      "en": "Bachelor of Science in Artificial Intelligence (Engineering)"
+    },
+    "Bachelor of Science in Artificial Intelligence (Business)": {
+      "ru": "Bachelor of Science in Artificial Intelligence (Business)",
+      "en": "Bachelor of Science in Artificial Intelligence (Business)"
+    },
+    "Up to 100% tuition + cost of attendance; individual award, stipend and summer coverage not guaranteed": {
+      "ru": "До 100% обучения и расходов на обучение и проживание (COA); индивидуальный размер, выплата и летнее покрытие не гарантированы",
+      "en": "Up to 100% tuition + cost of attendance; individual award, stipend and summer coverage not guaranteed"
+    },
+    "Not assessed in October audit": {
+      "ru": "Оценка в октябрьском аудите не указана",
+      "en": "Not assessed in October audit"
+    },
+    "Awaiting October re-audit": {
+      "ru": "Ожидается повторный аудит за октябрь",
+      "en": "Awaiting October re-audit"
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Проверенный ответ": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Mohamed bin Zayed University of Artificial Intelligence": {
+      "ru": "Mohamed bin Zayed University of Artificial Intelligence",
+      "en": "Mohamed bin Zayed University of Artificial Intelligence"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "UAE · Abu Dhabi · Masdar City": {
+      "ru": "ОАЭ · Абу-Даби · Masdar City",
+      "en": "UAE · Abu Dhabi · Masdar City"
+    },
+    "University type": {
+      "ru": "Тип университета",
+      "en": "University type"
+    },
+    "Специализированный AI research university с undergraduate programme": {
+      "ru": "Специализированный исследовательский университет AI с программой бакалавриата",
+      "en": "Specialist AI research university with an undergraduate programme"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "Admissions CONFIRMED; индивидуальное financing и часть личных form fields NP": {
+      "ru": "Поступление подтверждено; индивидуальное финансирование и часть полей личной формы официально не установлены (NP)",
+      "en": "Admissions confirmed; individual financing and some personal-form fields not publicly established (NP)"
+    },
+    "Application platform / URL": {
+      "ru": "Платформа / ссылка для подачи",
+      "en": "Application platform / URL"
+    },
+    "Can start now?": {
+      "ru": "Можно ли начать сейчас?",
+      "en": "Can start now?"
+    },
+    "Да, с 7 Sep 2026, 08:00 GST": {
+      "ru": "Да, с 7 сентября 2026, 08:00 GST",
+      "en": "Yes, since 7 Sep 2026, 08:00 GST"
+    },
+    "Best programme / degree": {
+      "ru": "Подходящая программа / степень",
+      "en": "Best programme / degree"
+    },
+    "Language / format": {
+      "ru": "Язык / формат обучения",
+      "en": "Language / format"
+    },
+    "English, очное обучение": {
+      "ru": "Английский, очное обучение",
+      "en": "English, full-time on campus"
+    },
+    "Admission / change": {
+      "ru": "Поступление / смена направления",
+      "en": "Admission / change"
+    },
+    "AI programme, Engineering/Business streams; switch с выполнением нового curriculum": {
+      "ru": "Программа AI, направления Engineering/Business; смена возможна с выполнением нового учебного плана",
+      "en": "AI programme, Engineering/Business streams; switching requires completion of the new curriculum"
+    },
+    "Transfer": {
+      "ru": "Перевод из другого университета",
+      "en": "Transfer"
+    },
+    "Кредиты извне не принимаются; начать с первого года": {
+      "ru": "Кредиты других университетов не принимаются; начать с первого курса",
+      "en": "External credits are not accepted; start from year one"
+    },
+    "International intake / acceptance": {
+      "ru": "Места для иностранных студентов / доля принятых",
+      "en": "International intake / acceptance"
+    },
+    "Fall 2027 UG quota/rate NP; graduate statistics не применяются": {
+      "ru": "Квота / доля принятых бакалавров Fall 2027 не опубликованы; статистика магистратуры неприменима",
+      "en": "Fall 2027 undergraduate quota/acceptance rate NP; graduate statistics do not apply"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "[Current admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [UG FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).": {
+      "ru": "[Текущий приём](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [FAQ бакалавриата](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).",
+      "en": "[Current admissions](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [UG FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies)."
+    },
+    "Старый аудит": {
+      "ru": "Старый аудит",
+      "en": "September audit"
+    },
+    "Перепроверка / correction": {
+      "ru": "Перепроверка / исправление",
+      "en": "Re-audit / correction"
+    },
+    "EA/RD даты": {
+      "ru": "Даты EA/RD",
+      "en": "EA/RD dates"
+    },
+    "**No change подтверждено:** EA 1 Nov/RD 1 Feb; decisions 15 Jan/1 Apr": {
+      "ru": "**Изменений нет, подтверждено:** EA 1 ноября / RD 1 февраля; решения 15 января / 1 апреля",
+      "en": "**No change, confirmed:** EA 1 Nov/RD 1 Feb; decisions 15 Jan/1 Apr"
+    },
+    "Fee 200 / fee waiver / до 100% COA": {
+      "ru": "Сбор 200 / освобождение от оплаты / до 100% COA",
+      "en": "Fee 200 / fee waiver / up to 100% COA"
+    },
+    "Подтверждено; не automatic funding всех admitted": {
+      "ru": "Подтверждено; не автоматическое финансирование всех принятых",
+      "en": "Confirmed; not automatic funding for every admitted student"
+    },
+    "English waiver unclear": {
+      "ru": "Освобождение от теста английского было неясно",
+      "en": "English waiver previously unclear"
+    },
+    "Финальные 3 года taught **and assessed** entirely English + eligible English-country condition; **Kazakhstan не listed**": {
+      "ru": "Последние 3 года обучение **и оценивание** полностью на английском + условие подходящей англоязычной страны; **Казахстан не в списке**",
+      "en": "Final 3 years taught **and assessed** entirely in English plus eligible English-country condition; **Kazakhstan is not listed**"
+    },
+    "DET 120": {
+      "ru": "DET 120",
+      "en": "DET 120"
+    },
+    "Только при limited access к IELTS/TOEFL/PTE/Cambridge, не свободная альтернатива": {
+      "ru": "Только при ограниченном доступе к IELTS/TOEFL/PTE/Cambridge; не свободная альтернатива",
+      "en": "Only with limited access to IELTS/TOEFL/PTE/Cambridge, not an unrestricted alternative"
+    },
+    "SAT waiver": {
+      "ru": "Освобождение по SAT",
+      "en": "SAT waiver"
+    },
+    "Нужны **1400 total AND 760 Math**, не один threshold": {
+      "ru": "Нужны **общий SAT 1400 И Math 760**, не один порог",
+      "en": "Requires **1400 total AND 760 Math**, not one threshold"
+    },
+    "Track switch": {
+      "ru": "Смена направления",
+      "en": "Stream switch"
+    },
+    "UG FAQ допускает switch при выполнении curriculum requirements": {
+      "ru": "FAQ бакалавриата допускают смену при выполнении требований учебного плана",
+      "en": "UG FAQ permits switching if curriculum requirements are met"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "FAQ: обязательное online faculty interview для всех shortlisted; более общий prose “may” не отменяет FAQ": {
+      "ru": "FAQ: онлайн-интервью преподавателей обязательно для всех прошедших предварительный отбор; более общее «may» этого не отменяет",
+      "en": "FAQ: an online faculty interview is mandatory for all shortlisted applicants; general prose saying “may” does not override it"
+    },
+    "PS/recs limits": {
+      "ru": "Ограничения PS / рекомендательных писем",
+      "en": "PS/recommendation limits"
+    },
+    "Публично всё ещё NP; graduate SOP/стипендии не импортируются": {
+      "ru": "Публично всё ещё NP; требования SOP / стипендий магистратуры не переносятся",
+      "en": "Still publicly NP; graduate SOP/scholarship requirements are not imported"
+    },
+    "Programmes for this applicant": {
+      "ru": "Программы для вашего профиля",
+      "en": "Programmes for this applicant"
+    },
+    "[Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business). Отдельные bachelor Software Engineering/Data Science/Computer Engineering в проверенном UG перечне не найдены.": {
+      "ru": "[Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business). В проверенном перечне бакалавриата отдельные Software Engineering/Data Science/Computer Engineering не найдены.",
+      "en": "[Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business). Separate bachelor’s degrees in Software Engineering/Data Science/Computer Engineering were not found in the checked UG list."
+    },
+    "Математика должна быть изучена в **финальные два школьных года**, желательно на самом продвинутом доступном уровне. SAT не заменяет школьную Math. Prior AI/programming **не required**, но GitHub/open-source evidence полезны и могут повлиять на introductory course exemption. Точные NIS Physics/calculus HL prerequisites, female restrictions, programme quota и различия scholarship по stream NP. Track switch возможен с закрытием всех обязательных subjects, не свободный transfer credits.": {
+      "ru": "Математику нужно изучать **последние два школьных года**, желательно на самом продвинутом доступном уровне. SAT не заменяет школьную математику. Предварительный опыт AI / программирования **не обязателен**, но GitHub / открытый код полезны и могут повлиять на освобождение от вводного курса. Точные требования NIS HL по физике / математическому анализу, ограничения для женщин, квота программы и различия стипендий между направлениями не установлены. Смена направления требует завершить все обязательные предметы, а не свободного переноса кредитов.",
+      "en": "Mathematics must be studied in the **final two school years**, preferably at the highest available level. SAT does not replace school Math. Prior AI/programming is **not required**, but GitHub/open-source evidence can help and affect introductory-course exemption. Exact NIS Physics/calculus HL prerequisites, female restrictions, programme quota and scholarship differences by stream NP. Switching requires completion of all compulsory subjects, not free transfer of credits."
+    },
+    "**Best programme for me — Analysis:** Engineering для технического CS/AI. Business выбирать при сознательном фокусе на предпринимательстве; founder projects можно использовать и в Engineering application. Exact curriculum/degree duration сверять с актуальным UG plan, не graduate catalogue.": {
+      "ru": "**Наиболее подходящая программа — анализ:** Engineering для технического CS/AI. Business — при сознательном интересе к предпринимательству; проекты основателя полезны и в Engineering. Учебный план / длительность степени сверить с актуальным бакалавриатом, не каталогом магистратуры.",
+      "en": "**Best programme — Analysis:** Engineering for technical CS/AI. Choose Business for a deliberate entrepreneurship focus; founder projects also fit Engineering. Check curriculum/degree duration against the current UG plan, not a graduate catalogue."
+    },
+    "Exact official name": {
+      "ru": "Официальное название",
+      "en": "Exact official name"
+    },
+    "Degree / unit": {
+      "ru": "Степень / подразделение",
+      "en": "Degree / unit"
+    },
+    "Curriculum / prerequisites / fit": {
+      "ru": "Учебный план / обязательные предметы / соответствие профилю",
+      "en": "Curriculum / prerequisites / fit"
+    },
+    "BSc · Division of Undergraduate Studies": {
+      "ru": "BSc · Division of Undergraduate Studies",
+      "en": "BSc · Division of Undergraduate Studies"
+    },
+    "Math/CS/ML foundations, engineering AI; experiential/research/venture components": {
+      "ru": "Основы математики / CS / ML, инженерный AI; практические, исследовательские и предпринимательские компоненты",
+      "en": "Math/CS/ML foundations, engineering AI; experiential/research/venture components"
+    },
+    "BSc · same undergraduate division": {
+      "ru": "BSc · то же подразделение бакалавриата",
+      "en": "BSc · same undergraduate division"
+    },
+    "AI technical foundation + business/entrepreneurship; иная глубина CS": {
+      "ru": "Технические основы AI + бизнес / предпринимательство; другая глубина CS",
+      "en": "AI technical foundations + business/entrepreneurship; different CS depth"
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "[Official timeline](https://mbzuai.ac.ae/admissions/undergraduate-admissions). EA не обозначен как binding ED; ED contract/early exclusivity не опубликованы. Принятие offer в индивидуальный срок остаётся отдельным условием. **Одна application per cycle**, multiple submissions запрещены; не подавать вторую RD application после EA. EA/RD рассматриваются rolling, поэтому подача заранее полезна.": {
+      "ru": "[Официальный график](https://mbzuai.ac.ae/admissions/undergraduate-admissions). EA не назван binding ED; контракт ED / ранняя исключительность не опубликованы. Принятие оффера в индивидуальный срок — отдельное условие. **Одна заявка за цикл**, несколько подач запрещены; после EA не подавать вторую RD. EA/RD рассматриваются по мере поступления (rolling), поэтому ранняя подача полезна.",
+      "en": "[Official timeline](https://mbzuai.ac.ae/admissions/undergraduate-admissions). EA is not labelled binding ED; no ED contract/early exclusivity is published. Offer acceptance has its own individual deadline. **One application per cycle**; multiple submissions are prohibited, so do not submit a second RD application after EA. EA/RD are reviewed on a rolling basis, making early submission useful."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Date": {
+      "ru": "Дата",
+      "en": "Date"
+    },
+    "Time": {
+      "ru": "Время",
+      "en": "Time"
+    },
+    "Time zone": {
+      "ru": "Часовой пояс",
+      "en": "Time zone"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Portal opens": {
+      "ru": "Открытие портала",
+      "en": "Portal opens"
+    },
+    "**7 Sep 2026**": {
+      "ru": "**7 сентября 2026**",
+      "en": "**7 Sep 2026**"
+    },
+    "**08:00**": {
+      "ru": "**08:00**",
+      "en": "**08:00**"
+    },
+    "GST UTC+4": {
+      "ru": "GST UTC+4",
+      "en": "GST UTC+4"
+    },
+    "CONFIRMED": {
+      "ru": "ПОДТВЕРЖДЕНО",
+      "en": "CONFIRMED"
+    },
+    "Account/records": {
+      "ru": "Аккаунт / документы",
+      "en": "Account/records"
+    },
+    "Early Action deadline": {
+      "ru": "Дедлайн Early Action",
+      "en": "Early Action deadline"
+    },
+    "**1 Nov 2026**": {
+      "ru": "**1 ноября 2026**",
+      "en": "**1 Nov 2026**"
+    },
+    "**17:00**": {
+      "ru": "**17:00**",
+      "en": "**17:00**"
+    },
+    "GST": {
+      "ru": "GST",
+      "en": "GST"
+    },
+    "Complete application, initial English proof": {
+      "ru": "Полная заявка, первоначальное подтверждение английского",
+      "en": "Complete application, initial English proof"
+    },
+    "EA decision": {
+      "ru": "Решение EA",
+      "en": "EA decision"
+    },
+    "**15 Jan 2027**": {
+      "ru": "**15 января 2027**",
+      "en": "**15 Jan 2027**"
+    },
+    "Offer/award review": {
+      "ru": "Проверить оффер / размер стипендии",
+      "en": "Offer/award review"
+    },
+    "Regular Decision deadline": {
+      "ru": "Дедлайн Regular Decision",
+      "en": "Regular Decision deadline"
+    },
+    "**1 Feb 2027**": {
+      "ru": "**1 февраля 2027**",
+      "en": "**1 Feb 2027**"
+    },
+    "Same complete file": {
+      "ru": "Тот же полный пакет",
+      "en": "Same complete file"
+    },
+    "RD decision": {
+      "ru": "Решение RD",
+      "en": "RD decision"
+    },
+    "**1 Apr 2027**": {
+      "ru": "**1 апреля 2027**",
+      "en": "**1 Apr 2027**"
+    },
+    "Screening invitation": {
+      "ru": "Приглашение на отборочный тест (screening)",
+      "en": "Screening invitation"
+    },
+    "**Within 10 days after submit**": {
+      "ru": "**В течение 10 дней после подачи**",
+      "en": "**Within 10 days after submission**"
+    },
+    "Invitation": {
+      "ru": "По приглашению",
+      "en": "Invitation"
+    },
+    "Current process": {
+      "ru": "Действующий порядок",
+      "en": "Current process"
+    },
+    "Book and complete unless waiver": {
+      "ru": "Записаться и пройти, если нет освобождения",
+      "en": "Book and complete unless waived"
+    },
+    "Screening completion / fee / recommendation cutoff": {
+      "ru": "Крайний срок отборочного теста / оплаты / рекомендательных писем",
+      "en": "Screening completion / fee / recommendation cutoff"
+    },
+    "Отдельный последний день NP": {
+      "ru": "Отдельный последний день не опубликован (NP)",
+      "en": "Separate final date NP"
+    },
+    "NP": {
+      "ru": "Не опубликовано (NP)",
+      "en": "NP"
+    },
+    "Needs confirmation": {
+      "ru": "Требует подтверждения",
+      "en": "Needs confirmation"
+    },
+    "Не считать application cutoff гарантированным exam grace": {
+      "ru": "Дедлайн заявки не гарантирует дополнительное время на экзамен",
+      "en": "Application cutoff does not guarantee an exam grace period"
+    },
+    "Shortlisted, individual schedule": {
+      "ru": "Прошедшие предварительный отбор; индивидуальный график",
+      "en": "Shortlisted applicants, individual schedule"
+    },
+    "Required if shortlisted": {
+      "ru": "Обязательно при предварительном отборе",
+      "en": "Required if shortlisted"
+    },
+    "Technical/motivation preparation": {
+      "ru": "Техническая / мотивационная подготовка",
+      "en": "Technical/motivation preparation"
+    },
+    "Scholarship form / decision": {
+      "ru": "Форма стипендии / решение",
+      "en": "Scholarship form / decision"
+    },
+    "Universal separate date NP": {
+      "ru": "Общая отдельная дата не опубликована (NP)",
+      "en": "Universal separate date NP"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Finances если запросят": {
+      "ru": "Финансовые документы по запросу",
+      "en": "Finances if requested"
+    },
+    "Offer acceptance / deposit": {
+      "ru": "Принятие оффера / депозит",
+      "en": "Offer acceptance / deposit"
+    },
+    "По offer": {
+      "ru": "По офферу",
+      "en": "According to the offer"
+    },
+    "Offer": {
+      "ru": "По офферу",
+      "en": "Offer"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "Individual funding review": {
+      "ru": "Проверить индивидуальное финансирование",
+      "en": "Individual funding review"
+    },
+    "Final school records": {
+      "ru": "Итоговые школьные документы",
+      "en": "Final school records"
+    },
+    "**Before enrolment**": {
+      "ru": "**До зачисления**",
+      "en": "**Before enrolment**"
+    },
+    "Current policy": {
+      "ru": "Действующее правило",
+      "en": "Current policy"
+    },
+    "Final NIS/transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS/transcript"
+    },
+    "UAE equivalency": {
+      "ru": "Эквивалентность квалификации в ОАЭ",
+      "en": "UAE equivalency"
+    },
+    "**Before end of first semester**": {
+      "ru": "**До конца первого семестра**",
+      "en": "**Before the end of the first semester**"
+    },
+    "Не grace для самого диплома": {
+      "ru": "Не дополнительный срок для самого диплома",
+      "en": "Not a grace period for the diploma itself"
+    },
+    "Visa support": {
+      "ru": "Визовая поддержка",
+      "en": "Visa support"
+    },
+    "FAQ June onward после acceptance": {
+      "ru": "FAQ: с июня после принятия оффера",
+      "en": "FAQ: from June after acceptance"
+    },
+    "Passport/visa file": {
+      "ru": "Паспорт / визовый пакет",
+      "en": "Passport/visa file"
+    },
+    "Housing / orientation / arrival": {
+      "ru": "Проживание / ориентация / приезд",
+      "en": "Housing / orientation / arrival"
+    },
+    "Exact 2027 dates TBA": {
+      "ru": "Точные даты 2027 пока не опубликованы",
+      "en": "Exact 2027 dates TBA"
+    },
+    "Instructions/contract": {
+      "ru": "Инструкции / договор",
+      "en": "Instructions/contract"
+    },
+    "Semester start": {
+      "ru": "Начало семестра",
+      "en": "Semester start"
+    },
+    "**Mid-August 2027**": {
+      "ru": "**Середина августа 2027**",
+      "en": "**Mid-August 2027**"
+    },
+    "CONFIRMED interval": {
+      "ru": "Подтверждённый период",
+      "en": "CONFIRMED interval"
+    },
+    "Очное присутствие": {
+      "ru": "Очное присутствие",
+      "en": "On-campus attendance"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "Task": {
+      "ru": "Задача",
+      "en": "Task"
+    },
+    "Internal date": {
+      "ru": "Личная целевая дата",
+      "en": "Internal date"
+    },
+    "English proof / transcript / predicted": {
+      "ru": "Английский / транскрипт / прогнозные оценки",
+      "en": "English proof / transcript / predicted results"
+    },
+    "Ready **10 Oct**": {
+      "ru": "Готово **10 октября**",
+      "en": "Ready **10 Oct**"
+    },
+    "CV / GitHub / achievements": {
+      "ru": "CV / GitHub / достижения",
+      "en": "CV / GitHub / achievements"
+    },
+    "10–12 Oct": {
+      "ru": "10–12 октября",
+      "en": "10–12 Oct"
+    },
+    "Optional recommenders: ask / ready": {
+      "ru": "Необязательные рекомендатели: попросить / готово",
+      "en": "Optional recommenders: ask / ready"
+    },
+    "5 Oct / 15 Oct": {
+      "ru": "5 октября / 15 октября",
+      "en": "5 Oct / 15 Oct"
+    },
+    "PS first / final draft": {
+      "ru": "PS: первый / итоговый черновик",
+      "en": "PS first / final draft"
+    },
+    "8 Oct / 15 Oct": {
+      "ru": "8 октября / 15 октября",
+      "en": "8 Oct / 15 Oct"
+    },
+    "Optional video link, доступ без login": {
+      "ru": "Ссылка на необязательное видео, доступ без входа",
+      "en": "Optional video link, accessible without login"
+    },
+    "15 Oct": {
+      "ru": "15 октября",
+      "en": "15 Oct"
+    },
+    "Submit EA": {
+      "ru": "Подать EA",
+      "en": "Submit EA"
+    },
+    "**18–20 Oct**": {
+      "ru": "**18–20 октября**",
+      "en": "**18–20 Oct**"
+    },
+    "Screening / fee": {
+      "ru": "Отборочный тест / сбор",
+      "en": "Screening / fee"
+    },
+    "Book immediately after invitation; оплатить promptly если не waived": {
+      "ru": "Записаться сразу после приглашения; своевременно оплатить, если нет освобождения",
+      "en": "Book immediately after invitation; pay promptly if not waived"
+    },
+    "Need-based financial pack": {
+      "ru": "Финансовый пакет для помощи по потребности",
+      "en": "Need-based financial pack"
+    },
+    "Собрать October; upload по запросу/current form": {
+      "ru": "Собрать в октябре; загрузить по запросу / действующей форме",
+      "en": "Collect in October; upload as requested / under the current form"
+    },
+    "RD alternative, если не подана EA": {
+      "ru": "RD как альтернатива, если EA не подана",
+      "en": "RD alternative if EA was not submitted"
+    },
+    "File ready 10 Jan; submit **15–18 Jan**": {
+      "ru": "Пакет готов 10 января; подать **15–18 января**",
+      "en": "File ready 10 Jan; submit **15–18 Jan**"
+    },
+    "Final NIS / recognition": {
+      "ru": "Итоговый NIS / признание квалификации",
+      "en": "Final NIS / recognition"
+    },
+    "Сразу после June issuance; exact offer instructions": {
+      "ru": "Сразу после выдачи в июне; точные инструкции оффера",
+      "en": "Immediately after June issuance; exact offer instructions"
+    },
+    "Platform, fee and editing rules": {
+      "ru": "Платформа, оплата и правила редактирования",
+      "en": "Platform, fee and editing rules"
+    },
+    "[Fee/update policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions). 75% — **fee waiver threshold**, не опубликованный admission pass mark. SAT screening waiver также даёт fee waiver, но не scholarship guarantee.": {
+      "ru": "[Правила сбора / обновления](https://mbzuai.ac.ae/admissions/undergraduate-admissions). 75% — **порог освобождения от оплаты**, не опубликованный проходной балл поступления. Освобождение от теста по SAT даёт и освобождение от сбора, но не гарантию стипендии.",
+      "en": "[Fee/update policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions). 75% is the **fee-waiver threshold**, not a published admission pass mark. SAT screening waiver also gives a fee waiver, not a scholarship guarantee."
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Rule": {
+      "ru": "Правило",
+      "en": "Rule"
+    },
+    "System": {
+      "ru": "Система",
+      "en": "System"
+    },
+    "Own MBZUAI portal; public Common App route не установлен": {
+      "ru": "Собственный портал MBZUAI; публичный путь Common App не установлен",
+      "en": "Own MBZUAI portal; no public Common App route established"
+    },
+    "Choices": {
+      "ru": "Выбор программ",
+      "en": "Choices"
+    },
+    "Engineering/Business stream; точное число ranking fields личной формы NP": {
+      "ru": "Направление Engineering/Business; точное число полей ранжирования личной формы не опубликовано",
+      "en": "Engineering/Business stream; exact ranking-field count in the personal form NP"
+    },
+    "Duplicate": {
+      "ru": "Повторные заявки",
+      "en": "Duplicate applications"
+    },
+    "**One per cycle**, не разрешены multiple submissions": {
+      "ru": "**Одна за цикл**, несколько подач запрещены",
+      "en": "**One per cycle**, multiple submissions prohibited"
+    },
+    "Updates": {
+      "ru": "Обновление данных",
+      "en": "Updates"
+    },
+    "New SAT/ACT/AP, English scores и updated transcripts; замена PS не обещана": {
+      "ru": "Новые SAT/ACT/AP, английский и обновлённые транскрипты; замена PS не обещана",
+      "en": "New SAT/ACT/AP, English scores and updated transcripts; PS replacement not promised"
+    },
+    "Fee": {
+      "ru": "Сбор",
+      "en": "Fee"
+    },
+    "**AED 200 after screening**; unpaid application incomplete": {
+      "ru": "**AED 200 после screening**; без оплаты заявка неполная",
+      "en": "**AED 200 after screening**; unpaid application is incomplete"
+    },
+    "Waiver": {
+      "ru": "Освобождение от оплаты",
+      "en": "Waiver"
+    },
+    "Screening overall **≥75%** или screening requirement waived": {
+      "ru": "Общий результат screening **≥75%** или освобождение от самого теста",
+      "en": "Screening overall **≥75%** or screening requirement waived"
+    },
+    "Refund": {
+      "ru": "Возврат",
+      "en": "Refund"
+    },
+    "Paid fee reimbursed **upon enrolment**, не любой rejection/withdrawal": {
+      "ru": "Оплаченный сбор возвращают **при зачислении**, не при любом отказе / отзыве",
+      "en": "Paid fee reimbursed **upon enrolment**, not any rejection/withdrawal"
+    },
+    "Common App waiver": {
+      "ru": "Освобождение от оплаты через Common App",
+      "en": "Common App waiver"
+    },
+    "Не применим": {
+      "ru": "Не применяется",
+      "en": "Not applicable"
+    },
+    "Separate exam/scholarship fee": {
+      "ru": "Отдельный сбор за экзамен / стипендию",
+      "en": "Separate exam/scholarship fee"
+    },
+    "Дополнительный сбор не опубликован": {
+      "ru": "Дополнительный сбор не опубликован",
+      "en": "No additional fee published"
+    },
+    "Deposit / seat reservation": {
+      "ru": "Депозит / резервирование места",
+      "en": "Deposit / seat reservation"
+    },
+    "Amount/date/refund публично NP": {
+      "ru": "Сумма / дата / возврат публично не установлены",
+      "en": "Amount/date/refund publicly NP"
+    },
+    "Paper/school": {
+      "ru": "Бумажные документы / школа",
+      "en": "Paper/school"
+    },
+    "Initial online official documents; final verification по instructions, universal pre-application courier не stated": {
+      "ru": "Первоначально официальные документы онлайн; итоговая проверка по инструкции; общий курьер до подачи не указан",
+      "en": "Initial official documents online; final verification under instructions; no universal pre-application courier stated"
+    },
+    "Document checklist and who submits what": {
+      "ru": "Список документов: кто и что отправляет",
+      "en": "Document checklist and who submits what"
+    },
+    "[Application requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions). UAE citizen family book не переносится на international Kazakhstan applicant.": {
+      "ru": "[Требования заявки](https://mbzuai.ac.ae/admissions/undergraduate-admissions). Семейная книга граждан ОАЭ не переносится на международную заявительницу Казахстана.",
+      "en": "[Application requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions). UAE citizens’ family book is not a requirement for an international Kazakhstan applicant."
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Required?": {
+      "ru": "Обязательность",
+      "en": "Required?"
+    },
+    "Who submits?": {
+      "ru": "Кто отправляет",
+      "en": "Who submits?"
+    },
+    "When?": {
+      "ru": "Когда",
+      "en": "When?"
+    },
+    "Format": {
+      "ru": "Формат",
+      "en": "Format"
+    },
+    "Notes": {
+      "ru": "Примечания",
+      "en": "Notes"
+    },
+    "Passport": {
+      "ru": "Паспорт",
+      "en": "Passport"
+    },
+    "C/POST; current foreign field NP": {
+      "ru": "C/POST; текущее поле иностранной заявительницы не установлено",
+      "en": "C/POST; current foreign-applicant field NP"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "Portal/visa": {
+      "ru": "Портал / виза",
+      "en": "Portal/visa"
+    },
+    "Scan": {
+      "ru": "Скан",
+      "en": "Scan"
+    },
+    "Для visa обязателен; public all-applicants list не описывает все identity fields": {
+      "ru": "Для визы обязателен; публичный список всех кандидатов не описывает каждое поле личности",
+      "en": "Mandatory for visa; the public all-applicants list does not describe every identity field"
+    },
+    "UAE ID/residence visa": {
+      "ru": "Удостоверение ОАЭ / резидентская виза",
+      "en": "UAE ID/residence visa"
+    },
+    "C UAE residents": {
+      "ru": "C — для резидентов ОАЭ",
+      "en": "C — UAE residents"
+    },
+    "Portal": {
+      "ru": "Портал",
+      "en": "Portal"
+    },
+    "Не universal для Kazakhstan resident": {
+      "ru": "Не общий документ резидента Казахстана",
+      "en": "Not universal for Kazakhstan residents"
+    },
+    "Parents passports/family book/birth/national service": {
+      "ru": "Паспорта родителей / семейная книга / рождение / национальная служба",
+      "en": "Parents’ passports/family book/birth/national service"
+    },
+    "— обычный Kazakhstan route": {
+      "ru": "— для обычного пути Казахстана",
+      "en": "— for the ordinary Kazakhstan route"
+    },
+    "—; C если другая категория": {
+      "ru": "—; C для другой применимой категории",
+      "en": "—; C if a different category applies"
+    },
+    "Если применимо": {
+      "ru": "Если применимо",
+      "en": "If applicable"
+    },
+    "Official": {
+      "ru": "Официальный документ",
+      "en": "Official"
+    },
+    "Listed requirements относятся к UAE nationals/residents/Emirati mothers": {
+      "ru": "Перечисленные требования относятся к гражданам / резидентам ОАЭ / детям матерей-эмираток",
+      "en": "Listed requirements apply to UAE nationals/residents/children of Emirati mothers"
+    },
+    "School transcripts/report cards": {
+      "ru": "Школьные транскрипты / ведомости оценок",
+      "en": "School transcripts/report cards"
+    },
+    "**R**": {
+      "ru": "**Обязательно**",
+      "en": "**Required**"
+    },
+    "**School issues → applicant uploads**": {
+      "ru": "**Школа выдаёт → заявительница загружает**",
+      "en": "**School issues → applicant uploads**"
+    },
+    "Initial": {
+      "ru": "При подаче заявки",
+      "en": "Initial"
+    },
+    "Official English/certified translation": {
+      "ru": "Официальный английский документ / заверенный перевод",
+      "en": "Official English/certified translation"
+    },
+    "Все предыдущие high-school reports + текущие; Grade 9 inclusion зависит от form": {
+      "ru": "Все предыдущие ведомости старшей школы + текущие; Grade 9 зависит от формы",
+      "en": "All previous high-school reports plus current records; Grade 9 inclusion depends on the form"
+    },
+    "Predicted/provisional NIS": {
+      "ru": "Прогнозные / предварительные NIS",
+      "en": "Predicted/provisional NIS"
+    },
+    "**R/accepted pending finals**": {
+      "ru": "**R / принимаются до итоговых результатов**",
+      "en": "**R / accepted pending finals**"
+    },
+    "Signed official": {
+      "ru": "Подписанный официальный документ",
+      "en": "Signed official"
+    },
+    "Не converting GPA to 4.0": {
+      "ru": "Не переводить GPA самостоятельно на шкалу 4.0",
+      "en": "Do not convert GPA to 4.0 yourself"
+    },
+    "School profile/scale/expected graduation": {
+      "ru": "Профиль школы / шкала оценок / ожидаемый выпуск",
+      "en": "School profile/scale/expected graduation"
+    },
+    "REC/C": {
+      "ru": "Рекомендуется / условно",
+      "en": "Recommended / conditional"
+    },
+    "School → applicant": {
+      "ru": "Школа → заявительница",
+      "en": "School → applicant"
+    },
+    "English PDF": {
+      "ru": "PDF на английском",
+      "en": "English PDF"
+    },
+    "Объяснить NIS/HL": {
+      "ru": "Объяснить NIS/HL",
+      "en": "Explain NIS/HL"
+    },
+    "Final NIS/final transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS/final transcript"
+    },
+    "**POST R**": {
+      "ru": "**После поступления обязательно**",
+      "en": "**Required after admission**"
+    },
+    "School/issuer → applicant; verification по request": {
+      "ru": "Школа / выдавший орган → заявительница; проверка по запросу",
+      "en": "School/issuer → applicant; verification as requested"
+    },
+    "Не к концу первого semester": {
+      "ru": "Не к концу первого семестра",
+      "en": "Not by the end of the first semester"
+    },
+    "UAE equivalency/recognition": {
+      "ru": "Эквивалентность / признание в ОАЭ",
+      "en": "UAE equivalency/recognition"
+    },
+    "**POST R outside UAE по documents policy**, applicability по authority": {
+      "ru": "**POST R для квалификаций вне ОАЭ по правилам документов**; применимость определяет орган признания",
+      "en": "**POST R for outside-UAE qualifications under document policy**; applicability determined by the authority"
+    },
+    "Applicant/authority": {
+      "ru": "Заявительница / орган признания",
+      "en": "Applicant/authority"
+    },
+    "**End first semester latest**": {
+      "ru": "**Не позднее конца первого семестра**",
+      "en": "**End of first semester at the latest**"
+    },
+    "Official certificate": {
+      "ru": "Официальный сертификат",
+      "en": "Official certificate"
+    },
+    "General wording “may be required” и detailed document rule читать вместе": {
+      "ru": "Общее «может потребоваться» и подробное правило документов читать вместе",
+      "en": "Read general “may be required” wording together with the detailed document rule"
+    },
+    "Certified English translation": {
+      "ru": "Заверенный перевод на английский",
+      "en": "Certified English translation"
+    },
+    "R non-English": {
+      "ru": "R — для неанглийских документов",
+      "en": "R — non-English records"
+    },
+    "Issuer/authorised translator → applicant": {
+      "ru": "Выдавший орган / уполномоченный переводчик → заявительница",
+      "en": "Issuer/authorised translator → applicant"
+    },
+    "With records": {
+      "ru": "Вместе с документами",
+      "en": "With records"
+    },
+    "Certified": {
+      "ru": "Заверенный",
+      "en": "Certified"
+    },
+    "Не self translation": {
+      "ru": "Не самостоятельный перевод",
+      "en": "Not self-translation"
+    },
+    "English proof": {
+      "ru": "Подтверждение английского",
+      "en": "English proof"
+    },
+    "**R unless eligible waiver**": {
+      "ru": "**R, кроме подходящего освобождения**",
+      "en": "**R unless eligible for waiver**"
+    },
+    "Applicant uploads; provider verifies if requested": {
+      "ru": "Заявительница загружает; провайдер подтверждает по запросу",
+      "en": "Applicant uploads; provider verifies if requested"
+    },
+    "**At application**": {
+      "ru": "**При подаче заявки**",
+      "en": "**At application**"
+    },
+    "Valid result": {
+      "ru": "Действующий результат",
+      "en": "Valid result"
+    },
+    "Без ELP application не продвигается": {
+      "ru": "Без подтверждения английского (ELP) заявку дальше не рассматривают",
+      "en": "Without ELP, the application does not proceed"
+    },
+    "SAT/ACT/AP/IB": {
+      "ru": "SAT/ACT/AP/IB",
+      "en": "SAT/ACT/AP/IB"
+    },
+    "O; SAT может waive screening": {
+      "ru": "O; SAT может освободить от screening",
+      "en": "O; SAT can waive screening"
+    },
+    "Applicant/verifying body": {
+      "ru": "Заявительница / проверяющий орган",
+      "en": "Applicant/verifying body"
+    },
+    "Initial/update": {
+      "ru": "При подаче / обновлении",
+      "en": "Initial/update"
+    },
+    "Verifiable result": {
+      "ru": "Проверяемый результат",
+      "en": "Verifiable result"
+    },
+    "Direct code/send rule NP": {
+      "ru": "Код / правило прямой отправки не опубликованы",
+      "en": "Direct reporting code/send rule NP"
+    },
+    "Screening": {
+      "ru": "Отборочный тест (screening)",
+      "en": "Screening"
+    },
+    "R unless waiver": {
+      "ru": "R, кроме освобождения",
+      "en": "R unless waived"
+    },
+    "Applicant online": {
+      "ru": "Заявительница онлайн",
+      "en": "Applicant online"
+    },
+    "Test": {
+      "ru": "Тест",
+      "en": "Test"
+    },
+    "NIS predicted не exemption сами по себе": {
+      "ru": "Прогнозные NIS сами по себе не освобождают",
+      "en": "NIS predicted results are not an exemption by themselves"
+    },
+    "CV": {
+      "ru": "CV",
+      "en": "CV"
+    },
+    "Detailed CV": {
+      "ru": "Подробное CV",
+      "en": "Detailed CV"
+    },
+    "Official template не required": {
+      "ru": "Официальный шаблон не обязателен",
+      "en": "Official template not required"
+    },
+    "Personal Statement": {
+      "ru": "Мотивационное эссе (Personal Statement)",
+      "en": "Personal Statement"
+    },
+    "Portal text/file": {
+      "ru": "Текст / файл через портал",
+      "en": "Portal text/file"
+    },
+    "Exact length NP": {
+      "ru": "Точный объём не установлен",
+      "en": "Exact length NP"
+    },
+    "Activities/awards": {
+      "ru": "Деятельность / награды",
+      "en": "Activities/awards"
+    },
+    "REC/profile evidence": {
+      "ru": "REC / подтверждение профиля",
+      "en": "REC/profile evidence"
+    },
+    "Fields/evidence": {
+      "ru": "Поля / подтверждения",
+      "en": "Fields/evidence"
+    },
+    "Competitions, leadership, real impact": {
+      "ru": "Конкурсы, лидерство, реальное влияние",
+      "en": "Competitions, leadership, real impact"
+    },
+    "GitHub/technical portfolio": {
+      "ru": "GitHub / техническое портфолио",
+      "en": "GitHub/technical portfolio"
+    },
+    "**REC, not mandatory**": {
+      "ru": "**REC — рекомендуется, не обязательно**",
+      "en": "**REC, not mandatory**"
+    },
+    "URLs": {
+      "ru": "URLs",
+      "en": "URLs"
+    },
+    "Не mandatory research publication": {
+      "ru": "Исследовательская публикация не обязательна",
+      "en": "Research publication is not mandatory"
+    },
+    "Recommendation 1/2": {
+      "ru": "Рекомендательные письма 1/2",
+      "en": "Recommendation 1/2"
+    },
+    "**REC, maximum 2**": {
+      "ru": "**REC, максимум 2**",
+      "en": "**REC, maximum 2**"
+    },
+    "References указан applicant; actual confidential/PDF sender workflow portal-only": {
+      "ru": "Заявительница указывает рекомендателей; фактический конфиденциальный / PDF-порядок отправки доступен только в портале",
+      "en": "Applicant lists references; actual confidential/PDF sender workflow is portal-only"
+    },
+    "Initial/invitation": {
+      "ru": "При подаче / приглашении",
+      "en": "Initial/invitation"
+    },
+    "Current form": {
+      "ru": "Действующая форма",
+      "en": "Current form"
+    },
+    "Teachers/mentors/supervisors": {
+      "ru": "Учителя / наставники / руководители",
+      "en": "Teachers/mentors/supervisors"
+    },
+    "PS video": {
+      "ru": "Видео Personal Statement",
+      "en": "PS video"
+    },
+    "REC optional public guidance": {
+      "ru": "REC, необязательно по публичному руководству",
+      "en": "REC optional under public guidance"
+    },
+    "**URL**, private YouTube/Vimeo/shared drive": {
+      "ru": "**URL**, закрытое видео YouTube/Vimeo / общий диск",
+      "en": "**URL**, private YouTube/Vimeo/shared drive"
+    },
+    "Duration NP": {
+      "ru": "Продолжительность не опубликована",
+      "en": "Duration NP"
+    },
+    "Financial documents": {
+      "ru": "Финансовые документы",
+      "en": "Financial documents"
+    },
+    "C need-based": {
+      "ru": "C — помощь по финансовой потребности",
+      "en": "C — need-based"
+    },
+    "Applicant/family": {
+      "ru": "Заявительница / семья",
+      "en": "Applicant/family"
+    },
+    "Scholarship request": {
+      "ru": "По запросу стипендии",
+      "en": "Scholarship request"
+    },
+    "Form/official income-assets": {
+      "ru": "Форма / официальные доходы и активы",
+      "en": "Form/official income and assets"
+    },
+    "Public complete list NP": {
+      "ru": "Полный публичный список не установлен",
+      "en": "Public complete list NP"
+    },
+    "Apostille/attestation/medical/insurance/visa/housing": {
+      "ru": "Апостиль / заверение / медицинские документы / страховка / виза / проживание",
+      "en": "Apostille/attestation/medical/insurance/visa/housing"
+    },
+    "POST/C": {
+      "ru": "После поступления / условно",
+      "en": "After admission / conditional"
+    },
+    "Applicant/university/authority": {
+      "ru": "Заявительница / университет / компетентный орган",
+      "en": "Applicant/university/authority"
+    },
+    "Offer/registration": {
+      "ru": "Оффер / зачисление",
+      "en": "Offer/registration"
+    },
+    "Official instructions": {
+      "ru": "Официальные инструкции",
+      "en": "Official instructions"
+    },
+    "Exact NIS legalisation chain NP": {
+      "ru": "Точная цепочка легализации NIS не установлена",
+      "en": "Exact NIS legalisation chain NP"
+    },
+    "NIS route": {
+      "ru": "Подача с квалификацией NIS",
+      "en": "NIS route"
+    },
+    "Вводить фактическую школьную оценку, не самостоятельно переводить NIS A/A*/B в 90%. [Current policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions).": {
+      "ru": "Вводить фактическую школьную оценку, не самостоятельно переводить NIS A/A*/B в 90%. [Действующее правило](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+      "en": "Enter the actual school grade; do not convert NIS A/A*/B into 90% yourself. [Current policy](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+    },
+    "My NIS route": {
+      "ru": "Мой путь поступления с NIS",
+      "en": "My NIS route"
+    },
+    "Finding": {
+      "ru": "Результат проверки",
+      "en": "Finding"
+    },
+    "Qualification named / HL": {
+      "ru": "Квалификация названа / HL",
+      "en": "Qualification named / HL"
+    },
+    "Specific NIS table/HL conversion/number NP": {
+      "ru": "Отдельная таблица NIS / перевод HL / их число не опубликованы",
+      "en": "Specific NIS table/HL conversion/number NP"
+    },
+    "General minimum": {
+      "ru": "Общий минимум",
+      "en": "General minimum"
+    },
+    "Recognised secondary qualification, **90% or equivalent** по curriculum": {
+      "ru": "Признанная школьная квалификация, **90% или эквивалент** по учебной системе",
+      "en": "Recognised secondary qualification, **90% or equivalent** under the curriculum"
+    },
+    "Predicted": {
+      "ru": "Прогнозные оценки",
+      "en": "Predicted results"
+    },
+    "**Accepted**, school-issued records + previous reports": {
+      "ru": "**Принимаются**, официальные школьные документы + предыдущие ведомости",
+      "en": "**Accepted**, school-issued records plus previous reports"
+    },
+    "Final June": {
+      "ru": "Июньские итоговые результаты",
+      "en": "June finals"
+    },
+    "Final official docs **before enrolment**; mid-Aug start обычно совместим — analysis, exact date TBA": {
+      "ru": "Итоговые официальные документы **до зачисления**; начало в середине августа обычно совместимо — анализ; точная дата TBA",
+      "en": "Final official documents **before enrolment**; mid-August start is generally compatible — analysis; exact date TBA"
+    },
+    "UNT / IB": {
+      "ru": "UNT / IB",
+      "en": "UNT / IB"
+    },
+    "Universal UNT не listed; NIS не IB по предположению": {
+      "ru": "Общий UNT не перечислен; не считать NIS системой IB",
+      "en": "Universal UNT not listed; do not assume NIS is IB"
+    },
+    "English waiver": {
+      "ru": "Освобождение от теста английского",
+      "en": "English waiver"
+    },
+    "Требуются три consecutive years taught/assessed entirely English + eligible English-country condition; **Kazakhstan не входит в published list**": {
+      "ru": "Три последовательных года обучения / оценивания полностью на английском + подходящая англоязычная страна; **Казахстан не входит в опубликованный список**",
+      "en": "Three consecutive years taught/assessed entirely in English plus eligible English-country condition; **Kazakhstan is not on the published list**"
+    },
+    "NIS English medium": {
+      "ru": "Английский язык обучения NIS",
+      "en": "NIS English medium"
+    },
+    "Само по себе не выполняет country waiver condition": {
+      "ru": "Сам по себе не выполняет условие страны для освобождения",
+      "en": "Does not by itself satisfy the country waiver condition"
+    },
+    "Recognition / apostille": {
+      "ru": "Признание / апостиль",
+      "en": "Recognition / apostille"
+    },
+    "UAE recognition by end first semester; NIS-specific chain needs confirmation": {
+      "ru": "Признание в ОАЭ к концу первого семестра; цепочка NIS требует подтверждения",
+      "en": "UAE recognition by the end of the first semester; NIS-specific chain needs confirmation"
+    },
+    "Timing risk": {
+      "ru": "Риск по срокам",
+      "en": "Timing risk"
+    },
+    "No obvious June-Aug conflict; recognition/visa processing и screening cutoff уточнить": {
+      "ru": "Явного конфликта июнь–август нет; уточнить сроки признания / визы и завершения screening",
+      "en": "No obvious June–August conflict; confirm recognition/visa processing and screening cutoff"
+    },
+    "Official minimum": {
+      "ru": "Официальный минимум",
+      "en": "Official minimum"
+    },
+    "TOPIK/GRE не UG requirements. [Official tests/English](https://mbzuai.ac.ae/admissions/undergraduate-admissions).": {
+      "ru": "TOPIK/GRE не требования бакалавриата. [Официальные тесты / английский](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+      "en": "TOPIK/GRE are not undergraduate requirements. [Official tests/English](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+    },
+    "Minimum / required?": {
+      "ru": "Минимум / обязательность",
+      "en": "Minimum / required?"
+    },
+    "Reporting / nuance": {
+      "ru": "Отправка результата / особенности",
+      "en": "Reporting / nuance"
+    },
+    "School results": {
+      "ru": "Школьные результаты",
+      "en": "School results"
+    },
+    "**90% or equivalent**, curriculum/cycle context": {
+      "ru": "**90% или эквивалент** с учётом программы / набора",
+      "en": "**90% or equivalent**, curriculum/cycle context"
+    },
+    "FAQ также говорит typical successful 90% STEM; это не гарантия": {
+      "ru": "FAQ также указывает типичные успешные результаты 90% STEM; это не гарантия",
+      "en": "FAQ also mentions typical successful results of 90% in STEM; not a guarantee"
+    },
+    "School Math": {
+      "ru": "Школьная математика",
+      "en": "School Math"
+    },
+    "Финальные два года, preferably highest school level": {
+      "ru": "Последние два года, желательно самый высокий доступный уровень",
+      "en": "Final two years, preferably the highest available school level"
+    },
+    "Exact NIS calculus/Physics minima NP": {
+      "ru": "Точные минимумы NIS по математическому анализу / физике не опубликованы",
+      "en": "Exact NIS calculus/Physics minima NP"
+    },
+    "SAT / ACT": {
+      "ru": "SAT / ACT",
+      "en": "SAT / ACT"
+    },
+    "**Optional admission**": {
+      "ru": "**Необязателен для поступления**",
+      "en": "**Optional for admission**"
+    },
+    "Strong quantitative score полезен": {
+      "ru": "Сильный математический результат полезен",
+      "en": "Strong quantitative score is useful"
+    },
+    "SAT screening waiver": {
+      "ru": "Освобождение от screening по SAT",
+      "en": "SAT screening waiver"
+    },
+    "**Total ≥1400 AND Math ≥760**": {
+      "ru": "**Общий ≥1400 И Math ≥760**",
+      "en": "**Total ≥1400 AND Math ≥760**"
+    },
+    "Оба порога, verifiable proof; superscore NP": {
+      "ru": "Оба порога, проверяемое подтверждение; superscore не опубликован",
+      "en": "Both thresholds, verifiable proof; superscore NP"
+    },
+    "Olympiad screening waiver": {
+      "ru": "Освобождение от screening по олимпиаде",
+      "en": "Olympiad screening waiver"
+    },
+    "International gold/silver/bronze по listed recognised Olympiads": {
+      "ru": "Международное золото / серебро / бронза перечисленных признанных олимпиад",
+      "en": "International gold/silver/bronze in listed recognised Olympiads"
+    },
+    "IOI/IMO/IOAI/IPhO/IBO/IChO; не любое award": {
+      "ru": "IOI/IMO/IOAI/IPhO/IBO/IChO; не любая награда",
+      "en": "IOI/IMO/IOAI/IPhO/IBO/IChO; not any award"
+    },
+    "IELTS Academic": {
+      "ru": "IELTS Academic",
+      "en": "IELTS Academic"
+    },
+    "**6.5 overall**": {
+      "ru": "**6.5 общий балл**",
+      "en": "**6.5 overall**"
+    },
+    "Individual bands NP; validity два года **at application**": {
+      "ru": "Минимумы компонентов не опубликованы; действительность два года **на момент подачи**",
+      "en": "Individual bands NP; two-year validity **at application**"
+    },
+    "TOEFL iBT": {
+      "ru": "TOEFL iBT",
+      "en": "TOEFL iBT"
+    },
+    "**90 old / 4.5 new**": {
+      "ru": "**90 по старой шкале / 4.5 по новой**",
+      "en": "**90 old scale / 4.5 new**"
+    },
+    "No Home Edition; approved physical centre": {
+      "ru": "Home Edition не принимается; одобренный физический тест-центр",
+      "en": "No Home Edition; approved physical test centre"
+    },
+    "PTE Academic": {
+      "ru": "PTE Academic",
+      "en": "PTE Academic"
+    },
+    "**60**": {
+      "ru": "**60**",
+      "en": "**60**"
+    },
+    "Cambridge": {
+      "ru": "Cambridge",
+      "en": "Cambridge"
+    },
+    "**C1 Advanced 180 / C2 Proficiency 200**": {
+      "ru": "**C1 Advanced 180 / C2 Proficiency 200**",
+      "en": "**C1 Advanced 180 / C2 Proficiency 200**"
+    },
+    "DET": {
+      "ru": "DET",
+      "en": "DET"
+    },
+    "**120 only limited-access exception**": {
+      "ru": "**120 только при исключении из-за ограниченного доступа**",
+      "en": "**120 only under the limited-access exception**"
+    },
+    "Доказательство недоступности иных тестов могут запросить": {
+      "ru": "Могут запросить доказательство недоступности других тестов",
+      "en": "Evidence of other tests’ unavailability may be requested"
+    },
+    "NIS MOI waiver": {
+      "ru": "Освобождение NIS по MOI",
+      "en": "NIS MOI waiver"
+    },
+    "Не автоматически по country rule": {
+      "ru": "Не автоматическое из-за условия страны",
+      "en": "Not automatic under the country rule"
+    },
+    "IELTS 7–7.5 выше общего minimum": {
+      "ru": "IELTS 7–7.5 выше общего минимума",
+      "en": "IELTS 7–7.5 exceeds the general minimum"
+    },
+    "Official reporting": {
+      "ru": "Официальная отправка результата",
+      "en": "Official reporting"
+    },
+    "Verifiable result; numeric SAT/TOEFL codes/direct send current NP": {
+      "ru": "Проверяемый результат; текущие числовые коды SAT/TOEFL / прямая отправка не опубликованы",
+      "en": "Verifiable result; current numeric SAT/TOEFL codes/direct send NP"
+    },
+    "New test uploads allowed": {
+      "ru": "Разрешена загрузка новых результатов",
+      "en": "New test uploads allowed"
+    },
+    "Late English / latest test": {
+      "ru": "Поздний английский / последний допустимый тест",
+      "en": "Late English / latest test"
+    },
+    "ELP initially required; last receipt date NP": {
+      "ru": "ELP требуется первоначально; последняя дата получения не опубликована",
+      "en": "ELP initially required; last receipt date NP"
+    },
+    "Улучшенный score позже ≠ разрешение initial missing ELP": {
+      "ru": "Позднее улучшение результата не разрешает отсутствие ELP при первоначальной подаче",
+      "en": "An improved score later does not permit missing ELP initially"
+    },
+    "Scholarship minima": {
+      "ru": "Минимумы стипендии",
+      "en": "Scholarship minima"
+    },
+    "Separate SAT/English thresholds NP": {
+      "ru": "Отдельные пороги SAT / английского не опубликованы",
+      "en": "Separate SAT/English thresholds NP"
+    },
+    "1400/760 — screen waiver, не award minimum": {
+      "ru": "1400/760 — освобождение от screening, не минимум стипендии",
+      "en": "1400/760 is a screening waiver, not an award minimum"
+    },
+    "Competitive target — analysis": {
+      "ru": "Конкурентный ориентир — анализ",
+      "en": "Competitive target — analysis"
+    },
+    "SAT 1300–1350 не блокирует admission application, но screening придётся пройти без другого waiver. Нужна реальная mathematical/problem-solving подготовка. Projects/GitHub должны показывать code, личный вклад и результаты. Competitive NIS/SAT range и award rate не опубликованы.": {
+      "ru": "SAT 1300–1350 не запрещает подачу, но без другого освобождения нужно пройти screening. Нужна настоящая подготовка по математике / решению задач. Проекты / GitHub должны показывать код, личный вклад и результаты. Конкурентный диапазон NIS/SAT и доля получателей стипендии не опубликованы.",
+      "en": "SAT 1300–1350 does not block admission application, but screening is required without another waiver. Genuine mathematics/problem-solving preparation is needed. Projects/GitHub should show code, personal contribution and results. Competitive NIS/SAT range and award rate are not published."
+    },
+    "Internal exam and interview": {
+      "ru": "Внутренний экзамен и интервью",
+      "en": "Internal exam and interview"
+    },
+    "Приглашение screening в течение 10 дней — не обещание полного решения за 10 дней. SAT waiver не отменяет interview. Technical specifications/Screening Exam Guide linked через personal/dynamic resource; не проверены как свободная публичная форма. [Official process](https://mbzuai.ac.ae/admissions/undergraduate-admissions).": {
+      "ru": "Приглашение на screening в течение 10 дней не обещает полное решение за 10 дней. Освобождение по SAT не отменяет интервью. Technical specifications/Screening Exam Guide доступны через личный / динамический ресурс и не проверены как свободная публичная форма. [Официальный процесс](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+      "en": "A screening invitation within 10 days does not promise a complete decision within 10 days. SAT waiver does not cancel the interview. Technical specifications/Screening Exam Guide link through personal/dynamic resources and were not verified as freely public forms. [Official process](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+    },
+    "Component": {
+      "ru": "Компонент",
+      "en": "Component"
+    },
+    "Mandatory?": {
+      "ru": "Обязательность",
+      "en": "Mandatory?"
+    },
+    "Mode / official topics": {
+      "ru": "Формат / официальные темы",
+      "en": "Mode / official topics"
+    },
+    "Unknown": {
+      "ru": "Неизвестные сведения",
+      "en": "Unknown"
+    },
+    "**R unless waiver**": {
+      "ru": "**R, кроме освобождения**",
+      "en": "**R unless waived**"
+    },
+    "Online": {
+      "ru": "Онлайн",
+      "en": "Online"
+    },
+    "Duration/pass mark/weight/final completion deadline NP": {
+      "ru": "Длительность / проходной балл / вес / последний срок завершения не опубликованы",
+      "en": "Duration/pass mark/weight/final completion deadline NP"
+    },
+    "Math topics": {
+      "ru": "Темы математики",
+      "en": "Math topics"
+    },
+    "Official preparation list": {
+      "ru": "Официальный список подготовки",
+      "en": "Official preparation list"
+    },
+    "Algebra, functions, probability/statistics, matrices/vectors, calculus, discrete mathematics": {
+      "ru": "Алгебра, функции, вероятность / статистика, матрицы / векторы, математический анализ, дискретная математика",
+      "en": "Algebra, functions, probability/statistics, matrices/vectors, calculus, discrete mathematics"
+    },
+    "Не придумывать отдельный Physics/Chemistry exam": {
+      "ru": "Не выдумывать отдельный экзамен физики / химии",
+      "en": "Do not invent a separate Physics/Chemistry exam"
+    },
+    "Logic/programming/data": {
+      "ru": "Логика / программирование / данные",
+      "en": "Logic/programming/data"
+    },
+    "Logic/patterns; algorithmic problem-solving/basic syntax/functions/data structures; data interpretation/basic ML": {
+      "ru": "Логика / закономерности; алгоритмические задачи / базовый синтаксис / функции / структуры данных; интерпретация данных / основы ML",
+      "en": "Logic/patterns; algorithmic problem-solving/basic syntax/functions/data structures; data interpretation/basic ML"
+    },
+    "Exact question count NP": {
+      "ru": "Точное число вопросов не опубликовано",
+      "en": "Exact question count NP"
+    },
+    "Faculty interview": {
+      "ru": "Интервью с преподавателями",
+      "en": "Faculty interview"
+    },
+    "**R for all shortlisted** по FAQ": {
+      "ru": "**R для всех прошедших предварительный отбор** по FAQ",
+      "en": "**R for all shortlisted applicants** under FAQ"
+    },
+    "Online, motivation + technical component/math/readiness/communication": {
+      "ru": "Онлайн: мотивация + техническая часть / математика / готовность / общение",
+      "en": "Online: motivation plus technical component/math/readiness/communication"
+    },
+    "Dates/duration/weight NP": {
+      "ru": "Даты / длительность / вес не опубликованы",
+      "en": "Dates/duration/weight NP"
+    },
+    "Fee score 75%": {
+      "ru": "Результат 75% для сбора",
+      "en": "Fee score 75%"
+    },
+    "Только fee waiver": {
+      "ru": "Только освобождение от оплаты",
+      "en": "Fee waiver only"
+    },
+    "Не admission passing threshold": {
+      "ru": "Не проходной балл поступления",
+      "en": "Not an admission passing threshold"
+    },
+    "Не обещать admission при 75%": {
+      "ru": "Не обещать поступление при 75%",
+      "en": "Do not promise admission at 75%"
+    },
+    "Separate scholarship interview": {
+      "ru": "Отдельное интервью на стипендию",
+      "en": "Separate scholarship interview"
+    },
+    "Universal requirement NP": {
+      "ru": "Общая обязательность не опубликована",
+      "en": "Universal requirement NP"
+    },
+    "Может быть частью индивидуального process": {
+      "ru": "Может входить в индивидуальный процесс",
+      "en": "May be part of an individual process"
+    },
+    "Recommendations": {
+      "ru": "Рекомендательные письма",
+      "en": "Recommendations"
+    },
+    "**My recommendation strategy — Analysis:** Math/CS teacher для readiness + project/research mentor для technical independence/teamwork. Одно содержательное письмо лучше двух общих. Если портал требует direct recommender link, applicant не заменяет отправку автора.": {
+      "ru": "**Стратегия писем — анализ:** учитель математики / CS для готовности + наставник проекта / исследования для технической самостоятельности / командной работы. Одно содержательное письмо лучше двух общих. Если портал требует прямую ссылку рекомендателя, заявительница не заменяет отправку автора.",
+      "en": "**Recommendation strategy — Analysis:** Math/CS teacher for readiness plus project/research mentor for technical independence/teamwork. One substantive letter is better than two generic ones. If the portal requires a direct recommender link, the applicant cannot replace the author’s submission."
+    },
+    "Answer": {
+      "ru": "Ответ",
+      "en": "Answer"
+    },
+    "Number": {
+      "ru": "Количество",
+      "en": "Number"
+    },
+    "**0 mandatory; up to 2 recommended**": {
+      "ru": "**Обязательных — 0; рекомендуется до 2**",
+      "en": "**0 mandatory; up to 2 recommended**"
+    },
+    "Who": {
+      "ru": "Кто",
+      "en": "Who"
+    },
+    "Teachers, mentors, supervisors; не только principal": {
+      "ru": "Учителя, наставники, руководители; не только директор",
+      "en": "Teachers, mentors, supervisors; not only the principal"
+    },
+    "Sender": {
+      "ru": "Кто отправляет",
+      "en": "Sender"
+    },
+    "Applicant указывает references; confidential link vs applicant letter upload в current form NP": {
+      "ru": "Заявительница указывает рекомендателей; конфиденциальная ссылка или загрузка письма заявительницей в текущей форме не установлены",
+      "en": "Applicant lists references; confidential link versus applicant letter upload in the current form NP"
+    },
+    "Exact ratings/questions/limits": {
+      "ru": "Точные критерии / вопросы / ограничения",
+      "en": "Exact ratings/questions/limits"
+    },
+    "Portal-only/not publicly verified": {
+      "ru": "Только в портале / публично не проверено",
+      "en": "Portal-only/not publicly verified"
+    },
+    "Counselor/second/scholarship": {
+      "ru": "Консультант / второе письмо / стипендия",
+      "en": "Counselor/second letter/scholarship"
+    },
+    "Counselor не universal R; second REC в лимите 2; separate award rec NP": {
+      "ru": "Консультант не общий обязательный автор; второе письмо рекомендуется в лимите 2; отдельное стипендиальное письмо не установлено",
+      "en": "Counselor not universally required; second letter recommended within the limit of 2; separate award letter NP"
+    },
+    "Deadline": {
+      "ru": "Дедлайн",
+      "en": "Deadline"
+    },
+    "Separate rec cutoff NP; request now": {
+      "ru": "Отдельный срок писем не опубликован; попросить сейчас",
+      "en": "Separate recommendation cutoff NP; request now"
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "**Correction:** MBZUAI graduate 500–1000-word SOP, graduate 2–3 recs и research videos не относятся к этому BSc. Public UG task передан по смыслу; exact personal-form length пока не подтверждён. [Official UG requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions).": {
+      "ru": "**Исправление:** SOP магистратуры MBZUAI на 500–1000 слов, 2–3 письма и исследовательские видео не относятся к этому BSc. Публичное задание бакалавриата передано по смыслу; точный объём личной формы не подтверждён. [Официальные требования бакалавриата](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+      "en": "**Correction:** MBZUAI graduate 500–1000-word SOP, 2–3 graduate letters and research videos do not apply to this BSc. The public UG task is summarized; exact personal-form length remains unconfirmed. [Official UG requirements](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+    },
+    "Essay": {
+      "ru": "Эссе",
+      "en": "Essay"
+    },
+    "Official task / prompt status": {
+      "ru": "Задание / статус точной формулировки",
+      "en": "Official task / prompt status"
+    },
+    "Limit": {
+      "ru": "Ограничение объёма",
+      "en": "Limit"
+    },
+    "Required / submission": {
+      "ru": "Обязательность / отправка",
+      "en": "Required / submission"
+    },
+    "Purpose / profile fit — Analysis": {
+      "ru": "Цель / соответствие профилю — анализ",
+      "en": "Purpose / profile fit — Analysis"
+    },
+    "Интерес к AI; academic/personal experiences; motivation MBZUAI; goals/achievements/extracurriculars; contribution/benefit UG community": {
+      "ru": "Интерес к AI; академический / личный опыт; мотивация MBZUAI; цели / достижения / внеучебная деятельность; вклад в сообщество бакалавриата и польза от него",
+      "en": "AI interest; academic/personal experiences; MBZUAI motivation; goals/achievements/extracurriculars; contribution to and benefit from the UG community"
+    },
+    "**Word/character/byte NP**": {
+      "ru": "**Число слов / символов / байт не установлено**",
+      "en": "**Word/character/byte limits NP**"
+    },
+    "**R**, English, own portal": {
+      "ru": "**R**, на английском, собственный портал",
+      "en": "**R**, English, own portal"
+    },
+    "AI curiosity/readiness/impact; реальные projects/research": {
+      "ru": "Интерес / готовность к AI / влияние; настоящие проекты / исследования",
+      "en": "AI curiosity/readiness/impact; real projects/research"
+    },
+    "Personal Statement video": {
+      "ru": "Видео Personal Statement",
+      "en": "Personal Statement video"
+    },
+    "Public recommended brief video об интересе, целях/применении знаний; FAQ формат URL": {
+      "ru": "Публично рекомендуется короткое видео об интересе, целях / применении знаний; FAQ: ссылка URL",
+      "en": "Public guidance recommends a brief video on interest, goals/application of knowledge; FAQ specifies URL format"
+    },
+    "**Duration NP**": {
+      "ru": "**Длительность не опубликована**",
+      "en": "**Duration NP**"
+    },
+    "REC optional; URL": {
+      "ru": "REC — необязательно; URL",
+      "en": "REC optional; URL"
+    },
+    "Communication, конкретные примеры работы": {
+      "ru": "Общение, конкретные примеры работы",
+      "en": "Communication, concrete examples of work"
+    },
+    "Scholarship essay": {
+      "ru": "Эссе на стипендию",
+      "en": "Scholarship essay"
+    },
+    "Separate exact Fall 2027 prompt публично не найден": {
+      "ru": "Отдельный точный вопрос Fall 2027 публично не найден",
+      "en": "Separate exact Fall 2027 prompt not found publicly"
+    },
+    "Current financial form/request": {
+      "ru": "Действующая финансовая форма / запрос",
+      "en": "Current financial form/request"
+    },
+    "Только реальные обстоятельства": {
+      "ru": "Только настоящие обстоятельства",
+      "en": "Only real circumstances"
+    },
+    "Why major / study plan / other": {
+      "ru": "Почему направление / учебный план / другое",
+      "en": "Why major / study plan / other"
+    },
+    "Separate mandatory questions NP": {
+      "ru": "Отдельные обязательные вопросы не установлены",
+      "en": "Separate mandatory questions NP"
+    },
+    "По portal": {
+      "ru": "По порталу",
+      "en": "Under portal instructions"
+    },
+    "Не graduate SOP": {
+      "ru": "Не SOP магистратуры",
+      "en": "Not a graduate SOP"
+    },
+    "Scholarships and financial aid": {
+      "ru": "Стипендии и финансовая помощь",
+      "en": "Scholarships and financial aid"
+    },
+    "Опубликованный максимум — **до 100% tuition + cost of attendance**. Tuition **USD 45 000/год**, COA дополнительно. Counts/percentage/renewal GPA NP. Stipend входит лишь в некоторые packages. [Scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions).": {
+      "ru": "Опубликованный максимум — **до 100% обучения + расходы COA**. Обучение **USD 45 000 в год**, COA дополнительно. Число / доля получателей / GPA продления не опубликованы. Выплата входит только в некоторые пакеты. [Стипендии / FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions).",
+      "en": "Published maximum is **up to 100% tuition + cost of attendance**. Tuition **USD 45,000/year**, COA additional. Award counts/percentage/renewal GPA NP. Stipend is included only in some packages. [Scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions)."
+    },
+    "**Housing:** shared/multi-occupancy rooms; winter/spring breaks доступны; обычный summer vacancy mid-May–mid-Aug. Parents не могут жить в campus. Гарантия first year/all four years, 2027 rate/deposit и exact window NP. [UG housing FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).": {
+      "ru": "**Проживание:** общие / многоместные комнаты; зимой и весной доступны; обычно летом освобождают с середины мая до середины августа. Родители не могут жить на кампусе. Гарантия первого / всех четырёх лет, тариф / депозит 2027 и точное окно подачи не опубликованы. [FAQ проживания бакалавров](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies).",
+      "en": "**Housing:** shared/multi-occupancy rooms; winter/spring breaks available; usual summer vacancy mid-May–mid-August. Parents cannot live on campus. First-year/four-year guarantee, 2027 rate/deposit and exact application window NP. [UG housing FAQ](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies)."
+    },
+    "**Real annual gap:** не вычисляется — нет itemised COA, hall rates и персонального guaranteed award. 100% COA может относиться к academic year; summer/airfare/visa coverage проверить отдельно. Tuition-only оставляет все living costs. Graduate allowances не используются.": {
+      "ru": "**Непокрытые годовые расходы:** не рассчитываются — нет подробного COA, тарифов общежития и гарантированного личного оффера. 100% COA может относиться к учебному году; лето / перелёт / визу проверить отдельно. Покрытие только обучения оставляет все расходы на жизнь. Выплаты магистратуры не используются.",
+      "en": "**Real annual gap:** not calculable without itemised COA, hall rates and a personal guaranteed award. 100% COA may cover the academic year; check summer/airfare/visa separately. Tuition-only leaves all living costs. Graduate allowances are not used."
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award": {
+      "ru": "Стипендия",
+      "en": "Award"
+    },
+    "Separate / deadline": {
+      "ru": "Отдельная заявка / дедлайн",
+      "en": "Separate / deadline"
+    },
+    "Eligibility / funding": {
+      "ru": "Условия / финансирование",
+      "en": "Eligibility / funding"
+    },
+    "A. Automatic guaranteed": {
+      "ru": "A. Автоматическое гарантированное",
+      "en": "A. Automatic guaranteed"
+    },
+    "Full award for all admitted": {
+      "ru": "Полное финансирование всех принятых",
+      "en": "Full award for all admitted"
+    },
+    "**Не опубликован**": {
+      "ru": "**Не опубликовано**",
+      "en": "**Not published**"
+    },
+    "Admission ≠ 100% funding": {
+      "ru": "Поступление ≠ 100% финансирования",
+      "en": "Admission ≠ 100% funding"
+    },
+    "B. Merit": {
+      "ru": "B. За достижения",
+      "en": "B. Merit"
+    },
+    "Undergraduate merit-based scholarships": {
+      "ru": "Стипендии бакалавриата за достижения",
+      "en": "Undergraduate merit-based scholarships"
+    },
+    "Public separate form/fee/deadline/essay NP": {
+      "ru": "Отдельная публичная форма / сбор / дедлайн / эссе не установлены",
+      "en": "Public separate form/fee/deadline/essay NP"
+    },
+    "Holistic academic/talent selection; individual amount": {
+      "ru": "Комплексный отбор по академическим результатам / таланту; индивидуальная сумма",
+      "en": "Holistic academic/talent selection; individual amount"
+    },
+    "C. Need-based": {
+      "ru": "C. По финансовой потребности",
+      "en": "C. Need-based"
+    },
+    "Undergraduate needs-based scholarships": {
+      "ru": "Стипендии бакалавриата по финансовой потребности",
+      "en": "Undergraduate needs-based scholarships"
+    },
+    "Financial workflow/form/details NP": {
+      "ru": "Финансовый порядок / форма / подробности не опубликованы",
+      "en": "Financial workflow/form/details NP"
+    },
+    "Demonstrated need; отдельные documents уточнить": {
+      "ru": "Подтверждённая потребность; отдельные документы уточнить",
+      "en": "Demonstrated need; clarify separate documents"
+    },
+    "D. Sponsor": {
+      "ru": "D. Спонсор",
+      "en": "D. Sponsor"
+    },
+    "Industry-partner-sponsored seats": {
+      "ru": "Места со спонсорством индустриальных партнёров",
+      "en": "Industry-partner-sponsored seats"
+    },
+    "Separate applicant workflow NP": {
+      "ru": "Отдельный порядок заявительницы не установлен",
+      "en": "Separate applicant workflow NP"
+    },
+    "Не всем applicants автоматически": {
+      "ru": "Не автоматически всем кандидатам",
+      "en": "Not automatic for every applicant"
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Amount / rule": {
+      "ru": "Сумма / правило",
+      "en": "Amount / rule"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "До 100%": {
+      "ru": "До 100%",
+      "en": "Up to 100%"
+    },
+    "Exact award in letter": {
+      "ru": "Точный размер в письме",
+      "en": "Exact award in the letter"
+    },
+    "Mandatory fees": {
+      "ru": "Обязательные сборы",
+      "en": "Mandatory fees"
+    },
+    "Возможны в COA": {
+      "ru": "Могут входить в COA",
+      "en": "May be included in COA"
+    },
+    "Itemised breakdown NP; не universal guarantee": {
+      "ru": "Детальная разбивка не опубликована; не общая гарантия",
+      "en": "Itemised breakdown NP; not a universal guarantee"
+    },
+    "Housing": {
+      "ru": "Проживание",
+      "en": "Housing"
+    },
+    "Может входить в award COA": {
+      "ru": "Может входить в COA стипендии",
+      "en": "May be included in the award COA"
+    },
+    "Available dorm ≠ free dorm for everyone": {
+      "ru": "Наличие общежития ≠ бесплатное общежитие для всех",
+      "en": "Available dorm ≠ free dorm for everyone"
+    },
+    "Meals": {
+      "ru": "Питание",
+      "en": "Meals"
+    },
+    "Individual package": {
+      "ru": "Индивидуальный пакет",
+      "en": "Individual package"
+    },
+    "Отдельный free meal plan не обещан": {
+      "ru": "Отдельное бесплатное питание не обещано",
+      "en": "No separate free meal plan promised"
+    },
+    "Monthly stipend": {
+      "ru": "Ежемесячная выплата",
+      "en": "Monthly stipend"
+    },
+    "**Some packages**": {
+      "ru": "**Некоторые пакеты**",
+      "en": "**Some packages**"
+    },
+    "Amount/months NP": {
+      "ru": "Сумма / число месяцев не опубликованы",
+      "en": "Amount/months NP"
+    },
+    "Books / insurance / visa / airfare": {
+      "ru": "Учебники / страховка / виза / перелёт",
+      "en": "Books / insurance / visa / airfare"
+    },
+    "Separate entitlements NP": {
+      "ru": "Отдельное право покрытия не опубликовано",
+      "en": "Separate entitlements NP"
+    },
+    "Запросить письменный breakdown": {
+      "ru": "Запросить письменную разбивку",
+      "en": "Request a written breakdown"
+    },
+    "Transport / laptop": {
+      "ru": "Транспорт / ноутбук",
+      "en": "Transport / laptop"
+    },
+    "Не считать automatically included": {
+      "ru": "Не считать включёнными автоматически",
+      "en": "Do not assume automatically included"
+    },
+    "Summer housing": {
+      "ru": "Проживание летом",
+      "en": "Summer housing"
+    },
+    "Кампусные rooms обычно освобождают": {
+      "ru": "Кампусные комнаты обычно освобождают",
+      "en": "Campus rooms are normally vacated"
+    },
+    "Mid-May–mid-Aug; award alternatives NP": {
+      "ru": "Середина мая – середина августа; альтернативы по стипендии не опубликованы",
+      "en": "Mid-May–mid-August; award alternatives NP"
+    },
+    "Renewal / GPA / credits / conduct / duration": {
+      "ru": "Продление / GPA / кредиты / поведение / срок",
+      "en": "Renewal / GPA / credits / conduct / duration"
+    },
+    "Detailed UG rules NP": {
+      "ru": "Подробные правила бакалавриата не опубликованы",
+      "en": "Detailed UG rules NP"
+    },
+    "Offer/current UG catalogue; graduate rules неприменимы": {
+      "ru": "Оффер / текущий каталог бакалавриата; правила магистратуры неприменимы",
+      "en": "Offer/current UG catalogue; graduate rules do not apply"
+    },
+    "After admission checklist": {
+      "ru": "Действия после поступления",
+      "en": "After admission checklist"
+    },
+    "Action": {
+      "ru": "Действие",
+      "en": "Action"
+    },
+    "Accept / review funding": {
+      "ru": "Принять оффер / проверить финансирование",
+      "en": "Accept / review funding"
+    },
+    "Applicant/university": {
+      "ru": "Заявительница / университет",
+      "en": "Applicant/university"
+    },
+    "Offer timeframe; itemised COA до acceptance": {
+      "ru": "Срок оффера; подробный COA до принятия",
+      "en": "Offer timeframe; itemised COA before acceptance"
+    },
+    "Deposit": {
+      "ru": "Депозит",
+      "en": "Deposit"
+    },
+    "Applicant если requested": {
+      "ru": "Заявительница, если запрошено",
+      "en": "Applicant if requested"
+    },
+    "Public amount/refund TBA": {
+      "ru": "Публичные сумма / возврат пока не опубликованы",
+      "en": "Public amount/refund TBA"
+    },
+    "Final NIS / transcript / diploma": {
+      "ru": "Итоговый NIS / транскрипт / диплом",
+      "en": "Final NIS / transcript / diploma"
+    },
+    "School/issuer → applicant, verification по instructions": {
+      "ru": "Школа / выдавший орган → заявительница; проверка по инструкции",
+      "en": "School/issuer → applicant, verification under instructions"
+    },
+    "**Before enrolment**, date TBA": {
+      "ru": "**До зачисления**, дата TBA",
+      "en": "**Before enrolment**, date TBA"
+    },
+    "Translation / legalisation": {
+      "ru": "Перевод / легализация",
+      "en": "Translation / legalisation"
+    },
+    "University/recognition instructions": {
+      "ru": "Инструкции университета / признания",
+      "en": "University/recognition instructions"
+    },
+    "UAE recognition/equivalency": {
+      "ru": "Признание / эквивалентность ОАЭ",
+      "en": "UAE recognition/equivalency"
+    },
+    "**End first semester latest**; начать раньше": {
+      "ru": "**Не позднее конца первого семестра**; начать раньше",
+      "en": "**End of first semester at the latest**; start earlier"
+    },
+    "Visa": {
+      "ru": "Виза",
+      "en": "Visa"
+    },
+    "University assists + applicant": {
+      "ru": "Университет помогает + заявительница",
+      "en": "University assists plus applicant"
+    },
+    "June onward support; valid before arrival": {
+      "ru": "Поддержка с июня; виза действительна до приезда",
+      "en": "Support from June; valid before arrival"
+    },
+    "Medical/insurance/housing/orientation": {
+      "ru": "Медицинские документы / страховка / проживание / ориентация",
+      "en": "Medical/insurance/housing/orientation"
+    },
+    "Exact 2027 instructions TBA": {
+      "ru": "Точные инструкции 2027 пока не опубликованы",
+      "en": "Exact 2027 instructions TBA"
+    },
+    "AED 200 reimbursement": {
+      "ru": "Возврат AED 200",
+      "en": "AED 200 reimbursement"
+    },
+    "**Upon enrolment**, не upon offer": {
+      "ru": "**При зачислении**, не получении оффера",
+      "en": "**Upon enrolment**, not upon offer"
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission: Reach. 100% COA: Extreme reach/Reach.** Projects/research/founder experience соответствует возможному profile, но screen/interview требуют подготовки. Optional SAT позволяет application при 1300–1350. Maximum funding не гарантирован; probability/remaining gap до award неизвестны.": {
+      "ru": "**Поступление: Reach. 100% COA: Extreme reach/Reach.** Проекты / исследования / опыт основателя подходят потенциальному профилю, но screening / интервью требуют подготовки. Необязательный SAT позволяет подачу при 1300–1350. Максимальное финансирование не гарантировано; шанс / непокрытый остаток неизвестны до оффера.",
+      "en": "**Admission: Reach. 100% COA: Extreme reach/Reach.** Projects/research/founder experience fits a possible profile, but screening/interview require preparation. Optional SAT permits application at 1300–1350. Maximum funding is not guaranteed; probability/remaining gap are unknown before the award."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "NIS conversion 90%/HL, final certificate exact cutoff/legalisation.": {
+      "ru": "Перевод NIS в 90% / HL, точный срок итогового сертификата / легализация.",
+      "en": "NIS conversion to 90%/HL, final-certificate exact cutoff/legalisation."
+    },
+    "PS limit/video duration/recommender ratings/sender; SAT code/superscore/direct reporting.": {
+      "ru": "Объём PS / длительность видео / критерии и отправитель рекомендаций; SAT-код / superscore / прямая отправка.",
+      "en": "PS limit/video duration/recommender ratings and sender; SAT code/superscore/direct reporting."
+    },
+    "Last screening/fee/rec completion dates EA/RD, separate funding form/financial evidence.": {
+      "ru": "Последние сроки screening / оплаты / писем EA/RD, отдельная форма финансирования / финансовые подтверждения.",
+      "en": "Last screening/fee/recommendation completion dates for EA/RD, separate funding form/financial evidence."
+    },
+    "Award decision/deposit, COA/stipend/months/GPA/credits/conduct/airfare/summer.": {
+      "ru": "Решение о стипендии / депозит, COA / выплата / месяцы / GPA / кредиты / поведение / перелёт / лето.",
+      "en": "Award decision/deposit, COA/stipend/months/GPA/credits/conduct/airfare/summer."
+    },
+    "Housing cost/guarantee, precise arrival/orientation/start day.": {
+      "ru": "Стоимость / гарантия проживания, точный день приезда / ориентации / начала.",
+      "en": "Housing cost/guarantee, precise arrival/orientation/start day."
+    },
+    "Email question for admissions": {
+      "ru": "Вопросы для письма в приёмную комиссию",
+      "en": "Email question for admissions"
+    },
+    "Готовый текст; **не отправлен**. Contact: admission@mbzuai.ac.ae.": {
+      "ru": "Готовый текст; **не отправлен**. Контакт: admission@mbzuai.ac.ae.",
+      "en": "Draft text; **not sent**. Contact: admission@mbzuai.ac.ae."
+    },
+    "I am a Kazakhstan NIS Grade 12 applicant for Fall 2027 AI Engineering, with finals expected in June 2027. How are NIS HL grades evaluated against the 90% requirement, and what is the final-document deadline? Please confirm PS limits, video duration, recommender submission and EA screening/fee completion deadlines. Is official SAT delivery required for the 1400/760 waiver? Which need-based form and financial documents are needed, and what COA items, renewal rules and summer costs does the award cover?": {
+      "ru": "Я кандидат NIS Grade 12 из Казахстана на Fall 2027 AI Engineering, итоговые результаты ожидаются в июне. Как оцениваются NIS HL относительно требования 90% и каков срок итоговых документов? Уточните объём PS, длительность видео, отправку рекомендателем и сроки завершения screening / оплаты EA. Нужна ли официальная доставка SAT для освобождения 1400/760? Какие форма помощи по потребности и финансовые документы нужны? Что покрывает COA, каковы правила продления и летние расходы?",
+      "en": "I am a Kazakhstan NIS Grade 12 applicant for Fall 2027 AI Engineering, with finals expected in June 2027. How are NIS HL grades evaluated against the 90% requirement, and what is the final-document deadline? Please confirm PS limits, video duration, recommender submission and EA screening/fee completion deadlines. Is official SAT delivery required for the 1400/760 waiver? Which need-based form and financial documents are needed, and what COA items, renewal rules and summer costs does the award cover?"
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[Undergraduate admissions/2027 dates/tests/scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [application portal](https://apply.mbzuai.ac.ae/).": {
+      "ru": "[Поступление бакалавриата / даты 2027 / тесты / стипендии / FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [Портал подачи](https://apply.mbzuai.ac.ae/).",
+      "en": "[Undergraduate admissions/2027 dates/tests/scholarships/FAQ](https://mbzuai.ac.ae/admissions/undergraduate-admissions), [application portal](https://apply.mbzuai.ac.ae/)."
+    },
+    "[BSc AI Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [BSc AI Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business), [UG division](https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division).": {
+      "ru": "[BSc AI Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [BSc AI Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business), [Подразделение бакалавриата](https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division).",
+      "en": "[BSc AI Engineering](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering), [BSc AI Business](https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business), [UG division](https://mbzuai.ac.ae/research/divisions/undergraduate-studies-division)."
+    },
+    "[UG FAQ: streams/housing/visa](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies), [undergraduate calendar entry](https://mbzuai.ac.ae/undergraduate-academic-calendar): полный Fall 2027 calendar не извлечён, mid-Aug start из explicit admissions FAQ.": {
+      "ru": "[FAQ бакалавриата: направления / проживание / виза](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies), [академический календарь бакалавриата](https://mbzuai.ac.ae/undergraduate-academic-calendar): полный календарь Fall 2027 не извлечён; середина августа указана прямо в FAQ поступления.",
+      "en": "[UG FAQ: streams/housing/visa](https://mbzuai.ac.ae/about-us/frequently-asked-questions/divisions-undergraduate-studies), [undergraduate calendar](https://mbzuai.ac.ae/undergraduate-academic-calendar): full Fall 2027 calendar was not retrieved; mid-August start is explicit in admissions FAQ."
+    },
+    "Найденные graduate/2024–25 catalogue материалы не использованы как доказательство UG scholarship/essay conditions.": {
+      "ru": "Найденные материалы магистратуры / каталога 2024–25 не использованы как доказательство стипендий / эссе бакалавриата.",
+      "en": "Located graduate/2024–25 catalogue materials were not used as evidence for UG scholarship/essay conditions."
+    },
+    "Application opens": {
+      "ru": "Открытие подачи заявок",
+      "en": "Application opens"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Early Action application": {
+      "ru": "Заявка Early Action",
+      "en": "Early Action application"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Early Action decision": {
+      "ru": "Решение Early Action",
+      "en": "Early Action decision"
+    },
+    "Decision": {
+      "ru": "Решение",
+      "en": "Decision"
+    },
+    "Regular Decision application": {
+      "ru": "Заявка Regular Decision",
+      "en": "Regular Decision application"
+    },
+    "Regular Decision result": {
+      "ru": "Результат Regular Decision",
+      "en": "Regular Decision result"
+    },
+    "Screening / fee / recommendation completion cutoff": {
+      "ru": "Крайний срок завершения screening / оплаты / рекомендаций",
+      "en": "Screening / fee / recommendation completion cutoff"
+    },
+    "Mandatory interview for shortlisted applicants": {
+      "ru": "Обязательное интервью отобранных кандидатов",
+      "en": "Mandatory interview for shortlisted applicants"
+    },
+    "Separate scholarship form / award decision": {
+      "ru": "Отдельная форма стипендии / решение о финансировании",
+      "en": "Separate scholarship form / award decision"
+    },
+    "Funding": {
+      "ru": "Финансирование",
+      "en": "Funding"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "UAE equivalency / recognition": {
+      "ru": "Эквивалентность / признание ОАЭ",
+      "en": "UAE equivalency / recognition"
+    },
+    "Visa support — after acceptance": {
+      "ru": "Визовая поддержка — после принятия оффера",
+      "en": "Visa support — after acceptance"
+    },
+    "Semester begins": {
+      "ru": "Начало семестра",
+      "en": "Semester begins"
+    },
+    "Semester": {
+      "ru": "Начало обучения",
+      "en": "Semester"
+    },
+    "application portal": {
+      "ru": "Портал подачи",
+      "en": "application portal"
+    },
+    "Undergraduate admissions/2027 dates/tests/scholarships/FAQ": {
+      "ru": "Поступление бакалавриата / даты 2027 / тесты / стипендии / FAQ",
+      "en": "Undergraduate admissions/2027 dates/tests/scholarships/FAQ"
+    },
+    "UG FAQ: streams/housing/visa": {
+      "ru": "FAQ бакалавриата: направления / проживание / виза",
+      "en": "UG FAQ: streams/housing/visa"
+    },
+    "BSc AI Engineering": {
+      "ru": "BSc AI Engineering",
+      "en": "BSc AI Engineering"
+    },
+    "BSc AI Business": {
+      "ru": "BSc AI Business",
+      "en": "BSc AI Business"
+    },
+    "UG division": {
+      "ru": "Подразделение бакалавриата",
+      "en": "UG division"
+    },
+    "undergraduate calendar entry": {
+      "ru": "Академический календарь бакалавриата",
+      "en": "undergraduate calendar entry"
+    }
+  },
+  "strategicAssessment": "**Admission: Reach. 100% COA: Extreme reach/Reach.** Projects/research/founder experience соответствует возможному profile, но screen/interview требуют подготовки. Optional SAT позволяет application при 1300–1350. Maximum funding не гарантирован; probability/remaining gap до award неизвестны."
+}

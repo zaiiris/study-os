@@ -1,0 +1,2133 @@
+{
+  "id": "audit-postech",
+  "name": "POSTECH",
+  "country": "South Korea",
+  "city": "Pohang",
+  "batch": 1,
+  "checkedAt": "2026-10-04",
+  "evidence": "partial",
+  "awaitingAudit": false,
+  "platform": "Expected: **Study in Korea**, but Fall 2027 portal link is not yet published",
+  "programs": [
+    "Computer Science & Engineering",
+    "Electrical Engineering"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "automatic"
+  ],
+  "fundingSummary": "Full tuition · KRW 500,000/month · conditional arrival reimbursement; 2027 guide TBA",
+  "admissionDifficulty": "Extreme reach.",
+  "fundingDifficulty": "Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3.",
+  "blocks": [
+    {
+      "id": "audit-postech-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Verified answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Verified answer": "Pohang University of Science and Technology (POSTECH)"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Verified answer": "Republic of Korea · Pohang · residential main campus"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-2",
+              "fields": {
+                "Field": "University type",
+                "Verified answer": "Private STEM institute"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Verified answer": "**PARTIALLY CONFIRMED / guide TBA**"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Application platform",
+                "Verified answer": "Expected: **Study in Korea**, but Fall 2027 portal link is not yet published"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Application URL",
+                "Verified answer": "[Official international undergraduate admissions](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programme(s)",
+                "Verified answer": "Mueunjae School (undeclared) → **Computer Science & Engineering**; secondary Electrical Engineering"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Degree / language",
+                "Verified answer": "Bachelor’s; POSTECH states an all-English curriculum for international undergraduate entrants from Fall 2026"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Major structure",
+                "Verified answer": "Freshmen enter Mueunjae School; major exploration precedes selection, normally before the fourth semester"
+              }
+            },
+            {
+              "id": "audit-postech-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Approximate international intake / selectivity",
+                "Verified answer": "Not officially published for Fall 2027"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**No Fall 2027 guide yet.** The official page still gives only an expected **March–April 2027** application and a guide expected in **late January 2027**.",
+        "Current FAQ confirms that scores arriving after the deadline are not considered, the application fee is non-refundable and has no waiver, and an English-medium letter must cover the entire high-school curriculum.",
+        "Current housing page was updated 15 September 2026 with Spring 2026 rates; first-year students live in Residential College.",
+        "Do not copy the Spring 2027 cycle or Fall 2026 dates into Fall 2027."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-3",
+      "title": "B. Programmes for this applicant",
+      "tab": "programs",
+      "paragraphs": [
+        "**Best programme for me:** CSE. It is the cleanest route to software, AI and data science. EE is appropriate only if the applicant wants hardware, circuits, signals or embedded systems. POSTECH’s international admission is to the freshman unit, so the final Fall 2027 guide must confirm the exact declaration timetable and any capacity rules."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Official programme",
+            "Degree / unit",
+            "Entry and prerequisites",
+            "Restrictions / change"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-3-table-0-row-0",
+              "fields": {
+                "Official programme": "Computer Science & Engineering",
+                "Degree / unit": "Bachelor’s department after Mueunjae exploration",
+                "Entry and prerequisites": "No separate international CSE admission standard published. Current first-year placement subjects include calculus, physics, chemistry and programming/problem solving.",
+                "Restrictions / change": "No standalone undergraduate AI degree identified; CSE curriculum covers programming, algorithms, systems, AI/ML and data-related study."
+              }
+            },
+            {
+              "id": "audit-postech-block-3-table-0-row-1",
+              "fields": {
+                "Official programme": "Electrical Engineering",
+                "Degree / unit": "Bachelor’s department",
+                "Entry and prerequisites": "General STEM admission; strong Math/Physics preparation useful",
+                "Restrictions / change": "Logical computer-engineering/hardware alternative"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "**PREVIOUS CYCLE REFERENCE only:** Fall 2026 applications ran 26 Sep–3 Nov 2025 with decision 5 Jan 2026 through Study in Korea. These are not Fall 2027 dates."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Fall 2027 date",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Guide publication",
+                "Fall 2027 date": "Late Jan 2027 expected",
+                "Confirmed?": "Partial",
+                "What must be ready": "Recheck exact forms, fee, essays, recs, document authentication"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Application opens",
+                "Fall 2027 date": "TBA; March–April window expected",
+                "Confirmed?": "Partial",
+                "What must be ready": "Study in Korea profile, school/test documents"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-2",
+              "fields": {
+                "Event": "Application closes",
+                "Fall 2027 date": "TBA",
+                "Confirmed?": "No",
+                "What must be ready": "Complete application and official scores must arrive"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Documents / recommendations",
+                "Fall 2027 date": "TBA",
+                "Confirmed?": "No",
+                "What must be ready": "Guide controls"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-4",
+              "fields": {
+                "Event": "Interview",
+                "Fall 2027 date": "Current FAQ says not required for the International Admissions Track; Fall 2027 guide controls",
+                "Confirmed?": "Partial",
+                "What must be ready": "None unless policy changes"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Decision / acceptance / deposit",
+                "Fall 2027 date": "TBA",
+                "Confirmed?": "No",
+                "What must be ready": "Offer-specific"
+              }
+            },
+            {
+              "id": "audit-postech-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Final diploma / apostille / housing / visa",
+                "Fall 2027 date": "TBA",
+                "Confirmed?": "No",
+                "What must be ready": "After admission"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [
+        "By **1 December 2026:** collect Grade 10–12/current transcript, NIS school profile, expected-graduation letter, identity/family documents and an English-medium letter even if also taking IELTS.",
+        "By **10 January 2027:** choose Math/CS/Physics recommender and prepare a reusable factual résumé/project evidence.",
+        "From **20 January:** check the official notice twice weekly.",
+        "Within **48 hours of guide release:** map every new form, essay and score-delivery rule.",
+        "Target submission: **10 days before the official deadline**; order all official score reports at least 2–3 weeks before the deadline."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-6",
+      "title": "D. Platform and fee",
+      "tab": "application",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Fall 2027 answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-6-table-0-row-0",
+              "fields": {
+                "Item": "Platform",
+                "Fall 2027 answer": "TBA; Study in Korea was used in the last official Fall cycle"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Can create 2027 application now?",
+                "Fall 2027 answer": "No published Fall 2027 form"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Programme choices / edits / grade updates",
+                "Fall 2027 answer": "TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Fee",
+                "Fall 2027 answer": "**TBA**"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Refund / waiver",
+                "Fall 2027 answer": "Official FAQ: fee is non-refundable and no waiver is offered; exact 2027 amount TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Scholarship fee",
+                "Fall 2027 answer": "None published"
+              }
+            },
+            {
+              "id": "audit-postech-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Paper mail",
+                "Fall 2027 answer": "Initial process TBA. Authenticated final records are expected under current FAQ/past guide practice."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-7",
+      "title": "E. Document checklist",
+      "tab": "documents",
+      "paragraphs": [
+        "Because the Fall 2027 guide is not published, every row below is either a current official FAQ rule or **PREVIOUS CYCLE REFERENCE** and must be revalidated in January."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Status for Fall 2027",
+            "Who / format",
+            "Current best evidence"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-7-table-0-row-0",
+              "fields": {
+                "Document": "Online application",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Applicant, likely Study in Korea",
+                "Current best evidence": "Portal not open"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-1",
+              "fields": {
+                "Document": "Passport",
+                "Status for Fall 2027": "Expected, unconfirmed",
+                "Who / format": "Applicant upload",
+                "Current best evidence": "Previous cycle"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Parents’ passports / citizenship",
+                "Status for Fall 2027": "Expected, unconfirmed",
+                "Who / format": "Applicant upload",
+                "Current best evidence": "Previous cycle"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-3",
+              "fields": {
+                "Document": "Family relationship / birth certificate",
+                "Status for Fall 2027": "Expected, unconfirmed",
+                "Who / format": "Applicant upload",
+                "Current best evidence": "Previous cycle"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-4",
+              "fields": {
+                "Document": "Full high-school transcript",
+                "Status for Fall 2027": "Expected",
+                "Who / format": "Applicant/school official scan; authenticated version later",
+                "Current best evidence": "FAQ says submit the official complete national school record"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-5",
+              "fields": {
+                "Document": "Expected graduation / final diploma",
+                "Status for Fall 2027": "Expected",
+                "Who / format": "School-issued; apostille/Korean consular authentication under current FAQ",
+                "Current best evidence": "Exact 2027 timing TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-6",
+              "fields": {
+                "Document": "NIS school profile / grading explanation",
+                "Status for Fall 2027": "REC",
+                "Who / format": "School/applicant",
+                "Current best evidence": "Needed to explain a country-specific curriculum"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-7",
+              "fields": {
+                "Document": "English test or MOI",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Agency/school",
+                "Current best evidence": "Current FAQ: MOI must state entire HS curriculum was in English; exemption decided after review"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-8",
+              "fields": {
+                "Document": "SAT/ACT/IB/AP/A-level/national exam",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Official agency by deadline where applicable",
+                "Current best evidence": "Late scores are not considered; PDF does not replace official report"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-9",
+              "fields": {
+                "Document": "Recommendation",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Recommender",
+                "Current best evidence": "Previous cycle required one; do not assume for 2027"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-10",
+              "fields": {
+                "Document": "Personal statement / study plan",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Applicant",
+                "Current best evidence": "Previous cycle used these; exact prompts/limits unavailable"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-11",
+              "fields": {
+                "Document": "Awards / activities / school profile",
+                "Status for Fall 2027": "TBA",
+                "Who / format": "Applicant",
+                "Current best evidence": "Previous cycle reference"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-12",
+              "fields": {
+                "Document": "CV, GitHub, portfolio",
+                "Status for Fall 2027": "Not officially required yet",
+                "Who / format": "—",
+                "Current best evidence": "Use only if the new form allows"
+              }
+            },
+            {
+              "id": "audit-postech-block-7-table-0-row-13",
+              "fields": {
+                "Document": "Final apostilled records",
+                "Status for Fall 2027": "Expected after admission",
+                "Who / format": "Applicant/school/courier",
+                "Current best evidence": "Country-specific FAQ confirms authentication expectation"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-8",
+      "title": "F. NIS route",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "POSTECH has not published a named NIS route, NIS HL-subject requirement or minimum NIS score.",
+        "Current FAQ says applicants from different school systems must submit the official complete secondary-school records and an explanation where the format differs.",
+        "Ask NIS for a school profile, grading scale, current transcript and an official expected-graduation letter. Predicted NIS treatment remains **TBA**.",
+        "The current FAQ allows a school-issued MOI letter for English exemption review, but the letter must confirm that the **entire** high-school curriculum was taught in English. Exemption is not automatic.",
+        "June final-certificate and apostille timing cannot be assessed until the Fall 2027 guide publishes the final-document deadline."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-10",
+      "title": "Official minimum for Fall 2027",
+      "tab": "requirements",
+      "paragraphs": [
+        "**Not officially published.** No current-cycle GPA, NIS, SAT, IELTS or subject minimum may be stated."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-11",
+      "title": "Competitive target — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "POSTECH is an extreme-reach STEM institution. Strong Math, Physics/CS coursework and externally verifiable quantitative achievement matter. No official competitive SAT/IELTS range is published. SAT 1300–1350 would not make this a safe or match application."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-postech-block-12",
+      "title": "Academic and English test policy",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Current verified rule",
+            "Fall 2027 status"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-12-table-0-row-0",
+              "fields": {
+                "Item": "SAT/ACT/AP/IB/A-level",
+                "Current verified rule": "Current FAQ requires official reports where applicable and rejects post-deadline arrivals",
+                "Fall 2027 status": "Requirement/optional status TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-12-table-0-row-1",
+              "fields": {
+                "Item": "Superscore / self-report",
+                "Current verified rule": "Not officially published for Fall 2027",
+                "Fall 2027 status": "TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-12-table-0-row-2",
+              "fields": {
+                "Item": "IELTS/TOEFL/other English tests",
+                "Current verified rule": "Exact accepted list and minimum TBA",
+                "Fall 2027 status": "TBA"
+              }
+            },
+            {
+              "id": "audit-postech-block-12-table-0-row-3",
+              "fields": {
+                "Item": "MOI waiver",
+                "Current verified rule": "Whole curriculum in English; school letterhead/seal/contact; reviewed case by case",
+                "Fall 2027 status": "Current FAQ, but guide controls"
+              }
+            },
+            {
+              "id": "audit-postech-block-12-table-0-row-4",
+              "fields": {
+                "Item": "Late reports",
+                "Current verified rule": "Not considered; documented provider delay may receive case-by-case review",
+                "Fall 2027 status": "Current FAQ"
+              }
+            },
+            {
+              "id": "audit-postech-block-12-table-0-row-5",
+              "fields": {
+                "Item": "Internal English placement",
+                "Current verified rule": "After enrolment, students take/receive English placement level",
+                "Fall 2027 status": "Not an admission substitute"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-13",
+      "title": "H. Internal exam, interview and recommendations",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**Recommendation strategy:** reserve one detailed Math/CS/Physics teacher now, but do not send anything until the 2027 form appears. A counselor should separately prepare NIS curriculum and grading context."
+      ],
+      "lists": [
+        "Current FAQ says an admission interview is **not required** for the current International Admissions Track; the unreleased Fall 2027 guide remains controlling.",
+        "No current-cycle Math/Physics/programming admissions exam is published.",
+        "Recommendation number, recommender role, form, exact rating categories and deadline are all **TBA**."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-14",
+      "title": "I. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "Possible themes can be prepared—technical curiosity, project decisions, research potential, collaboration and fit—but no text should be drafted to an invented prompt."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Essay",
+            "Fall 2027 prompt",
+            "Limit",
+            "Status"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-14-table-0-row-0",
+              "fields": {
+                "Essay": "Personal statement",
+                "Fall 2027 prompt": "TBA",
+                "Limit": "TBA",
+                "Status": "Previous cycle used a statement; no 2027 prompt"
+              }
+            },
+            {
+              "id": "audit-postech-block-14-table-0-row-1",
+              "fields": {
+                "Essay": "Study plan / Why POSTECH-major",
+                "Fall 2027 prompt": "TBA",
+                "Limit": "TBA",
+                "Status": "Previous cycle reference only"
+              }
+            },
+            {
+              "id": "audit-postech-block-14-table-0-row-2",
+              "fields": {
+                "Essay": "Scholarship essay",
+                "Fall 2027 prompt": "None currently published",
+                "Limit": "—",
+                "Status": "TBA"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-15",
+      "title": "J. Scholarships and aid",
+      "tab": "funding",
+      "paragraphs": [
+        "Source: [official scholarship page](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award / rule",
+            "Separate application?",
+            "Status"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-15-table-0-row-0",
+              "fields": {
+                "Category": "Automatic tuition",
+                "Award / rule": "International Admissions I tuition scholarship",
+                "Separate application?": "No",
+                "Status": "Current policy: first semester full tuition; up to eight regular semesters if prior GPA ≥3.0/4.3 from second semester"
+              }
+            },
+            {
+              "id": "audit-postech-block-15-table-0-row-1",
+              "fields": {
+                "Category": "Living support",
+                "Award / rule": "International undergraduate allowance",
+                "Separate application?": "No separate form stated",
+                "Status": "KRW 500,000/month, including vacations; current page says no GPA condition"
+              }
+            },
+            {
+              "id": "audit-postech-block-15-table-0-row-2",
+              "fields": {
+                "Category": "Arrival support",
+                "Award / rule": "One-way economy airfare + domestic transport",
+                "Separate application?": "Claim/reimbursement process",
+                "Status": "Actual cost up to KRW 2.5m; for eligible new international students who did not reside in Korea in preceding six months"
+              }
+            },
+            {
+              "id": "audit-postech-block-15-table-0-row-3",
+              "fields": {
+                "Category": "Pathfinder voucher",
+                "Award / rule": "Educational voucher",
+                "Separate application?": "Programme approval",
+                "Status": "KRW 10m over four years, normally KRW 2.5m/year after three semesters; approved activities/devices, not cash living stipend"
+              }
+            },
+            {
+              "id": "audit-postech-block-15-table-0-row-4",
+              "fields": {
+                "Category": "TOPIK award",
+                "Award / rule": "One-time",
+                "Separate application?": "Evidence",
+                "Status": "KRW 300k for TOPIK 4 under current policy"
+              }
+            },
+            {
+              "id": "audit-postech-block-15-table-0-row-5",
+              "fields": {
+                "Category": "Need-based aid",
+                "Award / rule": "No separate international undergraduate need-based scheme identified",
+                "Separate application?": "—",
+                "Status": "Not officially published"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-16",
+      "title": "Coverage, renewal and real gap",
+      "tab": "funding",
+      "paragraphs": [
+        "An exact annual gap cannot be calculated until Fall 2027 tuition/fees and award terms are in the guide. Current dormitory rates effective Spring 2026 are KRW 149k–175k per four weeks for undergraduate double rooms; first-year students reside in Residential College. Housing is not shown as paid by the scholarship. [Official dormitory page](https://www.postech.ac.kr/eng/student-life/dormitory.do) The page does not itself promise all four years; a separate exchange factsheet’s guarantee should not be generalized to degree students."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Current rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-postech-block-16-table-0-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "Yes, conditional after first term",
+                "Current rule": "Full first term; continued to 8 semesters with GPA ≥3.0/4.3"
+              }
+            },
+            {
+              "id": "audit-postech-block-16-table-0-row-1",
+              "fields": {
+                "Cost": "Housing / meals",
+                "Covered?": "No direct waiver stated",
+                "Current rule": "Paid from stipend/personal funds"
+              }
+            },
+            {
+              "id": "audit-postech-block-16-table-0-row-2",
+              "fields": {
+                "Cost": "Stipend",
+                "Covered?": "Yes",
+                "Current rule": "KRW 500k/month"
+              }
+            },
+            {
+              "id": "audit-postech-block-16-table-0-row-3",
+              "fields": {
+                "Cost": "Flight",
+                "Covered?": "Yes, conditional reimbursement",
+                "Current rule": "Up to KRW 2.5m once"
+              }
+            },
+            {
+              "id": "audit-postech-block-16-table-0-row-4",
+              "fields": {
+                "Cost": "Books / laptop",
+                "Covered?": "Pathfinder may fund approved study use",
+                "Current rule": "Not general cash"
+              }
+            },
+            {
+              "id": "audit-postech-block-16-table-0-row-5",
+              "fields": {
+                "Cost": "Insurance / visa / local transport",
+                "Covered?": "Not confirmed as scholarship coverage",
+                "Current rule": "TBA"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-17",
+      "title": "K. After admission",
+      "tab": "after-admission",
+      "paragraphs": [
+        "All dates are TBA. Expected tasks: accept offer; pay any deposit; submit final NIS diploma/transcript with apostille or Korean consular authentication; verify test reports; arrange D-2 visa, insurance and Residential College housing; complete placement/orientation. The 2027 offer and guide control."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-18",
+      "title": "L. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Admission difficulty:** Extreme reach.",
+        "**Full-funding difficulty:** Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3.",
+        "**Fit:** Excellent for a research-oriented CS applicant; lack of current prompts means preparation should focus on evidence, not speculative essays."
+      ],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-postech-block-19",
+      "title": "M. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [
+        "Exact dates, portal, fee amount, programme-choice count, eligibility, all required documents, predicted-grade rule, tests and minimums, official score codes, recommendation form, essays/limits, decision/deposit/final-document dates, Fall 2027 tuition and housing allocation, and whether any current scholarship term changes."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-20",
+      "title": "N. Email question",
+      "tab": "sources",
+      "paragraphs": [
+        "I am an NIS Grade 12 applicant from Kazakhstan and will receive my final NIS Certificate in June 2027. For Fall 2027, will POSTECH accept official NIS predicted grades and an expected-graduation letter at application, with the final apostilled certificate after admission? Please also confirm whether an NIS letter stating that the entire high-school curriculum is taught in English can qualify for English-test exemption, and the final deadline for authenticated records."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-postech-block-21",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[International undergraduate overview and expected timeline](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)",
+        "[Official FAQ](https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121)",
+        "[Scholarships](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)",
+        "[Undergraduate/Mueunjae academic information](https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do)",
+        "[2026 department curriculum guide](https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf)",
+        "[Dormitory and current fees](https://www.postech.ac.kr/eng/student-life/dormitory.do)"
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "audit-postech-official-0",
+      "universityId": "audit-postech",
+      "title": "Fall guide — expected late January 2027",
+      "type": "Guide",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Fall guide — expected late January 2027",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ],
+      "approximate": {
+        "ru": "конец января 2027",
+        "en": "Late January 2027"
+      }
+    },
+    {
+      "id": "audit-postech-official-1",
+      "universityId": "audit-postech",
+      "title": "Application opens — expected March–April 2027",
+      "type": "Opening",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Application opens — expected March–April 2027",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ],
+      "approximate": {
+        "ru": "март–апрель 2027",
+        "en": "March–April 2027"
+      }
+    },
+    {
+      "id": "audit-postech-official-2",
+      "universityId": "audit-postech",
+      "title": "Application deadline — Fall 2027 TBA",
+      "type": "Application",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Application deadline — Fall 2027 TBA",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ]
+    },
+    {
+      "id": "audit-postech-official-3",
+      "universityId": "audit-postech",
+      "title": "Documents / recommendations deadline",
+      "type": "Documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Documents / recommendations deadline",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ]
+    },
+    {
+      "id": "audit-postech-official-4",
+      "universityId": "audit-postech",
+      "title": "Decision",
+      "type": "Decision",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Decision",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ]
+    },
+    {
+      "id": "audit-postech-official-5",
+      "universityId": "audit-postech",
+      "title": "Deposit / registration",
+      "type": "Deposit",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Deposit / registration",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ]
+    },
+    {
+      "id": "audit-postech-official-6",
+      "universityId": "audit-postech",
+      "title": "Final documents / visa / housing",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Final documents / visa / housing",
+      "sourceIds": [
+        "audit-postech-source-3",
+        "audit-postech-source-5",
+        "audit-postech-source-8",
+        "audit-postech-source-4",
+        "audit-postech-source-6",
+        "audit-postech-source-7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-postech-source-3",
+      "title": "International undergraduate overview and expected timeline",
+      "url": "https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do"
+    },
+    {
+      "id": "audit-postech-source-5",
+      "title": "Scholarships",
+      "url": "https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do"
+    },
+    {
+      "id": "audit-postech-source-8",
+      "title": "Dormitory and current fees",
+      "url": "https://www.postech.ac.kr/eng/student-life/dormitory.do"
+    },
+    {
+      "id": "audit-postech-source-4",
+      "title": "Official FAQ",
+      "url": "https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121"
+    },
+    {
+      "id": "audit-postech-source-6",
+      "title": "Undergraduate/Mueunjae academic information",
+      "url": "https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do"
+    },
+    {
+      "id": "audit-postech-source-7",
+      "title": "2026 department curriculum guide",
+      "url": "https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf"
+    }
+  ],
+  "sourceFile": "/data/official-fall-2027-2026-10-04.md",
+  "sourceSection": "# 4. POSTECH\n\n## A. University snapshot\n\n| Field | Verified answer |\n|---|---|\n| University | Pohang University of Science and Technology (POSTECH) |\n| Country / city / campus | Republic of Korea · Pohang · residential main campus |\n| University type | Private STEM institute |\n| Fall 2027 status | **PARTIALLY CONFIRMED / guide TBA** |\n| Application platform | Expected: **Study in Korea**, but Fall 2027 portal link is not yet published |\n| Application URL | [Official international undergraduate admissions](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do) |\n| Best programme(s) | Mueunjae School (undeclared) → **Computer Science & Engineering**; secondary Electrical Engineering |\n| Degree / language | Bachelor’s; POSTECH states an all-English curriculum for international undergraduate entrants from Fall 2026 |\n| Major structure | Freshmen enter Mueunjae School; major exploration precedes selection, normally before the fourth semester |\n| Approximate international intake / selectivity | Not officially published for Fall 2027 |\n\n## Changes since 13 Sep 2026\n\n- **No Fall 2027 guide yet.** The official page still gives only an expected **March–April 2027** application and a guide expected in **late January 2027**.\n- Current FAQ confirms that scores arriving after the deadline are not considered, the application fee is non-refundable and has no waiver, and an English-medium letter must cover the entire high-school curriculum.\n- Current housing page was updated 15 September 2026 with Spring 2026 rates; first-year students live in Residential College.\n- Do not copy the Spring 2027 cycle or Fall 2026 dates into Fall 2027.\n\n## B. Programmes for this applicant\n\n| Official programme | Degree / unit | Entry and prerequisites | Restrictions / change |\n|---|---|---|---|\n| Computer Science & Engineering | Bachelor’s department after Mueunjae exploration | No separate international CSE admission standard published. Current first-year placement subjects include calculus, physics, chemistry and programming/problem solving. | No standalone undergraduate AI degree identified; CSE curriculum covers programming, algorithms, systems, AI/ML and data-related study. |\n| Electrical Engineering | Bachelor’s department | General STEM admission; strong Math/Physics preparation useful | Logical computer-engineering/hardware alternative |\n\n**Best programme for me:** CSE. It is the cleanest route to software, AI and data science. EE is appropriate only if the applicant wants hardware, circuits, signals or embedded systems. POSTECH’s international admission is to the freshman unit, so the final Fall 2027 guide must confirm the exact declaration timetable and any capacity rules.\n\n## C. Application rounds and deadlines\n\n| Event | Fall 2027 date | Confirmed? | What must be ready |\n|---|---:|---|---|\n| Guide publication | Late Jan 2027 expected | Partial | Recheck exact forms, fee, essays, recs, document authentication |\n| Application opens | TBA; March–April window expected | Partial | Study in Korea profile, school/test documents |\n| Application closes | TBA | No | Complete application and official scores must arrive |\n| Documents / recommendations | TBA | No | Guide controls |\n| Interview | Current FAQ says not required for the International Admissions Track; Fall 2027 guide controls | Partial | None unless policy changes |\n| Decision / acceptance / deposit | TBA | No | Offer-specific |\n| Final diploma / apostille / housing / visa | TBA | No | After admission |\n\n**PREVIOUS CYCLE REFERENCE only:** Fall 2026 applications ran 26 Sep–3 Nov 2025 with decision 5 Jan 2026 through Study in Korea. These are not Fall 2027 dates.\n\n### My recommended timeline\n\n- By **1 December 2026:** collect Grade 10–12/current transcript, NIS school profile, expected-graduation letter, identity/family documents and an English-medium letter even if also taking IELTS.\n- By **10 January 2027:** choose Math/CS/Physics recommender and prepare a reusable factual résumé/project evidence.\n- From **20 January:** check the official notice twice weekly.\n- Within **48 hours of guide release:** map every new form, essay and score-delivery rule.\n- Target submission: **10 days before the official deadline**; order all official score reports at least 2–3 weeks before the deadline.\n\n## D. Platform and fee\n\n| Item | Fall 2027 answer |\n|---|---|\n| Platform | TBA; Study in Korea was used in the last official Fall cycle |\n| Can create 2027 application now? | No published Fall 2027 form |\n| Programme choices / edits / grade updates | TBA |\n| Fee | **TBA** |\n| Refund / waiver | Official FAQ: fee is non-refundable and no waiver is offered; exact 2027 amount TBA |\n| Scholarship fee | None published |\n| Paper mail | Initial process TBA. Authenticated final records are expected under current FAQ/past guide practice. |\n\n## E. Document checklist\n\nBecause the Fall 2027 guide is not published, every row below is either a current official FAQ rule or **PREVIOUS CYCLE REFERENCE** and must be revalidated in January.\n\n| Document | Status for Fall 2027 | Who / format | Current best evidence |\n|---|---:|---|---|\n| Online application | TBA | Applicant, likely Study in Korea | Portal not open |\n| Passport | Expected, unconfirmed | Applicant upload | Previous cycle |\n| Parents’ passports / citizenship | Expected, unconfirmed | Applicant upload | Previous cycle |\n| Family relationship / birth certificate | Expected, unconfirmed | Applicant upload | Previous cycle |\n| Full high-school transcript | Expected | Applicant/school official scan; authenticated version later | FAQ says submit the official complete national school record |\n| Expected graduation / final diploma | Expected | School-issued; apostille/Korean consular authentication under current FAQ | Exact 2027 timing TBA |\n| NIS school profile / grading explanation | REC | School/applicant | Needed to explain a country-specific curriculum |\n| English test or MOI | TBA | Agency/school | Current FAQ: MOI must state entire HS curriculum was in English; exemption decided after review |\n| SAT/ACT/IB/AP/A-level/national exam | TBA | Official agency by deadline where applicable | Late scores are not considered; PDF does not replace official report |\n| Recommendation | TBA | Recommender | Previous cycle required one; do not assume for 2027 |\n| Personal statement / study plan | TBA | Applicant | Previous cycle used these; exact prompts/limits unavailable |\n| Awards / activities / school profile | TBA | Applicant | Previous cycle reference |\n| CV, GitHub, portfolio | Not officially required yet | — | Use only if the new form allows |\n| Final apostilled records | Expected after admission | Applicant/school/courier | Country-specific FAQ confirms authentication expectation |\n\n## F. NIS route\n\n- POSTECH has not published a named NIS route, NIS HL-subject requirement or minimum NIS score.\n- Current FAQ says applicants from different school systems must submit the official complete secondary-school records and an explanation where the format differs.\n- Ask NIS for a school profile, grading scale, current transcript and an official expected-graduation letter. Predicted NIS treatment remains **TBA**.\n- The current FAQ allows a school-issued MOI letter for English exemption review, but the letter must confirm that the **entire** high-school curriculum was taught in English. Exemption is not automatic.\n- June final-certificate and apostille timing cannot be assessed until the Fall 2027 guide publishes the final-document deadline.\n\n## G. Academic tests and English\n\n### Official minimum for Fall 2027\n\n**Not officially published.** No current-cycle GPA, NIS, SAT, IELTS or subject minimum may be stated.\n\n### Competitive target — analysis\n\nPOSTECH is an extreme-reach STEM institution. Strong Math, Physics/CS coursework and externally verifiable quantitative achievement matter. No official competitive SAT/IELTS range is published. SAT 1300–1350 would not make this a safe or match application.\n\n| Item | Current verified rule | Fall 2027 status |\n|---|---|---|\n| SAT/ACT/AP/IB/A-level | Current FAQ requires official reports where applicable and rejects post-deadline arrivals | Requirement/optional status TBA |\n| Superscore / self-report | Not officially published for Fall 2027 | TBA |\n| IELTS/TOEFL/other English tests | Exact accepted list and minimum TBA | TBA |\n| MOI waiver | Whole curriculum in English; school letterhead/seal/contact; reviewed case by case | Current FAQ, but guide controls |\n| Late reports | Not considered; documented provider delay may receive case-by-case review | Current FAQ |\n| Internal English placement | After enrolment, students take/receive English placement level | Not an admission substitute |\n\n## H. Internal exam, interview and recommendations\n\n- Current FAQ says an admission interview is **not required** for the current International Admissions Track; the unreleased Fall 2027 guide remains controlling.\n- No current-cycle Math/Physics/programming admissions exam is published.\n- Recommendation number, recommender role, form, exact rating categories and deadline are all **TBA**.\n\n**Recommendation strategy:** reserve one detailed Math/CS/Physics teacher now, but do not send anything until the 2027 form appears. A counselor should separately prepare NIS curriculum and grading context.\n\n## I. Essays\n\n| Essay | Fall 2027 prompt | Limit | Status |\n|---|---|---:|---|\n| Personal statement | TBA | TBA | Previous cycle used a statement; no 2027 prompt |\n| Study plan / Why POSTECH-major | TBA | TBA | Previous cycle reference only |\n| Scholarship essay | None currently published | — | TBA |\n\nPossible themes can be prepared—technical curiosity, project decisions, research potential, collaboration and fit—but no text should be drafted to an invented prompt.\n\n## J. Scholarships and aid\n\n| Category | Award / rule | Separate application? | Status |\n|---|---|---:|---|\n| Automatic tuition | International Admissions I tuition scholarship | No | Current policy: first semester full tuition; up to eight regular semesters if prior GPA ≥3.0/4.3 from second semester |\n| Living support | International undergraduate allowance | No separate form stated | KRW 500,000/month, including vacations; current page says no GPA condition |\n| Arrival support | One-way economy airfare + domestic transport | Claim/reimbursement process | Actual cost up to KRW 2.5m; for eligible new international students who did not reside in Korea in preceding six months |\n| Pathfinder voucher | Educational voucher | Programme approval | KRW 10m over four years, normally KRW 2.5m/year after three semesters; approved activities/devices, not cash living stipend |\n| TOPIK award | One-time | Evidence | KRW 300k for TOPIK 4 under current policy |\n| Need-based aid | No separate international undergraduate need-based scheme identified | — | Not officially published |\n\nSource: [official scholarship page](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do).\n\n### Coverage, renewal and real gap\n\n| Cost | Covered? | Current rule |\n|---|---:|---|\n| Tuition | Yes, conditional after first term | Full first term; continued to 8 semesters with GPA ≥3.0/4.3 |\n| Housing / meals | No direct waiver stated | Paid from stipend/personal funds |\n| Stipend | Yes | KRW 500k/month |\n| Flight | Yes, conditional reimbursement | Up to KRW 2.5m once |\n| Books / laptop | Pathfinder may fund approved study use | Not general cash |\n| Insurance / visa / local transport | Not confirmed as scholarship coverage | TBA |\n\nAn exact annual gap cannot be calculated until Fall 2027 tuition/fees and award terms are in the guide. Current dormitory rates effective Spring 2026 are KRW 149k–175k per four weeks for undergraduate double rooms; first-year students reside in Residential College. Housing is not shown as paid by the scholarship. [Official dormitory page](https://www.postech.ac.kr/eng/student-life/dormitory.do) The page does not itself promise all four years; a separate exchange factsheet’s guarantee should not be generalized to degree students.\n\n## K. After admission\n\nAll dates are TBA. Expected tasks: accept offer; pay any deposit; submit final NIS diploma/transcript with apostille or Korean consular authentication; verify test reports; arrange D-2 visa, insurance and Residential College housing; complete placement/orientation. The 2027 offer and guide control.\n\n## L. Strategic assessment — analysis\n\n- **Admission difficulty:** Extreme reach.\n- **Full-funding difficulty:** Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3.\n- **Fit:** Excellent for a research-oriented CS applicant; lack of current prompts means preparation should focus on evidence, not speculative essays.\n\n## M. Still TBA / needs confirmation\n\nExact dates, portal, fee amount, programme-choice count, eligibility, all required documents, predicted-grade rule, tests and minimums, official score codes, recommendation form, essays/limits, decision/deposit/final-document dates, Fall 2027 tuition and housing allocation, and whether any current scholarship term changes.\n\n## N. Email question\n\n> I am an NIS Grade 12 applicant from Kazakhstan and will receive my final NIS Certificate in June 2027. For Fall 2027, will POSTECH accept official NIS predicted grades and an expected-graduation letter at application, with the final apostilled certificate after admission? Please also confirm whether an NIS letter stating that the entire high-school curriculum is taught in English can qualify for English-test exemption, and the final deadline for authenticated records.\n\n## Official sources checked\n\n- [International undergraduate overview and expected timeline](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)\n- [Official FAQ](https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121)\n- [Scholarships](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)\n- [Undergraduate/Mueunjae academic information](https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do)\n- [2026 department curriculum guide](https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf)\n- [Dormitory and current fees](https://www.postech.ac.kr/eng/student-life/dormitory.do)\n\n---",
+  "localizedText": {
+    "South Korea": {
+      "ru": "Южная Корея",
+      "en": "South Korea"
+    },
+    "Pohang": {
+      "ru": "Пхохан",
+      "en": "Pohang"
+    },
+    "Expected: **Study in Korea**, but Fall 2027 portal link is not yet published": {
+      "ru": "Ожидается **Study in Korea**, но ссылка портала Fall 2027 пока не опубликована",
+      "en": "Expected: **Study in Korea**, but Fall 2027 portal link is not yet published"
+    },
+    "Computer Science & Engineering": {
+      "ru": "Computer Science & Engineering",
+      "en": "Computer Science & Engineering"
+    },
+    "Electrical Engineering": {
+      "ru": "Electrical Engineering",
+      "en": "Electrical Engineering"
+    },
+    "Full tuition · KRW 500,000/month · conditional arrival reimbursement; 2027 guide TBA": {
+      "ru": "Полное покрытие обучения · KRW 500 000 в месяц · компенсация приезда при выполнении условий; руководство 2027 пока не опубликовано",
+      "en": "Full tuition · KRW 500,000/month · conditional arrival reimbursement; 2027 guide TBA"
+    },
+    "Extreme reach.": {
+      "ru": "Очень высокая конкурсность (Extreme reach).",
+      "en": "Extreme reach."
+    },
+    "Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3.": {
+      "ru": "Очень высокая конкурсность при поступлении; после зачисления действующий пакет поддержки сильный, но для продления оплаты обучения нужен GPA 3.0/4.3.",
+      "en": "Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3."
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Verified answer": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Pohang University of Science and Technology (POSTECH)": {
+      "ru": "Pohang University of Science and Technology (POSTECH)",
+      "en": "Pohang University of Science and Technology (POSTECH)"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "Republic of Korea · Pohang · residential main campus": {
+      "ru": "Республика Корея · Пхохан · основной жилой кампус",
+      "en": "Republic of Korea · Pohang · residential main campus"
+    },
+    "University type": {
+      "ru": "Тип университета",
+      "en": "University type"
+    },
+    "Private STEM institute": {
+      "ru": "Частный институт науки и технологий",
+      "en": "Private STEM institute"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "**PARTIALLY CONFIRMED / guide TBA**": {
+      "ru": "**ЧАСТИЧНО ПОДТВЕРЖДЕНО / руководство TBA**",
+      "en": "**PARTIALLY CONFIRMED / guide TBA**"
+    },
+    "Application platform": {
+      "ru": "Платформа подачи",
+      "en": "Application platform"
+    },
+    "Application URL": {
+      "ru": "Ссылка для подачи",
+      "en": "Application URL"
+    },
+    "[Official international undergraduate admissions](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)": {
+      "ru": "[Официальный международный приём бакалавров](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)",
+      "en": "[Official international undergraduate admissions](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)"
+    },
+    "Best programme(s)": {
+      "ru": "Наиболее подходящие программы",
+      "en": "Best programme(s)"
+    },
+    "Mueunjae School (undeclared) → **Computer Science & Engineering**; secondary Electrical Engineering": {
+      "ru": "Mueunjae School (без выбранной специальности) → **Computer Science & Engineering**; второй вариант — Electrical Engineering",
+      "en": "Mueunjae School (undeclared) → **Computer Science & Engineering**; secondary Electrical Engineering"
+    },
+    "Degree / language": {
+      "ru": "Степень / язык обучения",
+      "en": "Degree / language"
+    },
+    "Bachelor’s; POSTECH states an all-English curriculum for international undergraduate entrants from Fall 2026": {
+      "ru": "Бакалавриат; POSTECH заявляет полностью англоязычный учебный план для иностранных бакалавров, поступающих с Fall 2026",
+      "en": "Bachelor’s; POSTECH states an all-English curriculum for international undergraduate entrants from Fall 2026"
+    },
+    "Major structure": {
+      "ru": "Выбор специальности",
+      "en": "Major structure"
+    },
+    "Freshmen enter Mueunjae School; major exploration precedes selection, normally before the fourth semester": {
+      "ru": "Первокурсники поступают в Mueunjae School; изучение направлений предшествует выбору специальности, обычно до четвёртого семестра",
+      "en": "Freshmen enter Mueunjae School; major exploration precedes selection, normally before the fourth semester"
+    },
+    "Approximate international intake / selectivity": {
+      "ru": "Приблизительное число иностранных студентов / конкурсность",
+      "en": "Approximate international intake / selectivity"
+    },
+    "Not officially published for Fall 2027": {
+      "ru": "Официально не опубликовано для Fall 2027",
+      "en": "Not officially published for Fall 2027"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "**No Fall 2027 guide yet.** The official page still gives only an expected **March–April 2027** application and a guide expected in **late January 2027**.": {
+      "ru": "**Руководства Fall 2027 ещё нет.** Официальная страница указывает только ожидаемую подачу в **марте–апреле 2027** и публикацию руководства в **конце января 2027**.",
+      "en": "**No Fall 2027 guide yet.** The official page still gives only an expected **March–April 2027** application and a guide expected in **late January 2027**."
+    },
+    "Current FAQ confirms that scores arriving after the deadline are not considered, the application fee is non-refundable and has no waiver, and an English-medium letter must cover the entire high-school curriculum.": {
+      "ru": "Текущие FAQ подтверждают: результаты, поступившие после дедлайна, не учитываются; сбор невозвратный, освобождения от оплаты нет; письмо об англоязычном обучении должно охватывать всю программу старшей школы.",
+      "en": "Current FAQ confirms that scores arriving after the deadline are not considered, the application fee is non-refundable and has no waiver, and an English-medium letter must cover the entire high-school curriculum."
+    },
+    "Current housing page was updated 15 September 2026 with Spring 2026 rates; first-year students live in Residential College.": {
+      "ru": "Страница проживания обновлена 15 сентября 2026 тарифами Spring 2026; первокурсники живут в Residential College.",
+      "en": "Current housing page was updated 15 Sep 2026 with Spring 2026 rates; first-year students live in Residential College."
+    },
+    "Do not copy the Spring 2027 cycle or Fall 2026 dates into Fall 2027.": {
+      "ru": "Не переносите даты Spring 2027 или Fall 2026 в набор Fall 2027.",
+      "en": "Do not copy the Spring 2027 cycle or Fall 2026 dates into Fall 2027."
+    },
+    "Programmes for this applicant": {
+      "ru": "Программы для вашего профиля",
+      "en": "Programmes for this applicant"
+    },
+    "**Best programme for me:** CSE. It is the cleanest route to software, AI and data science. EE is appropriate only if the applicant wants hardware, circuits, signals or embedded systems. POSTECH’s international admission is to the freshman unit, so the final Fall 2027 guide must confirm the exact declaration timetable and any capacity rules.": {
+      "ru": "**Наиболее подходящая программа — анализ:** CSE — наиболее прямой путь к разработке, AI и data science. EE подходит только при интересе к аппаратным системам, схемам, сигналам или встроенным вычислениям. Иностранцы поступают на общий первый курс, поэтому новое руководство Fall 2027 должно подтвердить порядок выбора специальности и возможные ограничения мест.",
+      "en": "**Best programme for me:** CSE. It is the cleanest route to software, AI and data science. EE is appropriate only if the applicant wants hardware, circuits, signals or embedded systems. POSTECH’s international admission is to the freshman unit, so the final Fall 2027 guide must confirm the exact declaration timetable and any capacity rules."
+    },
+    "Official programme": {
+      "ru": "Официальная программа",
+      "en": "Official programme"
+    },
+    "Degree / unit": {
+      "ru": "Степень / подразделение",
+      "en": "Degree / unit"
+    },
+    "Entry and prerequisites": {
+      "ru": "Поступление и обязательные предметы",
+      "en": "Entry and prerequisites"
+    },
+    "Restrictions / change": {
+      "ru": "Ограничения / смена направления",
+      "en": "Restrictions / change"
+    },
+    "Bachelor’s department after Mueunjae exploration": {
+      "ru": "Подразделение бакалавриата после знакомства с направлениями в Mueunjae",
+      "en": "Bachelor’s department after Mueunjae exploration"
+    },
+    "No separate international CSE admission standard published. Current first-year placement subjects include calculus, physics, chemistry and programming/problem solving.": {
+      "ru": "Отдельный стандарт международного поступления на CSE не опубликован. Текущие распределительные тесты первого курса включают математический анализ, физику, химию и программирование / решение задач.",
+      "en": "No separate international CSE admission standard published. Current first-year placement subjects include calculus, physics, chemistry and programming/problem solving."
+    },
+    "No standalone undergraduate AI degree identified; CSE curriculum covers programming, algorithms, systems, AI/ML and data-related study.": {
+      "ru": "Отдельная бакалаврская степень AI не установлена; CSE включает программирование, алгоритмы, системы, AI/ML и работу с данными.",
+      "en": "No standalone undergraduate AI degree identified; CSE curriculum covers programming, algorithms, systems, AI/ML and data-related study."
+    },
+    "Bachelor’s department": {
+      "ru": "Подразделение бакалавриата",
+      "en": "Bachelor’s department"
+    },
+    "General STEM admission; strong Math/Physics preparation useful": {
+      "ru": "Общее поступление STEM; полезна сильная подготовка по математике / физике",
+      "en": "General STEM admission; strong Math/Physics preparation useful"
+    },
+    "Logical computer-engineering/hardware alternative": {
+      "ru": "Логичная альтернатива для компьютерной инженерии / аппаратных систем",
+      "en": "Logical computer-engineering/hardware alternative"
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "**PREVIOUS CYCLE REFERENCE only:** Fall 2026 applications ran 26 Sep–3 Nov 2025 with decision 5 Jan 2026 through Study in Korea. These are not Fall 2027 dates.": {
+      "ru": "**ТОЛЬКО ДАННЫЕ ПРОШЛОГО ЦИКЛА:** заявки Fall 2026 принимались 26 сентября – 3 ноября 2025 через Study in Korea; решение — 5 января 2026. Это не даты Fall 2027.",
+      "en": "**PREVIOUS CYCLE REFERENCE only:** Fall 2026 applications ran 26 Sep – 3 Nov 2025 with decision 5 Jan 2026 through Study in Korea. These are not Fall 2027 dates."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Fall 2027 date": {
+      "ru": "Дата Fall 2027",
+      "en": "Fall 2027 date"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Guide publication": {
+      "ru": "Публикация руководства",
+      "en": "Guide publication"
+    },
+    "Late Jan 2027 expected": {
+      "ru": "Ожидается конец января 2027",
+      "en": "Late Jan 2027 expected"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Recheck exact forms, fee, essays, recs, document authentication": {
+      "ru": "Перепроверить формы, сбор, эссе, рекомендательные письма и заверение документов",
+      "en": "Recheck exact forms, fee, essays, recs, document authentication"
+    },
+    "Application opens": {
+      "ru": "Открытие подачи заявок",
+      "en": "Application opens"
+    },
+    "TBA; March–April window expected": {
+      "ru": "TBA; ожидается окно март–апрель",
+      "en": "TBA; March–April window expected"
+    },
+    "Study in Korea profile, school/test documents": {
+      "ru": "Профиль Study in Korea, школьные документы / результаты тестов",
+      "en": "Study in Korea profile, school/test documents"
+    },
+    "Application closes": {
+      "ru": "Закрытие подачи заявок",
+      "en": "Application closes"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "No": {
+      "ru": "Нет",
+      "en": "No"
+    },
+    "Complete application and official scores must arrive": {
+      "ru": "Полная заявка и официальные результаты должны поступить до дедлайна",
+      "en": "Complete application and official scores must arrive"
+    },
+    "Documents / recommendations": {
+      "ru": "Документы / рекомендательные письма",
+      "en": "Documents / recommendations"
+    },
+    "Guide controls": {
+      "ru": "Приоритет у руководства",
+      "en": "Guide controls"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "Current FAQ says not required for the International Admissions Track; Fall 2027 guide controls": {
+      "ru": "Текущие FAQ: для International Admissions Track не требуется; приоритет у руководства Fall 2027",
+      "en": "Current FAQ says not required for the International Admissions Track; Fall 2027 guide controls"
+    },
+    "None unless policy changes": {
+      "ru": "Нет, если правила не изменятся",
+      "en": "None unless policy changes"
+    },
+    "Decision / acceptance / deposit": {
+      "ru": "Решение / принятие оффера / депозит",
+      "en": "Decision / acceptance / deposit"
+    },
+    "Offer-specific": {
+      "ru": "Индивидуально по офферу",
+      "en": "Offer-specific"
+    },
+    "Final diploma / apostille / housing / visa": {
+      "ru": "Итоговый диплом / апостиль / проживание / виза",
+      "en": "Final diploma / apostille / housing / visa"
+    },
+    "After admission": {
+      "ru": "После поступления",
+      "en": "After admission"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "By **1 December 2026:** collect Grade 10–12/current transcript, NIS school profile, expected-graduation letter, identity/family documents and an English-medium letter even if also taking IELTS.": {
+      "ru": "К **1 декабря 2026:** собрать оценки Grade 10–12 / текущий транскрипт, профиль NIS, письмо об ожидаемом выпуске, удостоверение личности / семейные документы и письмо об английском обучении, даже если сдаёте IELTS.",
+      "en": "By **1 Dec 2026:** collect Grade 10–12/current transcript, NIS school profile, expected-graduation letter, identity/family documents and an English-medium letter even if also taking IELTS."
+    },
+    "By **10 January 2027:** choose Math/CS/Physics recommender and prepare a reusable factual résumé/project evidence.": {
+      "ru": "К **10 января 2027:** выбрать учителя математики / CS / физики и подготовить фактическое резюме / подтверждения проектов для разных заявок.",
+      "en": "By **10 Jan 2027:** choose Math/CS/Physics recommender and prepare a reusable factual résumé/project evidence."
+    },
+    "From **20 January:** check the official notice twice weekly.": {
+      "ru": "С **20 января:** проверять официальный анонс дважды в неделю.",
+      "en": "From **20 January:** check the official notice twice weekly."
+    },
+    "Within **48 hours of guide release:** map every new form, essay and score-delivery rule.": {
+      "ru": "В течение **48 часов после публикации руководства:** выписать каждую новую форму, эссе и правило отправки результатов.",
+      "en": "Within **48 hours of guide release:** map every new form, essay and score-delivery rule."
+    },
+    "Target submission: **10 days before the official deadline**; order all official score reports at least 2–3 weeks before the deadline.": {
+      "ru": "Личная цель: подать **за 10 дней до официального дедлайна**; заказать официальные результаты хотя бы за 2–3 недели.",
+      "en": "Target submission: **10 days before the official deadline**; order all official score reports at least 2–3 weeks before the deadline."
+    },
+    "Platform and fee": {
+      "ru": "Платформа и сбор",
+      "en": "Platform and fee"
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Fall 2027 answer": {
+      "ru": "Ответ для Fall 2027",
+      "en": "Fall 2027 answer"
+    },
+    "Platform": {
+      "ru": "Платформа",
+      "en": "Platform"
+    },
+    "TBA; Study in Korea was used in the last official Fall cycle": {
+      "ru": "TBA; в последнем официальном осеннем наборе использовалась Study in Korea",
+      "en": "TBA; Study in Korea was used in the last official Fall cycle"
+    },
+    "Can create 2027 application now?": {
+      "ru": "Можно ли сейчас создать заявку 2027?",
+      "en": "Can create 2027 application now?"
+    },
+    "No published Fall 2027 form": {
+      "ru": "Форма Fall 2027 не опубликована",
+      "en": "No published Fall 2027 form"
+    },
+    "Programme choices / edits / grade updates": {
+      "ru": "Выбор программ / редактирование / обновление оценок",
+      "en": "Programme choices / edits / grade updates"
+    },
+    "Fee": {
+      "ru": "Сбор",
+      "en": "Fee"
+    },
+    "**TBA**": {
+      "ru": "**Дата пока не опубликована (TBA)**",
+      "en": "**TBA**"
+    },
+    "Refund / waiver": {
+      "ru": "Возврат / освобождение от оплаты",
+      "en": "Refund / waiver"
+    },
+    "Official FAQ: fee is non-refundable and no waiver is offered; exact 2027 amount TBA": {
+      "ru": "Официальные FAQ: сбор невозвратный, освобождения от оплаты нет; точная сумма 2027 пока не опубликована",
+      "en": "Official FAQ: fee is non-refundable and no waiver is offered; exact 2027 amount TBA"
+    },
+    "Scholarship fee": {
+      "ru": "Сбор за заявку на стипендию",
+      "en": "Scholarship fee"
+    },
+    "None published": {
+      "ru": "Не опубликован",
+      "en": "None published"
+    },
+    "Paper mail": {
+      "ru": "Отправка бумажных документов",
+      "en": "Paper mail"
+    },
+    "Initial process TBA. Authenticated final records are expected under current FAQ/past guide practice.": {
+      "ru": "Первоначальный порядок пока не опубликован. По текущим FAQ / практике прошлых руководств ожидается заверение итоговых документов.",
+      "en": "Initial process TBA. Authenticated final records are expected under current FAQ/past guide practice."
+    },
+    "Document checklist": {
+      "ru": "Список документов",
+      "en": "Document checklist"
+    },
+    "Because the Fall 2027 guide is not published, every row below is either a current official FAQ rule or **PREVIOUS CYCLE REFERENCE** and must be revalidated in January.": {
+      "ru": "Поскольку руководство Fall 2027 не опубликовано, каждая строка ниже — действующее правило официальных FAQ либо **ДАННЫЕ ПРОШЛОГО ЦИКЛА**. В январе всё нужно перепроверить.",
+      "en": "Because the Fall 2027 guide is not published, every row below is either a current official FAQ rule or **PREVIOUS CYCLE REFERENCE** and must be revalidated in January."
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Status for Fall 2027": {
+      "ru": "Статус для Fall 2027",
+      "en": "Status for Fall 2027"
+    },
+    "Who / format": {
+      "ru": "Кто / формат",
+      "en": "Who / format"
+    },
+    "Current best evidence": {
+      "ru": "Лучшее доступное подтверждение",
+      "en": "Current best evidence"
+    },
+    "Online application": {
+      "ru": "Онлайн-заявка",
+      "en": "Online application"
+    },
+    "Applicant, likely Study in Korea": {
+      "ru": "Заявительница; вероятно Study in Korea",
+      "en": "Applicant, likely Study in Korea"
+    },
+    "Portal not open": {
+      "ru": "Портал не открыт",
+      "en": "Portal not open"
+    },
+    "Passport": {
+      "ru": "Паспорт",
+      "en": "Passport"
+    },
+    "Expected, unconfirmed": {
+      "ru": "Ожидается, не подтверждено",
+      "en": "Expected, unconfirmed"
+    },
+    "Applicant upload": {
+      "ru": "Заявительница загружает",
+      "en": "Applicant upload"
+    },
+    "Previous cycle": {
+      "ru": "Прошлый цикл",
+      "en": "Previous cycle"
+    },
+    "Parents’ passports / citizenship": {
+      "ru": "Паспорта / гражданство родителей",
+      "en": "Parents’ passports / citizenship"
+    },
+    "Family relationship / birth certificate": {
+      "ru": "Подтверждение родства / свидетельство о рождении",
+      "en": "Family relationship / birth certificate"
+    },
+    "Full high-school transcript": {
+      "ru": "Полный транскрипт старшей школы",
+      "en": "Full high-school transcript"
+    },
+    "Expected": {
+      "ru": "Ожидается",
+      "en": "Expected"
+    },
+    "Applicant/school official scan; authenticated version later": {
+      "ru": "Официальный скан школы / заявительницы; заверенная версия позже",
+      "en": "Applicant/school official scan; authenticated version later"
+    },
+    "FAQ says submit the official complete national school record": {
+      "ru": "FAQ требуют полную официальную национальную школьную ведомость",
+      "en": "FAQ says submit the official complete national school record"
+    },
+    "Expected graduation / final diploma": {
+      "ru": "Подтверждение ожидаемого выпуска / итоговый диплом",
+      "en": "Expected graduation / final diploma"
+    },
+    "School-issued; apostille/Korean consular authentication under current FAQ": {
+      "ru": "Выдаёт школа; апостиль / заверение корейским консульством по текущим FAQ",
+      "en": "School-issued; apostille/Korean consular authentication under current FAQ"
+    },
+    "Exact 2027 timing TBA": {
+      "ru": "Точные сроки 2027 пока не опубликованы",
+      "en": "Exact 2027 timing TBA"
+    },
+    "NIS school profile / grading explanation": {
+      "ru": "Профиль школы NIS / объяснение оценивания",
+      "en": "NIS school profile / grading explanation"
+    },
+    "REC": {
+      "ru": "Рекомендуется",
+      "en": "Recommended"
+    },
+    "School/applicant": {
+      "ru": "Школа / заявительница",
+      "en": "School/applicant"
+    },
+    "Needed to explain a country-specific curriculum": {
+      "ru": "Нужно объяснить особенности национальной школьной программы",
+      "en": "Needed to explain a country-specific curriculum"
+    },
+    "English test or MOI": {
+      "ru": "Тест английского или MOI — письмо о языке обучения",
+      "en": "English test or MOI"
+    },
+    "Agency/school": {
+      "ru": "Экзаменационное агентство / школа",
+      "en": "Agency/school"
+    },
+    "Current FAQ: MOI must state entire HS curriculum was in English; exemption decided after review": {
+      "ru": "Текущие FAQ: MOI подтверждает английский для всей старшей школы; решение об освобождении принимают после проверки",
+      "en": "Current FAQ: MOI must state entire HS curriculum was in English; exemption decided after review"
+    },
+    "SAT/ACT/IB/AP/A-level/national exam": {
+      "ru": "SAT/ACT/IB/AP/A-level/national exam",
+      "en": "SAT/ACT/IB/AP/A-level/national exam"
+    },
+    "Official agency by deadline where applicable": {
+      "ru": "Официальная отправка агентством до дедлайна, если применимо",
+      "en": "Official agency by deadline where applicable"
+    },
+    "Late scores are not considered; PDF does not replace official report": {
+      "ru": "Поздние результаты не учитываются; PDF не заменяет официальный результат",
+      "en": "Late scores are not considered; PDF does not replace official report"
+    },
+    "Recommendation": {
+      "ru": "Рекомендательное письмо",
+      "en": "Recommendation"
+    },
+    "Recommender": {
+      "ru": "Рекомендатель",
+      "en": "Recommender"
+    },
+    "Previous cycle required one; do not assume for 2027": {
+      "ru": "В прошлом цикле требовалось одно; не предполагать то же для 2027",
+      "en": "Previous cycle required one; do not assume for 2027"
+    },
+    "Personal statement / study plan": {
+      "ru": "Personal Statement / учебный план",
+      "en": "Personal statement / study plan"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "Previous cycle used these; exact prompts/limits unavailable": {
+      "ru": "Использовались в прошлом цикле; точные вопросы / ограничения недоступны",
+      "en": "Previous cycle used these; exact prompts/limits unavailable"
+    },
+    "Awards / activities / school profile": {
+      "ru": "Награды / деятельность / профиль школы",
+      "en": "Awards / activities / school profile"
+    },
+    "Previous cycle reference": {
+      "ru": "Данные прошлого цикла",
+      "en": "Previous cycle reference"
+    },
+    "CV, GitHub, portfolio": {
+      "ru": "CV, GitHub, портфолио",
+      "en": "CV, GitHub, portfolio"
+    },
+    "Not officially required yet": {
+      "ru": "Официальная обязательность пока не установлена",
+      "en": "Not officially required yet"
+    },
+    "—": {
+      "ru": "—",
+      "en": "—"
+    },
+    "Use only if the new form allows": {
+      "ru": "Использовать только если новая форма позволяет",
+      "en": "Use only if the new form allows"
+    },
+    "Final apostilled records": {
+      "ru": "Итоговые документы с апостилем",
+      "en": "Final apostilled records"
+    },
+    "Expected after admission": {
+      "ru": "Ожидаются после поступления",
+      "en": "Expected after admission"
+    },
+    "Applicant/school/courier": {
+      "ru": "Заявительница / школа / курьер",
+      "en": "Applicant/school/courier"
+    },
+    "Country-specific FAQ confirms authentication expectation": {
+      "ru": "Национальные особенности FAQ подтверждают необходимость заверения",
+      "en": "Country-specific FAQ confirms authentication expectation"
+    },
+    "NIS route": {
+      "ru": "Подача с квалификацией NIS",
+      "en": "NIS route"
+    },
+    "POSTECH has not published a named NIS route, NIS HL-subject requirement or minimum NIS score.": {
+      "ru": "POSTECH не опубликовал отдельный путь NIS, требования к предметам HL или минимальные оценки NIS.",
+      "en": "POSTECH has not published a named NIS route, NIS HL-subject requirement or minimum NIS score."
+    },
+    "Current FAQ says applicants from different school systems must submit the official complete secondary-school records and an explanation where the format differs.": {
+      "ru": "Текущие FAQ требуют от кандидатов разных школьных систем полную официальную ведомость среднего образования и объяснение отличающегося формата.",
+      "en": "Current FAQ says applicants from different school systems must submit the official complete secondary-school records and an explanation where the format differs."
+    },
+    "Ask NIS for a school profile, grading scale, current transcript and an official expected-graduation letter. Predicted NIS treatment remains **TBA**.": {
+      "ru": "Запросите у NIS профиль школы, шкалу оценок, текущий транскрипт и официальное письмо об ожидаемом выпуске. Порядок прогнозных NIS остаётся **TBA**.",
+      "en": "Ask NIS for a school profile, grading scale, current transcript and an official expected-graduation letter. Predicted NIS treatment remains **TBA**."
+    },
+    "The current FAQ allows a school-issued MOI letter for English exemption review, but the letter must confirm that the **entire** high-school curriculum was taught in English. Exemption is not automatic.": {
+      "ru": "Текущие FAQ допускают школьное MOI для рассмотрения освобождения от английского, но письмо должно подтверждать преподавание **всей** старшей школы на английском. Освобождение не автоматическое.",
+      "en": "The current FAQ allows a school-issued MOI letter for English exemption review, but the letter must confirm that the **entire** high-school curriculum was taught in English. Exemption is not automatic."
+    },
+    "June final-certificate and apostille timing cannot be assessed until the Fall 2027 guide publishes the final-document deadline.": {
+      "ru": "Совместимость июньского сертификата и апостиля со сроками нельзя оценить до публикации дедлайна итоговых документов в руководстве Fall 2027.",
+      "en": "June final-certificate and apostille timing cannot be assessed until the Fall 2027 guide publishes the final-document deadline."
+    },
+    "Official minimum for Fall 2027": {
+      "ru": "Официальный минимум для Fall 2027",
+      "en": "Official minimum for Fall 2027"
+    },
+    "**Not officially published.** No current-cycle GPA, NIS, SAT, IELTS or subject minimum may be stated.": {
+      "ru": "**Официально не опубликован.** Нельзя заявлять минимум текущего набора для GPA, NIS, SAT, IELTS или школьных предметов.",
+      "en": "**Not officially published.** No current-cycle GPA, NIS, SAT, IELTS or subject minimum may be stated."
+    },
+    "Competitive target — analysis": {
+      "ru": "Конкурентный ориентир — анализ",
+      "en": "Competitive target — analysis"
+    },
+    "POSTECH is an extreme-reach STEM institution. Strong Math, Physics/CS coursework and externally verifiable quantitative achievement matter. No official competitive SAT/IELTS range is published. SAT 1300–1350 would not make this a safe or match application.": {
+      "ru": "POSTECH — STEM-университет с очень высокой конкурсностью. Важны сильная математика, физика / CS и внешне проверяемые количественные достижения. Официального конкурентного диапазона SAT/IELTS нет. SAT 1300–1350 не делает поступление безопасным или соответствующим профилю по шансам (Match).",
+      "en": "POSTECH is an extreme-reach STEM institution. Strong Math, Physics/CS coursework and externally verifiable quantitative achievement matter. No official competitive SAT/IELTS range is published. SAT 1300–1350 would not make this a safe or match application."
+    },
+    "Academic and English test policy": {
+      "ru": "Академические тесты и подтверждение английского",
+      "en": "Academic and English test policy"
+    },
+    "Current verified rule": {
+      "ru": "Подтверждённое действующее правило",
+      "en": "Current verified rule"
+    },
+    "SAT/ACT/AP/IB/A-level": {
+      "ru": "SAT/ACT/AP/IB/A-level",
+      "en": "SAT/ACT/AP/IB/A-level"
+    },
+    "Current FAQ requires official reports where applicable and rejects post-deadline arrivals": {
+      "ru": "Текущие FAQ требуют официальные результаты, если применимо, и не принимают поступившие после дедлайна",
+      "en": "Current FAQ requires official reports where applicable and rejects post-deadline arrivals"
+    },
+    "Requirement/optional status TBA": {
+      "ru": "Обязательность / необязательность пока не опубликована",
+      "en": "Requirement/optional status TBA"
+    },
+    "Superscore / self-report": {
+      "ru": "Superscore / самостоятельное указание результата",
+      "en": "Superscore / self-report"
+    },
+    "IELTS/TOEFL/other English tests": {
+      "ru": "IELTS/TOEFL / другие тесты английского",
+      "en": "IELTS/TOEFL/other English tests"
+    },
+    "Exact accepted list and minimum TBA": {
+      "ru": "Точный список принимаемых тестов и минимум пока не опубликованы",
+      "en": "Exact accepted list and minimum TBA"
+    },
+    "MOI waiver": {
+      "ru": "Освобождение по MOI",
+      "en": "MOI waiver"
+    },
+    "Whole curriculum in English; school letterhead/seal/contact; reviewed case by case": {
+      "ru": "Вся программа на английском; бланк школы / печать / контакты; индивидуальное рассмотрение",
+      "en": "Whole curriculum in English; school letterhead/seal/contact; reviewed case by case"
+    },
+    "Current FAQ, but guide controls": {
+      "ru": "Действующие FAQ; приоритет у руководства",
+      "en": "Current FAQ, but guide controls"
+    },
+    "Late reports": {
+      "ru": "Поздние результаты",
+      "en": "Late reports"
+    },
+    "Not considered; documented provider delay may receive case-by-case review": {
+      "ru": "Не учитываются; подтверждённую задержку провайдера могут рассмотреть индивидуально",
+      "en": "Not considered; documented provider delay may receive case-by-case review"
+    },
+    "Current FAQ": {
+      "ru": "Действующие FAQ",
+      "en": "Current FAQ"
+    },
+    "Internal English placement": {
+      "ru": "Внутреннее распределение по английскому",
+      "en": "Internal English placement"
+    },
+    "After enrolment, students take/receive English placement level": {
+      "ru": "После зачисления студентам определяют уровень английского",
+      "en": "After enrolment, students take/receive English placement level"
+    },
+    "Not an admission substitute": {
+      "ru": "Не заменяет требование при поступлении",
+      "en": "Not an admission substitute"
+    },
+    "Internal exam, interview and recommendations": {
+      "ru": "Внутренний экзамен, интервью и рекомендательные письма",
+      "en": "Internal exam, interview and recommendations"
+    },
+    "**Recommendation strategy:** reserve one detailed Math/CS/Physics teacher now, but do not send anything until the 2027 form appears. A counselor should separately prepare NIS curriculum and grading context.": {
+      "ru": "**Стратегия рекомендательного письма — анализ:** заранее договориться с учителем математики / CS / физики о содержательном письме, но ничего не отправлять до формы 2027. Консультант отдельно готовит контекст программы NIS и оценивания.",
+      "en": "**Recommendation strategy:** reserve one detailed Math/CS/Physics teacher now, but do not send anything until the 2027 form appears. A counselor should separately prepare NIS curriculum and grading context."
+    },
+    "Current FAQ says an admission interview is **not required** for the current International Admissions Track; the unreleased Fall 2027 guide remains controlling.": {
+      "ru": "Текущие FAQ: вступительное интервью **не требуется** для действующего International Admissions Track; приоритет у ещё не опубликованного руководства Fall 2027.",
+      "en": "Current FAQ says an admission interview is **not required** for the current International Admissions Track; the unreleased Fall 2027 guide remains controlling."
+    },
+    "No current-cycle Math/Physics/programming admissions exam is published.": {
+      "ru": "Вступительный экзамен текущего цикла по математике / физике / программированию не опубликован.",
+      "en": "No current-cycle Math/Physics/programming admissions exam is published."
+    },
+    "Recommendation number, recommender role, form, exact rating categories and deadline are all **TBA**.": {
+      "ru": "Количество писем, роль автора, форма, точные критерии оценки и дедлайн — **TBA**.",
+      "en": "Recommendation number, recommender role, form, exact rating categories and deadline are all **TBA**."
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "Possible themes can be prepared—technical curiosity, project decisions, research potential, collaboration and fit—but no text should be drafted to an invented prompt.": {
+      "ru": "Можно подготовить темы: технический интерес, решения в проектах, исследовательский потенциал, сотрудничество и соответствие вузу. Не писать текст под выдуманный вопрос.",
+      "en": "Possible themes can be prepared—technical curiosity, project decisions, research potential, collaboration and fit—but no text should be drafted to an invented prompt."
+    },
+    "Essay": {
+      "ru": "Эссе",
+      "en": "Essay"
+    },
+    "Fall 2027 prompt": {
+      "ru": "Вопрос Fall 2027",
+      "en": "Fall 2027 prompt"
+    },
+    "Limit": {
+      "ru": "Ограничение объёма",
+      "en": "Limit"
+    },
+    "Status": {
+      "ru": "Статус",
+      "en": "Status"
+    },
+    "Personal statement": {
+      "ru": "Personal Statement — личное заявление",
+      "en": "Personal statement"
+    },
+    "Previous cycle used a statement; no 2027 prompt": {
+      "ru": "В прошлом цикле было личное заявление; вопрос 2027 отсутствует",
+      "en": "Previous cycle used a statement; no 2027 prompt"
+    },
+    "Study plan / Why POSTECH-major": {
+      "ru": "Учебный план / Why POSTECH-major",
+      "en": "Study plan / Why POSTECH-major"
+    },
+    "Previous cycle reference only": {
+      "ru": "Только данные прошлого цикла",
+      "en": "Previous cycle reference only"
+    },
+    "Scholarship essay": {
+      "ru": "Эссе на стипендию",
+      "en": "Scholarship essay"
+    },
+    "None currently published": {
+      "ru": "Сейчас не опубликовано",
+      "en": "None currently published"
+    },
+    "Scholarships and aid": {
+      "ru": "Стипендии и помощь",
+      "en": "Scholarships and aid"
+    },
+    "Source: [official scholarship page](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do).": {
+      "ru": "Источник: [официальная страница стипендий](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do).",
+      "en": "Source: [official scholarship page](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)."
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award / rule": {
+      "ru": "Стипендия / правило",
+      "en": "Award / rule"
+    },
+    "Separate application?": {
+      "ru": "Отдельная заявка?",
+      "en": "Separate application?"
+    },
+    "Automatic tuition": {
+      "ru": "Автоматическое покрытие обучения",
+      "en": "Automatic tuition"
+    },
+    "International Admissions I tuition scholarship": {
+      "ru": "Стипендия на обучение International Admissions I",
+      "en": "International Admissions I tuition scholarship"
+    },
+    "Current policy: first semester full tuition; up to eight regular semesters if prior GPA ≥3.0/4.3 from second semester": {
+      "ru": "Действующее правило: первый семестр оплачивается полностью; до восьми обычных семестров, если со второго семестра предыдущий GPA ≥3.0/4.3",
+      "en": "Current policy: first semester full tuition; up to eight regular semesters if prior GPA ≥3.0/4.3 from second semester"
+    },
+    "Living support": {
+      "ru": "Поддержка проживания",
+      "en": "Living support"
+    },
+    "International undergraduate allowance": {
+      "ru": "Выплата иностранным бакалаврам",
+      "en": "International undergraduate allowance"
+    },
+    "No separate form stated": {
+      "ru": "Отдельная форма не указана",
+      "en": "No separate form stated"
+    },
+    "KRW 500,000/month, including vacations; current page says no GPA condition": {
+      "ru": "KRW 500 000 в месяц, включая каникулы; текущая страница не устанавливает условие GPA",
+      "en": "KRW 500,000/month, including vacations; current page says no GPA condition"
+    },
+    "Arrival support": {
+      "ru": "Поддержка приезда",
+      "en": "Arrival support"
+    },
+    "One-way economy airfare + domestic transport": {
+      "ru": "Билет эконом-класса в одну сторону + внутренний транспорт",
+      "en": "One-way economy airfare + domestic transport"
+    },
+    "Claim/reimbursement process": {
+      "ru": "Порядок запроса / компенсации",
+      "en": "Claim/reimbursement process"
+    },
+    "Actual cost up to KRW 2.5m; for eligible new international students who did not reside in Korea in preceding six months": {
+      "ru": "Фактические расходы до KRW 2.5 млн; для подходящих новых иностранных студентов, не живших в Корее предыдущие шесть месяцев",
+      "en": "Actual cost up to KRW 2.5m; for eligible new international students who did not reside in Korea in preceding six months"
+    },
+    "Pathfinder voucher": {
+      "ru": "Ваучер Pathfinder",
+      "en": "Pathfinder voucher"
+    },
+    "Educational voucher": {
+      "ru": "Образовательный ваучер",
+      "en": "Educational voucher"
+    },
+    "Programme approval": {
+      "ru": "Одобрение программы",
+      "en": "Programme approval"
+    },
+    "KRW 10m over four years, normally KRW 2.5m/year after three semesters; approved activities/devices, not cash living stipend": {
+      "ru": "KRW 10 млн на четыре года, обычно KRW 2.5 млн в год после трёх семестров; для одобренных занятий / устройств, не денежная выплата на жизнь",
+      "en": "KRW 10m over four years, normally KRW 2.5m/year after three semesters; approved activities/devices, not cash living stipend"
+    },
+    "TOPIK award": {
+      "ru": "Награда за TOPIK",
+      "en": "TOPIK award"
+    },
+    "One-time": {
+      "ru": "Разовая",
+      "en": "One-time"
+    },
+    "Evidence": {
+      "ru": "Подтверждающие документы",
+      "en": "Evidence"
+    },
+    "KRW 300k for TOPIK 4 under current policy": {
+      "ru": "KRW 300 000 за TOPIK 4 по действующим правилам",
+      "en": "KRW 300k for TOPIK 4 under current policy"
+    },
+    "Need-based aid": {
+      "ru": "Помощь с учётом финансовой потребности",
+      "en": "Need-based aid"
+    },
+    "No separate international undergraduate need-based scheme identified": {
+      "ru": "Отдельная помощь иностранным бакалаврам с учётом финансовой потребности не установлена",
+      "en": "No separate international undergraduate need-based scheme identified"
+    },
+    "Not officially published": {
+      "ru": "Официально не опубликовано",
+      "en": "Not officially published"
+    },
+    "Coverage, renewal and real gap": {
+      "ru": "Покрытие, продление и непокрытые расходы",
+      "en": "Coverage, renewal and real gap"
+    },
+    "An exact annual gap cannot be calculated until Fall 2027 tuition/fees and award terms are in the guide. Current dormitory rates effective Spring 2026 are KRW 149k–175k per four weeks for undergraduate double rooms; first-year students reside in Residential College. Housing is not shown as paid by the scholarship. [Official dormitory page](https://www.postech.ac.kr/eng/student-life/dormitory.do) The page does not itself promise all four years; a separate exchange factsheet’s guarantee should not be generalized to degree students.": {
+      "ru": "Точные непокрытые годовые расходы нельзя рассчитать до публикации тарифов Fall 2027 и условий оффера в руководстве. Действующие с Spring 2026 двухместные комнаты бакалавров стоят KRW 149–175 тыс. за четыре недели; первокурсники живут в Residential College. Стипендия не показана как оплата проживания. [Официальная страница общежития](https://www.postech.ac.kr/eng/student-life/dormitory.do) Она не обещает место на все четыре года; гарантию из отдельной памятки обмена нельзя распространять на студентов полного бакалавриата.",
+      "en": "An exact annual gap cannot be calculated until Fall 2027 tuition/fees and award terms are in the guide. Current dormitory rates effective Spring 2026 are KRW 149k–175k per four weeks for undergraduate double rooms; first-year students reside in Residential College. Housing is not shown as paid by the scholarship. [Official dormitory page](https://www.postech.ac.kr/eng/student-life/dormitory.do) The page does not itself promise all four years; a separate exchange factsheet’s guarantee should not be generalized to degree students."
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Current rule": {
+      "ru": "Действующее правило",
+      "en": "Current rule"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "Yes, conditional after first term": {
+      "ru": "Да, при выполнении условий после первого семестра",
+      "en": "Yes, conditional after first term"
+    },
+    "Full first term; continued to 8 semesters with GPA ≥3.0/4.3": {
+      "ru": "Первый семестр полностью; далее до 8 семестров при GPA ≥3.0/4.3",
+      "en": "Full first term; continued to 8 semesters with GPA ≥3.0/4.3"
+    },
+    "Housing / meals": {
+      "ru": "Проживание / питание",
+      "en": "Housing / meals"
+    },
+    "No direct waiver stated": {
+      "ru": "Прямое освобождение от оплаты не указано",
+      "en": "No direct waiver stated"
+    },
+    "Paid from stipend/personal funds": {
+      "ru": "Оплачивается из выплаты / личных средств",
+      "en": "Paid from stipend/personal funds"
+    },
+    "Stipend": {
+      "ru": "Выплата на расходы",
+      "en": "Stipend"
+    },
+    "Yes": {
+      "ru": "Да",
+      "en": "Yes"
+    },
+    "KRW 500k/month": {
+      "ru": "KRW 500 000 в месяц",
+      "en": "KRW 500k/month"
+    },
+    "Flight": {
+      "ru": "Авиабилет",
+      "en": "Flight"
+    },
+    "Yes, conditional reimbursement": {
+      "ru": "Да, компенсация при выполнении условий",
+      "en": "Yes, conditional reimbursement"
+    },
+    "Up to KRW 2.5m once": {
+      "ru": "Однократно до KRW 2.5 млн",
+      "en": "Up to KRW 2.5m once"
+    },
+    "Books / laptop": {
+      "ru": "Учебники / ноутбук",
+      "en": "Books / laptop"
+    },
+    "Pathfinder may fund approved study use": {
+      "ru": "Pathfinder может оплатить одобренное учебное использование",
+      "en": "Pathfinder may fund approved study use"
+    },
+    "Not general cash": {
+      "ru": "Не обычная денежная выплата",
+      "en": "Not general cash"
+    },
+    "Insurance / visa / local transport": {
+      "ru": "Страховка / виза / местный транспорт",
+      "en": "Insurance / visa / local transport"
+    },
+    "Not confirmed as scholarship coverage": {
+      "ru": "Покрытие стипендией не подтверждено",
+      "en": "Not confirmed as scholarship coverage"
+    },
+    "All dates are TBA. Expected tasks: accept offer; pay any deposit; submit final NIS diploma/transcript with apostille or Korean consular authentication; verify test reports; arrange D-2 visa, insurance and Residential College housing; complete placement/orientation. The 2027 offer and guide control.": {
+      "ru": "Все даты пока не опубликованы. Ожидаемые действия: принять оффер, оплатить требуемый депозит, предоставить итоговый диплом / транскрипт NIS с апостилем или заверением корейского консульства, проверить результаты тестов, оформить визу D-2, страховку и Residential College, пройти распределение / ориентацию. Приоритет у оффера и руководства 2027.",
+      "en": "All dates are TBA. Expected tasks: accept offer; pay any deposit; submit final NIS diploma/transcript with apostille or Korean consular authentication; verify test reports; arrange D-2 visa, insurance and Residential College housing; complete placement/orientation. The 2027 offer and guide control."
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission difficulty:** Extreme reach.": {
+      "ru": "**Сложность поступления:** очень высокая (Extreme reach).",
+      "en": "**Admission difficulty:** Extreme reach."
+    },
+    "**Full-funding difficulty:** Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3.": {
+      "ru": "**Сложность полного финансирования:** очень высокая на этапе поступления; действующий пакет после зачисления сильный, но продление покрытия обучения требует GPA 3.0/4.3.",
+      "en": "**Full-funding difficulty:** Extreme reach at admission stage; current package is strong once admitted, but tuition renewal requires GPA 3.0/4.3."
+    },
+    "**Fit:** Excellent for a research-oriented CS applicant; lack of current prompts means preparation should focus on evidence, not speculative essays.": {
+      "ru": "**Соответствие профилю:** отлично для исследовательского интереса в CS; пока вопросов нет, готовьте подтверждающие материалы, а не предположительные эссе.",
+      "en": "**Fit:** Excellent for a research-oriented CS applicant; lack of current prompts means preparation should focus on evidence, not speculative essays."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "Exact dates, portal, fee amount, programme-choice count, eligibility, all required documents, predicted-grade rule, tests and minimums, official score codes, recommendation form, essays/limits, decision/deposit/final-document dates, Fall 2027 tuition and housing allocation, and whether any current scholarship term changes.": {
+      "ru": "Точные даты, портал, сумма сбора, число программ, право подачи, все документы, прогнозные оценки, тесты и минимумы, официальные коды отправки, рекомендательная форма, эссе / ограничения, решение / депозит / итоговые документы, стоимость обучения Fall 2027 и распределение жилья, изменения действующих условий стипендии.",
+      "en": "Exact dates, portal, fee amount, programme-choice count, eligibility, all required documents, predicted-grade rule, tests and minimums, official score codes, recommendation form, essays/limits, decision/deposit/final-document dates, Fall 2027 tuition and housing allocation, and whether any current scholarship term changes."
+    },
+    "Email question": {
+      "ru": "Вопрос для письма",
+      "en": "Email question"
+    },
+    "I am an NIS Grade 12 applicant from Kazakhstan and will receive my final NIS Certificate in June 2027. For Fall 2027, will POSTECH accept official NIS predicted grades and an expected-graduation letter at application, with the final apostilled certificate after admission? Please also confirm whether an NIS letter stating that the entire high-school curriculum is taught in English can qualify for English-test exemption, and the final deadline for authenticated records.": {
+      "ru": "Я кандидат NIS Grade 12 из Казахстана и получу итоговый сертификат NIS в июне 2027. Примет ли POSTECH для Fall 2027 официальные прогнозные оценки NIS и письмо об ожидаемом выпуске при подаче, а итоговый сертификат с апостилем после поступления? Подходит ли письмо NIS о преподавании всей программы старшей школы на английском для освобождения от языкового теста? Каков крайний срок заверенных итоговых документов?",
+      "en": "I am an NIS Grade 12 applicant from Kazakhstan and will receive my final NIS Certificate in June 2027. For Fall 2027, will POSTECH accept official NIS predicted grades and an expected-graduation letter at application, with the final apostilled certificate after admission? Please also confirm whether an NIS letter stating that the entire high-school curriculum is taught in English can qualify for English-test exemption, and the final deadline for authenticated records."
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[International undergraduate overview and expected timeline](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)": {
+      "ru": "[Обзор международного бакалавриата и ожидаемый график](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)",
+      "en": "[International undergraduate overview and expected timeline](https://adm-iu.postech.ac.kr/user/comm/menu/3317587a17a23d4dacdb9ffc4762bf4a/content/index.do)"
+    },
+    "[Official FAQ](https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121)": {
+      "ru": "[Официальные FAQ](https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121)",
+      "en": "[Official FAQ](https://adm-iu.postech.ac.kr/user/comm/board/7699dd106cb84b2e26748d3db5e78de6/index.do?dataSeq=106121)"
+    },
+    "[Scholarships](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)": {
+      "ru": "[Стипендии](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)",
+      "en": "[Scholarships](https://adm-iu.postech.ac.kr/user/comm/menu/e2afb97fa1b8f43c574be0dabef78f87/content/index.do)"
+    },
+    "[Undergraduate/Mueunjae academic information](https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do)": {
+      "ru": "[Академическая информация бакалавриата / Mueunjae](https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do)",
+      "en": "[Undergraduate/Mueunjae academic information](https://adm-iu.postech.ac.kr/user/comm/menu/ba6492f421eff5cdad5694ac88469538/content/index.do)"
+    },
+    "[2026 department curriculum guide](https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf)": {
+      "ru": "[Учебные планы подразделений 2026](https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf)",
+      "en": "[2026 department curriculum guide](https://www.postech.ac.kr/_res/postech/eng/etc/%28EN%29%202026%20Undergraduate%20Department-Specific%20Curriculum%20Guide_20260423.pdf)"
+    },
+    "[Dormitory and current fees](https://www.postech.ac.kr/eng/student-life/dormitory.do)": {
+      "ru": "[Общежитие и текущие тарифы](https://www.postech.ac.kr/eng/student-life/dormitory.do)",
+      "en": "[Dormitory and current fees](https://www.postech.ac.kr/eng/student-life/dormitory.do)"
+    },
+    "Fall guide — expected late January 2027": {
+      "ru": "Осеннее руководство — ожидается конец января 2027",
+      "en": "Fall guide — expected late January 2027"
+    },
+    "Guide": {
+      "ru": "Руководство для поступающих",
+      "en": "Guide"
+    },
+    "Application opens — expected March–April 2027": {
+      "ru": "Открытие подачи — ожидается март–апрель 2027",
+      "en": "Application opens — expected March–April 2027"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Application deadline — Fall 2027 TBA": {
+      "ru": "Дедлайн подачи Fall 2027 пока не опубликован",
+      "en": "Application deadline — Fall 2027 TBA"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Documents / recommendations deadline": {
+      "ru": "Дедлайн документов / рекомендательных писем",
+      "en": "Documents / recommendations deadline"
+    },
+    "Documents": {
+      "ru": "Документы",
+      "en": "Documents"
+    },
+    "Decision": {
+      "ru": "Решение",
+      "en": "Decision"
+    },
+    "Deposit / registration": {
+      "ru": "Депозит / зачисление",
+      "en": "Deposit / registration"
+    },
+    "Deposit": {
+      "ru": "Депозит",
+      "en": "Deposit"
+    },
+    "Final documents / visa / housing": {
+      "ru": "Итоговые документы / виза / проживание",
+      "en": "Final documents / visa / housing"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "International undergraduate overview and expected timeline": {
+      "ru": "Обзор международного бакалавриата и ожидаемый график",
+      "en": "International undergraduate overview and expected timeline"
+    },
+    "Scholarships": {
+      "ru": "Стипендии",
+      "en": "Scholarships"
+    },
+    "Dormitory and current fees": {
+      "ru": "Общежитие и текущие тарифы",
+      "en": "Dormitory and current fees"
+    },
+    "Official FAQ": {
+      "ru": "Официальные FAQ",
+      "en": "Official FAQ"
+    },
+    "Undergraduate/Mueunjae academic information": {
+      "ru": "Академическая информация бакалавриата / Mueunjae",
+      "en": "Undergraduate/Mueunjae academic information"
+    },
+    "2026 department curriculum guide": {
+      "ru": "Учебные планы подразделений 2026",
+      "en": "2026 department curriculum guide"
+    }
+  }
+}

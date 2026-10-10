@@ -1,0 +1,2303 @@
+{
+  "id": "audit-dgist",
+  "name": "DGIST",
+  "country": "South Korea",
+  "city": "Daegu",
+  "batch": 1,
+  "checkedAt": "2026-10-04",
+  "evidence": "confirmed",
+  "awaitingAudit": false,
+  "platform": "**Study in Korea**",
+  "programs": [
+    "Computer Science and Engineering track",
+    "Electronics Engineering track"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "automatic"
+  ],
+  "fundingSummary": "Full tuition · living support schemes are alternatives, not additive · dorm paid",
+  "admissionDifficulty": "Reach / competitive.",
+  "fundingDifficulty": "Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance.",
+  "blocks": [
+    {
+      "id": "audit-dgist-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Verified answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Verified answer": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Verified answer": "Republic of Korea · Daegu · DGIST campus"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-2",
+              "fields": {
+                "Field": "Type",
+                "Verified answer": "Public STEM/research institute"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Verified answer": "**CONFIRMED FOR FALL 2027**"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Platform",
+                "Verified answer": "**Study in Korea**"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Application URL",
+                "Verified answer": "[Official application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programme",
+                "Verified answer": "Undergraduate Studies → **Computer Science and Engineering track**"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Degree / language",
+                "Verified answer": "Bachelor’s; basic and major courses taught in English, with some general electives in Korean/English"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Major structure",
+                "Verified answer": "Broad first-year study followed by track selection; current guide describes flexible major/minor pathways"
+              }
+            },
+            {
+              "id": "audit-dgist-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Intake/selectivity",
+                "Verified answer": "No predetermined international quota or nationality quota published"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Correction:** the official application system is **Study in Korea**, not DGIST’s own portal.",
+        "**Correction/clarification:** English scores, standardized academic tests and one recommendation are **optional**, although DGIST strongly recommends useful academic evidence.",
+        "Exact opening/closing times, fee, document list and scholarship conditions are now confirmed from current official materials.",
+        "Exact online recommendation questions and any application text prompts remain unavailable until the cycle opens."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-3",
+      "title": "B. Programmes",
+      "tab": "programs",
+      "paragraphs": [
+        "Current undergraduate materials describe a **single-major system**, with a major recognized after 27 credits and a minor after 18; a double-major route may be possible within graduation-credit rules. The page does not advertise a separate undergraduate BS in Artificial Intelligence; AI appears as a field within computing/electrical study.",
+        "**Best programme for me:** Computer Science and Engineering track. Electronics Engineering is useful only for a stronger hardware/embedded focus."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Official route",
+            "Degree/unit",
+            "Structure and prerequisites",
+            "Restrictions"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-3-table-0-row-0",
+              "fields": {
+                "Official route": "Computer Science and Engineering track",
+                "Degree/unit": "Bachelor’s, School/College of Undergraduate Studies",
+                "Structure and prerequisites": "Broad science/engineering foundation; track work spans CS, AI, computing and related engineering. No applicant-level programming, calculus or physics minimum is published.",
+                "Restrictions": "Not a direct CS admission; track is selected after entry. No international or female restriction published."
+              }
+            },
+            {
+              "id": "audit-dgist-block-3-table-0-row-1",
+              "fields": {
+                "Official route": "Electronics Engineering track",
+                "Degree/unit": "Bachelor’s",
+                "Structure and prerequisites": "Relevant for computer engineering, devices and embedded systems",
+                "Restrictions": "Secondary fit"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "There is one application round; it is not described as binding. DGIST warns against multiple enrolment at Korean universities, and admission deferral is not available under the guide."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Date/time",
+            "Zone",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Application opens",
+                "Date/time": "2 Dec 2026, 10:00",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Study in Korea account and core documents"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Application + document deadline",
+                "Date/time": "**28 Jan 2027, 18:00**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "One combined PDF ≤10 MB plus paid/submitted form"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-2",
+              "fields": {
+                "Event": "Recommendation",
+                "Date/time": "By application deadline",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Optional one, direct recommender submission"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Evaluation / possible interview",
+                "Date/time": "Through Apr 2027",
+                "Zone": "—",
+                "Confirmed?": "Partial",
+                "What must be ready": "Monitor email/portal"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-4",
+              "fields": {
+                "Event": "Acceptance/enrolment",
+                "Date/time": "By **11 May 2027**",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Follow offer instructions"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Final diploma/apostille",
+                "Date/time": "After admission, exact date announced",
+                "Zone": "—",
+                "Confirmed?": "TBA",
+                "What must be ready": "Final NIS records"
+              }
+            },
+            {
+              "id": "audit-dgist-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Semester starts",
+                "Date/time": "Late Aug / early Sep 2027",
+                "Zone": "—",
+                "Confirmed?": "Partial",
+                "What must be ready": "Visa/housing/orientation"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [
+        "Choose recommender by **1 November**; request letter by **15 November**.",
+        "Request NIS transcript, grading scale, school profile and expected-graduation letter by **20 November**.",
+        "Build Study in Korea account and inspect the live recommendation process on **2 December**.",
+        "Final optional test/award selection by **20 December**; do not upload weak or unverifiable material.",
+        "Order any official test verification by **5 January** if the live form requires it.",
+        "Final PDF audit by **12 January**; target submission **15–18 January**; recommender target **15 January**."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-6",
+      "title": "D. Platform and fee",
+      "tab": "application",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-6-table-0-row-0",
+              "fields": {
+                "Item": "Platform",
+                "Rule": "Study in Korea; upload one English PDF, maximum 10 MB"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Programme choices",
+                "Rule": "Admission to DGIST undergraduate programme; no direct CS choice"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Editing after submission",
+                "Rule": "Generally not permitted except through a formal request; finalize before submitting"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Fee",
+                "Rule": "**KRW 50,000**"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Refund / waiver",
+                "Rule": "Non-refundable; no waiver"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Exam/scholarship fee",
+                "Rule": "None published"
+              }
+            },
+            {
+              "id": "audit-dgist-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Initial mailing",
+                "Rule": "No initial paper mailing stated; uploads first"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-7",
+      "title": "E. Document checklist",
+      "tab": "documents",
+      "paragraphs": [
+        "Non-English material needs a notarized English translation. Late documents are not accepted under the current guide."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Required?",
+            "Who submits",
+            "When / format",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-7-table-0-row-0",
+              "fields": {
+                "Document": "Study in Korea application",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "By 28 Jan, 18:00 KST",
+                "Notes": "Finalize before submission"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-1",
+              "fields": {
+                "Document": "Passport/ID",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Scan in combined PDF",
+                "Notes": "Applicant nationality"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Both parents’ passports/ID",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Scan",
+                "Notes": "Nationality evidence"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-3",
+              "fields": {
+                "Document": "Family relationship/birth certificate",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Official English or notarized English translation",
+                "Notes": "Must connect applicant/parents"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-4",
+              "fields": {
+                "Document": "High-school transcript, all available years",
+                "Required?": "R",
+                "Who submits": "Applicant uploads official school record",
+                "When / format": "Through first semester of final year plus current coursework",
+                "Notes": "Include grading scale"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-5",
+              "fields": {
+                "Document": "Expected graduation or enrolment letter",
+                "Required?": "R if final diploma unavailable",
+                "Who submits": "Applicant from school",
+                "When / format": "Official document showing graduation date",
+                "Notes": "Final diploma after admission"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-6",
+              "fields": {
+                "Document": "Final NIS certificate/transcript",
+                "Required?": "POST",
+                "Who submits": "Applicant/school",
+                "When / format": "Deadline announced after offer",
+                "Notes": "Apostille/legalization instructions TBA"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-7",
+              "fields": {
+                "Document": "School profile",
+                "Required?": "O / REC",
+                "Who submits": "Applicant",
+                "When / format": "≤5 pages",
+                "Notes": "Useful for NIS"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-8",
+              "fields": {
+                "Document": "Standardized academic test",
+                "Required?": "O / REC",
+                "Who submits": "Applicant",
+                "When / format": "Upload evidence",
+                "Notes": "SAT/AP/IB/A-level/ACT, international olympiad, or relevant national leaving/entrance test"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-9",
+              "fields": {
+                "Document": "English test",
+                "Required?": "O / REC",
+                "Who submits": "Applicant",
+                "When / format": "Valid test record",
+                "Notes": "No published minimum"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-10",
+              "fields": {
+                "Document": "Recommendation",
+                "Required?": "O, max 1",
+                "Who submits": "Recommender",
+                "When / format": "Direct online submission",
+                "Notes": "Academic personnel only"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-11",
+              "fields": {
+                "Document": "Awards",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Up to 5",
+                "Notes": "Strongest only"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-12",
+              "fields": {
+                "Document": "Activities/CV/GitHub/portfolio",
+                "Required?": "No separate item published",
+                "Who submits": "Applicant only if live form permits",
+                "When / format": "—",
+                "Notes": "Not a required substitute"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-13",
+              "fields": {
+                "Document": "Essays/personal statement",
+                "Required?": "Not listed",
+                "Who submits": "—",
+                "When / format": "—",
+                "Notes": "Exact live-form fields TBA"
+              }
+            },
+            {
+              "id": "audit-dgist-block-7-table-0-row-14",
+              "fields": {
+                "Document": "Medical/insurance/visa evidence",
+                "Required?": "POST",
+                "Who submits": "Applicant",
+                "When / format": "After offer",
+                "Notes": "Offer instructions"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-8",
+      "title": "F. NIS route",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "No named NIS or Kazakhstan Attestat route and no NIS Higher Level minimum are published.",
+        "An expected-graduation certificate is expressly accepted; the transcript may omit unavailable final second-semester grades.",
+        "IB/A-level predicted results are expressly accepted as optional test evidence. The guide does not expressly extend that wording to predicted NIS results.",
+        "The NIS final certificate should be submitted after admission, but the exact apostille deadline is **TBA**. June release appears workable in principle; written confirmation is needed.",
+        "English testing is optional, so an NIS MOI waiver is not necessary for application. A strong IELTS score may still reduce uncertainty and strengthen academic readiness evidence."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-10",
+      "title": "Official minimum",
+      "tab": "requirements",
+      "paragraphs": [
+        "Meet the international citizenship rule and graduate from high school in time for Fall 2027. No GPA, NIS grade, subject, SAT or English-score minimum is published."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-11",
+      "title": "Competitive target — analysis",
+      "tab": "overview",
+      "paragraphs": [
+        "DGIST’s holistic review rewards strong Math/science records and evidence of technical potential. No official competitive range is published. SAT 1300–1350 plus IELTS 7.0–7.5 can be useful but is neither required nor a funding threshold."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-dgist-block-12",
+      "title": "Academic and English test policy",
+      "tab": "requirements",
+      "paragraphs": [
+        "The public guide does not require official College Board/IELTS agency transmission; it lists document upload. The live portal and later verification request control. Agency sending fees, if requested, are paid separately to the provider."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Test",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-12-table-0-row-0",
+              "fields": {
+                "Test": "SAT / ACT / AP",
+                "Rule": "Optional; no minimum, superscore or current reporting code published in the guide"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-1",
+              "fields": {
+                "Test": "IB / A-level",
+                "Rule": "Optional; predicted results accepted"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-2",
+              "fields": {
+                "Test": "National exam",
+                "Rule": "Optional if relevant to graduation/admission; explain unfamiliar system"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-3",
+              "fields": {
+                "Test": "IELTS / TOEFL iBT",
+                "Rule": "Optional; no minimum"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-4",
+              "fields": {
+                "Test": "TEPS / TOEIC",
+                "Rule": "Optional; accepted"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-5",
+              "fields": {
+                "Test": "Cambridge CAE/CPE, PTE Academic, Duolingo",
+                "Rule": "Optional; accepted"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-6",
+              "fields": {
+                "Test": "Validity",
+                "Rule": "English evidence within two years under guide terms"
+              }
+            },
+            {
+              "id": "audit-dgist-block-12-table-0-row-7",
+              "fields": {
+                "Test": "TOPIK",
+                "Rule": "Not required for English-medium academic route"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-13",
+      "title": "H. Interview / exam",
+      "tab": "requirements",
+      "paragraphs": [
+        "No routine internal Math, Physics, Chemistry, programming or placement exam is published for admission. DGIST may invite selected applicants to an interview; it is mandatory only if invited. Exact format, subjects, duration and weighting are not officially published."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-14",
+      "title": "I. Recommendation",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**My strategy:** use one Math, CS or Physics teacher who can give concrete evidence of problem-solving, initiative and classroom/research performance. Counselor context belongs in the school profile unless the counselor directly taught or supervised substantial work."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-14-table-0-row-0",
+              "fields": {
+                "Item": "Number",
+                "Rule": "0 required; **one optional maximum**"
+              }
+            },
+            {
+              "id": "audit-dgist-block-14-table-0-row-1",
+              "fields": {
+                "Item": "Who",
+                "Rule": "Academic adviser, school teacher, principal, university counselor or other academic personnel"
+              }
+            },
+            {
+              "id": "audit-dgist-block-14-table-0-row-2",
+              "fields": {
+                "Item": "Submission",
+                "Rule": "Direct online recommender submission; Korean or English"
+              }
+            },
+            {
+              "id": "audit-dgist-block-14-table-0-row-3",
+              "fields": {
+                "Item": "Required identification",
+                "Rule": "Name, position, affiliation, relationship and contact details"
+              }
+            },
+            {
+              "id": "audit-dgist-block-14-table-0-row-4",
+              "fields": {
+                "Item": "Exact ratings/questions/limits",
+                "Rule": "**Not publicly published** as of 4 Oct; DGIST says detailed process will appear when the cycle starts"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-15",
+      "title": "J. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "Inspect the live Study in Korea form on 2 December for text boxes. Do not invent prompts now."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Essay",
+            "Prompt",
+            "Limit",
+            "Status"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-15-table-0-row-0",
+              "fields": {
+                "Essay": "Personal statement / study plan",
+                "Prompt": "Not listed in the current public required-document list",
+                "Limit": "—",
+                "Status": "Not officially published"
+              }
+            },
+            {
+              "id": "audit-dgist-block-15-table-0-row-1",
+              "fields": {
+                "Essay": "Scholarship essay",
+                "Prompt": "None",
+                "Limit": "—",
+                "Status": "Scholarship consideration is not shown as a separate application"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-16",
+      "title": "K. Scholarships and aid",
+      "tab": "funding",
+      "paragraphs": [
+        "Source: [official undergraduate scholarship page](https://www.dgist.ac.kr/iuadm/sub04_01.do).",
+        "Financial Aid and DGISTep are presented as different support types; do **not** add both monthly figures unless DGIST confirms stacking."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award",
+            "Separate application?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-16-table-0-row-0",
+              "fields": {
+                "Category": "Automatic tuition",
+                "Award": "DGIST international undergraduate tuition support",
+                "Separate application?": "No",
+                "Rule": "Full tuition, maximum 8 semesters; current page states no GPA condition"
+              }
+            },
+            {
+              "id": "audit-dgist-block-16-table-0-row-1",
+              "fields": {
+                "Category": "Living support route 1",
+                "Award": "Financial Aid",
+                "Separate application?": "No separate admission form published",
+                "Rule": "KRW 328,500/month during regular semesters; ≥10 credits, no disciplinary/probation status"
+              }
+            },
+            {
+              "id": "audit-dgist-block-16-table-0-row-2",
+              "fields": {
+                "Category": "Living support route 2",
+                "Award": "DGISTep",
+                "Separate application?": "No separate admission form published",
+                "Rule": "KRW 330,000/month including vacations; ≥10 credits, no probation"
+              }
+            },
+            {
+              "id": "audit-dgist-block-16-table-0-row-3",
+              "fields": {
+                "Category": "High-achievement award",
+                "Award": "DGISTep-S",
+                "Separate application?": "Internal selection",
+                "Rule": "KRW 1.5m/semester; not first semester; freshman GPA >3.7/4.3 or sophomore+ >4.0 plus ≥15 credits"
+              }
+            },
+            {
+              "id": "audit-dgist-block-16-table-0-row-4",
+              "fields": {
+                "Category": "Settlement",
+                "Award": "International settlement allowance",
+                "Separate application?": "No",
+                "Rule": "KRW 500,000 once"
+              }
+            },
+            {
+              "id": "audit-dgist-block-16-table-0-row-5",
+              "fields": {
+                "Category": "Need-based/government",
+                "Award": "No additional applicant-level scheme confirmed",
+                "Separate application?": "—",
+                "Rule": "Do not assume"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-17",
+      "title": "Coverage and renewal",
+      "tab": "funding",
+      "paragraphs": [
+        "An exact annual gap cannot be calculated because current official admissions pages do not publish a complete Fall 2027 cost of attendance or guaranteed dorm rate. [Housing page](https://www.dgist.ac.kr/iuadm/sub04_03.do) confirms dorm availability but says accommodation is paid individually; it does not give a four-year guarantee on the reviewed page."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-dgist-block-17-table-0-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "Yes",
+                "Rule": "Full waiver up to 8 semesters"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-1",
+              "fields": {
+                "Cost": "Housing",
+                "Covered?": "No",
+                "Rule": "Student pays"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-2",
+              "fields": {
+                "Cost": "Meals",
+                "Covered?": "Not separately guaranteed",
+                "Rule": "Paid from allowance/personal funds"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-3",
+              "fields": {
+                "Cost": "Monthly living",
+                "Covered?": "Yes, assigned support type",
+                "Rule": "KRW 328,500 or 330,000 under current categories"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-4",
+              "fields": {
+                "Cost": "Settlement",
+                "Covered?": "Yes",
+                "Rule": "KRW 500k once"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-5",
+              "fields": {
+                "Cost": "Books / visa / flight / transport / laptop",
+                "Covered?": "Not published as covered",
+                "Rule": "Personal cost"
+              }
+            },
+            {
+              "id": "audit-dgist-block-17-table-0-row-6",
+              "fields": {
+                "Cost": "Health insurance",
+                "Covered?": "Current international support page should control at enrolment",
+                "Rule": "Exact 2027 amount/coverage TBA"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-18",
+      "title": "L. After admission",
+      "tab": "after-admission",
+      "paragraphs": [
+        "Accept/enrol by the offer deadline; submit final NIS certificate/transcript and authentication requested by DGIST; provide any original test evidence; arrange visa, financial proof, insurance and paid dormitory; complete arrival/orientation. Exact diploma/apostille, housing and visa dates remain offer-specific/TBA."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-19",
+      "title": "M. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Admission difficulty:** Reach / competitive.",
+        "**Full-funding difficulty:** Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance.",
+        "**Fit:** Strong for flexible CS/AI exploration and research."
+      ],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-dgist-block-20",
+      "title": "N. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [
+        "Exact online recommendation questions; any live-form essay fields; whether NIS results count as an optional national examination; agency-report requirement/codes; interview format; final certificate/apostille deadline; exact housing allocation/rate; insurance coverage; whether living-support categories stack or are alternatives."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-21",
+      "title": "O. Email question",
+      "tab": "sources",
+      "paragraphs": [
+        "I am a Grade 12 applicant from Nazarbayev Intellectual School in Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with an official expected-graduation letter, current transcript and NIS predicted grades, then submit the final apostilled certificate after admission? What is the exact final-document deadline, and may the NIS Certificate be submitted as optional national school-leaving examination evidence?"
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-dgist-block-22",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[Application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)",
+        "[Application documents](https://www.dgist.ac.kr/iuadm/sub02_04.do)",
+        "[Scholarships](https://www.dgist.ac.kr/iuadm/sub04_01.do)",
+        "[Housing](https://www.dgist.ac.kr/iuadm/sub04_03.do)",
+        "[Study in Korea](https://www.studyinkorea.go.kr/)"
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "audit-dgist-official-0",
+      "universityId": "audit-dgist",
+      "title": "Application opens",
+      "type": "Opening",
+      "date": "2026-12-02",
+      "endDate": null,
+      "time": "10:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-12-02 10:00 KST",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ]
+    },
+    {
+      "id": "audit-dgist-official-1",
+      "universityId": "audit-dgist",
+      "title": "Application + optional recommendation",
+      "type": "Application",
+      "date": "2027-01-28",
+      "endDate": null,
+      "time": "18:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-28 18:00 KST",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ]
+    },
+    {
+      "id": "audit-dgist-official-2",
+      "universityId": "audit-dgist",
+      "title": "Evaluation / possible interview — through April 2027",
+      "type": "Interview",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Evaluation / possible interview — through April 2027",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ],
+      "approximate": {
+        "ru": "до конца апреля 2027",
+        "en": "Through April 2027"
+      }
+    },
+    {
+      "id": "audit-dgist-official-3",
+      "universityId": "audit-dgist",
+      "title": "Acceptance / enrolment — by 11 May",
+      "type": "Registration",
+      "date": "2027-05-11",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-05-11",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ]
+    },
+    {
+      "id": "audit-dgist-official-4",
+      "universityId": "audit-dgist",
+      "title": "Final documents",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Final documents",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ]
+    },
+    {
+      "id": "audit-dgist-official-5",
+      "universityId": "audit-dgist",
+      "title": "Semester — late August / early September 2027",
+      "type": "Semester",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Semester — late August / early September 2027",
+      "sourceIds": [
+        "audit-dgist-source-3",
+        "audit-dgist-source-5",
+        "audit-dgist-source-6",
+        "audit-dgist-source-4",
+        "audit-dgist-source-7"
+      ],
+      "approximate": {
+        "ru": "конец августа / начало сентября 2027",
+        "en": "Late August / early September 2027"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-dgist-source-3",
+      "title": "Application process",
+      "url": "https://www.dgist.ac.kr/iuadm/sub02_03.do"
+    },
+    {
+      "id": "audit-dgist-source-5",
+      "title": "Scholarships",
+      "url": "https://www.dgist.ac.kr/iuadm/sub04_01.do"
+    },
+    {
+      "id": "audit-dgist-source-6",
+      "title": "Housing",
+      "url": "https://www.dgist.ac.kr/iuadm/sub04_03.do"
+    },
+    {
+      "id": "audit-dgist-source-4",
+      "title": "Application documents",
+      "url": "https://www.dgist.ac.kr/iuadm/sub02_04.do"
+    },
+    {
+      "id": "audit-dgist-source-7",
+      "title": "Study in Korea",
+      "url": "https://www.studyinkorea.go.kr/"
+    }
+  ],
+  "sourceFile": "/data/official-fall-2027-2026-10-04.md",
+  "sourceSection": "# 5. DGIST\n\n## A. University snapshot\n\n| Field | Verified answer |\n|---|---|\n| University | Daegu Gyeongbuk Institute of Science and Technology (DGIST) |\n| Country / city / campus | Republic of Korea · Daegu · DGIST campus |\n| Type | Public STEM/research institute |\n| Fall 2027 status | **CONFIRMED FOR FALL 2027** |\n| Platform | **Study in Korea** |\n| Application URL | [Official application process](https://www.dgist.ac.kr/iuadm/sub02_03.do) |\n| Best programme | Undergraduate Studies → **Computer Science and Engineering track** |\n| Degree / language | Bachelor’s; basic and major courses taught in English, with some general electives in Korean/English |\n| Major structure | Broad first-year study followed by track selection; current guide describes flexible major/minor pathways |\n| Intake/selectivity | No predetermined international quota or nationality quota published |\n\n## Changes since 13 Sep 2026\n\n- **Correction:** the official application system is **Study in Korea**, not DGIST’s own portal.\n- **Correction/clarification:** English scores, standardized academic tests and one recommendation are **optional**, although DGIST strongly recommends useful academic evidence.\n- Exact opening/closing times, fee, document list and scholarship conditions are now confirmed from current official materials.\n- Exact online recommendation questions and any application text prompts remain unavailable until the cycle opens.\n\n## B. Programmes\n\n| Official route | Degree/unit | Structure and prerequisites | Restrictions |\n|---|---|---|---|\n| Computer Science and Engineering track | Bachelor’s, School/College of Undergraduate Studies | Broad science/engineering foundation; track work spans CS, AI, computing and related engineering. No applicant-level programming, calculus or physics minimum is published. | Not a direct CS admission; track is selected after entry. No international or female restriction published. |\n| Electronics Engineering track | Bachelor’s | Relevant for computer engineering, devices and embedded systems | Secondary fit |\n\nCurrent undergraduate materials describe a **single-major system**, with a major recognized after 27 credits and a minor after 18; a double-major route may be possible within graduation-credit rules. The page does not advertise a separate undergraduate BS in Artificial Intelligence; AI appears as a field within computing/electrical study.\n\n**Best programme for me:** Computer Science and Engineering track. Electronics Engineering is useful only for a stronger hardware/embedded focus.\n\n## C. Application rounds and deadlines\n\n| Event | Date/time | Zone | Confirmed? | What must be ready |\n|---|---:|---|---|---|\n| Application opens | 2 Dec 2026, 10:00 | KST | Yes | Study in Korea account and core documents |\n| Application + document deadline | **28 Jan 2027, 18:00** | KST | Yes | One combined PDF ≤10 MB plus paid/submitted form |\n| Recommendation | By application deadline | KST | Yes | Optional one, direct recommender submission |\n| Evaluation / possible interview | Through Apr 2027 | — | Partial | Monitor email/portal |\n| Acceptance/enrolment | By **11 May 2027** | — | Yes | Follow offer instructions |\n| Final diploma/apostille | After admission, exact date announced | — | TBA | Final NIS records |\n| Semester starts | Late Aug / early Sep 2027 | — | Partial | Visa/housing/orientation |\n\nThere is one application round; it is not described as binding. DGIST warns against multiple enrolment at Korean universities, and admission deferral is not available under the guide.\n\n### My recommended timeline\n\n- Choose recommender by **1 November**; request letter by **15 November**.\n- Request NIS transcript, grading scale, school profile and expected-graduation letter by **20 November**.\n- Build Study in Korea account and inspect the live recommendation process on **2 December**.\n- Final optional test/award selection by **20 December**; do not upload weak or unverifiable material.\n- Order any official test verification by **5 January** if the live form requires it.\n- Final PDF audit by **12 January**; target submission **15–18 January**; recommender target **15 January**.\n\n## D. Platform and fee\n\n| Item | Rule |\n|---|---|\n| Platform | Study in Korea; upload one English PDF, maximum 10 MB |\n| Programme choices | Admission to DGIST undergraduate programme; no direct CS choice |\n| Editing after submission | Generally not permitted except through a formal request; finalize before submitting |\n| Fee | **KRW 50,000** |\n| Refund / waiver | Non-refundable; no waiver |\n| Exam/scholarship fee | None published |\n| Initial mailing | No initial paper mailing stated; uploads first |\n\n## E. Document checklist\n\n| Document | Required? | Who submits | When / format | Notes |\n|---|---:|---|---|---|\n| Study in Korea application | R | Applicant | By 28 Jan, 18:00 KST | Finalize before submission |\n| Passport/ID | R | Applicant | Scan in combined PDF | Applicant nationality |\n| Both parents’ passports/ID | R | Applicant | Scan | Nationality evidence |\n| Family relationship/birth certificate | R | Applicant | Official English or notarized English translation | Must connect applicant/parents |\n| High-school transcript, all available years | R | Applicant uploads official school record | Through first semester of final year plus current coursework | Include grading scale |\n| Expected graduation or enrolment letter | R if final diploma unavailable | Applicant from school | Official document showing graduation date | Final diploma after admission |\n| Final NIS certificate/transcript | POST | Applicant/school | Deadline announced after offer | Apostille/legalization instructions TBA |\n| School profile | O / REC | Applicant | ≤5 pages | Useful for NIS |\n| Standardized academic test | O / REC | Applicant | Upload evidence | SAT/AP/IB/A-level/ACT, international olympiad, or relevant national leaving/entrance test |\n| English test | O / REC | Applicant | Valid test record | No published minimum |\n| Recommendation | O, max 1 | Recommender | Direct online submission | Academic personnel only |\n| Awards | O | Applicant | Up to 5 | Strongest only |\n| Activities/CV/GitHub/portfolio | No separate item published | Applicant only if live form permits | — | Not a required substitute |\n| Essays/personal statement | Not listed | — | — | Exact live-form fields TBA |\n| Medical/insurance/visa evidence | POST | Applicant | After offer | Offer instructions |\n\nNon-English material needs a notarized English translation. Late documents are not accepted under the current guide.\n\n## F. NIS route\n\n- No named NIS or Kazakhstan Attestat route and no NIS Higher Level minimum are published.\n- An expected-graduation certificate is expressly accepted; the transcript may omit unavailable final second-semester grades.\n- IB/A-level predicted results are expressly accepted as optional test evidence. The guide does not expressly extend that wording to predicted NIS results.\n- The NIS final certificate should be submitted after admission, but the exact apostille deadline is **TBA**. June release appears workable in principle; written confirmation is needed.\n- English testing is optional, so an NIS MOI waiver is not necessary for application. A strong IELTS score may still reduce uncertainty and strengthen academic readiness evidence.\n\n## G. Academic requirements and tests\n\n### Official minimum\n\nMeet the international citizenship rule and graduate from high school in time for Fall 2027. No GPA, NIS grade, subject, SAT or English-score minimum is published.\n\n### Competitive target — analysis\n\nDGIST’s holistic review rewards strong Math/science records and evidence of technical potential. No official competitive range is published. SAT 1300–1350 plus IELTS 7.0–7.5 can be useful but is neither required nor a funding threshold.\n\n| Test | Rule |\n|---|---|\n| SAT / ACT / AP | Optional; no minimum, superscore or current reporting code published in the guide |\n| IB / A-level | Optional; predicted results accepted |\n| National exam | Optional if relevant to graduation/admission; explain unfamiliar system |\n| IELTS / TOEFL iBT | Optional; no minimum |\n| TEPS / TOEIC | Optional; accepted |\n| Cambridge CAE/CPE, PTE Academic, Duolingo | Optional; accepted |\n| Validity | English evidence within two years under guide terms |\n| TOPIK | Not required for English-medium academic route |\n\nThe public guide does not require official College Board/IELTS agency transmission; it lists document upload. The live portal and later verification request control. Agency sending fees, if requested, are paid separately to the provider.\n\n## H. Interview / exam\n\nNo routine internal Math, Physics, Chemistry, programming or placement exam is published for admission. DGIST may invite selected applicants to an interview; it is mandatory only if invited. Exact format, subjects, duration and weighting are not officially published.\n\n## I. Recommendation\n\n| Item | Rule |\n|---|---|\n| Number | 0 required; **one optional maximum** |\n| Who | Academic adviser, school teacher, principal, university counselor or other academic personnel |\n| Submission | Direct online recommender submission; Korean or English |\n| Required identification | Name, position, affiliation, relationship and contact details |\n| Exact ratings/questions/limits | **Not publicly published** as of 4 Oct; DGIST says detailed process will appear when the cycle starts |\n\n**My strategy:** use one Math, CS or Physics teacher who can give concrete evidence of problem-solving, initiative and classroom/research performance. Counselor context belongs in the school profile unless the counselor directly taught or supervised substantial work.\n\n## J. Essays\n\n| Essay | Prompt | Limit | Status |\n|---|---|---:|---|\n| Personal statement / study plan | Not listed in the current public required-document list | — | Not officially published |\n| Scholarship essay | None | — | Scholarship consideration is not shown as a separate application |\n\nInspect the live Study in Korea form on 2 December for text boxes. Do not invent prompts now.\n\n## K. Scholarships and aid\n\nSource: [official undergraduate scholarship page](https://www.dgist.ac.kr/iuadm/sub04_01.do).\n\n| Category | Award | Separate application? | Rule |\n|---|---|---:|---|\n| Automatic tuition | DGIST international undergraduate tuition support | No | Full tuition, maximum 8 semesters; current page states no GPA condition |\n| Living support route 1 | Financial Aid | No separate admission form published | KRW 328,500/month during regular semesters; ≥10 credits, no disciplinary/probation status |\n| Living support route 2 | DGISTep | No separate admission form published | KRW 330,000/month including vacations; ≥10 credits, no probation |\n| High-achievement award | DGISTep-S | Internal selection | KRW 1.5m/semester; not first semester; freshman GPA >3.7/4.3 or sophomore+ >4.0 plus ≥15 credits |\n| Settlement | International settlement allowance | No | KRW 500,000 once |\n| Need-based/government | No additional applicant-level scheme confirmed | — | Do not assume |\n\nFinancial Aid and DGISTep are presented as different support types; do **not** add both monthly figures unless DGIST confirms stacking.\n\n### Coverage and renewal\n\n| Cost | Covered? | Rule |\n|---|---:|---|\n| Tuition | Yes | Full waiver up to 8 semesters |\n| Housing | No | Student pays |\n| Meals | Not separately guaranteed | Paid from allowance/personal funds |\n| Monthly living | Yes, assigned support type | KRW 328,500 or 330,000 under current categories |\n| Settlement | Yes | KRW 500k once |\n| Books / visa / flight / transport / laptop | Not published as covered | Personal cost |\n| Health insurance | Current international support page should control at enrolment | Exact 2027 amount/coverage TBA |\n\nAn exact annual gap cannot be calculated because current official admissions pages do not publish a complete Fall 2027 cost of attendance or guaranteed dorm rate. [Housing page](https://www.dgist.ac.kr/iuadm/sub04_03.do) confirms dorm availability but says accommodation is paid individually; it does not give a four-year guarantee on the reviewed page.\n\n## L. After admission\n\nAccept/enrol by the offer deadline; submit final NIS certificate/transcript and authentication requested by DGIST; provide any original test evidence; arrange visa, financial proof, insurance and paid dormitory; complete arrival/orientation. Exact diploma/apostille, housing and visa dates remain offer-specific/TBA.\n\n## M. Strategic assessment — analysis\n\n- **Admission difficulty:** Reach / competitive.\n- **Full-funding difficulty:** Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance.\n- **Fit:** Strong for flexible CS/AI exploration and research.\n\n## N. Still TBA / needs confirmation\n\nExact online recommendation questions; any live-form essay fields; whether NIS results count as an optional national examination; agency-report requirement/codes; interview format; final certificate/apostille deadline; exact housing allocation/rate; insurance coverage; whether living-support categories stack or are alternatives.\n\n## O. Email question\n\n> I am a Grade 12 applicant from Nazarbayev Intellectual School in Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with an official expected-graduation letter, current transcript and NIS predicted grades, then submit the final apostilled certificate after admission? What is the exact final-document deadline, and may the NIS Certificate be submitted as optional national school-leaving examination evidence?\n\n## Official sources checked\n\n- [Application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)\n- [Application documents](https://www.dgist.ac.kr/iuadm/sub02_04.do)\n- [Scholarships](https://www.dgist.ac.kr/iuadm/sub04_01.do)\n- [Housing](https://www.dgist.ac.kr/iuadm/sub04_03.do)\n- [Study in Korea](https://www.studyinkorea.go.kr/)\n\n---",
+  "localizedText": {
+    "South Korea": {
+      "ru": "Южная Корея",
+      "en": "South Korea"
+    },
+    "Daegu": {
+      "ru": "Тэгу",
+      "en": "Daegu"
+    },
+    "**Study in Korea**": {
+      "ru": "**Study in Korea**",
+      "en": "**Study in Korea**"
+    },
+    "Computer Science and Engineering track": {
+      "ru": "Computer Science and Engineering track",
+      "en": "Computer Science and Engineering track"
+    },
+    "Electronics Engineering track": {
+      "ru": "Electronics Engineering track",
+      "en": "Electronics Engineering track"
+    },
+    "Full tuition · living support schemes are alternatives, not additive · dorm paid": {
+      "ru": "Полное покрытие обучения · виды поддержки проживания альтернативны, не суммируются · общежитие платное",
+      "en": "Full tuition · living support schemes are alternatives, not additive · dorm paid"
+    },
+    "Reach / competitive.": {
+      "ru": "Высокая конкурсность (Reach / competitive).",
+      "en": "Reach / competitive."
+    },
+    "Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance.": {
+      "ru": "Тесно связано с поступлением: обучение покрывается автоматически, но это не полное покрытие всех расходов (COA), поскольку жильё / питание могут превышать выплату.",
+      "en": "Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance."
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Verified answer": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Daegu Gyeongbuk Institute of Science and Technology (DGIST)": {
+      "ru": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "en": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "Republic of Korea · Daegu · DGIST campus": {
+      "ru": "Республика Корея · Тэгу · кампус DGIST",
+      "en": "Republic of Korea · Daegu · DGIST campus"
+    },
+    "Type": {
+      "ru": "Тип",
+      "en": "Type"
+    },
+    "Public STEM/research institute": {
+      "ru": "Государственный научно-технический / исследовательский институт",
+      "en": "Public STEM/research institute"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "**CONFIRMED FOR FALL 2027**": {
+      "ru": "**ПОДТВЕРЖДЕНО ДЛЯ FALL 2027**",
+      "en": "**CONFIRMED FOR FALL 2027**"
+    },
+    "Platform": {
+      "ru": "Платформа",
+      "en": "Platform"
+    },
+    "Application URL": {
+      "ru": "Ссылка для подачи",
+      "en": "Application URL"
+    },
+    "[Official application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)": {
+      "ru": "[Официальный процесс подачи](https://www.dgist.ac.kr/iuadm/sub02_03.do)",
+      "en": "[Official application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)"
+    },
+    "Best programme": {
+      "ru": "Наиболее подходящая программа",
+      "en": "Best programme"
+    },
+    "Undergraduate Studies → **Computer Science and Engineering track**": {
+      "ru": "Undergraduate Studies → **Computer Science and Engineering track**",
+      "en": "Undergraduate Studies → **Computer Science and Engineering track**"
+    },
+    "Degree / language": {
+      "ru": "Степень / язык обучения",
+      "en": "Degree / language"
+    },
+    "Bachelor’s; basic and major courses taught in English, with some general electives in Korean/English": {
+      "ru": "Бакалавриат; базовые и профильные предметы на английском, некоторые общеобразовательные элективы на корейском / английском",
+      "en": "Bachelor’s; basic and major courses taught in English, with some general electives in Korean/English"
+    },
+    "Major structure": {
+      "ru": "Выбор специальности",
+      "en": "Major structure"
+    },
+    "Broad first-year study followed by track selection; current guide describes flexible major/minor pathways": {
+      "ru": "Широкая база первого курса с последующим выбором направления; текущее руководство описывает гибкие пути major/minor",
+      "en": "Broad first-year study followed by track selection; current guide describes flexible major/minor pathways"
+    },
+    "Intake/selectivity": {
+      "ru": "Число мест / конкурсность",
+      "en": "Intake/selectivity"
+    },
+    "No predetermined international quota or nationality quota published": {
+      "ru": "Заранее определённая квота иностранных студентов или отдельных гражданств не опубликована",
+      "en": "No predetermined international quota or nationality quota published"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "**Correction:** the official application system is **Study in Korea**, not DGIST’s own portal.": {
+      "ru": "**Исправление:** официальная система подачи — **Study in Korea**, не собственный портал DGIST.",
+      "en": "**Correction:** the official application system is **Study in Korea**, not DGIST’s own portal."
+    },
+    "**Correction/clarification:** English scores, standardized academic tests and one recommendation are **optional**, although DGIST strongly recommends useful academic evidence.": {
+      "ru": "**Исправление / уточнение:** результат английского, стандартизированные академические тесты и одно рекомендательное письмо **необязательны**, хотя DGIST настоятельно рекомендует полезные академические подтверждения.",
+      "en": "**Correction/clarification:** English scores, standardized academic tests and one recommendation are **optional**, although DGIST strongly recommends useful academic evidence."
+    },
+    "Exact opening/closing times, fee, document list and scholarship conditions are now confirmed from current official materials.": {
+      "ru": "Точные время открытия / закрытия, сбор, документы и условия стипендии подтверждены текущими официальными материалами.",
+      "en": "Exact opening/closing times, fee, document list and scholarship conditions are now confirmed from current official materials."
+    },
+    "Exact online recommendation questions and any application text prompts remain unavailable until the cycle opens.": {
+      "ru": "Точные вопросы онлайн-рекомендации и письменные задания заявки недоступны до открытия цикла.",
+      "en": "Exact online recommendation questions and any application text prompts remain unavailable until the cycle opens."
+    },
+    "Programmes": {
+      "ru": "Программы",
+      "en": "Programmes"
+    },
+    "Current undergraduate materials describe a **single-major system**, with a major recognized after 27 credits and a minor after 18; a double-major route may be possible within graduation-credit rules. The page does not advertise a separate undergraduate BS in Artificial Intelligence; AI appears as a field within computing/electrical study.": {
+      "ru": "Текущие материалы описывают **систему одной основной специальности (single-major)**: major признаётся после 27 кредитов, minor — после 18. Двойная специальность может быть возможна в рамках правил выпускных кредитов. Отдельный бакалавриат BS Artificial Intelligence не заявлен; AI — область вычислительного / электротехнического обучения.",
+      "en": "Current undergraduate materials describe a **single-major system**, with a major recognized after 27 credits and a minor after 18; a double-major route may be possible within graduation-credit rules. The page does not advertise a separate undergraduate BS in Artificial Intelligence; AI appears as a field within computing/electrical study."
+    },
+    "**Best programme for me:** Computer Science and Engineering track. Electronics Engineering is useful only for a stronger hardware/embedded focus.": {
+      "ru": "**Наиболее подходящая программа — анализ:** Computer Science and Engineering track. Electronics Engineering полезна при более сильном интересе к аппаратным / встроенным системам.",
+      "en": "**Best programme for me:** Computer Science and Engineering track. Electronics Engineering is useful only for a stronger hardware/embedded focus."
+    },
+    "Official route": {
+      "ru": "Официальный путь",
+      "en": "Official route"
+    },
+    "Degree/unit": {
+      "ru": "Степень / подразделение",
+      "en": "Degree/unit"
+    },
+    "Structure and prerequisites": {
+      "ru": "Структура и обязательные предметы",
+      "en": "Structure and prerequisites"
+    },
+    "Restrictions": {
+      "ru": "Ограничения",
+      "en": "Restrictions"
+    },
+    "Bachelor’s, School/College of Undergraduate Studies": {
+      "ru": "Бакалавриат, School/College of Undergraduate Studies",
+      "en": "Bachelor’s, School/College of Undergraduate Studies"
+    },
+    "Broad science/engineering foundation; track work spans CS, AI, computing and related engineering. No applicant-level programming, calculus or physics minimum is published.": {
+      "ru": "Широкая база науки / инженерии; направление охватывает CS, AI, вычисления и смежную инженерию. Отдельный минимум для поступающих по программированию, математическому анализу или физике не опубликован.",
+      "en": "Broad science/engineering foundation; track work spans CS, AI, computing and related engineering. No applicant-level programming, calculus or physics minimum is published."
+    },
+    "Not a direct CS admission; track is selected after entry. No international or female restriction published.": {
+      "ru": "Не прямое поступление на CS; направление выбирают после зачисления. Ограничения для иностранцев или женщин не опубликованы.",
+      "en": "Not a direct CS admission; track is selected after entry. No international or female restriction published."
+    },
+    "Bachelor’s": {
+      "ru": "Бакалавриат",
+      "en": "Bachelor’s"
+    },
+    "Relevant for computer engineering, devices and embedded systems": {
+      "ru": "Подходит для компьютерной инженерии, устройств и встроенных систем",
+      "en": "Relevant for computer engineering, devices and embedded systems"
+    },
+    "Secondary fit": {
+      "ru": "Второй подходящий вариант",
+      "en": "Secondary fit"
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "There is one application round; it is not described as binding. DGIST warns against multiple enrolment at Korean universities, and admission deferral is not available under the guide.": {
+      "ru": "Один раунд подачи, не описан как binding. DGIST предупреждает о запрете одновременного зачисления в корейские университеты; отсрочка поступления по руководству недоступна.",
+      "en": "There is one application round; it is not described as binding. DGIST warns against multiple enrolment at Korean universities, and admission deferral is not available under the guide."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Date/time": {
+      "ru": "Дата / время",
+      "en": "Date/time"
+    },
+    "Zone": {
+      "ru": "Часовой пояс",
+      "en": "Zone"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Application opens": {
+      "ru": "Открытие подачи заявок",
+      "en": "Application opens"
+    },
+    "2 Dec 2026, 10:00": {
+      "ru": "2 декабря 2026, 10:00",
+      "en": "2 Dec 2026, 10:00"
+    },
+    "KST": {
+      "ru": "KST",
+      "en": "KST"
+    },
+    "Yes": {
+      "ru": "Да",
+      "en": "Yes"
+    },
+    "Study in Korea account and core documents": {
+      "ru": "Аккаунт Study in Korea и основные документы",
+      "en": "Study in Korea account and core documents"
+    },
+    "Application + document deadline": {
+      "ru": "Дедлайн заявки + документов",
+      "en": "Application + document deadline"
+    },
+    "**28 Jan 2027, 18:00**": {
+      "ru": "**28 января 2027, 18:00**",
+      "en": "**28 Jan 2027, 18:00**"
+    },
+    "One combined PDF ≤10 MB plus paid/submitted form": {
+      "ru": "Один общий PDF ≤10 MB и оплаченная / отправленная заявка",
+      "en": "One combined PDF ≤10 MB plus paid/submitted form"
+    },
+    "Recommendation": {
+      "ru": "Рекомендательное письмо",
+      "en": "Recommendation"
+    },
+    "By application deadline": {
+      "ru": "До дедлайна подачи заявки",
+      "en": "By application deadline"
+    },
+    "Optional one, direct recommender submission": {
+      "ru": "Одно необязательное письмо, рекомендатель отправляет напрямую",
+      "en": "Optional one, direct recommender submission"
+    },
+    "Evaluation / possible interview": {
+      "ru": "Рассмотрение / возможное интервью",
+      "en": "Evaluation / possible interview"
+    },
+    "Through Apr 2027": {
+      "ru": "До апреля 2027",
+      "en": "Through Apr 2027"
+    },
+    "—": {
+      "ru": "—",
+      "en": "—"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Monitor email/portal": {
+      "ru": "Проверять email / портал",
+      "en": "Monitor email/portal"
+    },
+    "Acceptance/enrolment": {
+      "ru": "Принятие оффера / зачисление",
+      "en": "Acceptance/enrolment"
+    },
+    "By **11 May 2027**": {
+      "ru": "By **11 мая 2027**",
+      "en": "By **11 May 2027**"
+    },
+    "Follow offer instructions": {
+      "ru": "Следовать инструкции оффера",
+      "en": "Follow offer instructions"
+    },
+    "Final diploma/apostille": {
+      "ru": "Итоговый диплом / апостиль",
+      "en": "Final diploma/apostille"
+    },
+    "After admission, exact date announced": {
+      "ru": "После поступления; точную дату сообщат отдельно",
+      "en": "After admission, exact date announced"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "Final NIS records": {
+      "ru": "Итоговые документы NIS",
+      "en": "Final NIS records"
+    },
+    "Semester starts": {
+      "ru": "Начало семестра",
+      "en": "Semester starts"
+    },
+    "Late Aug / early Sep 2027": {
+      "ru": "Конец августа / начало сентября 2027",
+      "en": "Late Aug / early Sep 2027"
+    },
+    "Visa/housing/orientation": {
+      "ru": "Виза / проживание / ориентация",
+      "en": "Visa/housing/orientation"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "Choose recommender by **1 November**; request letter by **15 November**.": {
+      "ru": "Выбрать рекомендателя к **1 ноября**; запросить письмо к **15 ноября**.",
+      "en": "Choose recommender by **1 November**; request letter by **15 November**."
+    },
+    "Request NIS transcript, grading scale, school profile and expected-graduation letter by **20 November**.": {
+      "ru": "Запросить транскрипт NIS, шкалу оценок, профиль школы и письмо об ожидаемом выпуске к **20 ноября**.",
+      "en": "Request NIS transcript, grading scale, school profile and expected-graduation letter by **20 November**."
+    },
+    "Build Study in Korea account and inspect the live recommendation process on **2 December**.": {
+      "ru": "Создать аккаунт Study in Korea и изучить действующий порядок рекомендации **2 декабря**.",
+      "en": "Build Study in Korea account and inspect the live recommendation process on **2 December**."
+    },
+    "Final optional test/award selection by **20 December**; do not upload weak or unverifiable material.": {
+      "ru": "Выбрать необязательные тесты / награды к **20 декабря**; не загружать слабые или непроверяемые материалы.",
+      "en": "Final optional test/award selection by **20 December**; do not upload weak or unverifiable material."
+    },
+    "Order any official test verification by **5 January** if the live form requires it.": {
+      "ru": "Заказать официальную проверку результатов к **5 января**, если действующая форма требует её.",
+      "en": "Order any official test verification by **5 January** if the live form requires it."
+    },
+    "Final PDF audit by **12 January**; target submission **15–18 January**; recommender target **15 January**.": {
+      "ru": "Проверить итоговый PDF к **12 января**; личная цель подачи **15–18 января**, письма — **15 января**.",
+      "en": "Final PDF audit by **12 January**; target submission **15–18 January**; recommender target **15 January**."
+    },
+    "Platform and fee": {
+      "ru": "Платформа и сбор",
+      "en": "Platform and fee"
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Rule": {
+      "ru": "Правило",
+      "en": "Rule"
+    },
+    "Study in Korea; upload one English PDF, maximum 10 MB": {
+      "ru": "Study in Korea; один PDF на английском, максимум 10 MB",
+      "en": "Study in Korea; upload one English PDF, maximum 10 MB"
+    },
+    "Programme choices": {
+      "ru": "Выбор программ",
+      "en": "Programme choices"
+    },
+    "Admission to DGIST undergraduate programme; no direct CS choice": {
+      "ru": "Поступление на общий бакалавриат DGIST, не прямой выбор CS",
+      "en": "Admission to DGIST undergraduate programme; no direct CS choice"
+    },
+    "Editing after submission": {
+      "ru": "Редактирование после подачи",
+      "en": "Editing after submission"
+    },
+    "Generally not permitted except through a formal request; finalize before submitting": {
+      "ru": "Обычно не разрешено без официального запроса; завершите всё до отправки",
+      "en": "Generally not permitted except through a formal request; finalize before submitting"
+    },
+    "Fee": {
+      "ru": "Сбор",
+      "en": "Fee"
+    },
+    "**KRW 50,000**": {
+      "ru": "**KRW 50,000**",
+      "en": "**KRW 50,000**"
+    },
+    "Refund / waiver": {
+      "ru": "Возврат / освобождение от оплаты",
+      "en": "Refund / waiver"
+    },
+    "Non-refundable; no waiver": {
+      "ru": "Невозвратный; освобождения от оплаты нет",
+      "en": "Non-refundable; no waiver"
+    },
+    "Exam/scholarship fee": {
+      "ru": "Сбор за экзамен / стипендию",
+      "en": "Exam/scholarship fee"
+    },
+    "None published": {
+      "ru": "Не опубликован",
+      "en": "None published"
+    },
+    "Initial mailing": {
+      "ru": "Первоначальная отправка почтой",
+      "en": "Initial mailing"
+    },
+    "No initial paper mailing stated; uploads first": {
+      "ru": "Первоначальная отправка бумажных документов не указана; сначала загрузка",
+      "en": "No initial paper mailing stated; uploads first"
+    },
+    "Document checklist": {
+      "ru": "Список документов",
+      "en": "Document checklist"
+    },
+    "Non-English material needs a notarized English translation. Late documents are not accepted under the current guide.": {
+      "ru": "Неанглийские материалы требуют нотариально заверенного перевода на английский. По текущему руководству поздние документы не принимаются.",
+      "en": "Non-English material needs a notarized English translation. Late documents are not accepted under the current guide."
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Required?": {
+      "ru": "Обязательность",
+      "en": "Required?"
+    },
+    "Who submits": {
+      "ru": "Кто отправляет",
+      "en": "Who submits"
+    },
+    "When / format": {
+      "ru": "Когда / формат",
+      "en": "When / format"
+    },
+    "Notes": {
+      "ru": "Примечания",
+      "en": "Notes"
+    },
+    "Study in Korea application": {
+      "ru": "Заявка Study in Korea",
+      "en": "Study in Korea application"
+    },
+    "R": {
+      "ru": "Обязательно",
+      "en": "Required"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "By 28 Jan, 18:00 KST": {
+      "ru": "До 28 января, 18:00 KST",
+      "en": "By 28 Jan, 18:00 KST"
+    },
+    "Finalize before submission": {
+      "ru": "Завершить до отправки",
+      "en": "Finalize before submission"
+    },
+    "Passport/ID": {
+      "ru": "Паспорт / удостоверение личности",
+      "en": "Passport/ID"
+    },
+    "Scan in combined PDF": {
+      "ru": "Скан в общем PDF",
+      "en": "Scan in combined PDF"
+    },
+    "Applicant nationality": {
+      "ru": "Гражданство заявительницы",
+      "en": "Applicant nationality"
+    },
+    "Both parents’ passports/ID": {
+      "ru": "Паспорта / удостоверения личности обоих родителей",
+      "en": "Both parents’ passports/ID"
+    },
+    "Scan": {
+      "ru": "Скан",
+      "en": "Scan"
+    },
+    "Nationality evidence": {
+      "ru": "Подтверждение гражданства",
+      "en": "Nationality evidence"
+    },
+    "Family relationship/birth certificate": {
+      "ru": "Подтверждение родства / свидетельство о рождении",
+      "en": "Family relationship/birth certificate"
+    },
+    "Official English or notarized English translation": {
+      "ru": "Официальный английский документ или нотариально заверенный перевод",
+      "en": "Official English or notarized English translation"
+    },
+    "Must connect applicant/parents": {
+      "ru": "Подтверждает связь заявительницы с родителями",
+      "en": "Must connect applicant/parents"
+    },
+    "High-school transcript, all available years": {
+      "ru": "Транскрипт старшей школы за все доступные годы",
+      "en": "High-school transcript, all available years"
+    },
+    "Applicant uploads official school record": {
+      "ru": "Заявительница загружает официальную школьную ведомость",
+      "en": "Applicant uploads official school record"
+    },
+    "Through first semester of final year plus current coursework": {
+      "ru": "До первого семестра выпускного года включительно плюс текущие предметы",
+      "en": "Through first semester of final year plus current coursework"
+    },
+    "Include grading scale": {
+      "ru": "Включить шкалу оценивания",
+      "en": "Include grading scale"
+    },
+    "Expected graduation or enrolment letter": {
+      "ru": "Письмо об ожидаемом выпуске или обучении",
+      "en": "Expected graduation or enrolment letter"
+    },
+    "R if final diploma unavailable": {
+      "ru": "R — если итоговый диплом пока недоступен",
+      "en": "R if final diploma unavailable"
+    },
+    "Applicant from school": {
+      "ru": "Заявительница получает у школы",
+      "en": "Applicant from school"
+    },
+    "Official document showing graduation date": {
+      "ru": "Официальный документ с датой выпуска",
+      "en": "Official document showing graduation date"
+    },
+    "Final diploma after admission": {
+      "ru": "Итоговый диплом после поступления",
+      "en": "Final diploma after admission"
+    },
+    "Final NIS certificate/transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS certificate/transcript"
+    },
+    "POST": {
+      "ru": "После поступления",
+      "en": "POST"
+    },
+    "Applicant/school": {
+      "ru": "Заявительница / школа",
+      "en": "Applicant/school"
+    },
+    "Deadline announced after offer": {
+      "ru": "Срок сообщают после оффера",
+      "en": "Deadline announced after offer"
+    },
+    "Apostille/legalization instructions TBA": {
+      "ru": "Инструкции апостиля / легализации пока не опубликованы",
+      "en": "Apostille/legalization instructions TBA"
+    },
+    "School profile": {
+      "ru": "Профиль школы",
+      "en": "School profile"
+    },
+    "O / REC": {
+      "ru": "O / REC — необязательно / рекомендуется",
+      "en": "O / REC"
+    },
+    "≤5 pages": {
+      "ru": "≤5 страниц",
+      "en": "≤5 pages"
+    },
+    "Useful for NIS": {
+      "ru": "Полезно для NIS",
+      "en": "Useful for NIS"
+    },
+    "Standardized academic test": {
+      "ru": "Стандартизированный академический тест",
+      "en": "Standardized academic test"
+    },
+    "Upload evidence": {
+      "ru": "Загрузить подтверждение",
+      "en": "Upload evidence"
+    },
+    "SAT/AP/IB/A-level/ACT, international olympiad, or relevant national leaving/entrance test": {
+      "ru": "SAT/AP/IB/A-level/ACT, международная олимпиада или подходящий национальный выпускной / вступительный тест",
+      "en": "SAT/AP/IB/A-level/ACT, international olympiad, or relevant national leaving/entrance test"
+    },
+    "English test": {
+      "ru": "Тест английского",
+      "en": "English test"
+    },
+    "Valid test record": {
+      "ru": "Действующий результат",
+      "en": "Valid test record"
+    },
+    "No published minimum": {
+      "ru": "Минимум не опубликован",
+      "en": "No published minimum"
+    },
+    "O, max 1": {
+      "ru": "O — необязательно, максимум 1",
+      "en": "O, max 1"
+    },
+    "Recommender": {
+      "ru": "Рекомендатель",
+      "en": "Recommender"
+    },
+    "Direct online submission": {
+      "ru": "Прямая онлайн-отправка",
+      "en": "Direct online submission"
+    },
+    "Academic personnel only": {
+      "ru": "Только академический сотрудник",
+      "en": "Academic personnel only"
+    },
+    "Awards": {
+      "ru": "Награды",
+      "en": "Awards"
+    },
+    "O": {
+      "ru": "Необязательно",
+      "en": "Optional"
+    },
+    "Up to 5": {
+      "ru": "До 5",
+      "en": "Up to 5"
+    },
+    "Strongest only": {
+      "ru": "Только наиболее сильные подтверждения",
+      "en": "Strongest only"
+    },
+    "Activities/CV/GitHub/portfolio": {
+      "ru": "Деятельность / CV / GitHub / портфолио",
+      "en": "Activities/CV/GitHub/portfolio"
+    },
+    "No separate item published": {
+      "ru": "Отдельный пункт не опубликован",
+      "en": "No separate item published"
+    },
+    "Applicant only if live form permits": {
+      "ru": "Заявительница — только если действующая форма позволяет",
+      "en": "Applicant only if live form permits"
+    },
+    "Not a required substitute": {
+      "ru": "Не заменяет обязательный документ",
+      "en": "Not a required substitute"
+    },
+    "Essays/personal statement": {
+      "ru": "Эссе / Personal Statement",
+      "en": "Essays/personal statement"
+    },
+    "Not listed": {
+      "ru": "Не перечислено",
+      "en": "Not listed"
+    },
+    "Exact live-form fields TBA": {
+      "ru": "Точные поля действующей формы пока не опубликованы",
+      "en": "Exact live-form fields TBA"
+    },
+    "Medical/insurance/visa evidence": {
+      "ru": "Медицинские документы / страховка / виза",
+      "en": "Medical/insurance/visa evidence"
+    },
+    "After offer": {
+      "ru": "После оффера",
+      "en": "After offer"
+    },
+    "Offer instructions": {
+      "ru": "Инструкции оффера",
+      "en": "Offer instructions"
+    },
+    "NIS route": {
+      "ru": "Подача с квалификацией NIS",
+      "en": "NIS route"
+    },
+    "No named NIS or Kazakhstan Attestat route and no NIS Higher Level minimum are published.": {
+      "ru": "Отдельный путь NIS или казахстанского Attestat и минимум NIS Higher Level не опубликованы.",
+      "en": "No named NIS or Kazakhstan Attestat route and no NIS Higher Level minimum are published."
+    },
+    "An expected-graduation certificate is expressly accepted; the transcript may omit unavailable final second-semester grades.": {
+      "ru": "Подтверждение ожидаемого выпуска прямо принимается; в транскрипте можно не указывать недоступные итоговые оценки второго семестра.",
+      "en": "An expected-graduation certificate is expressly accepted; the transcript may omit unavailable final second-semester grades."
+    },
+    "IB/A-level predicted results are expressly accepted as optional test evidence. The guide does not expressly extend that wording to predicted NIS results.": {
+      "ru": "Прогнозные IB/A-level прямо принимаются как необязательные результаты тестов. Руководство не распространяет эту формулировку прямо на прогнозные NIS.",
+      "en": "IB/A-level predicted results are expressly accepted as optional test evidence. The guide does not expressly extend that wording to predicted NIS results."
+    },
+    "The NIS final certificate should be submitted after admission, but the exact apostille deadline is **TBA**. June release appears workable in principle; written confirmation is needed.": {
+      "ru": "Итоговый сертификат NIS предоставляется после поступления, но точный срок апостиля — **TBA**. Выпуск в июне выглядит совместимым в принципе; нужно письменное подтверждение.",
+      "en": "The NIS final certificate should be submitted after admission, but the exact apostille deadline is **TBA**. June release appears workable in principle; written confirmation is needed."
+    },
+    "English testing is optional, so an NIS MOI waiver is not necessary for application. A strong IELTS score may still reduce uncertainty and strengthen academic readiness evidence.": {
+      "ru": "Английский тест необязателен, поэтому для подачи не нужно освобождение NIS по MOI. Сильный IELTS всё же помогает уменьшить неопределённость и показать готовность к учёбе.",
+      "en": "English testing is optional, so an NIS MOI waiver is not necessary for application. A strong IELTS score may still reduce uncertainty and strengthen academic readiness evidence."
+    },
+    "Official minimum": {
+      "ru": "Официальный минимум",
+      "en": "Official minimum"
+    },
+    "Meet the international citizenship rule and graduate from high school in time for Fall 2027. No GPA, NIS grade, subject, SAT or English-score minimum is published.": {
+      "ru": "Соответствовать правилам международного гражданства и окончить школу к Fall 2027. Минимум GPA, NIS, школьных предметов, SAT или английского не опубликован.",
+      "en": "Meet the international citizenship rule and graduate from high school in time for Fall 2027. No GPA, NIS grade, subject, SAT or English-score minimum is published."
+    },
+    "Competitive target — analysis": {
+      "ru": "Конкурентный ориентир — анализ",
+      "en": "Competitive target — analysis"
+    },
+    "DGIST’s holistic review rewards strong Math/science records and evidence of technical potential. No official competitive range is published. SAT 1300–1350 plus IELTS 7.0–7.5 can be useful but is neither required nor a funding threshold.": {
+      "ru": "Комплексное рассмотрение DGIST учитывает сильные математические / естественно-научные оценки и технический потенциал. Официального конкурентного диапазона нет. SAT 1300–1350 и IELTS 7.0–7.5 полезны, но не обязательны и не являются порогом финансирования.",
+      "en": "DGIST’s holistic review rewards strong Math/science records and evidence of technical potential. No official competitive range is published. SAT 1300–1350 plus IELTS 7.0–7.5 can be useful but is neither required nor a funding threshold."
+    },
+    "Academic and English test policy": {
+      "ru": "Академические тесты и подтверждение английского",
+      "en": "Academic and English test policy"
+    },
+    "The public guide does not require official College Board/IELTS agency transmission; it lists document upload. The live portal and later verification request control. Agency sending fees, if requested, are paid separately to the provider.": {
+      "ru": "Публичное руководство перечисляет загрузку документов и не требует официальной отправки College Board / IELTS. Приоритет у действующего портала и последующего запроса проверки. Сбор агентства, если отправка запрошена, оплачивается провайдеру отдельно.",
+      "en": "The public guide does not require official College Board/IELTS agency transmission; it lists document upload. The live portal and later verification request control. Agency sending fees, if requested, are paid separately to the provider."
+    },
+    "Test": {
+      "ru": "Тест",
+      "en": "Test"
+    },
+    "SAT / ACT / AP": {
+      "ru": "SAT / ACT / AP",
+      "en": "SAT / ACT / AP"
+    },
+    "Optional; no minimum, superscore or current reporting code published in the guide": {
+      "ru": "Необязательно; минимум, superscore и текущий код отправки в руководстве не опубликованы",
+      "en": "Optional; no minimum, superscore or current reporting code published in the guide"
+    },
+    "IB / A-level": {
+      "ru": "IB / A-level",
+      "en": "IB / A-level"
+    },
+    "Optional; predicted results accepted": {
+      "ru": "Необязательно; прогнозные результаты принимаются",
+      "en": "Optional; predicted results accepted"
+    },
+    "National exam": {
+      "ru": "Национальный экзамен",
+      "en": "National exam"
+    },
+    "Optional if relevant to graduation/admission; explain unfamiliar system": {
+      "ru": "Необязательно, если связан с выпуском / поступлением; объяснить незнакомую систему",
+      "en": "Optional if relevant to graduation/admission; explain unfamiliar system"
+    },
+    "IELTS / TOEFL iBT": {
+      "ru": "IELTS / TOEFL iBT",
+      "en": "IELTS / TOEFL iBT"
+    },
+    "Optional; no minimum": {
+      "ru": "Необязательно; минимум отсутствует",
+      "en": "Optional; no minimum"
+    },
+    "TEPS / TOEIC": {
+      "ru": "TEPS / TOEIC",
+      "en": "TEPS / TOEIC"
+    },
+    "Optional; accepted": {
+      "ru": "Необязательно; принимается",
+      "en": "Optional; accepted"
+    },
+    "Cambridge CAE/CPE, PTE Academic, Duolingo": {
+      "ru": "Cambridge CAE/CPE, PTE Academic, Duolingo",
+      "en": "Cambridge CAE/CPE, PTE Academic, Duolingo"
+    },
+    "Validity": {
+      "ru": "Срок действия",
+      "en": "Validity"
+    },
+    "English evidence within two years under guide terms": {
+      "ru": "Подтверждение английского — не старше двух лет по условиям руководства",
+      "en": "English evidence within two years under guide terms"
+    },
+    "TOPIK": {
+      "ru": "TOPIK",
+      "en": "TOPIK"
+    },
+    "Not required for English-medium academic route": {
+      "ru": "Не требуется для англоязычного академического пути",
+      "en": "Not required for English-medium academic route"
+    },
+    "Interview / exam": {
+      "ru": "Интервью / экзамен",
+      "en": "Interview / exam"
+    },
+    "No routine internal Math, Physics, Chemistry, programming or placement exam is published for admission. DGIST may invite selected applicants to an interview; it is mandatory only if invited. Exact format, subjects, duration and weighting are not officially published.": {
+      "ru": "Регулярный внутренний экзамен по математике, физике, химии, программированию или распределительный экзамен при поступлении не опубликован. DGIST может пригласить отдельных кандидатов на интервью; оно обязательно только для приглашённых. Формат, темы, продолжительность и вес официально не опубликованы.",
+      "en": "No routine internal Math, Physics, Chemistry, programming or placement exam is published for admission. DGIST may invite selected applicants to an interview; it is mandatory only if invited. Exact format, subjects, duration and weighting are not officially published."
+    },
+    "**My strategy:** use one Math, CS or Physics teacher who can give concrete evidence of problem-solving, initiative and classroom/research performance. Counselor context belongs in the school profile unless the counselor directly taught or supervised substantial work.": {
+      "ru": "**Стратегия — анализ:** выбрать учителя математики, CS или физики с конкретными примерами решения задач, инициативы и учебной / исследовательской работы. Контекст консультанта лучше включить в профиль школы, если он не учил или существенно не курировал вас напрямую.",
+      "en": "**My strategy:** use one Math, CS or Physics teacher who can give concrete evidence of problem-solving, initiative and classroom/research performance. Counselor context belongs in the school profile unless the counselor directly taught or supervised substantial work."
+    },
+    "Number": {
+      "ru": "Количество",
+      "en": "Number"
+    },
+    "0 required; **one optional maximum**": {
+      "ru": "Обязательных — 0; **максимум одно необязательное**",
+      "en": "0 required; **one optional maximum**"
+    },
+    "Who": {
+      "ru": "Кто",
+      "en": "Who"
+    },
+    "Academic adviser, school teacher, principal, university counselor or other academic personnel": {
+      "ru": "Академический консультант, школьный учитель, директор, университетский консультант или другой академический сотрудник",
+      "en": "Academic adviser, school teacher, principal, university counselor or other academic personnel"
+    },
+    "Submission": {
+      "ru": "Отправка",
+      "en": "Submission"
+    },
+    "Direct online recommender submission; Korean or English": {
+      "ru": "Рекомендатель отправляет напрямую онлайн; корейский или английский",
+      "en": "Direct online recommender submission; Korean or English"
+    },
+    "Required identification": {
+      "ru": "Обязательные сведения об авторе",
+      "en": "Required identification"
+    },
+    "Name, position, affiliation, relationship and contact details": {
+      "ru": "Имя, должность, организация, связь с кандидатом и контакты",
+      "en": "Name, position, affiliation, relationship and contact details"
+    },
+    "Exact ratings/questions/limits": {
+      "ru": "Точные критерии / вопросы / ограничения",
+      "en": "Exact ratings/questions/limits"
+    },
+    "**Not publicly published** as of 4 Oct; DGIST says detailed process will appear when the cycle starts": {
+      "ru": "**Публично не опубликованы** на 4 октября; DGIST обещает подробный порядок при открытии цикла",
+      "en": "**Not publicly published** as of 4 Oct; DGIST says detailed process will appear when the cycle starts"
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "Inspect the live Study in Korea form on 2 December for text boxes. Do not invent prompts now.": {
+      "ru": "Проверить текстовые поля действующей формы Study in Korea 2 декабря. Сейчас не выдумывать вопросы.",
+      "en": "Inspect the live Study in Korea form on 2 December for text boxes. Do not invent prompts now."
+    },
+    "Essay": {
+      "ru": "Эссе",
+      "en": "Essay"
+    },
+    "Prompt": {
+      "ru": "Вопрос",
+      "en": "Prompt"
+    },
+    "Limit": {
+      "ru": "Ограничение объёма",
+      "en": "Limit"
+    },
+    "Status": {
+      "ru": "Статус",
+      "en": "Status"
+    },
+    "Personal statement / study plan": {
+      "ru": "Personal Statement / учебный план",
+      "en": "Personal statement / study plan"
+    },
+    "Not listed in the current public required-document list": {
+      "ru": "Не перечислено в текущем публичном списке обязательных документов",
+      "en": "Not listed in the current public required-document list"
+    },
+    "Not officially published": {
+      "ru": "Официально не опубликовано",
+      "en": "Not officially published"
+    },
+    "Scholarship essay": {
+      "ru": "Эссе на стипендию",
+      "en": "Scholarship essay"
+    },
+    "None": {
+      "ru": "Нет",
+      "en": "None"
+    },
+    "Scholarship consideration is not shown as a separate application": {
+      "ru": "Рассмотрение на стипендию не показано как отдельная заявка",
+      "en": "Scholarship consideration is not shown as a separate application"
+    },
+    "Scholarships and aid": {
+      "ru": "Стипендии и помощь",
+      "en": "Scholarships and aid"
+    },
+    "Source: [official undergraduate scholarship page](https://www.dgist.ac.kr/iuadm/sub04_01.do).": {
+      "ru": "Источник: [официальная страница стипендий бакалавриата](https://www.dgist.ac.kr/iuadm/sub04_01.do).",
+      "en": "Source: [official undergraduate scholarship page](https://www.dgist.ac.kr/iuadm/sub04_01.do)."
+    },
+    "Financial Aid and DGISTep are presented as different support types; do **not** add both monthly figures unless DGIST confirms stacking.": {
+      "ru": "Financial Aid и DGISTep представлены как разные виды поддержки; **не** складывать ежемесячные суммы без подтверждения DGIST.",
+      "en": "Financial Aid and DGISTep are presented as different support types; do **not** add both monthly figures unless DGIST confirms stacking."
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award": {
+      "ru": "Стипендия",
+      "en": "Award"
+    },
+    "Separate application?": {
+      "ru": "Отдельная заявка?",
+      "en": "Separate application?"
+    },
+    "Automatic tuition": {
+      "ru": "Автоматическое покрытие обучения",
+      "en": "Automatic tuition"
+    },
+    "DGIST international undergraduate tuition support": {
+      "ru": "Поддержка оплаты обучения иностранных бакалавров DGIST",
+      "en": "DGIST international undergraduate tuition support"
+    },
+    "No": {
+      "ru": "Нет",
+      "en": "No"
+    },
+    "Full tuition, maximum 8 semesters; current page states no GPA condition": {
+      "ru": "Полное покрытие обучения, максимум 8 семестров; текущая страница не устанавливает условие GPA",
+      "en": "Full tuition, maximum 8 semesters; current page states no GPA condition"
+    },
+    "Living support route 1": {
+      "ru": "Поддержка проживания — вариант 1",
+      "en": "Living support route 1"
+    },
+    "Financial Aid": {
+      "ru": "Financial Aid",
+      "en": "Financial Aid"
+    },
+    "No separate admission form published": {
+      "ru": "Отдельная форма при поступлении не опубликована",
+      "en": "No separate admission form published"
+    },
+    "KRW 328,500/month during regular semesters; ≥10 credits, no disciplinary/probation status": {
+      "ru": "KRW 328 500 в месяц в обычные семестры; ≥10 кредитов, без дисциплинарного взыскания / испытательного академического статуса",
+      "en": "KRW 328,500/month during regular semesters; ≥10 credits, no disciplinary/probation status"
+    },
+    "Living support route 2": {
+      "ru": "Поддержка проживания — вариант 2",
+      "en": "Living support route 2"
+    },
+    "DGISTep": {
+      "ru": "DGISTep",
+      "en": "DGISTep"
+    },
+    "KRW 330,000/month including vacations; ≥10 credits, no probation": {
+      "ru": "KRW 330 000 в месяц, включая каникулы; ≥10 кредитов, без испытательного академического статуса",
+      "en": "KRW 330,000/month including vacations; ≥10 credits, no probation"
+    },
+    "High-achievement award": {
+      "ru": "Награда за высокие достижения",
+      "en": "High-achievement award"
+    },
+    "DGISTep-S": {
+      "ru": "DGISTep-S",
+      "en": "DGISTep-S"
+    },
+    "Internal selection": {
+      "ru": "Внутренний отбор",
+      "en": "Internal selection"
+    },
+    "KRW 1.5m/semester; not first semester; freshman GPA >3.7/4.3 or sophomore+ >4.0 plus ≥15 credits": {
+      "ru": "KRW 1.5 млн за семестр; не в первом семестре; GPA первокурсника >3.7/4.3 либо со второго курса >4.0, плюс ≥15 кредитов",
+      "en": "KRW 1.5m/semester; not first semester; freshman GPA >3.7/4.3 or sophomore+ >4.0 plus ≥15 credits"
+    },
+    "Settlement": {
+      "ru": "Обустройство",
+      "en": "Settlement"
+    },
+    "International settlement allowance": {
+      "ru": "Выплата иностранным студентам на обустройство",
+      "en": "International settlement allowance"
+    },
+    "KRW 500,000 once": {
+      "ru": "Однократно KRW 500 000",
+      "en": "KRW 500,000 once"
+    },
+    "Need-based/government": {
+      "ru": "Помощь по финансовой потребности / государственная",
+      "en": "Need-based/government"
+    },
+    "No additional applicant-level scheme confirmed": {
+      "ru": "Дополнительная схема для поступающих не подтверждена",
+      "en": "No additional applicant-level scheme confirmed"
+    },
+    "Do not assume": {
+      "ru": "Не предполагать",
+      "en": "Do not assume"
+    },
+    "Coverage and renewal": {
+      "ru": "Покрытие расходов и продление",
+      "en": "Coverage and renewal"
+    },
+    "An exact annual gap cannot be calculated because current official admissions pages do not publish a complete Fall 2027 cost of attendance or guaranteed dorm rate. [Housing page](https://www.dgist.ac.kr/iuadm/sub04_03.do) confirms dorm availability but says accommodation is paid individually; it does not give a four-year guarantee on the reviewed page.": {
+      "ru": "Точные годовые непокрытые расходы нельзя рассчитать: текущие официальные страницы не публикуют полную стоимость Fall 2027 (COA) или гарантированный тариф общежития. [Страница проживания](https://www.dgist.ac.kr/iuadm/sub04_03.do) подтверждает наличие общежития, но проживание оплачивается индивидуально; на проверенной странице нет гарантии всех четырёх лет.",
+      "en": "An exact annual gap cannot be calculated because current official admissions pages do not publish a complete Fall 2027 cost of attendance or guaranteed dorm rate. [Housing page](https://www.dgist.ac.kr/iuadm/sub04_03.do) confirms dorm availability but says accommodation is paid individually; it does not give a four-year guarantee on the reviewed page."
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "Full waiver up to 8 semesters": {
+      "ru": "Полное освобождение от оплаты до 8 семестров",
+      "en": "Full waiver up to 8 semesters"
+    },
+    "Housing": {
+      "ru": "Проживание",
+      "en": "Housing"
+    },
+    "Student pays": {
+      "ru": "Оплачивает студент",
+      "en": "Student pays"
+    },
+    "Meals": {
+      "ru": "Питание",
+      "en": "Meals"
+    },
+    "Not separately guaranteed": {
+      "ru": "Отдельно не гарантировано",
+      "en": "Not separately guaranteed"
+    },
+    "Paid from allowance/personal funds": {
+      "ru": "Оплачивается из выплаты / личных средств",
+      "en": "Paid from allowance/personal funds"
+    },
+    "Monthly living": {
+      "ru": "Ежемесячная поддержка проживания",
+      "en": "Monthly living"
+    },
+    "Yes, assigned support type": {
+      "ru": "Да, по назначенному виду поддержки",
+      "en": "Yes, assigned support type"
+    },
+    "KRW 328,500 or 330,000 under current categories": {
+      "ru": "KRW 328 500 или 330 000 по текущим категориям",
+      "en": "KRW 328,500 or 330,000 under current categories"
+    },
+    "KRW 500k once": {
+      "ru": "Однократно KRW 500 000",
+      "en": "KRW 500k once"
+    },
+    "Books / visa / flight / transport / laptop": {
+      "ru": "Учебники / виза / перелёт / транспорт / ноутбук",
+      "en": "Books / visa / flight / transport / laptop"
+    },
+    "Not published as covered": {
+      "ru": "Покрытие не опубликовано",
+      "en": "Not published as covered"
+    },
+    "Personal cost": {
+      "ru": "Личные расходы",
+      "en": "Personal cost"
+    },
+    "Health insurance": {
+      "ru": "Медицинская страховка",
+      "en": "Health insurance"
+    },
+    "Current international support page should control at enrolment": {
+      "ru": "При зачислении приоритет у текущей страницы международной поддержки",
+      "en": "Current international support page should control at enrolment"
+    },
+    "Exact 2027 amount/coverage TBA": {
+      "ru": "Точная сумма / покрытие 2027 пока не опубликованы",
+      "en": "Exact 2027 amount/coverage TBA"
+    },
+    "After admission": {
+      "ru": "После поступления",
+      "en": "After admission"
+    },
+    "Accept/enrol by the offer deadline; submit final NIS certificate/transcript and authentication requested by DGIST; provide any original test evidence; arrange visa, financial proof, insurance and paid dormitory; complete arrival/orientation. Exact diploma/apostille, housing and visa dates remain offer-specific/TBA.": {
+      "ru": "Принять оффер / зачислиться в его срок; предоставить итоговый сертификат / транскрипт NIS и запрошенное DGIST заверение; при необходимости оригиналы результатов; оформить визу, финансовое подтверждение, страховку и платное общежитие; пройти подготовку приезда / ориентацию. Точные сроки диплома / апостиля, жилья и визы индивидуальны / TBA.",
+      "en": "Accept/enrol by the offer deadline; submit final NIS certificate/transcript and authentication requested by DGIST; provide any original test evidence; arrange visa, financial proof, insurance and paid dormitory; complete arrival/orientation. Exact diploma/apostille, housing and visa dates remain offer-specific/TBA."
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission difficulty:** Reach / competitive.": {
+      "ru": "**Сложность поступления:** высокая конкурсность (Reach / competitive).",
+      "en": "**Admission difficulty:** Reach / competitive."
+    },
+    "**Full-funding difficulty:** Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance.": {
+      "ru": "**Сложность полного финансирования:** тесно связана с поступлением; обучение покрывается автоматически, но жильё / питание могут превышать выплату, поэтому пакет не равен полному COA.",
+      "en": "**Full-funding difficulty:** Closely tied to admission; tuition is strong and automatic, but the package is not full cost of attendance because housing/meals can exceed the allowance."
+    },
+    "**Fit:** Strong for flexible CS/AI exploration and research.": {
+      "ru": "**Соответствие профилю:** хорошо для гибкого изучения CS/AI и исследований.",
+      "en": "**Fit:** Strong for flexible CS/AI exploration and research."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "Exact online recommendation questions; any live-form essay fields; whether NIS results count as an optional national examination; agency-report requirement/codes; interview format; final certificate/apostille deadline; exact housing allocation/rate; insurance coverage; whether living-support categories stack or are alternatives.": {
+      "ru": "Точные вопросы онлайн-рекомендации; эссе действующей формы; засчитывается ли NIS как необязательный национальный экзамен; официальная отправка / коды; формат интервью; срок итогового сертификата / апостиля; распределение / тариф жилья; страховка; суммируются ли виды поддержки проживания или являются альтернативами.",
+      "en": "Exact online recommendation questions; any live-form essay fields; whether NIS results count as an optional national examination; agency-report requirement/codes; interview format; final certificate/apostille deadline; exact housing allocation/rate; insurance coverage; whether living-support categories stack or are alternatives."
+    },
+    "Email question": {
+      "ru": "Вопрос для письма",
+      "en": "Email question"
+    },
+    "I am a Grade 12 applicant from Nazarbayev Intellectual School in Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with an official expected-graduation letter, current transcript and NIS predicted grades, then submit the final apostilled certificate after admission? What is the exact final-document deadline, and may the NIS Certificate be submitted as optional national school-leaving examination evidence?": {
+      "ru": "Я кандидат Grade 12 Назарбаев Интеллектуальной школы в Казахстане. Итоговый сертификат NIS получу в июне 2027. Можно ли подать официальное письмо об ожидаемом выпуске, текущий транскрипт и прогнозные NIS, а итоговый сертификат с апостилем после поступления? Каков точный срок итоговых документов? Можно ли представить сертификат NIS как необязательное подтверждение национального выпускного экзамена?",
+      "en": "I am a Grade 12 applicant from Nazarbayev Intellectual School in Kazakhstan. My final NIS Certificate will be issued in June 2027. May I apply with an official expected-graduation letter, current transcript and NIS predicted grades, then submit the final apostilled certificate after admission? What is the exact final-document deadline, and may the NIS Certificate be submitted as optional national school-leaving examination evidence?"
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[Application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)": {
+      "ru": "[Порядок подачи заявки](https://www.dgist.ac.kr/iuadm/sub02_03.do)",
+      "en": "[Application process](https://www.dgist.ac.kr/iuadm/sub02_03.do)"
+    },
+    "[Application documents](https://www.dgist.ac.kr/iuadm/sub02_04.do)": {
+      "ru": "[Документы заявки](https://www.dgist.ac.kr/iuadm/sub02_04.do)",
+      "en": "[Application documents](https://www.dgist.ac.kr/iuadm/sub02_04.do)"
+    },
+    "[Scholarships](https://www.dgist.ac.kr/iuadm/sub04_01.do)": {
+      "ru": "[Стипендии](https://www.dgist.ac.kr/iuadm/sub04_01.do)",
+      "en": "[Scholarships](https://www.dgist.ac.kr/iuadm/sub04_01.do)"
+    },
+    "[Housing](https://www.dgist.ac.kr/iuadm/sub04_03.do)": {
+      "ru": "[Проживание](https://www.dgist.ac.kr/iuadm/sub04_03.do)",
+      "en": "[Housing](https://www.dgist.ac.kr/iuadm/sub04_03.do)"
+    },
+    "[Study in Korea](https://www.studyinkorea.go.kr/)": {
+      "ru": "[Study in Korea](https://www.studyinkorea.go.kr/)",
+      "en": "[Study in Korea](https://www.studyinkorea.go.kr/)"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Application + optional recommendation": {
+      "ru": "Заявка + необязательное рекомендательное письмо",
+      "en": "Application + optional recommendation"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Evaluation / possible interview — through April 2027": {
+      "ru": "Рассмотрение / возможное интервью — до апреля 2027",
+      "en": "Evaluation / possible interview — through April 2027"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "Acceptance / enrolment — by 11 May": {
+      "ru": "Принятие оффера / зачисление — до 11 мая",
+      "en": "Acceptance / enrolment — by 11 May"
+    },
+    "Registration": {
+      "ru": "Зачисление",
+      "en": "Registration"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "Semester — late August / early September 2027": {
+      "ru": "Начало семестра — конец августа / начало сентября 2027",
+      "en": "Semester — late August / early September 2027"
+    },
+    "Semester": {
+      "ru": "Начало обучения",
+      "en": "Semester"
+    },
+    "Application process": {
+      "ru": "Порядок подачи заявки",
+      "en": "Application process"
+    },
+    "Scholarships": {
+      "ru": "Стипендии",
+      "en": "Scholarships"
+    },
+    "Application documents": {
+      "ru": "Документы заявки",
+      "en": "Application documents"
+    },
+    "Study in Korea": {
+      "ru": "Study in Korea",
+      "en": "Study in Korea"
+    }
+  }
+}

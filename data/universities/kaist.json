@@ -1,0 +1,3170 @@
+{
+  "id": "audit-kaist",
+  "name": "KAIST",
+  "country": "South Korea",
+  "city": "Daejeon",
+  "batch": 1,
+  "checkedAt": "2026-10-04",
+  "evidence": "confirmed",
+  "awaitingAudit": false,
+  "platform": "KAIST International Undergraduate Admission online system",
+  "programs": [
+    "Computer Science",
+    "AI Computing",
+    "AI Systems",
+    "AX / AI and Future Studies",
+    "Electrical Engineering"
+  ],
+  "fundingTags": [
+    "full-tuition",
+    "automatic"
+  ],
+  "fundingSummary": "Full tuition · KRW 350,000/month · health insurance; housing paid separately",
+  "admissionDifficulty": "Extreme reach.",
+  "fundingDifficulty": "Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it.",
+  "blocks": [
+    {
+      "id": "audit-kaist-block-1",
+      "title": "A. University snapshot",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Field",
+            "Verified answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-1-table-0-row-0",
+              "fields": {
+                "Field": "University",
+                "Verified answer": "Korea Advanced Institute of Science and Technology (KAIST)"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-1",
+              "fields": {
+                "Field": "Country / city / campus",
+                "Verified answer": "Republic of Korea · Daejeon · main campus"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-2",
+              "fields": {
+                "Field": "University type",
+                "Verified answer": "Public STEM institute"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-3",
+              "fields": {
+                "Field": "Fall 2027 status",
+                "Verified answer": "**CONFIRMED FOR FALL 2027**"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-4",
+              "fields": {
+                "Field": "Application platform",
+                "Verified answer": "KAIST International Undergraduate Admission online system"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-5",
+              "fields": {
+                "Field": "Application URL",
+                "Verified answer": "[Official application timeline and portal entry](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-6",
+              "fields": {
+                "Field": "Best programme(s)",
+                "Verified answer": "Undeclared admission → **Computer Science**, **AI Computing** or **AI Systems**; secondary option Electrical Engineering"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-7",
+              "fields": {
+                "Field": "Degree / language",
+                "Verified answer": "Bachelor’s degree; most courses are conducted in English and English is the official communication language for the international route"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-8",
+              "fields": {
+                "Field": "Major structure",
+                "Verified answer": "All freshmen enter **undecided**. A department is chosen in sophomore year without another admission process or extra requirements. [Programme overview](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)"
+              }
+            },
+            {
+              "id": "audit-kaist-block-1-table-0-row-9",
+              "fields": {
+                "Field": "Approximate international intake / selectivity",
+                "Verified answer": "Not officially published for this cycle"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-2",
+      "title": "Changes since 13 Sep 2026",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Correction:** fee is now verified as **USD 80**, non-refundable. Kazakhstan is not within the published LDC waiver group.",
+        "**Correction:** KAIST accepts **up to two optional recommendations**; it does not require one recommendation for Fall 2027.",
+        "**Correction:** an English-proficiency document is required unless the applicant meets the narrow official exemption. IELTS 6.5 is a recommendation, not a minimum.",
+        "The Early application is open and closes **22 October 2026 at 18:00 KST**.",
+        "Exact five 2027 written questions and limits are available."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-3",
+      "title": "B. Programmes for this applicant",
+      "tab": "programs",
+      "paragraphs": [
+        "**Best programme for me:** Computer Science is the broadest fit for software, algorithms and data work. AI Computing or AI Systems is the more focused choice if the final curriculum and career goal are clearly AI-centered. Electrical Engineering is rational when the portfolio includes robotics, hardware, signal processing or embedded computing."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Official programme",
+            "Degree / unit",
+            "Entry and prerequisites",
+            "Restrictions / change"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-3-table-0-row-0",
+              "fields": {
+                "Official programme": "Computer Science",
+                "Degree / unit": "Bachelor’s; School of Computing, College of Engineering",
+                "Entry and prerequisites": "No direct-major entry. Strong mathematics/science preparation is encouraged; the admission guide does not set a CS-specific physics, calculus or programming minimum.",
+                "Restrictions / change": "International applicants may select it in sophomore year without a quota or second admission stated on the admissions page."
+              }
+            },
+            {
+              "id": "audit-kaist-block-3-table-0-row-1",
+              "fields": {
+                "Official programme": "AI Computing",
+                "Degree / unit": "Bachelor’s; School of AI, College of AI",
+                "Entry and prerequisites": "Same undeclared entry; no programme-specific admission prerequisite published",
+                "Restrictions / change": "Selectable in sophomore year under the same no-second-admission rule"
+              }
+            },
+            {
+              "id": "audit-kaist-block-3-table-0-row-2",
+              "fields": {
+                "Official programme": "AI Systems",
+                "Degree / unit": "Bachelor’s; School of AI, College of AI",
+                "Entry and prerequisites": "Same undeclared entry; systems-oriented AI route",
+                "Restrictions / change": "Same"
+              }
+            },
+            {
+              "id": "audit-kaist-block-3-table-0-row-3",
+              "fields": {
+                "Official programme": "AX / AI and Future Studies",
+                "Degree / unit": "Bachelor’s programmes listed by the College of AI",
+                "Entry and prerequisites": "Same general entry",
+                "Restrictions / change": "Broader/interdisciplinary options; inspect curriculum before choosing"
+              }
+            },
+            {
+              "id": "audit-kaist-block-3-table-0-row-4",
+              "fields": {
+                "Official programme": "Electrical Engineering",
+                "Degree / unit": "Bachelor’s; School of Electrical Engineering",
+                "Entry and prerequisites": "Same general KAIST admission; useful for computer engineering, hardware, embedded systems and AI systems.",
+                "Restrictions / change": "Same undeclared-major rule."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-4",
+      "title": "C. Application rounds and deadlines",
+      "tab": "deadlines",
+      "paragraphs": [
+        "Source: [official Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) and [2027 admissions guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf).",
+        "The guide does **not** label Early as binding. After paying, the applicant cannot switch application track; application data may be updated only during the open window."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Event",
+            "Date / time",
+            "Zone",
+            "Confirmed?",
+            "What must be ready"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-4-table-0-row-0",
+              "fields": {
+                "Event": "Early opens",
+                "Date / time": "22 Sep 2026",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Account, identity, school and test data"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-1",
+              "fields": {
+                "Event": "Early application + uploads",
+                "Date / time": "**22 Oct 2026, 18:00**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Paid/submitted form and all applicant uploads"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-2",
+              "fields": {
+                "Event": "Early recommendations",
+                "Date / time": "**29 Oct 2026**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Optional recommender submissions"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-3",
+              "fields": {
+                "Event": "Early interview, if requested",
+                "Date / time": "22 Dec 2026",
+                "Zone": "KST / online",
+                "Confirmed?": "Yes",
+                "What must be ready": "Interview setup and submitted-file review"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-4",
+              "fields": {
+                "Event": "Early decision",
+                "Date / time": "7 Jan 2027, 10:00",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Monitor portal"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-5",
+              "fields": {
+                "Event": "Regular opens",
+                "Date / time": "10 Nov 2026",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Complete application"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-6",
+              "fields": {
+                "Event": "Regular application + uploads",
+                "Date / time": "**14 Jan 2027, 18:00**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Paid/submitted form and uploads"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-7",
+              "fields": {
+                "Event": "Regular recommendations",
+                "Date / time": "**21 Jan 2027**",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Optional recommender submissions"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-8",
+              "fields": {
+                "Event": "Regular interview, if requested",
+                "Date / time": "3 Mar 2027",
+                "Zone": "KST / online",
+                "Confirmed?": "Yes",
+                "What must be ready": "Interview setup"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-9",
+              "fields": {
+                "Event": "Regular decision",
+                "Date / time": "25 Mar 2027, 10:00",
+                "Zone": "KST",
+                "Confirmed?": "Yes",
+                "What must be ready": "Monitor portal"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-10",
+              "fields": {
+                "Event": "Confirm offer",
+                "Date / time": "Within two weeks after verification",
+                "Zone": "—",
+                "Confirmed?": "Yes",
+                "What must be ready": "Exact portal instruction controls"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-11",
+              "fields": {
+                "Event": "Final/apostilled documents",
+                "Date / time": "Date stated with result",
+                "Zone": "—",
+                "Confirmed?": "TBA",
+                "What must be ready": "Originals/certified/apostilled evidence"
+              }
+            },
+            {
+              "id": "audit-kaist-block-4-table-0-row-12",
+              "fields": {
+                "Event": "Semester start",
+                "Date / time": "End of Aug 2027",
+                "Zone": "—",
+                "Confirmed?": "Partial",
+                "What must be ready": "Visa, housing, arrival"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-5",
+      "title": "My recommended timeline",
+      "tab": "deadlines",
+      "paragraphs": [],
+      "lists": [
+        "Ask recommender(s) and counselor: **5 October**.",
+        "Order official SAT/AP/ACT report, if used: **6–8 October**; KAIST says to allow 1–2 weeks.",
+        "First complete draft of all five responses: **7 October**.",
+        "Transcript, expected-graduation letter, English proof and identity file final: **10 October**.",
+        "Final essays and evidence audit: **13 October**.",
+        "Early target submission: **15–17 October**.",
+        "Optional recommendations target: **20 October**.",
+        "If required testing or school evidence cannot be complete and credible, use Regular: recommender by **1 December**, application target **4–7 January**, recommendation target **12 January**."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-6",
+      "title": "D. Platform, fee and editing rules",
+      "tab": "application",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Fall 2027 rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-6-table-0-row-0",
+              "fields": {
+                "Item": "System",
+                "Fall 2027 rule": "KAIST own international undergraduate portal"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-1",
+              "fields": {
+                "Item": "Programme choices",
+                "Fall 2027 rule": "Admission is undeclared; no ranked major choices are needed for admission"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-2",
+              "fields": {
+                "Item": "Application fee",
+                "Fall 2027 rule": "**USD 80**"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-3",
+              "fields": {
+                "Item": "Refundability",
+                "Fall 2027 rule": "Non-refundable after payment"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-4",
+              "fields": {
+                "Item": "Waiver",
+                "Fall 2027 rule": "Only the published Least Developed Country process. Regular waiver request is 6–15 Oct 2026; result shortly before opening. Kazakhstan is not eligible under that list."
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-5",
+              "fields": {
+                "Item": "Common App waiver",
+                "Fall 2027 rule": "Not applicable"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-6",
+              "fields": {
+                "Item": "Separate scholarship fee",
+                "Fall 2027 rule": "None"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-7",
+              "fields": {
+                "Item": "Editing",
+                "Fall 2027 rule": "Permitted during the application window; track cannot be changed after fee payment"
+              }
+            },
+            {
+              "id": "audit-kaist-block-6-table-0-row-8",
+              "fields": {
+                "Item": "Initial paper mail",
+                "Fall 2027 rule": "No. Upload scans/PDFs. Successful applicants later mail verified documents."
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-7",
+      "title": "E. Document checklist and who submits what",
+      "tab": "documents",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Document",
+            "Required?",
+            "Who submits",
+            "When / format",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-7-table-0-row-0",
+              "fields": {
+                "Document": "Online application + five responses",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Portal by application deadline",
+                "Notes": "English; exact limits below"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-1",
+              "fields": {
+                "Document": "Passport or national ID",
+                "Required?": "R",
+                "Who submits": "Applicant",
+                "When / format": "Upload scan",
+                "Notes": "Citizenship eligibility evidence"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-2",
+              "fields": {
+                "Document": "Parents’ passports/ID",
+                "Required?": "POST",
+                "Who submits": "Applicant",
+                "When / format": "After admission by international mail",
+                "Notes": "Both parents; Korean-origin/custody exceptions need additional records"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-3",
+              "fields": {
+                "Document": "Family relationship / birth certificate",
+                "Required?": "POST",
+                "Who submits": "Applicant",
+                "When / format": "After admission; certified/apostilled as instructed",
+                "Notes": "Must connect applicant and parents"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-4",
+              "fields": {
+                "Document": "Grades/transcripts for final 2–3 high-school years",
+                "Required?": "R",
+                "Who submits": "Applicant uploads school-issued scan",
+                "When / format": "By application deadline",
+                "Notes": "Include current courses; grading scale/context should be visible"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-5",
+              "fields": {
+                "Document": "Grade 12 current / predicted",
+                "Required?": "R in practice",
+                "Who submits": "Applicant from school-issued document",
+                "When / format": "By deadline",
+                "Notes": "IB/A-level predicted explicitly recognized; NIS predicted treatment is not stated"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-6",
+              "fields": {
+                "Document": "Expected graduation evidence",
+                "Required?": "R if not graduated",
+                "Who submits": "Applicant uploads school official document",
+                "When / format": "By deadline",
+                "Notes": "Must graduate by 31 Aug 2027"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-7",
+              "fields": {
+                "Document": "Final NIS certificate/transcript",
+                "Required?": "POST",
+                "Who submits": "Applicant/school as directed",
+                "When / format": "Offer-specific deadline",
+                "Notes": "Apostille/legalization may be required"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-8",
+              "fields": {
+                "Document": "School profile",
+                "Required?": "O / useful",
+                "Who submits": "Applicant",
+                "When / format": "Upload, maximum 5 pages",
+                "Notes": "Strongly useful for NIS curriculum and grading scale"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-9",
+              "fields": {
+                "Document": "One official standardized test category",
+                "Required?": "**R**",
+                "Who submits": "Applicant uploads; agency sends SAT/AP/ACT",
+                "When / format": "By deadline",
+                "Notes": "SAT/ACT/AP/IB/A-level/national leaving or entrance exam; see tests"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-10",
+              "fields": {
+                "Document": "English test or qualifying exemption letter",
+                "Required?": "**R**",
+                "Who submits": "Applicant uploads",
+                "When / format": "By deadline",
+                "Notes": "Online/at-home and TOEFL ITP not accepted"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-11",
+              "fields": {
+                "Document": "Recommendation 1",
+                "Required?": "O / highly recommended",
+                "Who submits": "Recommender",
+                "When / format": "Direct portal by rec deadline",
+                "Notes": "Academic adviser, homeroom, Math or Science teacher"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-12",
+              "fields": {
+                "Document": "Recommendation 2",
+                "Required?": "O / highly recommended",
+                "Who submits": "Recommender",
+                "When / format": "Direct portal by rec deadline",
+                "Notes": "Maximum two total"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-13",
+              "fields": {
+                "Document": "Awards/honors",
+                "Required?": "O",
+                "Who submits": "Applicant",
+                "When / format": "Up to 5 uploads",
+                "Notes": "Select strongest, verifiable evidence"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-14",
+              "fields": {
+                "Document": "CV / résumé",
+                "Required?": "—",
+                "Who submits": "—",
+                "When / format": "—",
+                "Notes": "No separate requirement in guide; activities are captured in form"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-15",
+              "fields": {
+                "Document": "GitHub / portfolio",
+                "Required?": "— / strategic",
+                "Who submits": "Applicant only if a relevant form field permits",
+                "When / format": "Link, not a substitute for required evidence",
+                "Notes": "Not a formal required item"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-16",
+              "fields": {
+                "Document": "Bank statement",
+                "Required?": "POST",
+                "Who submits": "Applicant",
+                "When / format": "After admission",
+                "Notes": "Guide gives visa/financial proof rule; see gap note"
+              }
+            },
+            {
+              "id": "audit-kaist-block-7-table-0-row-17",
+              "fields": {
+                "Document": "Apostilled diploma/transcript",
+                "Required?": "POST",
+                "Who submits": "Applicant/school",
+                "When / format": "International mail after offer",
+                "Notes": "Private-school records may need notarization before apostille"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-8",
+      "title": "F. NIS route",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "KAIST does not publish a named NIS qualification route or required NIS Higher Level grades.",
+        "NIS is therefore reviewed as the applicant’s official high-school curriculum, not automatically as the ordinary Kazakhstan Attestat route.",
+        "Upload school transcripts, an expected-graduation letter, the NIS school profile and an explanation of the grading scale. Add the NIS Grade 12 certificate after release.",
+        "KAIST expressly permits predicted results for IB/A-level; it does **not** expressly confirm NIS predicted grades as a standardized-test substitute.",
+        "A national school-leaving/entrance result may satisfy the standardized-test category only if accompanied by the required one-page explanation of the exam system, process, competitiveness and result. Ask whether the NIS final qualification is accepted in that category.",
+        "June 2027 final results should fall before the 31 August graduation eligibility date, but the exact post-offer apostille deadline is released with the decision and remains **TBA**.",
+        "NIS English-medium schooling is not an automatic waiver. A waiver may be considered if the entire high-school curriculum was taught in English and the school issues the required official letter."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-10",
+      "title": "Official minimum",
+      "tab": "requirements",
+      "paragraphs": [],
+      "lists": [
+        "Graduate (or be expected to graduate) by **31 August 2027** and meet the published international-citizenship rules.",
+        "Submit at least one recognized standardized academic test category.",
+        "Submit English proficiency or qualifying official exemption evidence.",
+        "No GPA, NIS grade, SAT total or Math minimum is published."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-11",
+      "title": "Competitive target — analysis, not a KAIST statistic",
+      "tab": "overview",
+      "paragraphs": [
+        "The university emphasizes strong mathematics/science achievement. A 1500-class SAT with very strong Math, or excellent externally benchmarked NIS/national/olympiad evidence, would make the academic case clearer; KAIST does not publish a competitive range. With SAT 1300–1350, the application remains possible but KAIST is an extreme reach and portfolio depth cannot erase weak quantitative evidence."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-kaist-block-12",
+      "title": "Academic and English test policy",
+      "tab": "requirements",
+      "paragraphs": [
+        "English score earliest validity dates in the guide: **12 Nov 2024** for Early and **4 Feb 2025** for Regular. Late delivery is risky; official SAT/AP/ACT delivery should be ordered 1–2 weeks early."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Test",
+            "Current rule",
+            "Minimum / reporting"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-12-table-0-row-0",
+              "fields": {
+                "Test": "SAT",
+                "Current rule": "Accepted as one required academic-test option",
+                "Minimum / reporting": "No minimum or superscore policy published. Upload and official College Board delivery; code **4433**. Agency charges are separate from KAIST’s fee."
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-1",
+              "fields": {
+                "Test": "ACT",
+                "Current rule": "Accepted",
+                "Minimum / reporting": "No minimum published; official ACT delivery, code **7778**"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-2",
+              "fields": {
+                "Test": "AP",
+                "Current rule": "Accepted",
+                "Minimum / reporting": "No score minimum; official College Board delivery, code **4433**"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-3",
+              "fields": {
+                "Test": "IB / A-level",
+                "Current rule": "Accepted; predicted results accepted",
+                "Minimum / reporting": "School/board evidence under guide rules; IB code **000559**"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-4",
+              "fields": {
+                "Test": "National leaving/entrance exam",
+                "Current rule": "Accepted if relevant",
+                "Minimum / reporting": "Add one-page English explanation of system, procedure, competitiveness and result"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-5",
+              "fields": {
+                "Test": "IELTS Academic",
+                "Current rule": "Accepted",
+                "Minimum / reporting": "**6.5 recommended**, not minimum; test-report upload under guide rules; valid 2 years"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-6",
+              "fields": {
+                "Test": "TOEFL",
+                "Current rule": "Accepted",
+                "Minimum / reporting": "Old scale 83 / revised scale 4.5 recommended; not minimum"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-7",
+              "fields": {
+                "Test": "TOEIC / TEPS",
+                "Current rule": "Accepted",
+                "Minimum / reporting": "TOEIC 720 / TEPS 326 recommended"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-8",
+              "fields": {
+                "Test": "Duolingo / TOEFL ITP / at-home or online tests",
+                "Current rule": "Not accepted",
+                "Minimum / reporting": "—"
+              }
+            },
+            {
+              "id": "audit-kaist-block-12-table-0-row-9",
+              "fields": {
+                "Test": "TOPIK",
+                "Current rule": "Not required",
+                "Minimum / reporting": "Does not replace English requirement"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-13",
+      "title": "H. Internal exam and interview",
+      "tab": "requirements",
+      "paragraphs": [
+        "No routine internal Math/Physics/programming exam is published. KAIST may invite selected applicants to an **online interview** on the stated track date. It is not required for every applicant, and the public guide does not publish its length, subjects or numerical weight."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-14",
+      "title": "I. Recommendations",
+      "tab": "recommendations",
+      "paragraphs": [
+        "**My recommendation strategy:** use one NIS Math or CS teacher who can document technical reasoning, persistence and independent work. Use the second slot only for materially different evidence—Physics/research or a counselor who can explain NIS rigor and leadership. Two generic letters are weaker than one detailed technical letter."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Item",
+            "Fall 2027 answer"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-14-table-0-row-0",
+              "fields": {
+                "Item": "Number",
+                "Fall 2027 answer": "0 required; up to **2 optional**, highly recommended"
+              }
+            },
+            {
+              "id": "audit-kaist-block-14-table-0-row-1",
+              "fields": {
+                "Item": "Who",
+                "Fall 2027 answer": "Academic adviser, homeroom teacher, Math teacher or Science teacher; choose someone who taught/supervised the applicant directly"
+              }
+            },
+            {
+              "id": "audit-kaist-block-14-table-0-row-2",
+              "fields": {
+                "Item": "Submission",
+                "Fall 2027 answer": "Recommender submits through the KAIST online process by the later recommendation deadline"
+              }
+            },
+            {
+              "id": "audit-kaist-block-14-table-0-row-3",
+              "fields": {
+                "Item": "Rating areas",
+                "Fall 2027 answer": "Academic motivation, inquiry, problem-solving, integrity and future potential"
+              }
+            },
+            {
+              "id": "audit-kaist-block-14-table-0-row-4",
+              "fields": {
+                "Item": "Written fields in official form",
+                "Fall 2027 answer": "Area for improvement — 500 characters/bytes; strengths — 1,000; disciplinary/context field — 500"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Область для улучшения — 500 символов / байт; сильные стороны — 1 000; дисциплинарный / контекстный вопрос — 500",
+                "sourceEnglish": "Area for improvement — 500 characters/bytes; strengths — 1,000; disciplinary/context field — 500",
+                "sourceField": "Fall 2027 answer",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-kaist-block-14-table-0-row-5",
+              "fields": {
+                "Item": "Official form",
+                "Fall 2027 answer": "[2027 Letter of Recommendation PDF](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-15",
+      "title": "J. Essays",
+      "tab": "essays",
+      "paragraphs": [
+        "Source: [2027 application materials](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf). Limits count spaces/bytes as stated in the form.",
+        "There is no separate scholarship essay. Do not turn every answer into an award list; the form asks for reasoning and reflection."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "#",
+            "Exact official task, faithfully abbreviated",
+            "Limit",
+            "Required",
+            "What it evaluates / useful profile area"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-15-table-0-row-0",
+              "fields": {
+                "#": "1",
+                "Exact official task, faithfully abbreviated": "Pose your own STEM question (not an R&E question), then explain why it matters to you.",
+                "Limit": "Question 300; explanation 1,600 characters/bytes",
+                "Required": "Yes",
+                "What it evaluates / useful profile area": "Intellectual curiosity and independent technical thinking; a genuine project/research question can fit"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Сформулируйте собственный вопрос в области STEM (не вопрос из R&E), затем объясните, почему он важен для вас.",
+                "sourceEnglish": "Pose your own STEM question (not an R&E question), then explain why it matters to you.",
+                "sourceField": "Exact official task, faithfully abbreviated",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-kaist-block-15-table-0-row-1",
+              "fields": {
+                "#": "2",
+                "Exact official task, faithfully abbreviated": "Describe up to three curricular or extracurricular activities and what you learned/felt.",
+                "Limit": "1,500",
+                "Required": "Yes",
+                "What it evaluates / useful profile area": "Depth, reflection, sustained engagement; strongest projects, research, leadership or volunteering"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Опишите до трёх учебных или внеучебных занятий и то, чему вы научились / что почувствовали.",
+                "sourceEnglish": "Describe up to three curricular or extracurricular activities and what you learned/felt.",
+                "sourceField": "Exact official task, faithfully abbreviated",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-kaist-block-15-table-0-row-2",
+              "fields": {
+                "#": "3",
+                "Exact official task, faithfully abbreviated": "Explain something you thought about or tried differently from others and its effect on you or others.",
+                "Limit": "1,500",
+                "Required": "Yes",
+                "What it evaluates / useful profile area": "Originality, experimentation and impact; technical or community initiative"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Объясните, о чём вы думали или что пробовали иначе, чем другие, и как это повлияло на вас или окружающих.",
+                "sourceEnglish": "Explain something you thought about or tried differently from others and its effect on you or others.",
+                "sourceField": "Exact official task, faithfully abbreviated",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-kaist-block-15-table-0-row-3",
+              "fields": {
+                "#": "4",
+                "Exact official task, faithfully abbreviated": "Describe consideration, sharing, cooperation or conflict management and what you learned.",
+                "Limit": "1,500",
+                "Required": "Yes",
+                "What it evaluates / useful profile area": "Collaboration and integrity; team project or service leadership"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Опишите проявление заботы, готовности делиться, сотрудничества или разрешения конфликтов и чему вы научились.",
+                "sourceEnglish": "Describe consideration, sharing, cooperation or conflict management and what you learned.",
+                "sourceField": "Exact official task, faithfully abbreviated",
+                "wording": "paraphrase"
+              }
+            },
+            {
+              "id": "audit-kaist-block-15-table-0-row-4",
+              "fields": {
+                "#": "5",
+                "Exact official task, faithfully abbreviated": "Add family/social background or difficulties relevant to understanding you.",
+                "Limit": "1,000",
+                "Required": "Yes",
+                "What it evaluates / useful profile area": "Context and resilience; use only truthful, material context"
+              },
+              "prompt": {
+                "officialPrompt": null,
+                "promptRu": "Добавьте семейные / социальные обстоятельства или трудности, важные для понимания вас.",
+                "sourceEnglish": "Add family/social background or difficulties relevant to understanding you.",
+                "sourceField": "Exact official task, faithfully abbreviated",
+                "wording": "paraphrase"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-16",
+      "title": "K. Scholarships and financial aid",
+      "tab": "funding",
+      "paragraphs": [],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Category",
+            "Award",
+            "Separate application?",
+            "Current rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-16-table-0-row-0",
+              "fields": {
+                "Category": "Automatic admission scholarship",
+                "Award": "**KAIST Scholarship**",
+                "Separate application?": "No; tick the scholarship box in Statement of Financial Resources",
+                "Current rule": "Every admitted international applicant selected under this route is entitled to the package. [Official page](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)"
+              }
+            },
+            {
+              "id": "audit-kaist-block-16-table-0-row-1",
+              "fields": {
+                "Category": "Separate merit scholarship",
+                "Award": "Not published for this route",
+                "Separate application?": "—",
+                "Current rule": "TBA / not identified"
+              }
+            },
+            {
+              "id": "audit-kaist-block-16-table-0-row-2",
+              "fields": {
+                "Category": "Need-based aid",
+                "Award": "No separate undergraduate international need-based scheme published",
+                "Separate application?": "—",
+                "Current rule": "Do not assume CSS-style aid"
+              }
+            },
+            {
+              "id": "audit-kaist-block-16-table-0-row-3",
+              "fields": {
+                "Category": "Government scholarship",
+                "Award": "Other programmes may exist",
+                "Separate application?": "Separate external rules",
+                "Current rule": "Not required for the KAIST automatic package"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-17",
+      "title": "Coverage and renewal",
+      "tab": "funding",
+      "paragraphs": [
+        "Renewal: maintain a KAIST GPA **over 2.7/4.3 after freshman year**; scholarship duration is eight semesters. Conduct/credit details beyond the stated requirement are not published on the admissions page."
+      ],
+      "lists": [],
+      "tables": [
+        {
+          "columns": [
+            "Cost",
+            "Covered?",
+            "Amount / rule"
+          ],
+          "rows": [
+            {
+              "id": "audit-kaist-block-17-table-0-row-0",
+              "fields": {
+                "Cost": "Tuition",
+                "Covered?": "Yes",
+                "Amount / rule": "Full tuition for 8 semesters"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-1",
+              "fields": {
+                "Cost": "Mandatory university fees",
+                "Covered?": "Not expressly itemized",
+                "Amount / rule": "Do not assume every incidental fee"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-2",
+              "fields": {
+                "Cost": "Housing",
+                "Covered?": "No direct waiver",
+                "Amount / rule": "Paid from stipend/personal funds"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-3",
+              "fields": {
+                "Cost": "Meals",
+                "Covered?": "No direct meal plan",
+                "Amount / rule": "Paid from stipend/personal funds"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-4",
+              "fields": {
+                "Cost": "Monthly stipend",
+                "Covered?": "Yes",
+                "Amount / rule": "KRW 350,000/month"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-5",
+              "fields": {
+                "Cost": "Books",
+                "Covered?": "No dedicated award",
+                "Amount / rule": "Personal cost"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-6",
+              "fields": {
+                "Cost": "Health insurance",
+                "Covered?": "Yes",
+                "Amount / rule": "Medical health insurance / NHI shown in current cost table"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-7",
+              "fields": {
+                "Cost": "Visa",
+                "Covered?": "No",
+                "Amount / rule": "Personal cost"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-8",
+              "fields": {
+                "Cost": "Flights",
+                "Covered?": "No",
+                "Amount / rule": "Not published as covered"
+              }
+            },
+            {
+              "id": "audit-kaist-block-17-table-0-row-9",
+              "fields": {
+                "Cost": "Laptop / transport / summer housing",
+                "Covered?": "No",
+                "Amount / rule": "Not published as covered"
+              }
+            }
+          ]
+        }
+      ],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-18",
+      "title": "Real annual gap and housing",
+      "tab": "housing",
+      "paragraphs": [
+        "KAIST’s current official cost page estimates annual essential costs at KRW 14,885,680 and scholarship support at KRW 11,738,360, plus KRW 453,000 optional costs, producing an official displayed residual of **KRW 3,359,000/year** (about KRW 279,917/month). This is a planning estimate, subject to inflation and lifestyle; it is not a bill or a guaranteed cap. [Official cost table](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)",
+        "The cost table uses a shared dorm example of KRW 166,000/month during two four-month semesters. The admissions sources reviewed do not state a four-year housing guarantee or automatic summer housing."
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-19",
+      "title": "L. After admission checklist",
+      "tab": "after-admission",
+      "paragraphs": [],
+      "lists": [
+        "1. Accept by the offer-specific deadline.",
+        "2. Send passport, both parents’ identity/nationality evidence and family-relationship records as instructed.",
+        "3. Send final NIS certificate and transcript with apostille/legalization if requested.",
+        "4. Supply official test verification if only a PDF was initially uploaded.",
+        "5. Provide financial evidence for the visa. The guide’s illustration is KRW 16 million, reduced by roughly KRW 11.786 million in scholarship evidence, leaving about USD 3,200 equivalent; the offer/visa instruction controls.",
+        "6. Apply for visa, housing and insurance registration; complete medical/arrival steps if the offer pack requests them.",
+        "7. Attend late-August orientation/semester start."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-20",
+      "title": "M. Strategic assessment — analysis",
+      "tab": "overview",
+      "paragraphs": [],
+      "lists": [
+        "**Admission difficulty:** Extreme reach.",
+        "**Full-funding difficulty:** Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it.",
+        "**Fit:** Excellent for an applicant with strong quantitative evidence, authentic technical work and clear research curiosity."
+      ],
+      "tables": [],
+      "analysis": true
+    },
+    {
+      "id": "audit-kaist-block-21",
+      "title": "N. Still TBA / needs confirmation",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "Exact post-offer final NIS certificate and apostille deadline.",
+        "Whether KAIST treats NIS predicted/final results as the required national standardized-test category.",
+        "Interview format, subjects, duration and scoring weight for a selected applicant.",
+        "Housing guarantee and Fall 2027 dorm prices.",
+        "Any applicant-specific deposit and visa dates in the eventual offer."
+      ],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-22",
+      "title": "O. Email question for admissions",
+      "tab": "sources",
+      "paragraphs": [
+        "I am a Grade 12 student at Nazarbayev Intellectual School in Kazakhstan and will receive the final NIS Grade 12 Certificate in June 2027. May I use official NIS predicted grades or my current transcript to satisfy the standardized-test requirement at application, and submit the final apostilled NIS Certificate after admission? If yes, what is the latest date for the final certificate and apostille? Does an official NIS letter confirming that the entire high-school curriculum is taught in English qualify for the English-test exemption?"
+      ],
+      "lists": [],
+      "tables": [],
+      "analysis": false
+    },
+    {
+      "id": "audit-kaist-block-23",
+      "title": "Official sources checked",
+      "tab": "sources",
+      "paragraphs": [],
+      "lists": [
+        "[Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)",
+        "[Fall 2027 admission guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)",
+        "[2027 application materials / essays](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf)",
+        "[2027 recommendation form](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)",
+        "[Programmes and undeclared-major rule](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)",
+        "[KAIST Scholarship](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)",
+        "[Cost of attendance](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)"
+      ],
+      "tables": [],
+      "analysis": false
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "audit-kaist-official-0",
+      "universityId": "audit-kaist",
+      "title": "Early opens",
+      "type": "Opening",
+      "date": "2026-09-22",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-09-22",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-1",
+      "universityId": "audit-kaist",
+      "title": "Early application + documents",
+      "type": "Application",
+      "date": "2026-10-22",
+      "endDate": null,
+      "time": "18:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-10-22 18:00 KST",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-2",
+      "universityId": "audit-kaist",
+      "title": "Early optional recommendations",
+      "type": "Recommendation",
+      "date": "2026-10-29",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-10-29",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-3",
+      "universityId": "audit-kaist",
+      "title": "Possible Early interview",
+      "type": "Interview",
+      "date": "2026-12-22",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-12-22",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-4",
+      "universityId": "audit-kaist",
+      "title": "Early decision",
+      "type": "Decision",
+      "date": "2027-01-07",
+      "endDate": null,
+      "time": "10:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-07 10:00 KST",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-5",
+      "universityId": "audit-kaist",
+      "title": "Regular opens",
+      "type": "Opening",
+      "date": "2026-11-10",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2026-11-10",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-6",
+      "universityId": "audit-kaist",
+      "title": "Regular application + documents",
+      "type": "Application",
+      "date": "2027-01-14",
+      "endDate": null,
+      "time": "18:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-14 18:00 KST",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-7",
+      "universityId": "audit-kaist",
+      "title": "Regular optional recommendations",
+      "type": "Recommendation",
+      "date": "2027-01-21",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-01-21",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-8",
+      "universityId": "audit-kaist",
+      "title": "Possible Regular interview",
+      "type": "Interview",
+      "date": "2027-03-03",
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-03-03",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-9",
+      "universityId": "audit-kaist",
+      "title": "Regular decision",
+      "type": "Decision",
+      "date": "2027-03-25",
+      "endDate": null,
+      "time": "10:00",
+      "timezone": "Asia/Seoul",
+      "precision": "exact",
+      "evidence": "confirmed",
+      "display": "2027-03-25 10:00 KST",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-10",
+      "universityId": "audit-kaist",
+      "title": "Offer confirmation — within two weeks after verification",
+      "type": "Registration",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "relative",
+      "evidence": "confirmed",
+      "display": "Offer confirmation — within two weeks after verification",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ],
+      "approximate": {
+        "ru": "В течение двух недель после проверки",
+        "en": "Within two weeks after verification"
+      }
+    },
+    {
+      "id": "audit-kaist-official-11",
+      "universityId": "audit-kaist",
+      "title": "Final verified documents — decision-specific",
+      "type": "Final documents",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "tba",
+      "display": "Final verified documents — decision-specific",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ]
+    },
+    {
+      "id": "audit-kaist-official-12",
+      "universityId": "audit-kaist",
+      "title": "Semester begins — late August 2027",
+      "type": "Semester",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "precision": "tba",
+      "evidence": "partial",
+      "display": "Semester begins — late August 2027",
+      "sourceIds": [
+        "audit-kaist-source-8",
+        "audit-kaist-source-12",
+        "audit-kaist-source-9",
+        "audit-kaist-source-11",
+        "audit-kaist-source-10",
+        "audit-kaist-source-13",
+        "audit-kaist-source-14"
+      ],
+      "approximate": {
+        "ru": "конец августа 2027",
+        "en": "Late August 2027"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "audit-kaist-source-8",
+      "title": "Fall 2027 timeline",
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline"
+    },
+    {
+      "id": "audit-kaist-source-12",
+      "title": "Programmes and undeclared-major rule",
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01"
+    },
+    {
+      "id": "audit-kaist-source-9",
+      "title": "Fall 2027 admission guide",
+      "url": "https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf"
+    },
+    {
+      "id": "audit-kaist-source-11",
+      "title": "2027 recommendation form",
+      "url": "https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf"
+    },
+    {
+      "id": "audit-kaist-source-10",
+      "title": "2027 application materials / essays",
+      "url": "https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf"
+    },
+    {
+      "id": "audit-kaist-source-13",
+      "title": "KAIST Scholarship",
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/"
+    },
+    {
+      "id": "audit-kaist-source-14",
+      "title": "Cost of attendance",
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/coa"
+    }
+  ],
+  "sourceFile": "/data/official-fall-2027-2026-10-04.md",
+  "sourceSection": "# 3. KAIST\n\n## A. University snapshot\n\n| Field | Verified answer |\n|---|---|\n| University | Korea Advanced Institute of Science and Technology (KAIST) |\n| Country / city / campus | Republic of Korea · Daejeon · main campus |\n| University type | Public STEM institute |\n| Fall 2027 status | **CONFIRMED FOR FALL 2027** |\n| Application platform | KAIST International Undergraduate Admission online system |\n| Application URL | [Official application timeline and portal entry](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) |\n| Best programme(s) | Undeclared admission → **Computer Science**, **AI Computing** or **AI Systems**; secondary option Electrical Engineering |\n| Degree / language | Bachelor’s degree; most courses are conducted in English and English is the official communication language for the international route |\n| Major structure | All freshmen enter **undecided**. A department is chosen in sophomore year without another admission process or extra requirements. [Programme overview](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01) |\n| Approximate international intake / selectivity | Not officially published for this cycle |\n\n## Changes since 13 Sep 2026\n\n- **Correction:** fee is now verified as **USD 80**, non-refundable. Kazakhstan is not within the published LDC waiver group.\n- **Correction:** KAIST accepts **up to two optional recommendations**; it does not require one recommendation for Fall 2027.\n- **Correction:** an English-proficiency document is required unless the applicant meets the narrow official exemption. IELTS 6.5 is a recommendation, not a minimum.\n- The Early application is open and closes **22 October 2026 at 18:00 KST**.\n- Exact five 2027 written questions and limits are available.\n\n## B. Programmes for this applicant\n\n| Official programme | Degree / unit | Entry and prerequisites | Restrictions / change |\n|---|---|---|---|\n| Computer Science | Bachelor’s; School of Computing, College of Engineering | No direct-major entry. Strong mathematics/science preparation is encouraged; the admission guide does not set a CS-specific physics, calculus or programming minimum. | International applicants may select it in sophomore year without a quota or second admission stated on the admissions page. |\n| AI Computing | Bachelor’s; School of AI, College of AI | Same undeclared entry; no programme-specific admission prerequisite published | Selectable in sophomore year under the same no-second-admission rule |\n| AI Systems | Bachelor’s; School of AI, College of AI | Same undeclared entry; systems-oriented AI route | Same |\n| AX / AI and Future Studies | Bachelor’s programmes listed by the College of AI | Same general entry | Broader/interdisciplinary options; inspect curriculum before choosing |\n| Electrical Engineering | Bachelor’s; School of Electrical Engineering | Same general KAIST admission; useful for computer engineering, hardware, embedded systems and AI systems. | Same undeclared-major rule. |\n\n**Best programme for me:** Computer Science is the broadest fit for software, algorithms and data work. AI Computing or AI Systems is the more focused choice if the final curriculum and career goal are clearly AI-centered. Electrical Engineering is rational when the portfolio includes robotics, hardware, signal processing or embedded computing.\n\n## C. Application rounds and deadlines\n\nSource: [official Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) and [2027 admissions guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf).\n\n| Event | Date / time | Zone | Confirmed? | What must be ready |\n|---|---:|---|---|---|\n| Early opens | 22 Sep 2026 | KST | Yes | Account, identity, school and test data |\n| Early application + uploads | **22 Oct 2026, 18:00** | KST | Yes | Paid/submitted form and all applicant uploads |\n| Early recommendations | **29 Oct 2026** | KST | Yes | Optional recommender submissions |\n| Early interview, if requested | 22 Dec 2026 | KST / online | Yes | Interview setup and submitted-file review |\n| Early decision | 7 Jan 2027, 10:00 | KST | Yes | Monitor portal |\n| Regular opens | 10 Nov 2026 | KST | Yes | Complete application |\n| Regular application + uploads | **14 Jan 2027, 18:00** | KST | Yes | Paid/submitted form and uploads |\n| Regular recommendations | **21 Jan 2027** | KST | Yes | Optional recommender submissions |\n| Regular interview, if requested | 3 Mar 2027 | KST / online | Yes | Interview setup |\n| Regular decision | 25 Mar 2027, 10:00 | KST | Yes | Monitor portal |\n| Confirm offer | Within two weeks after verification | — | Yes | Exact portal instruction controls |\n| Final/apostilled documents | Date stated with result | — | TBA | Originals/certified/apostilled evidence |\n| Semester start | End of Aug 2027 | — | Partial | Visa, housing, arrival |\n\nThe guide does **not** label Early as binding. After paying, the applicant cannot switch application track; application data may be updated only during the open window.\n\n### My recommended timeline\n\n- Ask recommender(s) and counselor: **5 October**.\n- Order official SAT/AP/ACT report, if used: **6–8 October**; KAIST says to allow 1–2 weeks.\n- First complete draft of all five responses: **7 October**.\n- Transcript, expected-graduation letter, English proof and identity file final: **10 October**.\n- Final essays and evidence audit: **13 October**.\n- Early target submission: **15–17 October**.\n- Optional recommendations target: **20 October**.\n- If required testing or school evidence cannot be complete and credible, use Regular: recommender by **1 December**, application target **4–7 January**, recommendation target **12 January**.\n\n## D. Platform, fee and editing rules\n\n| Item | Fall 2027 rule |\n|---|---|\n| System | KAIST own international undergraduate portal |\n| Programme choices | Admission is undeclared; no ranked major choices are needed for admission |\n| Application fee | **USD 80** |\n| Refundability | Non-refundable after payment |\n| Waiver | Only the published Least Developed Country process. Regular waiver request is 6–15 Oct 2026; result shortly before opening. Kazakhstan is not eligible under that list. |\n| Common App waiver | Not applicable |\n| Separate scholarship fee | None |\n| Editing | Permitted during the application window; track cannot be changed after fee payment |\n| Initial paper mail | No. Upload scans/PDFs. Successful applicants later mail verified documents. |\n\n## E. Document checklist and who submits what\n\n| Document | Required? | Who submits | When / format | Notes |\n|---|---:|---|---|---|\n| Online application + five responses | R | Applicant | Portal by application deadline | English; exact limits below |\n| Passport or national ID | R | Applicant | Upload scan | Citizenship eligibility evidence |\n| Parents’ passports/ID | POST | Applicant | After admission by international mail | Both parents; Korean-origin/custody exceptions need additional records |\n| Family relationship / birth certificate | POST | Applicant | After admission; certified/apostilled as instructed | Must connect applicant and parents |\n| Grades/transcripts for final 2–3 high-school years | R | Applicant uploads school-issued scan | By application deadline | Include current courses; grading scale/context should be visible |\n| Grade 12 current / predicted | R in practice | Applicant from school-issued document | By deadline | IB/A-level predicted explicitly recognized; NIS predicted treatment is not stated |\n| Expected graduation evidence | R if not graduated | Applicant uploads school official document | By deadline | Must graduate by 31 Aug 2027 |\n| Final NIS certificate/transcript | POST | Applicant/school as directed | Offer-specific deadline | Apostille/legalization may be required |\n| School profile | O / useful | Applicant | Upload, maximum 5 pages | Strongly useful for NIS curriculum and grading scale |\n| One official standardized test category | **R** | Applicant uploads; agency sends SAT/AP/ACT | By deadline | SAT/ACT/AP/IB/A-level/national leaving or entrance exam; see tests |\n| English test or qualifying exemption letter | **R** | Applicant uploads | By deadline | Online/at-home and TOEFL ITP not accepted |\n| Recommendation 1 | O / highly recommended | Recommender | Direct portal by rec deadline | Academic adviser, homeroom, Math or Science teacher |\n| Recommendation 2 | O / highly recommended | Recommender | Direct portal by rec deadline | Maximum two total |\n| Awards/honors | O | Applicant | Up to 5 uploads | Select strongest, verifiable evidence |\n| CV / résumé | — | — | — | No separate requirement in guide; activities are captured in form |\n| GitHub / portfolio | — / strategic | Applicant only if a relevant form field permits | Link, not a substitute for required evidence | Not a formal required item |\n| Bank statement | POST | Applicant | After admission | Guide gives visa/financial proof rule; see gap note |\n| Apostilled diploma/transcript | POST | Applicant/school | International mail after offer | Private-school records may need notarization before apostille |\n\n## F. NIS route\n\n- KAIST does not publish a named NIS qualification route or required NIS Higher Level grades.\n- NIS is therefore reviewed as the applicant’s official high-school curriculum, not automatically as the ordinary Kazakhstan Attestat route.\n- Upload school transcripts, an expected-graduation letter, the NIS school profile and an explanation of the grading scale. Add the NIS Grade 12 certificate after release.\n- KAIST expressly permits predicted results for IB/A-level; it does **not** expressly confirm NIS predicted grades as a standardized-test substitute.\n- A national school-leaving/entrance result may satisfy the standardized-test category only if accompanied by the required one-page explanation of the exam system, process, competitiveness and result. Ask whether the NIS final qualification is accepted in that category.\n- June 2027 final results should fall before the 31 August graduation eligibility date, but the exact post-offer apostille deadline is released with the decision and remains **TBA**.\n- NIS English-medium schooling is not an automatic waiver. A waiver may be considered if the entire high-school curriculum was taught in English and the school issues the required official letter.\n\n## G. Academic and testing requirements\n\n### Official minimum\n\n- Graduate (or be expected to graduate) by **31 August 2027** and meet the published international-citizenship rules.\n- Submit at least one recognized standardized academic test category.\n- Submit English proficiency or qualifying official exemption evidence.\n- No GPA, NIS grade, SAT total or Math minimum is published.\n\n### Competitive target — analysis, not a KAIST statistic\n\nThe university emphasizes strong mathematics/science achievement. A 1500-class SAT with very strong Math, or excellent externally benchmarked NIS/national/olympiad evidence, would make the academic case clearer; KAIST does not publish a competitive range. With SAT 1300–1350, the application remains possible but KAIST is an extreme reach and portfolio depth cannot erase weak quantitative evidence.\n\n| Test | Current rule | Minimum / reporting |\n|---|---|---|\n| SAT | Accepted as one required academic-test option | No minimum or superscore policy published. Upload and official College Board delivery; code **4433**. Agency charges are separate from KAIST’s fee. |\n| ACT | Accepted | No minimum published; official ACT delivery, code **7778** |\n| AP | Accepted | No score minimum; official College Board delivery, code **4433** |\n| IB / A-level | Accepted; predicted results accepted | School/board evidence under guide rules; IB code **000559** |\n| National leaving/entrance exam | Accepted if relevant | Add one-page English explanation of system, procedure, competitiveness and result |\n| IELTS Academic | Accepted | **6.5 recommended**, not minimum; test-report upload under guide rules; valid 2 years |\n| TOEFL | Accepted | Old scale 83 / revised scale 4.5 recommended; not minimum |\n| TOEIC / TEPS | Accepted | TOEIC 720 / TEPS 326 recommended |\n| Duolingo / TOEFL ITP / at-home or online tests | Not accepted | — |\n| TOPIK | Not required | Does not replace English requirement |\n\nEnglish score earliest validity dates in the guide: **12 Nov 2024** for Early and **4 Feb 2025** for Regular. Late delivery is risky; official SAT/AP/ACT delivery should be ordered 1–2 weeks early.\n\n## H. Internal exam and interview\n\nNo routine internal Math/Physics/programming exam is published. KAIST may invite selected applicants to an **online interview** on the stated track date. It is not required for every applicant, and the public guide does not publish its length, subjects or numerical weight.\n\n## I. Recommendations\n\n| Item | Fall 2027 answer |\n|---|---|\n| Number | 0 required; up to **2 optional**, highly recommended |\n| Who | Academic adviser, homeroom teacher, Math teacher or Science teacher; choose someone who taught/supervised the applicant directly |\n| Submission | Recommender submits through the KAIST online process by the later recommendation deadline |\n| Rating areas | Academic motivation, inquiry, problem-solving, integrity and future potential |\n| Written fields in official form | Area for improvement — 500 characters/bytes; strengths — 1,000; disciplinary/context field — 500 |\n| Official form | [2027 Letter of Recommendation PDF](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf) |\n\n**My recommendation strategy:** use one NIS Math or CS teacher who can document technical reasoning, persistence and independent work. Use the second slot only for materially different evidence—Physics/research or a counselor who can explain NIS rigor and leadership. Two generic letters are weaker than one detailed technical letter.\n\n## J. Essays\n\nSource: [2027 application materials](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf). Limits count spaces/bytes as stated in the form.\n\n| # | Exact official task, faithfully abbreviated | Limit | Required | What it evaluates / useful profile area |\n|---|---|---:|---:|---|\n| 1 | Pose your own STEM question (not an R&E question), then explain why it matters to you. | Question 300; explanation 1,600 characters/bytes | Yes | Intellectual curiosity and independent technical thinking; a genuine project/research question can fit |\n| 2 | Describe up to three curricular or extracurricular activities and what you learned/felt. | 1,500 | Yes | Depth, reflection, sustained engagement; strongest projects, research, leadership or volunteering |\n| 3 | Explain something you thought about or tried differently from others and its effect on you or others. | 1,500 | Yes | Originality, experimentation and impact; technical or community initiative |\n| 4 | Describe consideration, sharing, cooperation or conflict management and what you learned. | 1,500 | Yes | Collaboration and integrity; team project or service leadership |\n| 5 | Add family/social background or difficulties relevant to understanding you. | 1,000 | Yes | Context and resilience; use only truthful, material context |\n\nThere is no separate scholarship essay. Do not turn every answer into an award list; the form asks for reasoning and reflection.\n\n## K. Scholarships and financial aid\n\n| Category | Award | Separate application? | Current rule |\n|---|---|---:|---|\n| Automatic admission scholarship | **KAIST Scholarship** | No; tick the scholarship box in Statement of Financial Resources | Every admitted international applicant selected under this route is entitled to the package. [Official page](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/) |\n| Separate merit scholarship | Not published for this route | — | TBA / not identified |\n| Need-based aid | No separate undergraduate international need-based scheme published | — | Do not assume CSS-style aid |\n| Government scholarship | Other programmes may exist | Separate external rules | Not required for the KAIST automatic package |\n\n### Coverage and renewal\n\n| Cost | Covered? | Amount / rule |\n|---|---:|---|\n| Tuition | Yes | Full tuition for 8 semesters |\n| Mandatory university fees | Not expressly itemized | Do not assume every incidental fee |\n| Housing | No direct waiver | Paid from stipend/personal funds |\n| Meals | No direct meal plan | Paid from stipend/personal funds |\n| Monthly stipend | Yes | KRW 350,000/month |\n| Books | No dedicated award | Personal cost |\n| Health insurance | Yes | Medical health insurance / NHI shown in current cost table |\n| Visa | No | Personal cost |\n| Flights | No | Not published as covered |\n| Laptop / transport / summer housing | No | Not published as covered |\n\nRenewal: maintain a KAIST GPA **over 2.7/4.3 after freshman year**; scholarship duration is eight semesters. Conduct/credit details beyond the stated requirement are not published on the admissions page.\n\n### Real annual gap and housing\n\nKAIST’s current official cost page estimates annual essential costs at KRW 14,885,680 and scholarship support at KRW 11,738,360, plus KRW 453,000 optional costs, producing an official displayed residual of **KRW 3,359,000/year** (about KRW 279,917/month). This is a planning estimate, subject to inflation and lifestyle; it is not a bill or a guaranteed cap. [Official cost table](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)\n\nThe cost table uses a shared dorm example of KRW 166,000/month during two four-month semesters. The admissions sources reviewed do not state a four-year housing guarantee or automatic summer housing.\n\n## L. After admission checklist\n\n1. Accept by the offer-specific deadline.\n2. Send passport, both parents’ identity/nationality evidence and family-relationship records as instructed.\n3. Send final NIS certificate and transcript with apostille/legalization if requested.\n4. Supply official test verification if only a PDF was initially uploaded.\n5. Provide financial evidence for the visa. The guide’s illustration is KRW 16 million, reduced by roughly KRW 11.786 million in scholarship evidence, leaving about USD 3,200 equivalent; the offer/visa instruction controls.\n6. Apply for visa, housing and insurance registration; complete medical/arrival steps if the offer pack requests them.\n7. Attend late-August orientation/semester start.\n\n## M. Strategic assessment — analysis\n\n- **Admission difficulty:** Extreme reach.\n- **Full-funding difficulty:** Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it.\n- **Fit:** Excellent for an applicant with strong quantitative evidence, authentic technical work and clear research curiosity.\n\n## N. Still TBA / needs confirmation\n\n- Exact post-offer final NIS certificate and apostille deadline.\n- Whether KAIST treats NIS predicted/final results as the required national standardized-test category.\n- Interview format, subjects, duration and scoring weight for a selected applicant.\n- Housing guarantee and Fall 2027 dorm prices.\n- Any applicant-specific deposit and visa dates in the eventual offer.\n\n## O. Email question for admissions\n\n> I am a Grade 12 student at Nazarbayev Intellectual School in Kazakhstan and will receive the final NIS Grade 12 Certificate in June 2027. May I use official NIS predicted grades or my current transcript to satisfy the standardized-test requirement at application, and submit the final apostilled NIS Certificate after admission? If yes, what is the latest date for the final certificate and apostille? Does an official NIS letter confirming that the entire high-school curriculum is taught in English qualify for the English-test exemption?\n\n## Official sources checked\n\n- [Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)\n- [Fall 2027 admission guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)\n- [2027 application materials / essays](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf)\n- [2027 recommendation form](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)\n- [Programmes and undeclared-major rule](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)\n- [KAIST Scholarship](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)\n- [Cost of attendance](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)\n\n---",
+  "localizedText": {
+    "1": {
+      "ru": "1",
+      "en": "1"
+    },
+    "2": {
+      "ru": "2",
+      "en": "2"
+    },
+    "3": {
+      "ru": "3",
+      "en": "3"
+    },
+    "4": {
+      "ru": "4",
+      "en": "4"
+    },
+    "5": {
+      "ru": "5",
+      "en": "5"
+    },
+    "South Korea": {
+      "ru": "Южная Корея",
+      "en": "South Korea"
+    },
+    "Daejeon": {
+      "ru": "Тэджон",
+      "en": "Daejeon"
+    },
+    "KAIST International Undergraduate Admission online system": {
+      "ru": "Собственная система KAIST International Undergraduate Admission",
+      "en": "KAIST International Undergraduate Admission online system"
+    },
+    "Computer Science": {
+      "ru": "Computer Science",
+      "en": "Computer Science"
+    },
+    "AI Computing": {
+      "ru": "AI Computing",
+      "en": "AI Computing"
+    },
+    "AI Systems": {
+      "ru": "AI Systems",
+      "en": "AI Systems"
+    },
+    "AX / AI and Future Studies": {
+      "ru": "AX / AI and Future Studies",
+      "en": "AX / AI and Future Studies"
+    },
+    "Electrical Engineering": {
+      "ru": "Electrical Engineering",
+      "en": "Electrical Engineering"
+    },
+    "Full tuition · KRW 350,000/month · health insurance; housing paid separately": {
+      "ru": "Полное покрытие обучения · KRW 350 000 в месяц · медицинская страховка; проживание оплачивается отдельно",
+      "en": "Full tuition · KRW 350,000/month · health insurance; housing paid separately"
+    },
+    "Extreme reach.": {
+      "ru": "Очень высокая конкурсность (Extreme reach).",
+      "en": "Extreme reach."
+    },
+    "Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it.": {
+      "ru": "Такая же сложность, как при поступлении: KAIST Scholarship автоматически назначается принятым иностранным студентам, выбравшим её в заявке.",
+      "en": "Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it."
+    },
+    "University snapshot": {
+      "ru": "Краткая информация об университете",
+      "en": "University snapshot"
+    },
+    "Field": {
+      "ru": "Поле",
+      "en": "Field"
+    },
+    "Verified answer": {
+      "ru": "Проверенные сведения",
+      "en": "Verified answer"
+    },
+    "University": {
+      "ru": "Университет",
+      "en": "University"
+    },
+    "Korea Advanced Institute of Science and Technology (KAIST)": {
+      "ru": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "en": "Korea Advanced Institute of Science and Technology (KAIST)"
+    },
+    "Country / city / campus": {
+      "ru": "Страна / город / кампус",
+      "en": "Country / city / campus"
+    },
+    "Republic of Korea · Daejeon · main campus": {
+      "ru": "Республика Корея · Тэджон · основной кампус",
+      "en": "Republic of Korea · Daejeon · main campus"
+    },
+    "University type": {
+      "ru": "Тип университета",
+      "en": "University type"
+    },
+    "Public STEM institute": {
+      "ru": "Государственный институт науки и технологий",
+      "en": "Public STEM institute"
+    },
+    "Fall 2027 status": {
+      "ru": "Статус набора Fall 2027",
+      "en": "Fall 2027 status"
+    },
+    "**CONFIRMED FOR FALL 2027**": {
+      "ru": "**ПОДТВЕРЖДЕНО ДЛЯ FALL 2027**",
+      "en": "**CONFIRMED FOR FALL 2027**"
+    },
+    "Application platform": {
+      "ru": "Платформа подачи",
+      "en": "Application platform"
+    },
+    "Application URL": {
+      "ru": "Ссылка для подачи",
+      "en": "Application URL"
+    },
+    "[Official application timeline and portal entry](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)": {
+      "ru": "[Официальный календарь подачи и вход в портал](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)",
+      "en": "[Official application timeline and portal entry](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)"
+    },
+    "Best programme(s)": {
+      "ru": "Наиболее подходящие программы",
+      "en": "Best programme(s)"
+    },
+    "Undeclared admission → **Computer Science**, **AI Computing** or **AI Systems**; secondary option Electrical Engineering": {
+      "ru": "Поступление без выбора специальности → **Computer Science**, **AI Computing** или **AI Systems**; второй вариант — Electrical Engineering",
+      "en": "Undeclared admission → **Computer Science**, **AI Computing** or **AI Systems**; secondary option Electrical Engineering"
+    },
+    "Degree / language": {
+      "ru": "Степень / язык обучения",
+      "en": "Degree / language"
+    },
+    "Bachelor’s degree; most courses are conducted in English and English is the official communication language for the international route": {
+      "ru": "Бакалавриат; большинство предметов преподаётся на английском, который является официальным языком общения для иностранного набора",
+      "en": "Bachelor’s degree; most courses are conducted in English and English is the official communication language for the international route"
+    },
+    "Major structure": {
+      "ru": "Выбор специальности",
+      "en": "Major structure"
+    },
+    "All freshmen enter **undecided**. A department is chosen in sophomore year without another admission process or extra requirements. [Programme overview](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)": {
+      "ru": "Все первокурсники поступают **без выбранной специальности (undecided)**. Подразделение выбирают на втором курсе без нового конкурса или дополнительных требований. [Обзор программ](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)",
+      "en": "All freshmen enter **undecided**. A department is chosen in sophomore year without another admission process or extra requirements. [Programme overview](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)"
+    },
+    "Approximate international intake / selectivity": {
+      "ru": "Приблизительное число иностранных студентов / конкурсность",
+      "en": "Approximate international intake / selectivity"
+    },
+    "Not officially published for this cycle": {
+      "ru": "Официально не опубликовано для этого набора",
+      "en": "Not officially published for this cycle"
+    },
+    "Changes since 13 Sep 2026": {
+      "ru": "Изменения с 13 сентября 2026",
+      "en": "Changes since 13 Sep 2026"
+    },
+    "**Correction:** fee is now verified as **USD 80**, non-refundable. Kazakhstan is not within the published LDC waiver group.": {
+      "ru": "**Исправление:** подтверждён сбор **USD 80**, невозвратный. Казахстан не входит в опубликованный список стран LDC для освобождения от оплаты.",
+      "en": "**Correction:** fee is now verified as **USD 80**, non-refundable. Kazakhstan is not within the published LDC waiver group."
+    },
+    "**Correction:** KAIST accepts **up to two optional recommendations**; it does not require one recommendation for Fall 2027.": {
+      "ru": "**Исправление:** KAIST принимает **до двух необязательных рекомендательных писем**; одно письмо не является обязательным для Fall 2027.",
+      "en": "**Correction:** KAIST accepts **up to two optional recommendations**; it does not require one recommendation for Fall 2027."
+    },
+    "**Correction:** an English-proficiency document is required unless the applicant meets the narrow official exemption. IELTS 6.5 is a recommendation, not a minimum.": {
+      "ru": "**Исправление:** документ о владении английским обязателен, кроме узкого официального исключения. IELTS 6.5 — рекомендация, не минимальный порог.",
+      "en": "**Correction:** an English-proficiency document is required unless the applicant meets the narrow official exemption. IELTS 6.5 is a recommendation, not a minimum."
+    },
+    "The Early application is open and closes **22 October 2026 at 18:00 KST**.": {
+      "ru": "Подача Early открыта и заканчивается **22 октября 2026 в 18:00 KST**.",
+      "en": "The Early application is open and closes **22 Oct 2026 at 18:00 KST**."
+    },
+    "Exact five 2027 written questions and limits are available.": {
+      "ru": "Доступны пять письменных заданий 2027 года и ограничения объёма.",
+      "en": "Exact five 2027 written questions and limits are available."
+    },
+    "Programmes for this applicant": {
+      "ru": "Программы для вашего профиля",
+      "en": "Programmes for this applicant"
+    },
+    "**Best programme for me:** Computer Science is the broadest fit for software, algorithms and data work. AI Computing or AI Systems is the more focused choice if the final curriculum and career goal are clearly AI-centered. Electrical Engineering is rational when the portfolio includes robotics, hardware, signal processing or embedded computing.": {
+      "ru": "**Наиболее подходящая программа — анализ:** Computer Science даёт широкую базу для разработки, алгоритмов и работы с данными. AI Computing или AI Systems подходят при явно выраженном интересе к AI и соответствующем учебном плане. Electrical Engineering имеет смысл, если в портфолио есть робототехника, аппаратные системы, обработка сигналов или встроенные вычисления.",
+      "en": "**Best programme for me:** Computer Science is the broadest fit for software, algorithms and data work. AI Computing or AI Systems is the more focused choice if the final curriculum and career goal are clearly AI-centered. Electrical Engineering is rational when the portfolio includes robotics, hardware, signal processing or embedded computing."
+    },
+    "Official programme": {
+      "ru": "Официальная программа",
+      "en": "Official programme"
+    },
+    "Degree / unit": {
+      "ru": "Степень / подразделение",
+      "en": "Degree / unit"
+    },
+    "Entry and prerequisites": {
+      "ru": "Поступление и обязательные предметы",
+      "en": "Entry and prerequisites"
+    },
+    "Restrictions / change": {
+      "ru": "Ограничения / смена направления",
+      "en": "Restrictions / change"
+    },
+    "Bachelor’s; School of Computing, College of Engineering": {
+      "ru": "Бакалавриат; School of Computing, College of Engineering",
+      "en": "Bachelor’s; School of Computing, College of Engineering"
+    },
+    "No direct-major entry. Strong mathematics/science preparation is encouraged; the admission guide does not set a CS-specific physics, calculus or programming minimum.": {
+      "ru": "Прямого поступления на специальность нет. Рекомендуется сильная подготовка по математике и естественным наукам; отдельного минимума по физике, математическому анализу или программированию для CS в руководстве нет.",
+      "en": "No direct-major entry. Strong mathematics/science preparation is encouraged; the admission guide does not set a CS-specific physics, calculus or programming minimum."
+    },
+    "International applicants may select it in sophomore year without a quota or second admission stated on the admissions page.": {
+      "ru": "Иностранные студенты могут выбрать программу на втором курсе; на странице поступления не указаны отдельная квота или повторный конкурс.",
+      "en": "International applicants may select it in sophomore year without a quota or second admission stated on the admissions page."
+    },
+    "Bachelor’s; School of AI, College of AI": {
+      "ru": "Бакалавриат; School of AI, College of AI",
+      "en": "Bachelor’s; School of AI, College of AI"
+    },
+    "Same undeclared entry; no programme-specific admission prerequisite published": {
+      "ru": "То же поступление без специальности; отдельные обязательные предметы для программы не опубликованы",
+      "en": "Same undeclared entry; no programme-specific admission prerequisite published"
+    },
+    "Selectable in sophomore year under the same no-second-admission rule": {
+      "ru": "Выбор на втором курсе по тому же правилу, без повторного конкурса",
+      "en": "Selectable in sophomore year under the same no-second-admission rule"
+    },
+    "Same undeclared entry; systems-oriented AI route": {
+      "ru": "То же поступление без специальности; AI с фокусом на системы",
+      "en": "Same undeclared entry; systems-oriented AI route"
+    },
+    "Same": {
+      "ru": "То же правило",
+      "en": "Same"
+    },
+    "Bachelor’s programmes listed by the College of AI": {
+      "ru": "Программы бакалавриата, перечисленные College of AI",
+      "en": "Bachelor’s programmes listed by the College of AI"
+    },
+    "Same general entry": {
+      "ru": "Общее поступление",
+      "en": "Same general entry"
+    },
+    "Broader/interdisciplinary options; inspect curriculum before choosing": {
+      "ru": "Более широкие / междисциплинарные варианты; до выбора изучите учебный план",
+      "en": "Broader/interdisciplinary options; inspect curriculum before choosing"
+    },
+    "Bachelor’s; School of Electrical Engineering": {
+      "ru": "Бакалавриат; School of Electrical Engineering",
+      "en": "Bachelor’s; School of Electrical Engineering"
+    },
+    "Same general KAIST admission; useful for computer engineering, hardware, embedded systems and AI systems.": {
+      "ru": "Общее поступление в KAIST; подходит для компьютерной инженерии, аппаратных и встроенных систем, AI-систем.",
+      "en": "Same general KAIST admission; useful for computer engineering, hardware, embedded systems and AI systems."
+    },
+    "Same undeclared-major rule.": {
+      "ru": "То же правило выбора специальности после поступления.",
+      "en": "Same undeclared-major rule."
+    },
+    "Application rounds and deadlines": {
+      "ru": "Раунды подачи и дедлайны",
+      "en": "Application rounds and deadlines"
+    },
+    "Source: [official Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) and [2027 admissions guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf).": {
+      "ru": "Источники: [официальный график Fall 2027](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) и [руководство поступления 2027](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf).",
+      "en": "Source: [official Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline) and [2027 admissions guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)."
+    },
+    "The guide does **not** label Early as binding. After paying, the applicant cannot switch application track; application data may be updated only during the open window.": {
+      "ru": "Руководство **не** называет Early обязательным к исполнению при поступлении (binding). После оплаты нельзя сменить раунд; данные заявки редактируются только в период открытой подачи.",
+      "en": "The guide does **not** label Early as binding. After paying, the applicant cannot switch application track; application data may be updated only during the open window."
+    },
+    "Event": {
+      "ru": "Событие",
+      "en": "Event"
+    },
+    "Date / time": {
+      "ru": "Дата / время",
+      "en": "Date / time"
+    },
+    "Zone": {
+      "ru": "Часовой пояс",
+      "en": "Zone"
+    },
+    "Confirmed?": {
+      "ru": "Подтверждение",
+      "en": "Confirmed?"
+    },
+    "What must be ready": {
+      "ru": "Что должно быть готово",
+      "en": "What must be ready"
+    },
+    "Early opens": {
+      "ru": "Открытие Early",
+      "en": "Early opens"
+    },
+    "22 Sep 2026": {
+      "ru": "22 сентября 2026",
+      "en": "22 Sep 2026"
+    },
+    "KST": {
+      "ru": "KST",
+      "en": "KST"
+    },
+    "Yes": {
+      "ru": "Да",
+      "en": "Yes"
+    },
+    "Account, identity, school and test data": {
+      "ru": "Аккаунт, удостоверение личности, школьные документы и результаты тестов",
+      "en": "Account, identity, school and test data"
+    },
+    "Early application + uploads": {
+      "ru": "Заявка Early + загрузка документов",
+      "en": "Early application + uploads"
+    },
+    "**22 Oct 2026, 18:00**": {
+      "ru": "**22 октября 2026, 18:00**",
+      "en": "**22 Oct 2026, 18:00**"
+    },
+    "Paid/submitted form and all applicant uploads": {
+      "ru": "Оплаченная и отправленная заявка, все документы заявительницы",
+      "en": "Paid/submitted form and all applicant uploads"
+    },
+    "Early recommendations": {
+      "ru": "Рекомендательные письма Early",
+      "en": "Early recommendations"
+    },
+    "**29 Oct 2026**": {
+      "ru": "**29 октября 2026**",
+      "en": "**29 Oct 2026**"
+    },
+    "Optional recommender submissions": {
+      "ru": "Необязательные письма, отправляемые рекомендателями",
+      "en": "Optional recommender submissions"
+    },
+    "Early interview, if requested": {
+      "ru": "Интервью Early, если назначено",
+      "en": "Early interview, if requested"
+    },
+    "22 Dec 2026": {
+      "ru": "22 декабря 2026",
+      "en": "22 Dec 2026"
+    },
+    "KST / online": {
+      "ru": "KST / онлайн",
+      "en": "KST / online"
+    },
+    "Interview setup and submitted-file review": {
+      "ru": "Подготовка подключения и повторный просмотр отправленной заявки",
+      "en": "Interview setup and submitted-file review"
+    },
+    "Early decision": {
+      "ru": "Решение Early",
+      "en": "Early decision"
+    },
+    "7 Jan 2027, 10:00": {
+      "ru": "7 января 2027, 10:00",
+      "en": "7 Jan 2027, 10:00"
+    },
+    "Monitor portal": {
+      "ru": "Проверять портал",
+      "en": "Monitor portal"
+    },
+    "Regular opens": {
+      "ru": "Открытие Regular",
+      "en": "Regular opens"
+    },
+    "10 Nov 2026": {
+      "ru": "10 ноября 2026",
+      "en": "10 Nov 2026"
+    },
+    "Complete application": {
+      "ru": "Полная заявка",
+      "en": "Complete application"
+    },
+    "Regular application + uploads": {
+      "ru": "Заявка Regular + загрузка документов",
+      "en": "Regular application + uploads"
+    },
+    "**14 Jan 2027, 18:00**": {
+      "ru": "**14 января 2027, 18:00**",
+      "en": "**14 Jan 2027, 18:00**"
+    },
+    "Paid/submitted form and uploads": {
+      "ru": "Оплаченная и отправленная заявка, загруженные документы",
+      "en": "Paid/submitted form and uploads"
+    },
+    "Regular recommendations": {
+      "ru": "Рекомендательные письма Regular",
+      "en": "Regular recommendations"
+    },
+    "**21 Jan 2027**": {
+      "ru": "**21 января 2027**",
+      "en": "**21 Jan 2027**"
+    },
+    "Regular interview, if requested": {
+      "ru": "Интервью Regular, если назначено",
+      "en": "Regular interview, if requested"
+    },
+    "3 Mar 2027": {
+      "ru": "3 марта 2027",
+      "en": "3 Mar 2027"
+    },
+    "Interview setup": {
+      "ru": "Подготовка подключения для интервью",
+      "en": "Interview setup"
+    },
+    "Regular decision": {
+      "ru": "Решение Regular",
+      "en": "Regular decision"
+    },
+    "25 Mar 2027, 10:00": {
+      "ru": "25 марта 2027, 10:00",
+      "en": "25 Mar 2027, 10:00"
+    },
+    "Confirm offer": {
+      "ru": "Подтверждение оффера",
+      "en": "Confirm offer"
+    },
+    "Within two weeks after verification": {
+      "ru": "В течение двух недель после проверки",
+      "en": "Within two weeks after verification"
+    },
+    "—": {
+      "ru": "—",
+      "en": "—"
+    },
+    "Exact portal instruction controls": {
+      "ru": "Приоритет у точной инструкции в портале",
+      "en": "Exact portal instruction controls"
+    },
+    "Final/apostilled documents": {
+      "ru": "Итоговые документы / документы с апостилем",
+      "en": "Final/apostilled documents"
+    },
+    "Date stated with result": {
+      "ru": "Дата сообщается вместе с результатом",
+      "en": "Date stated with result"
+    },
+    "TBA": {
+      "ru": "Дата пока не опубликована (TBA)",
+      "en": "TBA"
+    },
+    "Originals/certified/apostilled evidence": {
+      "ru": "Оригиналы / заверенные документы / документы с апостилем",
+      "en": "Originals/certified/apostilled evidence"
+    },
+    "Semester start": {
+      "ru": "Начало семестра",
+      "en": "Semester start"
+    },
+    "End of Aug 2027": {
+      "ru": "Конец августа 2027",
+      "en": "End of Aug 2027"
+    },
+    "Partial": {
+      "ru": "Частично подтверждено",
+      "en": "Partial"
+    },
+    "Visa, housing, arrival": {
+      "ru": "Виза, проживание, приезд",
+      "en": "Visa, housing, arrival"
+    },
+    "My recommended timeline": {
+      "ru": "Рекомендуемый личный график",
+      "en": "My recommended timeline"
+    },
+    "Ask recommender(s) and counselor: **5 October**.": {
+      "ru": "Попросить рекомендателей и школьного консультанта: **5 октября**.",
+      "en": "Ask recommender(s) and counselor: **5 October**."
+    },
+    "Order official SAT/AP/ACT report, if used: **6–8 October**; KAIST says to allow 1–2 weeks.": {
+      "ru": "Заказать официальный результат SAT/AP/ACT, если используете: **6–8 октября**; KAIST рекомендует запас 1–2 недели.",
+      "en": "Order official SAT/AP/ACT report, if used: **6–8 October**; KAIST says to allow 1–2 weeks."
+    },
+    "First complete draft of all five responses: **7 October**.": {
+      "ru": "Первый полный черновик всех пяти ответов: **7 октября**.",
+      "en": "First complete draft of all five responses: **7 October**."
+    },
+    "Transcript, expected-graduation letter, English proof and identity file final: **10 October**.": {
+      "ru": "Финальные транскрипт, подтверждение ожидаемого выпуска, английского и удостоверение личности: **10 октября**.",
+      "en": "Transcript, expected-graduation letter, English proof and identity file final: **10 October**."
+    },
+    "Final essays and evidence audit: **13 October**.": {
+      "ru": "Завершить эссе и проверить подтверждающие материалы: **13 октября**.",
+      "en": "Final essays and evidence audit: **13 October**."
+    },
+    "Early target submission: **15–17 October**.": {
+      "ru": "Личная цель подачи Early: **15–17 октября**.",
+      "en": "Early target submission: **15–17 October**."
+    },
+    "Optional recommendations target: **20 October**.": {
+      "ru": "Личная цель для необязательных рекомендательных писем: **20 октября**.",
+      "en": "Optional recommendations target: **20 October**."
+    },
+    "If required testing or school evidence cannot be complete and credible, use Regular: recommender by **1 December**, application target **4–7 January**, recommendation target **12 January**.": {
+      "ru": "Если тесты или школьные документы не удаётся подготовить полностью и достоверно, выбрать Regular: рекомендатель к **1 декабря**, подача **4–7 января**, письма к **12 января**.",
+      "en": "If required testing or school evidence cannot be complete and credible, use Regular: recommender by **1 December**, application target **4–7 January**, recommendation target **12 January**."
+    },
+    "Platform, fee and editing rules": {
+      "ru": "Платформа, оплата и правила редактирования",
+      "en": "Platform, fee and editing rules"
+    },
+    "Item": {
+      "ru": "Пункт",
+      "en": "Item"
+    },
+    "Fall 2027 rule": {
+      "ru": "Правило Fall 2027",
+      "en": "Fall 2027 rule"
+    },
+    "System": {
+      "ru": "Система",
+      "en": "System"
+    },
+    "KAIST own international undergraduate portal": {
+      "ru": "Собственный международный портал бакалавриата KAIST",
+      "en": "KAIST own international undergraduate portal"
+    },
+    "Programme choices": {
+      "ru": "Выбор программ",
+      "en": "Programme choices"
+    },
+    "Admission is undeclared; no ranked major choices are needed for admission": {
+      "ru": "Поступление без специальности; ранжировать программы в заявке не требуется",
+      "en": "Admission is undeclared; no ranked major choices are needed for admission"
+    },
+    "Application fee": {
+      "ru": "Сбор за подачу заявки",
+      "en": "Application fee"
+    },
+    "**USD 80**": {
+      "ru": "**USD 80**",
+      "en": "**USD 80**"
+    },
+    "Refundability": {
+      "ru": "Возврат оплаты",
+      "en": "Refundability"
+    },
+    "Non-refundable after payment": {
+      "ru": "После оплаты не возвращается",
+      "en": "Non-refundable after payment"
+    },
+    "Waiver": {
+      "ru": "Освобождение от оплаты",
+      "en": "Waiver"
+    },
+    "Only the published Least Developed Country process. Regular waiver request is 6–15 Oct 2026; result shortly before opening. Kazakhstan is not eligible under that list.": {
+      "ru": "Только опубликованный порядок для Least Developed Countries. Запрос освобождения от оплаты Regular — 6–15 октября 2026; результат незадолго до открытия подачи. Казахстан не входит в этот список.",
+      "en": "Only the published Least Developed Country process. Regular waiver request is 6–15 Oct 2026; result shortly before opening. Kazakhstan is not eligible under that list."
+    },
+    "Common App waiver": {
+      "ru": "Освобождение от оплаты через Common App",
+      "en": "Common App waiver"
+    },
+    "Not applicable": {
+      "ru": "Не применяется",
+      "en": "Not applicable"
+    },
+    "Separate scholarship fee": {
+      "ru": "Отдельный сбор за заявку на стипендию",
+      "en": "Separate scholarship fee"
+    },
+    "None": {
+      "ru": "Нет",
+      "en": "None"
+    },
+    "Editing": {
+      "ru": "Редактирование",
+      "en": "Editing"
+    },
+    "Permitted during the application window; track cannot be changed after fee payment": {
+      "ru": "Допускается во время открытой подачи; после оплаты нельзя сменить раунд",
+      "en": "Permitted during the application window; track cannot be changed after fee payment"
+    },
+    "Initial paper mail": {
+      "ru": "Первоначальная отправка бумажных документов",
+      "en": "Initial paper mail"
+    },
+    "No. Upload scans/PDFs. Successful applicants later mail verified documents.": {
+      "ru": "Нет. Загрузите сканы / PDF. После поступления проверенные документы отправляются почтой.",
+      "en": "No. Upload scans/PDFs. Successful applicants later mail verified documents."
+    },
+    "Document checklist and who submits what": {
+      "ru": "Список документов: кто и что отправляет",
+      "en": "Document checklist and who submits what"
+    },
+    "Document": {
+      "ru": "Документ",
+      "en": "Document"
+    },
+    "Required?": {
+      "ru": "Обязательность",
+      "en": "Required?"
+    },
+    "Who submits": {
+      "ru": "Кто отправляет",
+      "en": "Who submits"
+    },
+    "When / format": {
+      "ru": "Когда / формат",
+      "en": "When / format"
+    },
+    "Notes": {
+      "ru": "Примечания",
+      "en": "Notes"
+    },
+    "Online application + five responses": {
+      "ru": "Онлайн-заявка + пять письменных ответов",
+      "en": "Online application + five responses"
+    },
+    "R": {
+      "ru": "Обязательно",
+      "en": "Required"
+    },
+    "Applicant": {
+      "ru": "Заявительница",
+      "en": "Applicant"
+    },
+    "Portal by application deadline": {
+      "ru": "Через портал до дедлайна подачи заявки",
+      "en": "Portal by application deadline"
+    },
+    "English; exact limits below": {
+      "ru": "На английском; точные ограничения ниже",
+      "en": "English; exact limits below"
+    },
+    "Passport or national ID": {
+      "ru": "Паспорт или национальное удостоверение личности",
+      "en": "Passport or national ID"
+    },
+    "Upload scan": {
+      "ru": "Загрузить скан",
+      "en": "Upload scan"
+    },
+    "Citizenship eligibility evidence": {
+      "ru": "Подтверждение гражданства для проверки права подачи",
+      "en": "Citizenship eligibility evidence"
+    },
+    "Parents’ passports/ID": {
+      "ru": "Паспорта / удостоверения личности родителей",
+      "en": "Parents’ passports/ID"
+    },
+    "POST": {
+      "ru": "После поступления",
+      "en": "POST"
+    },
+    "After admission by international mail": {
+      "ru": "После поступления международной почтой",
+      "en": "After admission by international mail"
+    },
+    "Both parents; Korean-origin/custody exceptions need additional records": {
+      "ru": "Обоих родителей; для корейского происхождения / опеки нужны дополнительные документы",
+      "en": "Both parents; Korean-origin/custody exceptions need additional records"
+    },
+    "Family relationship / birth certificate": {
+      "ru": "Подтверждение родства / свидетельство о рождении",
+      "en": "Family relationship / birth certificate"
+    },
+    "After admission; certified/apostilled as instructed": {
+      "ru": "После поступления; заверение / апостиль по инструкции",
+      "en": "After admission; certified/apostilled as instructed"
+    },
+    "Must connect applicant and parents": {
+      "ru": "Должно подтверждать связь заявительницы с родителями",
+      "en": "Must connect applicant and parents"
+    },
+    "Grades/transcripts for final 2–3 high-school years": {
+      "ru": "Оценки / транскрипты за последние 2–3 года старшей школы",
+      "en": "Grades/transcripts for final 2–3 high-school years"
+    },
+    "Applicant uploads school-issued scan": {
+      "ru": "Заявительница загружает выданный школой скан",
+      "en": "Applicant uploads school-issued scan"
+    },
+    "By application deadline": {
+      "ru": "До дедлайна подачи заявки",
+      "en": "By application deadline"
+    },
+    "Include current courses; grading scale/context should be visible": {
+      "ru": "Включить текущие предметы; показать шкалу оценивания и контекст",
+      "en": "Include current courses; grading scale/context should be visible"
+    },
+    "Grade 12 current / predicted": {
+      "ru": "Текущие / прогнозные оценки Grade 12",
+      "en": "Grade 12 current / predicted"
+    },
+    "R in practice": {
+      "ru": "R — требуется на практике",
+      "en": "R in practice"
+    },
+    "Applicant from school-issued document": {
+      "ru": "Заявительница получает официальный документ у школы",
+      "en": "Applicant from school-issued document"
+    },
+    "By deadline": {
+      "ru": "До дедлайна",
+      "en": "By deadline"
+    },
+    "IB/A-level predicted explicitly recognized; NIS predicted treatment is not stated": {
+      "ru": "Прогнозные IB/A-level прямо признаются; порядок для прогнозных NIS не указан",
+      "en": "IB/A-level predicted explicitly recognized; NIS predicted treatment is not stated"
+    },
+    "Expected graduation evidence": {
+      "ru": "Подтверждение ожидаемого выпуска",
+      "en": "Expected graduation evidence"
+    },
+    "R if not graduated": {
+      "ru": "R — если школа ещё не окончена",
+      "en": "R if not graduated"
+    },
+    "Applicant uploads school official document": {
+      "ru": "Заявительница загружает официальный школьный документ",
+      "en": "Applicant uploads school official document"
+    },
+    "Must graduate by 31 Aug 2027": {
+      "ru": "Нужно окончить школу к 31 августа 2027",
+      "en": "Must graduate by 31 Aug 2027"
+    },
+    "Final NIS certificate/transcript": {
+      "ru": "Итоговый сертификат / транскрипт NIS",
+      "en": "Final NIS certificate/transcript"
+    },
+    "Applicant/school as directed": {
+      "ru": "Заявительница / школа по инструкции",
+      "en": "Applicant/school as directed"
+    },
+    "Offer-specific deadline": {
+      "ru": "Индивидуальный дедлайн в оффере",
+      "en": "Offer-specific deadline"
+    },
+    "Apostille/legalization may be required": {
+      "ru": "Может потребоваться апостиль / легализация",
+      "en": "Apostille/legalization may be required"
+    },
+    "School profile": {
+      "ru": "Профиль школы",
+      "en": "School profile"
+    },
+    "O / useful": {
+      "ru": "O — необязательно / полезно",
+      "en": "O / useful"
+    },
+    "Upload, maximum 5 pages": {
+      "ru": "Загрузить, максимум 5 страниц",
+      "en": "Upload, maximum 5 pages"
+    },
+    "Strongly useful for NIS curriculum and grading scale": {
+      "ru": "Особенно полезно для объяснения программы NIS и шкалы оценок",
+      "en": "Strongly useful for NIS curriculum and grading scale"
+    },
+    "One official standardized test category": {
+      "ru": "Один официальный стандартизированный академический тест",
+      "en": "One official standardized test category"
+    },
+    "**R**": {
+      "ru": "**Обязательно**",
+      "en": "**Required**"
+    },
+    "Applicant uploads; agency sends SAT/AP/ACT": {
+      "ru": "Заявительница загружает; агентство отправляет SAT/AP/ACT",
+      "en": "Applicant uploads; agency sends SAT/AP/ACT"
+    },
+    "SAT/ACT/AP/IB/A-level/national leaving or entrance exam; see tests": {
+      "ru": "SAT/ACT/AP/IB/A-level / национальный выпускной или вступительный экзамен; подробнее в тестах",
+      "en": "SAT/ACT/AP/IB/A-level/national leaving or entrance exam; see tests"
+    },
+    "English test or qualifying exemption letter": {
+      "ru": "Тест английского или письмо для допустимого освобождения",
+      "en": "English test or qualifying exemption letter"
+    },
+    "Applicant uploads": {
+      "ru": "Заявительница загружает",
+      "en": "Applicant uploads"
+    },
+    "Online/at-home and TOEFL ITP not accepted": {
+      "ru": "Онлайн-тесты / тесты из дома и TOEFL ITP не принимаются",
+      "en": "Online/at-home and TOEFL ITP not accepted"
+    },
+    "Recommendation 1": {
+      "ru": "Рекомендательное письмо 1",
+      "en": "Recommendation 1"
+    },
+    "O / highly recommended": {
+      "ru": "O — необязательно / настоятельно рекомендуется",
+      "en": "O / highly recommended"
+    },
+    "Recommender": {
+      "ru": "Рекомендатель",
+      "en": "Recommender"
+    },
+    "Direct portal by rec deadline": {
+      "ru": "Рекомендатель отправляет через портал до дедлайна писем",
+      "en": "Direct portal by rec deadline"
+    },
+    "Academic adviser, homeroom, Math or Science teacher": {
+      "ru": "Академический консультант, классный руководитель, учитель математики или естественных наук",
+      "en": "Academic adviser, homeroom, Math or Science teacher"
+    },
+    "Recommendation 2": {
+      "ru": "Рекомендательное письмо 2",
+      "en": "Recommendation 2"
+    },
+    "Maximum two total": {
+      "ru": "Всего максимум два",
+      "en": "Maximum two total"
+    },
+    "Awards/honors": {
+      "ru": "Награды / отличия",
+      "en": "Awards/honors"
+    },
+    "O": {
+      "ru": "Необязательно",
+      "en": "Optional"
+    },
+    "Up to 5 uploads": {
+      "ru": "До 5 загрузок",
+      "en": "Up to 5 uploads"
+    },
+    "Select strongest, verifiable evidence": {
+      "ru": "Выбрать наиболее сильные, проверяемые подтверждения",
+      "en": "Select strongest, verifiable evidence"
+    },
+    "CV / résumé": {
+      "ru": "CV / резюме",
+      "en": "CV / résumé"
+    },
+    "No separate requirement in guide; activities are captured in form": {
+      "ru": "Отдельно в руководстве не требуется; деятельность описывается в форме",
+      "en": "No separate requirement in guide; activities are captured in form"
+    },
+    "GitHub / portfolio": {
+      "ru": "GitHub / портфолио",
+      "en": "GitHub / portfolio"
+    },
+    "— / strategic": {
+      "ru": "— / стратегически полезно",
+      "en": "— / strategic"
+    },
+    "Applicant only if a relevant form field permits": {
+      "ru": "Заявительница — только если в форме есть подходящее поле",
+      "en": "Applicant only if a relevant form field permits"
+    },
+    "Link, not a substitute for required evidence": {
+      "ru": "Ссылка не заменяет обязательные подтверждающие документы",
+      "en": "Link, not a substitute for required evidence"
+    },
+    "Not a formal required item": {
+      "ru": "Не является официально обязательным документом",
+      "en": "Not a formal required item"
+    },
+    "Bank statement": {
+      "ru": "Банковская выписка",
+      "en": "Bank statement"
+    },
+    "After admission": {
+      "ru": "После поступления",
+      "en": "After admission"
+    },
+    "Guide gives visa/financial proof rule; see gap note": {
+      "ru": "В руководстве есть правило финансового подтверждения для визы; см. непокрытые расходы",
+      "en": "Guide gives visa/financial proof rule; see gap note"
+    },
+    "Apostilled diploma/transcript": {
+      "ru": "Диплом / транскрипт с апостилем",
+      "en": "Apostilled diploma/transcript"
+    },
+    "Applicant/school": {
+      "ru": "Заявительница / школа",
+      "en": "Applicant/school"
+    },
+    "International mail after offer": {
+      "ru": "Международной почтой после оффера",
+      "en": "International mail after offer"
+    },
+    "Private-school records may need notarization before apostille": {
+      "ru": "Для документов частной школы перед апостилем может потребоваться нотариальное заверение",
+      "en": "Private-school records may need notarization before apostille"
+    },
+    "NIS route": {
+      "ru": "Подача с квалификацией NIS",
+      "en": "NIS route"
+    },
+    "KAIST does not publish a named NIS qualification route or required NIS Higher Level grades.": {
+      "ru": "KAIST не публикует отдельный путь поступления NIS или обязательные оценки NIS Higher Level.",
+      "en": "KAIST does not publish a named NIS qualification route or required NIS Higher Level grades."
+    },
+    "NIS is therefore reviewed as the applicant’s official high-school curriculum, not automatically as the ordinary Kazakhstan Attestat route.": {
+      "ru": "NIS рассматривается как официальная школьная программа заявительницы, а не автоматически как обычный казахстанский Attestat.",
+      "en": "NIS is therefore reviewed as the applicant’s official high-school curriculum, not automatically as the ordinary Kazakhstan Attestat route."
+    },
+    "Upload school transcripts, an expected-graduation letter, the NIS school profile and an explanation of the grading scale. Add the NIS Grade 12 certificate after release.": {
+      "ru": "Загрузите школьные транскрипты, письмо об ожидаемом выпуске, профиль школы NIS и объяснение шкалы оценивания. После выдачи добавьте сертификат NIS Grade 12.",
+      "en": "Upload school transcripts, an expected-graduation letter, the NIS school profile and an explanation of the grading scale. Add the NIS Grade 12 certificate after release."
+    },
+    "KAIST expressly permits predicted results for IB/A-level; it does **not** expressly confirm NIS predicted grades as a standardized-test substitute.": {
+      "ru": "KAIST прямо допускает прогнозные IB/A-level, но **не** подтверждает, что прогнозные NIS заменяют стандартизированный тест.",
+      "en": "KAIST expressly permits predicted results for IB/A-level; it does **not** expressly confirm NIS predicted grades as a standardized-test substitute."
+    },
+    "A national school-leaving/entrance result may satisfy the standardized-test category only if accompanied by the required one-page explanation of the exam system, process, competitiveness and result. Ask whether the NIS final qualification is accepted in that category.": {
+      "ru": "Национальный выпускной / вступительный результат может выполнить требование стандартизированного теста только с одностраничным объяснением системы экзамена, процедуры, конкурсности и результата. Уточните, принимается ли итоговая квалификация NIS в этой категории.",
+      "en": "A national school-leaving/entrance result may satisfy the standardized-test category only if accompanied by the required one-page explanation of the exam system, process, competitiveness and result. Ask whether the NIS final qualification is accepted in that category."
+    },
+    "June 2027 final results should fall before the 31 August graduation eligibility date, but the exact post-offer apostille deadline is released with the decision and remains **TBA**.": {
+      "ru": "Результаты июня 2027 должны быть получены до даты допустимого выпуска 31 августа, но точный срок апостиля после оффера сообщается с решением и остаётся **TBA**.",
+      "en": "June 2027 final results should fall before the 31 August graduation eligibility date, but the exact post-offer apostille deadline is released with the decision and remains **TBA**."
+    },
+    "NIS English-medium schooling is not an automatic waiver. A waiver may be considered if the entire high-school curriculum was taught in English and the school issues the required official letter.": {
+      "ru": "Обучение NIS на английском не даёт автоматического освобождения от теста. Его могут рассмотреть, если вся программа старшей школы преподавалась на английском и школа выдаст необходимое официальное письмо.",
+      "en": "NIS English-medium schooling is not an automatic waiver. A waiver may be considered if the entire high-school curriculum was taught in English and the school issues the required official letter."
+    },
+    "Official minimum": {
+      "ru": "Официальный минимум",
+      "en": "Official minimum"
+    },
+    "Graduate (or be expected to graduate) by **31 August 2027** and meet the published international-citizenship rules.": {
+      "ru": "Окончить школу или ожидать выпуск к **31 августа 2027** и соответствовать опубликованным правилам гражданства для международного набора.",
+      "en": "Graduate (or be expected to graduate) by **31 Aug 2027** and meet the published international-citizenship rules."
+    },
+    "Submit at least one recognized standardized academic test category.": {
+      "ru": "Предоставить хотя бы один признанный стандартизированный академический тест.",
+      "en": "Submit at least one recognized standardized academic test category."
+    },
+    "Submit English proficiency or qualifying official exemption evidence.": {
+      "ru": "Подтвердить английский либо предоставить официальные документы для допустимого освобождения.",
+      "en": "Submit English proficiency or qualifying official exemption evidence."
+    },
+    "No GPA, NIS grade, SAT total or Math minimum is published.": {
+      "ru": "Минимум GPA, оценок NIS, общего SAT или SAT Math не опубликован.",
+      "en": "No GPA, NIS grade, SAT total or Math minimum is published."
+    },
+    "Competitive target — analysis, not a KAIST statistic": {
+      "ru": "Конкурентный ориентир — анализ, не статистика KAIST",
+      "en": "Competitive target — analysis, not a KAIST statistic"
+    },
+    "The university emphasizes strong mathematics/science achievement. A 1500-class SAT with very strong Math, or excellent externally benchmarked NIS/national/olympiad evidence, would make the academic case clearer; KAIST does not publish a competitive range. With SAT 1300–1350, the application remains possible but KAIST is an extreme reach and portfolio depth cannot erase weak quantitative evidence.": {
+      "ru": "Университет подчёркивает сильные достижения в математике и естественных науках. SAT около 1500 с очень сильной математикой либо отличные внешне сопоставимые результаты NIS / национального экзамена / олимпиад делают академическую аргументацию убедительнее; конкурентный диапазон KAIST не публикует. При SAT 1300–1350 подача возможна, но поступление крайне сложно, а глубина портфолио не отменяет слабых количественных результатов.",
+      "en": "The university emphasizes strong mathematics/science achievement. A 1500-class SAT with very strong Math, or excellent externally benchmarked NIS/national/olympiad evidence, would make the academic case clearer; KAIST does not publish a competitive range. With SAT 1300–1350, the application remains possible but KAIST is an extreme reach and portfolio depth cannot erase weak quantitative evidence."
+    },
+    "Academic and English test policy": {
+      "ru": "Академические тесты и подтверждение английского",
+      "en": "Academic and English test policy"
+    },
+    "English score earliest validity dates in the guide: **12 Nov 2024** for Early and **4 Feb 2025** for Regular. Late delivery is risky; official SAT/AP/ACT delivery should be ordered 1–2 weeks early.": {
+      "ru": "Самые ранние допустимые даты теста английского в руководстве: **12 ноября 2024** для Early и **4 февраля 2025** для Regular. Позднее поступление результата рискованно; отправку SAT/AP/ACT следует заказать за 1–2 недели.",
+      "en": "English score earliest validity dates in the guide: **12 Nov 2024** for Early and **4 Feb 2025** for Regular. Late delivery is risky; official SAT/AP/ACT delivery should be ordered 1–2 weeks early."
+    },
+    "Test": {
+      "ru": "Тест",
+      "en": "Test"
+    },
+    "Current rule": {
+      "ru": "Действующее правило",
+      "en": "Current rule"
+    },
+    "Minimum / reporting": {
+      "ru": "Минимум / отправка результата",
+      "en": "Minimum / reporting"
+    },
+    "SAT": {
+      "ru": "SAT",
+      "en": "SAT"
+    },
+    "Accepted as one required academic-test option": {
+      "ru": "Принимается как один из обязательных вариантов академического теста",
+      "en": "Accepted as one required academic-test option"
+    },
+    "No minimum or superscore policy published. Upload and official College Board delivery; code **4433**. Agency charges are separate from KAIST’s fee.": {
+      "ru": "Минимум и правила superscore не опубликованы. Загрузка результата и официальная доставка College Board; код **4433**. Сбор агентства оплачивается отдельно от сбора KAIST.",
+      "en": "No minimum or superscore policy published. Upload and official College Board delivery; code **4433**. Agency charges are separate from KAIST’s fee."
+    },
+    "ACT": {
+      "ru": "ACT",
+      "en": "ACT"
+    },
+    "Accepted": {
+      "ru": "Принимается",
+      "en": "Accepted"
+    },
+    "No minimum published; official ACT delivery, code **7778**": {
+      "ru": "Минимум не опубликован; официальная отправка ACT, код **7778**",
+      "en": "No minimum published; official ACT delivery, code **7778**"
+    },
+    "AP": {
+      "ru": "AP",
+      "en": "AP"
+    },
+    "No score minimum; official College Board delivery, code **4433**": {
+      "ru": "Минимум не установлен; официальная отправка College Board, код **4433**",
+      "en": "No score minimum; official College Board delivery, code **4433**"
+    },
+    "IB / A-level": {
+      "ru": "IB / A-level",
+      "en": "IB / A-level"
+    },
+    "Accepted; predicted results accepted": {
+      "ru": "Принимается; прогнозные результаты допускаются",
+      "en": "Accepted; predicted results accepted"
+    },
+    "School/board evidence under guide rules; IB code **000559**": {
+      "ru": "Подтверждение школы / экзаменационного органа по руководству; код IB **000559**",
+      "en": "School/board evidence under guide rules; IB code **000559**"
+    },
+    "National leaving/entrance exam": {
+      "ru": "Национальный выпускной / вступительный экзамен",
+      "en": "National leaving/entrance exam"
+    },
+    "Accepted if relevant": {
+      "ru": "Принимается, если применим",
+      "en": "Accepted if relevant"
+    },
+    "Add one-page English explanation of system, procedure, competitiveness and result": {
+      "ru": "Приложить одностраничное объяснение на английском: система, процедура, конкурсность и результат",
+      "en": "Add one-page English explanation of system, procedure, competitiveness and result"
+    },
+    "IELTS Academic": {
+      "ru": "IELTS Academic",
+      "en": "IELTS Academic"
+    },
+    "**6.5 recommended**, not minimum; test-report upload under guide rules; valid 2 years": {
+      "ru": "**Рекомендуется 6.5**, не минимальный порог; загрузка результата по руководству; срок действия 2 года",
+      "en": "**6.5 recommended**, not minimum; test-report upload under guide rules; valid 2 years"
+    },
+    "TOEFL": {
+      "ru": "TOEFL",
+      "en": "TOEFL"
+    },
+    "Old scale 83 / revised scale 4.5 recommended; not minimum": {
+      "ru": "Рекомендуется 83 по старой шкале / 4.5 по новой; это не минимум",
+      "en": "Old scale 83 / revised scale 4.5 recommended; not minimum"
+    },
+    "TOEIC / TEPS": {
+      "ru": "TOEIC / TEPS",
+      "en": "TOEIC / TEPS"
+    },
+    "TOEIC 720 / TEPS 326 recommended": {
+      "ru": "Рекомендуется TOEIC 720 / TEPS 326",
+      "en": "TOEIC 720 / TEPS 326 recommended"
+    },
+    "Duolingo / TOEFL ITP / at-home or online tests": {
+      "ru": "Duolingo / TOEFL ITP / тесты из дома или онлайн",
+      "en": "Duolingo / TOEFL ITP / at-home or online tests"
+    },
+    "Not accepted": {
+      "ru": "Не принимается",
+      "en": "Not accepted"
+    },
+    "TOPIK": {
+      "ru": "TOPIK",
+      "en": "TOPIK"
+    },
+    "Not required": {
+      "ru": "Не требуется",
+      "en": "Not required"
+    },
+    "Does not replace English requirement": {
+      "ru": "Не заменяет требование английского",
+      "en": "Does not replace English requirement"
+    },
+    "Internal exam and interview": {
+      "ru": "Внутренний экзамен и интервью",
+      "en": "Internal exam and interview"
+    },
+    "No routine internal Math/Physics/programming exam is published. KAIST may invite selected applicants to an **online interview** on the stated track date. It is not required for every applicant, and the public guide does not publish its length, subjects or numerical weight.": {
+      "ru": "Регулярный внутренний экзамен по математике, физике или программированию не опубликован. KAIST может пригласить отдельных кандидатов на **онлайн-интервью** в дату своего раунда. Оно не обязательно для всех; продолжительность, темы и численный вес в публичном руководстве не указаны.",
+      "en": "No routine internal Math/Physics/programming exam is published. KAIST may invite selected applicants to an **online interview** on the stated track date. It is not required for every applicant, and the public guide does not publish its length, subjects or numerical weight."
+    },
+    "Recommendations": {
+      "ru": "Рекомендательные письма",
+      "en": "Recommendations"
+    },
+    "**My recommendation strategy:** use one NIS Math or CS teacher who can document technical reasoning, persistence and independent work. Use the second slot only for materially different evidence—Physics/research or a counselor who can explain NIS rigor and leadership. Two generic letters are weaker than one detailed technical letter.": {
+      "ru": "**Стратегия рекомендательных писем — анализ:** выбрать учителя NIS по математике или CS, способного показать техническое мышление, настойчивость и самостоятельность. Второе письмо использовать только для существенно иного подтверждения: физика / исследование либо консультант, объясняющий сложность NIS и лидерство. Два общих письма слабее одного подробного технического.",
+      "en": "**My recommendation strategy:** use one NIS Math or CS teacher who can document technical reasoning, persistence and independent work. Use the second slot only for materially different evidence—Physics/research or a counselor who can explain NIS rigor and leadership. Two generic letters are weaker than one detailed technical letter."
+    },
+    "Fall 2027 answer": {
+      "ru": "Ответ для Fall 2027",
+      "en": "Fall 2027 answer"
+    },
+    "Number": {
+      "ru": "Количество",
+      "en": "Number"
+    },
+    "0 required; up to **2 optional**, highly recommended": {
+      "ru": "Обязательных — 0; до **2 необязательных**, настоятельно рекомендуются",
+      "en": "0 required; up to **2 optional**, highly recommended"
+    },
+    "Who": {
+      "ru": "Кто",
+      "en": "Who"
+    },
+    "Academic adviser, homeroom teacher, Math teacher or Science teacher; choose someone who taught/supervised the applicant directly": {
+      "ru": "Академический консультант, классный руководитель, учитель математики или естественных наук; выберите автора, который непосредственно учил / курировал вас",
+      "en": "Academic adviser, homeroom teacher, Math teacher or Science teacher; choose someone who taught/supervised the applicant directly"
+    },
+    "Submission": {
+      "ru": "Отправка",
+      "en": "Submission"
+    },
+    "Recommender submits through the KAIST online process by the later recommendation deadline": {
+      "ru": "Рекомендатель отправляет через онлайн-систему KAIST до отдельного, более позднего дедлайна писем",
+      "en": "Recommender submits through the KAIST online process by the later recommendation deadline"
+    },
+    "Rating areas": {
+      "ru": "Критерии оценки",
+      "en": "Rating areas"
+    },
+    "Academic motivation, inquiry, problem-solving, integrity and future potential": {
+      "ru": "Академическая мотивация, исследовательский интерес, решение задач, честность и будущий потенциал",
+      "en": "Academic motivation, inquiry, problem-solving, integrity and future potential"
+    },
+    "Written fields in official form": {
+      "ru": "Письменные вопросы официальной формы",
+      "en": "Written fields in official form"
+    },
+    "Area for improvement — 500 characters/bytes; strengths — 1,000; disciplinary/context field — 500": {
+      "ru": "Область для улучшения — 500 символов / байт; сильные стороны — 1 000; дисциплинарный / контекстный вопрос — 500",
+      "en": "Area for improvement — 500 characters/bytes; strengths — 1,000; disciplinary/context field — 500"
+    },
+    "Official form": {
+      "ru": "Официальная форма",
+      "en": "Official form"
+    },
+    "[2027 Letter of Recommendation PDF](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)": {
+      "ru": "[Форма рекомендательного письма 2027 (PDF)](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)",
+      "en": "[2027 Letter of Recommendation PDF](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)"
+    },
+    "Essays": {
+      "ru": "Эссе",
+      "en": "Essays"
+    },
+    "Source: [2027 application materials](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf). Limits count spaces/bytes as stated in the form.": {
+      "ru": "Источник: [материалы заявки 2027](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf). Пробелы / байты учитываются так, как указано в форме.",
+      "en": "Source: [2027 application materials](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf). Limits count spaces/bytes as stated in the form."
+    },
+    "There is no separate scholarship essay. Do not turn every answer into an award list; the form asks for reasoning and reflection.": {
+      "ru": "Отдельного эссе на стипендию нет. Не превращайте каждый ответ в список наград: форма просит объяснить ход мысли и осмыслить опыт.",
+      "en": "There is no separate scholarship essay. Do not turn every answer into an award list; the form asks for reasoning and reflection."
+    },
+    "#": {
+      "ru": "#",
+      "en": "#"
+    },
+    "Exact official task, faithfully abbreviated": {
+      "ru": "Опубликованное задание — точный пересказ, не дословный вопрос",
+      "en": "Exact official task, faithfully abbreviated"
+    },
+    "Limit": {
+      "ru": "Ограничение объёма",
+      "en": "Limit"
+    },
+    "Required": {
+      "ru": "Обязательность",
+      "en": "Required"
+    },
+    "What it evaluates / useful profile area": {
+      "ru": "Что оценивается / подходящий опыт",
+      "en": "What it evaluates / useful profile area"
+    },
+    "Pose your own STEM question (not an R&E question), then explain why it matters to you.": {
+      "ru": "Сформулируйте собственный вопрос в области STEM (не вопрос из R&E), затем объясните, почему он важен для вас.",
+      "en": "Pose your own STEM question (not an R&E question), then explain why it matters to you."
+    },
+    "Question 300; explanation 1,600 characters/bytes": {
+      "ru": "Вопрос — 300; объяснение — 1 600 символов / байт",
+      "en": "Question 300; explanation 1,600 characters/bytes"
+    },
+    "Intellectual curiosity and independent technical thinking; a genuine project/research question can fit": {
+      "ru": "Интеллектуальная любознательность и самостоятельное техническое мышление; подходит настоящий вопрос из проекта / исследования",
+      "en": "Intellectual curiosity and independent technical thinking; a genuine project/research question can fit"
+    },
+    "Describe up to three curricular or extracurricular activities and what you learned/felt.": {
+      "ru": "Опишите до трёх учебных или внеучебных занятий и то, чему вы научились / что почувствовали.",
+      "en": "Describe up to three curricular or extracurricular activities and what you learned/felt."
+    },
+    "1,500": {
+      "ru": "1,500",
+      "en": "1,500"
+    },
+    "Depth, reflection, sustained engagement; strongest projects, research, leadership or volunteering": {
+      "ru": "Глубина, осмысление и длительное участие; сильнейшие проекты, исследования, лидерство или волонтёрство",
+      "en": "Depth, reflection, sustained engagement; strongest projects, research, leadership or volunteering"
+    },
+    "Explain something you thought about or tried differently from others and its effect on you or others.": {
+      "ru": "Объясните, о чём вы думали или что пробовали иначе, чем другие, и как это повлияло на вас или окружающих.",
+      "en": "Explain something you thought about or tried differently from others and its effect on you or others."
+    },
+    "Originality, experimentation and impact; technical or community initiative": {
+      "ru": "Оригинальность, экспериментирование и влияние; техническая или общественная инициатива",
+      "en": "Originality, experimentation and impact; technical or community initiative"
+    },
+    "Describe consideration, sharing, cooperation or conflict management and what you learned.": {
+      "ru": "Опишите проявление заботы, готовности делиться, сотрудничества или разрешения конфликтов и чему вы научились.",
+      "en": "Describe consideration, sharing, cooperation or conflict management and what you learned."
+    },
+    "Collaboration and integrity; team project or service leadership": {
+      "ru": "Сотрудничество и честность; командный проект или руководство общественной инициативой",
+      "en": "Collaboration and integrity; team project or service leadership"
+    },
+    "Add family/social background or difficulties relevant to understanding you.": {
+      "ru": "Добавьте семейные / социальные обстоятельства или трудности, важные для понимания вас.",
+      "en": "Add family/social background or difficulties relevant to understanding you."
+    },
+    "1,000": {
+      "ru": "1,000",
+      "en": "1,000"
+    },
+    "Context and resilience; use only truthful, material context": {
+      "ru": "Контекст и устойчивость к трудностям; только правдивые и существенные обстоятельства",
+      "en": "Context and resilience; use only truthful, material context"
+    },
+    "Scholarships and financial aid": {
+      "ru": "Стипендии и финансовая помощь",
+      "en": "Scholarships and financial aid"
+    },
+    "Category": {
+      "ru": "Категория",
+      "en": "Category"
+    },
+    "Award": {
+      "ru": "Стипендия",
+      "en": "Award"
+    },
+    "Separate application?": {
+      "ru": "Отдельная заявка?",
+      "en": "Separate application?"
+    },
+    "Automatic admission scholarship": {
+      "ru": "Автоматическая стипендия при поступлении",
+      "en": "Automatic admission scholarship"
+    },
+    "**KAIST Scholarship**": {
+      "ru": "**KAIST Scholarship**",
+      "en": "**KAIST Scholarship**"
+    },
+    "No; tick the scholarship box in Statement of Financial Resources": {
+      "ru": "Нет; отметить стипендию в Statement of Financial Resources",
+      "en": "No; tick the scholarship box in Statement of Financial Resources"
+    },
+    "Every admitted international applicant selected under this route is entitled to the package. [Official page](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)": {
+      "ru": "Каждый принятый иностранный кандидат этого пути имеет право на пакет поддержки. [Официальная страница](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)",
+      "en": "Every admitted international applicant selected under this route is entitled to the package. [Official page](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)"
+    },
+    "Separate merit scholarship": {
+      "ru": "Отдельная конкурсная стипендия за достижения",
+      "en": "Separate merit scholarship"
+    },
+    "Not published for this route": {
+      "ru": "Для этого пути не опубликована",
+      "en": "Not published for this route"
+    },
+    "TBA / not identified": {
+      "ru": "TBA / не установлено",
+      "en": "TBA / not identified"
+    },
+    "Need-based aid": {
+      "ru": "Помощь с учётом финансовой потребности",
+      "en": "Need-based aid"
+    },
+    "No separate undergraduate international need-based scheme published": {
+      "ru": "Отдельная помощь иностранным бакалаврам с учётом финансовой потребности не опубликована",
+      "en": "No separate undergraduate international need-based scheme published"
+    },
+    "Do not assume CSS-style aid": {
+      "ru": "Не предполагать помощь по модели CSS Profile",
+      "en": "Do not assume CSS-style aid"
+    },
+    "Government scholarship": {
+      "ru": "Государственная стипендия",
+      "en": "Government scholarship"
+    },
+    "Other programmes may exist": {
+      "ru": "Могут существовать другие программы",
+      "en": "Other programmes may exist"
+    },
+    "Separate external rules": {
+      "ru": "Отдельные внешние правила",
+      "en": "Separate external rules"
+    },
+    "Not required for the KAIST automatic package": {
+      "ru": "Не требуется для автоматического пакета KAIST",
+      "en": "Not required for the KAIST automatic package"
+    },
+    "Coverage and renewal": {
+      "ru": "Покрытие расходов и продление",
+      "en": "Coverage and renewal"
+    },
+    "Renewal: maintain a KAIST GPA **over 2.7/4.3 after freshman year**; scholarship duration is eight semesters. Conduct/credit details beyond the stated requirement are not published on the admissions page.": {
+      "ru": "Продление: после первого курса сохранять GPA KAIST **выше 2.7/4.3**; срок стипендии — восемь семестров. Более подробные требования к поведению / кредитам на странице поступления не опубликованы.",
+      "en": "Renewal: maintain a KAIST GPA **over 2.7/4.3 after freshman year**; scholarship duration is eight semesters. Conduct/credit details beyond the stated requirement are not published on the admissions page."
+    },
+    "Cost": {
+      "ru": "Расход",
+      "en": "Cost"
+    },
+    "Covered?": {
+      "ru": "Покрывается?",
+      "en": "Covered?"
+    },
+    "Amount / rule": {
+      "ru": "Сумма / правило",
+      "en": "Amount / rule"
+    },
+    "Tuition": {
+      "ru": "Стоимость обучения",
+      "en": "Tuition"
+    },
+    "Full tuition for 8 semesters": {
+      "ru": "Полное покрытие обучения на 8 семестров",
+      "en": "Full tuition for 8 semesters"
+    },
+    "Mandatory university fees": {
+      "ru": "Обязательные сборы университета",
+      "en": "Mandatory university fees"
+    },
+    "Not expressly itemized": {
+      "ru": "Отдельно не расписано",
+      "en": "Not expressly itemized"
+    },
+    "Do not assume every incidental fee": {
+      "ru": "Не считать покрытыми все дополнительные сборы",
+      "en": "Do not assume every incidental fee"
+    },
+    "Housing": {
+      "ru": "Проживание",
+      "en": "Housing"
+    },
+    "No direct waiver": {
+      "ru": "Прямого освобождения от оплаты нет",
+      "en": "No direct waiver"
+    },
+    "Paid from stipend/personal funds": {
+      "ru": "Оплачивается из выплаты / личных средств",
+      "en": "Paid from stipend/personal funds"
+    },
+    "Meals": {
+      "ru": "Питание",
+      "en": "Meals"
+    },
+    "No direct meal plan": {
+      "ru": "Отдельный план бесплатного питания не предусмотрен",
+      "en": "No direct meal plan"
+    },
+    "Monthly stipend": {
+      "ru": "Ежемесячная выплата",
+      "en": "Monthly stipend"
+    },
+    "KRW 350,000/month": {
+      "ru": "KRW 350 000 в месяц",
+      "en": "KRW 350,000/month"
+    },
+    "Books": {
+      "ru": "Учебники",
+      "en": "Books"
+    },
+    "No dedicated award": {
+      "ru": "Отдельной выплаты нет",
+      "en": "No dedicated award"
+    },
+    "Personal cost": {
+      "ru": "Личные расходы",
+      "en": "Personal cost"
+    },
+    "Health insurance": {
+      "ru": "Медицинская страховка",
+      "en": "Health insurance"
+    },
+    "Medical health insurance / NHI shown in current cost table": {
+      "ru": "Медицинская страховка / NHI указана в текущей таблице расходов",
+      "en": "Medical health insurance / NHI shown in current cost table"
+    },
+    "Visa": {
+      "ru": "Виза",
+      "en": "Visa"
+    },
+    "No": {
+      "ru": "Нет",
+      "en": "No"
+    },
+    "Flights": {
+      "ru": "Авиабилеты",
+      "en": "Flights"
+    },
+    "Not published as covered": {
+      "ru": "Покрытие не опубликовано",
+      "en": "Not published as covered"
+    },
+    "Laptop / transport / summer housing": {
+      "ru": "Ноутбук / транспорт / проживание летом",
+      "en": "Laptop / transport / summer housing"
+    },
+    "Real annual gap and housing": {
+      "ru": "Непокрытые годовые расходы и проживание",
+      "en": "Real annual gap and housing"
+    },
+    "KAIST’s current official cost page estimates annual essential costs at KRW 14,885,680 and scholarship support at KRW 11,738,360, plus KRW 453,000 optional costs, producing an official displayed residual of **KRW 3,359,000/year** (about KRW 279,917/month). This is a planning estimate, subject to inflation and lifestyle; it is not a bill or a guaranteed cap. [Official cost table](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)": {
+      "ru": "Текущая официальная таблица KAIST оценивает необходимые годовые расходы в KRW 14 885 680, поддержку — в KRW 11 738 360, плюс KRW 453 000 необязательных расходов. Показанный университетом остаток — **KRW 3 359 000 в год** (около KRW 279 917 в месяц). Это плановый ориентир с учётом инфляции и образа жизни, не счёт и не гарантированный максимум. [Официальная таблица расходов](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)",
+      "en": "KAIST’s current official cost page estimates annual essential costs at KRW 14,885,680 and scholarship support at KRW 11,738,360, plus KRW 453,000 optional costs, producing an official displayed residual of **KRW 3,359,000/year** (about KRW 279,917/month). This is a planning estimate, subject to inflation and lifestyle; it is not a bill or a guaranteed cap. [Official cost table](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)"
+    },
+    "The cost table uses a shared dorm example of KRW 166,000/month during two four-month semesters. The admissions sources reviewed do not state a four-year housing guarantee or automatic summer housing.": {
+      "ru": "В таблице используется пример общего общежития за KRW 166 000 в месяц на два четырёхмесячных семестра. Проверенные источники не обещают место на все четыре года или автоматическое летнее проживание.",
+      "en": "The cost table uses a shared dorm example of KRW 166,000/month during two four-month semesters. The admissions sources reviewed do not state a four-year housing guarantee or automatic summer housing."
+    },
+    "After admission checklist": {
+      "ru": "Действия после поступления",
+      "en": "After admission checklist"
+    },
+    "1. Accept by the offer-specific deadline.": {
+      "ru": "1. Принять оффер в указанный в нём срок.",
+      "en": "1. Accept by the offer-specific deadline."
+    },
+    "2. Send passport, both parents’ identity/nationality evidence and family-relationship records as instructed.": {
+      "ru": "2. Отправить паспорт, подтверждения личности / гражданства обоих родителей и родства по инструкции.",
+      "en": "2. Send passport, both parents’ identity/nationality evidence and family-relationship records as instructed."
+    },
+    "3. Send final NIS certificate and transcript with apostille/legalization if requested.": {
+      "ru": "3. Отправить итоговый сертификат NIS и транскрипт с апостилем / легализацией, если запрошено.",
+      "en": "3. Send final NIS certificate and transcript with apostille/legalization if requested."
+    },
+    "4. Supply official test verification if only a PDF was initially uploaded.": {
+      "ru": "4. Предоставить официальную проверку результата теста, если первоначально был загружен только PDF.",
+      "en": "4. Supply official test verification if only a PDF was initially uploaded."
+    },
+    "5. Provide financial evidence for the visa. The guide’s illustration is KRW 16 million, reduced by roughly KRW 11.786 million in scholarship evidence, leaving about USD 3,200 equivalent; the offer/visa instruction controls.": {
+      "ru": "5. Предоставить финансовые подтверждения для визы. Пример в руководстве: KRW 16 млн, уменьшенные примерно на KRW 11.786 млн подтверждённой стипендии; остаётся эквивалент около USD 3 200. Приоритет у инструкции оффера / визы.",
+      "en": "5. Provide financial evidence for the visa. The guide’s illustration is KRW 16 million, reduced by roughly KRW 11.786 million in scholarship evidence, leaving about USD 3,200 equivalent; the offer/visa instruction controls."
+    },
+    "6. Apply for visa, housing and insurance registration; complete medical/arrival steps if the offer pack requests them.": {
+      "ru": "6. Оформить визу, проживание и страховку; выполнить медицинские требования / подготовку приезда, если это просит пакет оффера.",
+      "en": "6. Apply for visa, housing and insurance registration; complete medical/arrival steps if the offer pack requests them."
+    },
+    "7. Attend late-August orientation/semester start.": {
+      "ru": "7. Приехать на ориентацию / начало семестра в конце августа.",
+      "en": "7. Attend late-August orientation/semester start."
+    },
+    "Strategic assessment — analysis": {
+      "ru": "Стратегическая оценка — анализ",
+      "en": "Strategic assessment — analysis"
+    },
+    "**Admission difficulty:** Extreme reach.": {
+      "ru": "**Сложность поступления:** очень высокая (Extreme reach).",
+      "en": "**Admission difficulty:** Extreme reach."
+    },
+    "**Full-funding difficulty:** Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it.": {
+      "ru": "**Сложность полного финансирования:** такая же, как при поступлении, поскольку KAIST Scholarship автоматически назначается принятым иностранным студентам, выбравшим её.",
+      "en": "**Full-funding difficulty:** Same as admission, because the KAIST Scholarship is automatic for admitted international students who select it."
+    },
+    "**Fit:** Excellent for an applicant with strong quantitative evidence, authentic technical work and clear research curiosity.": {
+      "ru": "**Соответствие профилю:** отлично подходит при сильных математических результатах, настоящей технической работе и чётком исследовательском интересе.",
+      "en": "**Fit:** Excellent for an applicant with strong quantitative evidence, authentic technical work and clear research curiosity."
+    },
+    "Still TBA / needs confirmation": {
+      "ru": "Пока не опубликовано / требует уточнения",
+      "en": "Still TBA / needs confirmation"
+    },
+    "Exact post-offer final NIS certificate and apostille deadline.": {
+      "ru": "Точный срок итогового сертификата NIS и апостиля после оффера.",
+      "en": "Exact post-offer final NIS certificate and apostille deadline."
+    },
+    "Whether KAIST treats NIS predicted/final results as the required national standardized-test category.": {
+      "ru": "Засчитывает ли KAIST прогнозные / итоговые NIS как обязательный национальный стандартизированный тест.",
+      "en": "Whether KAIST treats NIS predicted/final results as the required national standardized-test category."
+    },
+    "Interview format, subjects, duration and scoring weight for a selected applicant.": {
+      "ru": "Формат, предметы, продолжительность и вес интервью для приглашённого кандидата.",
+      "en": "Interview format, subjects, duration and scoring weight for a selected applicant."
+    },
+    "Housing guarantee and Fall 2027 dorm prices.": {
+      "ru": "Гарантии проживания и тарифы общежития Fall 2027.",
+      "en": "Housing guarantee and Fall 2027 dorm prices."
+    },
+    "Any applicant-specific deposit and visa dates in the eventual offer.": {
+      "ru": "Индивидуальные сроки депозита и визы в будущем оффере.",
+      "en": "Any applicant-specific deposit and visa dates in the eventual offer."
+    },
+    "Email question for admissions": {
+      "ru": "Вопросы для письма в приёмную комиссию",
+      "en": "Email question for admissions"
+    },
+    "I am a Grade 12 student at Nazarbayev Intellectual School in Kazakhstan and will receive the final NIS Grade 12 Certificate in June 2027. May I use official NIS predicted grades or my current transcript to satisfy the standardized-test requirement at application, and submit the final apostilled NIS Certificate after admission? If yes, what is the latest date for the final certificate and apostille? Does an official NIS letter confirming that the entire high-school curriculum is taught in English qualify for the English-test exemption?": {
+      "ru": "Я учусь в Grade 12 Назарбаев Интеллектуальной школы в Казахстане и получу итоговый сертификат NIS Grade 12 в июне 2027. Можно ли при подаче использовать официальные прогнозные оценки NIS или текущий транскрипт для выполнения требования стандартизированного теста, а после поступления предоставить итоговый сертификат NIS с апостилем? Если да, каков крайний срок сертификата и апостиля? Подходит ли официальное письмо NIS о преподавании всей программы старшей школы на английском для освобождения от языкового теста?",
+      "en": "I am a Grade 12 student at Nazarbayev Intellectual School in Kazakhstan and will receive the final NIS Grade 12 Certificate in June 2027. May I use official NIS predicted grades or my current transcript to satisfy the standardized-test requirement at application, and submit the final apostilled NIS Certificate after admission? If yes, what is the latest date for the final certificate and apostille? Does an official NIS letter confirming that the entire high-school curriculum is taught in English qualify for the English-test exemption?"
+    },
+    "Official sources checked": {
+      "ru": "Проверенные официальные источники",
+      "en": "Official sources checked"
+    },
+    "[Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)": {
+      "ru": "[График Fall 2027](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)",
+      "en": "[Fall 2027 timeline](https://admission.kaist.ac.kr/intl-undergraduate/application/ApplicationGuide/ApplicationTimeline)"
+    },
+    "[Fall 2027 admission guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)": {
+      "ru": "[Руководство поступления Fall 2027](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)",
+      "en": "[Fall 2027 admission guide](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)"
+    },
+    "[2027 application materials / essays](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf)": {
+      "ru": "[Материалы заявки / эссе 2027](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf)",
+      "en": "[2027 application materials / essays](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Application_Materials_for_2027_admission.pdf)"
+    },
+    "[2027 recommendation form](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)": {
+      "ru": "[Рекомендательная форма 2027](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)",
+      "en": "[2027 recommendation form](https://admission.kaist.ac.kr/wz/api/common/files/view/intl-undergraduate/pdf/Letter%20of%20Recommendation_2027.pdf)"
+    },
+    "[Programmes and undeclared-major rule](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)": {
+      "ru": "[Программы и правило поступления без выбранной специальности](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)",
+      "en": "[Programmes and undeclared-major rule](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)"
+    },
+    "[KAIST Scholarship](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)": {
+      "ru": "[KAIST Scholarship](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)",
+      "en": "[KAIST Scholarship](https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/)"
+    },
+    "[Cost of attendance](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)": {
+      "ru": "[Расходы на обучение и проживание](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)",
+      "en": "[Cost of attendance](https://admission.kaist.ac.kr/intl-undergraduate/support/coa)"
+    },
+    "Opening": {
+      "ru": "Открытие подачи",
+      "en": "Opening"
+    },
+    "Early application + documents": {
+      "ru": "Заявка Early + документы",
+      "en": "Early application + documents"
+    },
+    "Application": {
+      "ru": "Подача заявки",
+      "en": "Application"
+    },
+    "Early optional recommendations": {
+      "ru": "Необязательные рекомендательные письма Early",
+      "en": "Early optional recommendations"
+    },
+    "Recommendation": {
+      "ru": "Рекомендательное письмо",
+      "en": "Recommendation"
+    },
+    "Possible Early interview": {
+      "ru": "Возможное интервью Early",
+      "en": "Possible Early interview"
+    },
+    "Interview": {
+      "ru": "Интервью",
+      "en": "Interview"
+    },
+    "Decision": {
+      "ru": "Решение",
+      "en": "Decision"
+    },
+    "Regular application + documents": {
+      "ru": "Заявка Regular + документы",
+      "en": "Regular application + documents"
+    },
+    "Regular optional recommendations": {
+      "ru": "Необязательные рекомендательные письма Regular",
+      "en": "Regular optional recommendations"
+    },
+    "Possible Regular interview": {
+      "ru": "Возможное интервью Regular",
+      "en": "Possible Regular interview"
+    },
+    "Offer confirmation — within two weeks after verification": {
+      "ru": "Подтверждение оффера — в течение двух недель после проверки",
+      "en": "Offer confirmation — within two weeks after verification"
+    },
+    "Registration": {
+      "ru": "Зачисление",
+      "en": "Registration"
+    },
+    "Final verified documents — decision-specific": {
+      "ru": "Итоговые проверенные документы — срок зависит от решения",
+      "en": "Final verified documents — decision-specific"
+    },
+    "Final documents": {
+      "ru": "Финальные документы",
+      "en": "Final documents"
+    },
+    "Semester begins — late August 2027": {
+      "ru": "Начало семестра — конец августа 2027",
+      "en": "Semester begins — late August 2027"
+    },
+    "Semester": {
+      "ru": "Начало обучения",
+      "en": "Semester"
+    },
+    "Fall 2027 timeline": {
+      "ru": "График Fall 2027",
+      "en": "Fall 2027 timeline"
+    },
+    "Programmes and undeclared-major rule": {
+      "ru": "Программы и правило поступления без выбранной специальности",
+      "en": "Programmes and undeclared-major rule"
+    },
+    "Fall 2027 admission guide": {
+      "ru": "Руководство поступления Fall 2027",
+      "en": "Fall 2027 admission guide"
+    },
+    "2027 recommendation form": {
+      "ru": "Рекомендательная форма 2027",
+      "en": "2027 recommendation form"
+    },
+    "2027 application materials / essays": {
+      "ru": "Материалы заявки / эссе 2027",
+      "en": "2027 application materials / essays"
+    },
+    "KAIST Scholarship": {
+      "ru": "KAIST Scholarship",
+      "en": "KAIST Scholarship"
+    },
+    "Cost of attendance": {
+      "ru": "Расходы на обучение и проживание",
+      "en": "Cost of attendance"
+    }
+  }
+}

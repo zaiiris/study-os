@@ -1,0 +1,75 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+/dist/
+/build/
+/.wrangler/
+# Checkout-local execution profile and tool state; never publish them.
+/.sites-runtime/
+/.agents/
+/.codex/
+/outputs/
+/work/
+
+# Local databases, caches, generated test evidence and personal backups
+*.tsbuildinfo
+*.log
+*.tmp
+*.lnk
+/.cache/
+/.npm-cache/
+/verification/
+/playwright-report/
+/test-results/
+/backups/
+*study-os*backup*.json
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+!.env.example
+
+# Supplied applicant-specific source audits are local-only by default.
+# The structured official university records remain tracked; personal progress
+# lives only in the browser's IndexedDB, never in those JSON files.
+/public/data/*audit*.md
+/public/data/official-*.md
+/public/data/batch-*.md
+/public/data/OFFICIAL*.md
+/public/data/*admissions*.md
